@@ -1,29 +1,28 @@
-0,1,2,3,4
-Start,Finish,Name of conflict,Belligerents,
+Start,Finish,Name of conflict,Belligerents,,Part of
 ,,,"Victorious party (if
-applicable)",Defeated party (if applicable)
+applicable)",Defeated party (if applicable),
 1800,1865,Temne War[1],"British Empire
-Susu Tribes",Kingdom of Koya
+Susu Tribes",Kingdom of Koya,
 1801,1805,Tripolitan War,"United States
 Sweden (until 1802)
 Sicily","Tripolitania
-Morocco (1802)"
+Morocco (1802)",
 1801,1801,"War of the Oranges
-Part of the War of the
-Second Coalition","France
-Spain",Portugal
+","France
+Spain",Portugal,"War of the
+Second Coalition"
 1802,1804,"Fourth quarter of the
-Haitian Revolution",Haiti,France
-1802,1802,Sack of Karbala,Diriyah,Ottoman Empire
-1802,1802,Stecklikrieg,Helvetic Republic,Federalist rebels
-1802,1810,Tedbury's War,British Empire,Australian Aborigines
-1803,1803,Souliote War,Ottoman Empire,Souliotes
-1803,1803,Irish Rebellion of 1803,British Empire,Society of United Irishmen
+Haitian Revolution",Haiti,France,
+1802,1802,Sack of Karbala,Diriyah,Ottoman Empire,
+1802,1802,Stecklikrieg,Helvetic Republic,Federalist rebels,
+1802,1810,Tedbury's War,British Empire,Australian Aborigines,
+1803,1803,Souliote War,Ottoman Empire,Souliotes,
+1803,1803,Irish Rebellion of 1803,British Empire,Society of United Irishmen,
 1803,1805,"Second Anglo-Maratha
-War",British East India Company,Maratha Empire
+War",British East India Company,Maratha Empire,
 1803,1805,"Burmese–Siamese
-War (1803–05)",Konbaung dynasty,Siam
-1803,1805,First Kandyan War,British Empire,Kingdom of Kandy
+War (1803–05)",Konbaung dynasty,Siam,
+1803,1805,First Kandyan War,British Empire,Kingdom of Kandy,
 1803,1815,Napoleonic Wars,"Coalition forces:
 Austria[α][a][b]
 Prussia[β]
@@ -59,7 +58,7 @@ Naples[p]
 Polish Legions[m]
 Switzerland
 Austria[a][q][ο]
-Denmark–Norway[r][π]"
+Denmark–Norway[r][π]",
 ,,,"Sardinia[κ]
 Saxony[δ]
 Sicily[λ][h]
@@ -72,11 +71,10 @@ Persia[σ][g]
 Prussia[θ][q]
 Russia[θ][c]
 Spain[τ][i]
-Sweden[υ][j]"
+Sweden[υ][j]",
 1803,1806,"War of the Third
 Coalition
-Part of the Napoleonic
-Wars","French Empire and allies:
+","French Empire and allies:
 France
 Batavian Republic
 Italy
@@ -87,53 +85,53 @@ Württemberg","Austrian Empire
 Russian Empire
 United Kingdom
 Naples and Sicily
-Sweden"
+Sweden","Napoleonic
+Wars"
 1803,1837,Padri War,"Adats
-Netherlands",Padris
-1804,1804,1804 Mtiuleti rebellion,Russian Empire,Georgian and Ossetian rebels
-1804,1804,Battle of Suriname,United Kingdom,Batavian Republic
+Netherlands",Padris,
+1804,1804,1804 Mtiuleti rebellion,Russian Empire,Georgian and Ossetian rebels,
+1804,1804,Battle of Suriname,United Kingdom,Batavian Republic,
 1804,1804,"Battle of Sitka
-Part of the Russian
+",Russian Empire,"Tlingit
+Kiks.ádi clan","Russian
 colonization of the
-Americas",Russian Empire,"Tlingit
-Kiks.ádi clan"
+Americas"
 1804,1813,"First Serbian Uprising
-Part of the Serbian
-Revolution","Ottoman Empire
+","Ottoman Empire
 France","Revolutionary Serbia
 Volunteers from
 Habsburg monarchy
-Russian Empire"
+Russian Empire","Serbian
+Revolution"
 1804,1804,"Uprising against the
 Dahije
-Part of the First
-Serbian Uprising",Karađorđe,Dahije
+",Karađorđe,Dahije,"First
+Serbian Uprising"
 1804,1804,"Castle Hill convict
-rebellion",New South Wales,Convicts
-1804,1808,Fulani War,Sokoto Caliphate,Hausa Kingdoms
+rebellion",New South Wales,Convicts,
+1804,1808,Fulani War,Sokoto Caliphate,Hausa Kingdoms,
 1804,1813,"Russo-Persian War
 (1804–1813)
-Part of the Napoleonic
-Wars",Russian Empire,Qajar dynasty
+",Russian Empire,Qajar dynasty,"Napoleonic
+Wars"
 1805,1811,"Egyptian Revolution
-Part of the Napoleonic
-Wars","Albanian forces of
+","Albanian forces of
 Muhammad Ali","Ottoman Empire
-Mamluk Forces"
-1805,1805,Janissaries' Revolt,Ottoman Empire,Janissaries
-,,,,
+Mamluk Forces","Napoleonic
+Wars"
+1805,1805,Janissaries' Revolt,Ottoman Empire,Janissaries,
+,,,,,
 1805,1810,"Franco-Swedish War
-Part of the Napoleonic
-Wars",France,Sweden
+",France,Sweden,"Napoleonic
+Wars"
 1805,1805,"Haitian invasion of
 Santo Domingo","France
 Spain
 Captaincy General
-of Santo Domingo",First Empire of Haiti
+of Santo Domingo",First Empire of Haiti,
 1806,1807,"War of the Fourth
 Coalition
-Part of the Napoleonic
-Wars","French Empire and allies:
+","French Empire and allies:
 France
 Confederation of the
 Rhine
@@ -152,78 +150,78 @@ Russia
 United Kingdom
 Saxony (1806 only)
 Sweden
-Sicily"
+Sicily","Napoleonic
+Wars"
 1806,1812,"Russo-Turkish War
 (1806–1812)
-Part of the Napoleonic
-Wars",Russian Empire,Ottoman Empire
+",Russian Empire,Ottoman Empire,"Napoleonic
+Wars"
 1806,1807,"British invasions of the
 Río de la Plata","Spain
 Río de la Plata
-Viceroyalty",United Kingdom
+Viceroyalty",United Kingdom,
 1806,1807,Ashanti–Fante War,"Ashanti Empire
 Holland","Fante Confederacy
-United Kingdom"
+United Kingdom",
 1806,1811,"War of Christophe's
-Secession",Forces of Henri Christophe,Forces of Alexandre Pétion
-1806,1806,Vellore Mutiny,British East India Company,Vellore Sepoys
+Secession",Forces of Henri Christophe,Forces of Alexandre Pétion,
+1806,1806,Vellore Mutiny,British East India Company,Vellore Sepoys,
 1807,1809,"Anglo-Turkish War
 (1807–1809)
-Part of the Napoleonic
-Wars",Ottoman Empire,United Kingdom
+",Ottoman Empire,United Kingdom,"Napoleonic
+Wars"
 1807,1807,"Alexandria expedition
-of 1807",Egypt,British Empire
-1807,1807,Tican's rebellion,Austrian Empire,Serbian Rebels
-1807,1807,Froberg mutiny,British Empire,Navy Mutineers
-,,,,
+of 1807",Egypt,British Empire,
+1807,1807,Tican's rebellion,Austrian Empire,Serbian Rebels,
+1807,1807,Froberg mutiny,British Empire,Navy Mutineers,
+,,,,,
 1807,1807,"Brazilian slave revolt of
-1807",Colonial Brazil,Rebels
-1807,1808,Janissaries' Revolt,Ottoman Empire,Janissaries
+1807",Colonial Brazil,Rebels,
+1807,1808,Janissaries' Revolt,Ottoman Empire,Janissaries,
 1807,1814,"Gunboat War
-Part of the Napoleonic
-Wars",United Kingdom,Denmark–Norway
+",United Kingdom,Denmark–Norway,"Napoleonic
+Wars"
 1807,1812,"Anglo-Russian War
 (1807–1812)
-Part of the Napoleonic
-Wars",United Kingdom,Russian Empire
-1807,1807,Basi Revolt,Spain,Rebels
+",United Kingdom,Russian Empire,"Napoleonic
+Wars"
+1807,1807,Basi Revolt,Spain,Rebels,
 1807,1814,"Peninsular War
-Part of the Napoleonic
-Wars","Portugal
+","Portugal
 United Kingdom
-Spain",France
+Spain",France,"Napoleonic
+Wars"
 1807,1818,"Mtetwa Empire
-Expansion",Mthethwa Paramountcy,Other Tribes
+Expansion",Mthethwa Paramountcy,Other Tribes,
 1807,1842,"New Zealand Musket
-Wars",Māori,Māori
+Wars",Māori,Māori,
 1807,1808,"Ottoman coups of
 1807–08",Pro-reform factions,"Anti-reform factions
-Janissaries"
-1808,1810,Rum Rebellion,United Kingdom,New South Wales Corps
-1808,1809,Finnish War,Russian Empire,Sweden
+Janissaries",
+1808,1810,Rum Rebellion,United Kingdom,New South Wales Corps,
+1808,1809,Finnish War,Russian Empire,Sweden,
 1808,1809,"Spanish reconquest of
 Santo Domingo
-Part of the Napoleonic
-Wars","Spain
+","Spain
 Santo Domingo
-British Empire",France
+British Empire",France,"Napoleonic
+Wars"
 1808,1809,"Dano-Swedish War of
 1808–1809
-Part of the Napoleonic
-Wars","Denmark–Norway
+","Denmark–Norway
 France","Sweden
-United Kingdom"
+United Kingdom","Napoleonic
+Wars"
 1808,1809,Travancore Rebellion,British Empire,"Travancore
-Kingdom of Cochin"
-1809,1809,Gurkha-Sikh War,Sikh Empire,Nepal
+Kingdom of Cochin",
+1809,1809,Gurkha-Sikh War,Sikh Empire,Nepal,
 1809,1809,"Persian Gulf campaign
 of 1809","United Kingdom
-East India Company",Al Qasimi
-1809,1809,Coup of 1809,Men of 1809,Sweden
+East India Company",Al Qasimi,
+1809,1809,Coup of 1809,Men of 1809,Sweden,
 1809,1809,"War of the Fifth
 Coalition
-Part of the Napoleonic
-Wars","France
+","France
 Duchy of Warsaw
 Confederation of the
 Rhine
@@ -239,128 +237,128 @@ Hungary
 United Kingdom
 Black Brunswickers
 Sardinia
-Sicily"
-,,,Holland,
+Sicily","Napoleonic
+Wars"
+,,,Holland,,
 1809,1809,"1809 Gottscheer
-Rebellion",France,Gottschee peasants
+Rebellion",France,Gottschee peasants,
 1809,1809,"Tyrol Rebellion
-Part of the Napoleonic
-Wars","Kingdom of Bavaria
+","Kingdom of Bavaria
 First French Empire
 Kingdom of Italy","Austrian Empire
-Tyrolean Rebels"
+Tyrolean Rebels","Napoleonic
+Wars"
 1809,1812,"Quito Revolution
 (1809-1812)
-Part of the Spanish
+",Spain,Rebels,"Spanish
 American wars of
-independence",Spain,Rebels
+independence"
 1809,1812,"Burmese–Siamese
-War (1809–1812)",Siam,Burmese Empire
+War (1809–1812)",Siam,Burmese Empire,
 1809,1825,"Bolivian War of
 Independence
-Part of the Spanish
+",Bolivia,Spain,"Spanish
 American wars of
-independence",Bolivia,Spain
-Start,Finish,Name of conflict,Belligerents,
-,,,Victorious party (if applicable),Defeated party (if applicable)
+independence"
+Start,Finish,Name of conflict,Belligerents,,
+,,,Victorious party (if applicable),Defeated party (if applicable),
 1810,1818,"Argentine War of
 Independence
-Part of the Spanish
-American wars of
-independence","United Provinces of the Río
+","United Provinces of the Río
 de la Plata
-Chile",Spain
+Chile",Spain,"Spanish
+American wars of
+independence"
 1810,1825,"Colombian War of
 Independence
-Part of the Spanish
+",Gran Colombia,Spain,"Spanish
 American wars of
-independence",Gran Colombia,Spain
+independence"
 1810,1811,"Tecumseh's War
-Part of the War of
-1812","United States
-Chief Black Hoof",Tecumseh's Confederacy
+","United States
+Chief Black Hoof",Tecumseh's Confederacy,"War of
+1812"
 1810,1810,"US occupation of West
-Florida",United States,Spain
+Florida",United States,Spain,
 1810,1820,Punjab War,Sikh Empire,"British East India
 Company
-British Empire"
+British Empire",
 1810,1826,"Chilean War of
 Independence
-Part of the Spanish
-American wars of
-independence","Chile
+","Chile
 United Provinces of the
 Río de la Plata","Spain
-Mapuche allies"
-1810,1810,Conquest of Hawaii,Kingdom of Hawaii,Other Hawaiian Tribes
-1810,1818,Amadu's Jihad,Forces of Seku Amadu,Bamana Empire
+Mapuche allies","Spanish
+American wars of
+independence"
+1810,1810,Conquest of Hawaii,Kingdom of Hawaii,Other Hawaiian Tribes,
+1810,1818,Amadu's Jihad,Forces of Seku Amadu,Bamana Empire,
 1810,1821,"Mexican War of
 Independence
-Part of the Spanish
+",Mexican Army,Spain,"Spanish
 American wars of
-independence",Mexican Army,Spain
+independence"
 1811,1812,"Cambodian rebellion
 (1811–12)","Cambodian pro-Siamese
 faction
 Rattanakosin Kingdom
 (Siam)","Cambodian pro-
 Vietnamese faction
-Nguyễn dynasty (Vietnam)"
+Nguyễn dynasty (Vietnam)",
 1811,1811,Battle of Khakeekera,"Bahrain
-Kuwait",Diriyah
+Kuwait",Diriyah,
 1811,1811,"1811 German Coast
-uprising",United States,Rebel Slaves
+uprising",United States,Rebel Slaves,
 1811,1811,"Invasion of Java
-(1811)",British East India Company,France
-1811,1811,Tonquin incident,United States,Tla-o-qui-aht
-1811,1812,Fourth Xhosa War,Cape Colony,Xhosa Tribes
-,,,,
+(1811)",British East India Company,France,
+1811,1811,Tonquin incident,United States,Tla-o-qui-aht,
+1811,1812,Fourth Xhosa War,Cape Colony,Xhosa Tribes,
+,,,,,
 1811,1811,Ga–Fante War,"Fante Confederacy
 Akwapim Tribes
 Akim Tribes","Ashanti Empire
 Ga Tribes
 British Empire
-Dutch Empire"
-1811,1815,Arakanese Uprising[5],Burmese Empire,Rohingya Insurgents
+Dutch Empire",
+1811,1815,Arakanese Uprising[5],Burmese Empire,Rohingya Insurgents,
 1811,1811,"Battle of Las Piedras
-Part of the Spanish
+","Forces of José Gervasio
+Artigas",Spain,"Spanish
 American wars of
-independence","Forces of José Gervasio
-Artigas",Spain
+independence"
 1811,1812,Cambodian Rebellion,"Viet Nam
 Kingdom of Cambodia","Forces of Khmer
 Pretender Ang Snguon
-Siam"
-1811,1811,Paraguayan Revolt,Paraguay,Viceroyalty of Peru
-1811,1818,Wahhabi War,Ottoman Empire,First Saudi State
+Siam",
+1811,1811,Paraguayan Revolt,Paraguay,Viceroyalty of Peru,
+1811,1818,Wahhabi War,Ottoman Empire,First Saudi State,
 1811,1823,"Venezuelan War of
 Independence
-Part of the Spanish
-American wars of
-independence","Venezuela
+","Venezuela
 Gran Colombia
 British Empire
-New Granada",Spain
+New Granada",Spain,"Spanish
+American wars of
+independence"
 1811,1826,"Peruvian War of
 Independence
-Part of the Spanish
-American wars of
-independence","Peru
+","Peru
 United Provinces of the Río
 de la Plata
 Gran Colombia
 Chile
-British Empire",Spain
+British Empire",Spain,"Spanish
+American wars of
+independence"
 1812,1812,Battle of Shela,Lamu,"Mombasa
-Pate"
+Pate",
 1812,1812,"Hong Gyeong-Rae's
 Rebellion",Joseon dynasty,"Forces loyal to Hong Gyeong-
-nae"
-1812,1812,Aponte conspiracy,Spain,Slaves
+nae",
+1812,1812,Aponte conspiracy,Spain,Slaves,
 1812,1812,"French invasion of
 Russia
-Part of the Napoleonic
-Wars",Russian Empire,"France
+",Russian Empire,"France
 Duchy of Warsaw
 Italy
 Naples
@@ -371,14 +369,14 @@ Berg
 Saxony
 Westphalia
 Spain
-Swiss Confederation"
+Swiss Confederation","Napoleonic
+Wars"
 ,,,,"Allies:
 Austria
-Prussia"
+Prussia",
 1812,1814,"War of the Sixth
 Coalition
-Part of the Napoleonic
-Wars","Original Coalition:
+","Original Coalition:
 Russian Empire
 Kingdom of Prussia
 Austrian Empire
@@ -402,53 +400,54 @@ Denmark–Norway
 Swiss Confederation
 Confederation of the Rhine
 (Many member states defected after
-Battle of Leipzig)"
+Battle of Leipzig)","Napoleonic
+Wars"
 1812,1815,War of 1812,"British Empire
 United States
 United States","British Empire
 United States
-United States"
+United States",
 1812,1821,Pemmican War,"North West Company
 Métis","Hudson's Bay Company
-Selkirk's settlers"
+Selkirk's settlers",
 1813,1813,"Eight Trigrams uprising
-of 1813",Qing dynasty,Eight Trigram Sect
+of 1813",Qing dynasty,Eight Trigram Sect,
 1813,1837,Afghan-Sikh Wars,Sikh Empire,"Durrani Empire
-Emirate of Afghanistan"
+Emirate of Afghanistan",
 1813,1814,Creek War,"United States
 Lower Creeks
 Cherokees
-Choctaws","""Red Sticks"" (Creek Indians)"
+Choctaws","""Red Sticks"" (Creek Indians)",
 1813,1813,Peoria War,United States,"Kickapoo Nation
-Potawatomi Nation"
+Potawatomi Nation",
 1814,1814,"Brazilian slave revolt of
-1814",Colonial Brazil,Rebels
+1814",Colonial Brazil,Rebels,
 1814,1814,"Swedish–Norwegian
 War
-Part of the Napoleonic
-Wars",Sweden,Norway
+",Sweden,Norway,"Napoleonic
+Wars"
 1814,1816,Anglo-Nepalese War,"British East India Company
-Forces of the Chogyal",Nepal
+Forces of the Chogyal",Nepal,
 1814,1816,"Ashanti–Akim–
 Akwapim War",Ashanti Empire,"Akwapim Tribes
-Akim Tribes"
-,,,,
+Akim Tribes",
+,,,,,
 1814,1814,"Hadži Prodan's Revolt
-Part of the Serbian
-Revolution",Ottoman Empire,"Forces of Hadži Prodan
-Gligorijevic"
+",Ottoman Empire,"Forces of Hadži Prodan
+Gligorijevic","Serbian
+Revolution"
 1814,1880,Argentine Civil Wars,"Federalists
 Blancos","Unitarios
-Colorados"
+Colorados",
 1815,1815,"Slachter's Nek
-Rebellion",United Kingdom,Boer Rebels
+Rebellion",United Kingdom,Boer Rebels,
 1815,1815,Second Barbary War,"United States
 United Kingdom of the
 Netherlands
 United Kingdom (from
 1815)","Barbary States
-Ottoman Empire"
-1815,1815,Second Kandyan War,British Empire,Kingdom of Kandy
+Ottoman Empire",
+1815,1815,Second Kandyan War,British Empire,Kingdom of Kandy,
 1815,1815,"Hundred Days
 War of the Seventh
 Coalition","United Kingdom
@@ -468,111 +467,111 @@ Sicilies
 Grand Duchy of
 Tuscany","First French Empire
 Napoleonic Kingdom
-of Naples"
+of Naples",
 1815,1815,"Neapolitan War
-Part of the Hundred
-Days","Austrian Empire
+","Austrian Empire
 Kingdom of the Two
 Sicilies
 Grand Duchy of
 Tuscany
 United Kingdom","Napoleonic Kingdom of
-Naples"
-1815,1815,Temne-Susu War[6],Kingdom of Koya,Susu Tribes
+Naples","Hundred
+Days"
+1815,1815,Temne-Susu War[6],Kingdom of Koya,Susu Tribes,
 1815,1816,"Spanish reconquest of
 New Granada
-Part of the Spanish
+",Spanish Empire,"United Provinces of New
+Granada","Spanish
 American wars of
-independence",Spanish Empire,"United Provinces of New
-Granada"
+independence"
 1815,1817,"Second Serbian
 Uprising
-Part of the Serbian
-Revolution",Principality of Serbia,Ottoman Empire
-,,,,
-1816,1816,Bussa's Rebellion,British Empire,Barbadian slaves
+",Principality of Serbia,Ottoman Empire,"Serbian
+Revolution"
+,,,,,
+1816,1816,Bussa's Rebellion,British Empire,Barbadian slaves,
 1816,1816,"Bombardment of
 Algiers",British Empire,"Ottoman Empire
-Algiers"
+Algiers",
 1816,1820,"Luso-Brazilian
 conquest of the Banda
 Oriental","United Kingdom of Portugal,
-Brazil and the Algarves",Federal League
+Brazil and the Algarves",Federal League,
 1816,1857,Afaqi Khoja revolts,Qing dynasty,"Aq Taghlik Khojas
 Supported by: Kokand
-Khanate"
+Khanate",
 1817,1817,Pernambucan Revolt,"United Kingdom of Portugal,
-Brazil and the Algarves",Pernambuco rebels
-1817,1817,Pentrich rising,British Empire,Tax resisters
+Brazil and the Algarves",Pernambuco rebels,
+1817,1817,Pentrich rising,British Empire,Tax resisters,
 1817,1818,"Third Anglo-Maratha
-War",British East India Company,Maratha Confederacy
+War",British East India Company,Maratha Confederacy,
 1817,1818,"First Seminole War
-Part of the Seminole
-Wars",United States,Seminole Tribes
-1817,1818,Uva Rebellion,British Empire,Kingdom of Kandy
-1817,1819,Ndwandwe–Zulu War,Forces of Shaka Zulu,Forces of King Zwide
+",United States,Seminole Tribes,"Seminole
+Wars"
+1817,1818,Uva Rebellion,British Empire,Kingdom of Kandy,
+1817,1819,Ndwandwe–Zulu War,Forces of Shaka Zulu,Forces of King Zwide,
 1817,1826,"Burmese invasions of
 Assam",Burmese Empire,"Kingdom of Ahom
-Kingdom of Manipur"
+Kingdom of Manipur",
 1817,1864,Caucasian War,Russian Empire,"Avar Khanate
 Circassia
 Kingdom of Kartli-
 Kakheti
 Caucasian Imamate
 Other Tribes of the North
-Caucasus"
-1818,1818,Akure–Benin War,Benin Kingdom,Akure Kingdom
+Caucasus",
+1818,1818,Akure–Benin War,Benin Kingdom,Akure Kingdom,
 1818,1819,Fifth Xhosa War,"British Empire
 Khoikhoi Forces","Forces of Xhosa Chief Maqana
-Nxele"
+Nxele",
 1818,1828,Zulu wars of conquest,Zulu Kingdom,"Other remnants of the Mtetwa
-Paramountcy"
+Paramountcy",
 1819,1820,"Bolívar's campaign to
 liberate New Granada
-Part of the Venezuelan
-War of Independence","United Provinces of New
-Granada",Spain
-1819,1819,Chuguev uprising,Russian Empire,Chuguev Regiment
-Start,Finish,Name of conflict,Belligerents,
+","United Provinces of New
+Granada",Spain,"Venezuelan
+War of Independence"
+1819,1819,Chuguev uprising,Russian Empire,Chuguev Regiment,
+Start,Finish,Name of conflict,Belligerents,,
 ,,,"Victorious party (if
-applicable)",Defeated party (if applicable)
-1820,1820,Revolution of 1820,Kingdom of the Two Sicilies,Carbonari
+applicable)",Defeated party (if applicable),
+1820,1820,Revolution of 1820,Kingdom of the Two Sicilies,Carbonari,
 1820,1820,"Cambodian rebellion
 (1820)","Cambodian pro-Siamese
 faction
 Rattanakosin Kingdom
-(Siam)",Khmer anti-Vietnamese rebels
+(Siam)",Khmer anti-Vietnamese rebels,
 1820,1824,"Turco-Egyptian
 conquest of Sudan
 (1820-1824)",Egypt Eyalet,"Funj Sultanate
 Sultanate of Darfur Shaigiya
-tribe"
-1820,1821,Farhi family revolt,Ottoman Empire,Farhi family and its Rebels
+tribe",
+1820,1821,Farhi family revolt,Ottoman Empire,Farhi family and its Rebels,
 1820,1821,Bani Bu Ali expedition,"Omani Empire
-East India Company",Bani Bu Ali tribe
-1820,1822,Ali Pasha's Revolt,Ottoman Empire,Ali Pasha of Yanina
+East India Company",Bani Bu Ali tribe,
+1820,1822,Ali Pasha's Revolt,Ottoman Empire,Ali Pasha of Yanina,
 1820,1822,"Ecuadorian War of
 Independence
-Part of the Spanish
+","Free Province of
+Guayaquil",Kingdom of Spain,"Spanish
 American wars of
-independence","Free Province of
-Guayaquil",Kingdom of Spain
+independence"
 1820,1823,Trienio Liberal,"Kingdom of Spain
-Kingdom of France",Partisans of the Cortes
+Kingdom of France",Partisans of the Cortes,
 1820,1875,Texas–Indian wars,"Spain
 Mexico
 Republic of Texas
-United States",Comanche
+United States",Comanche,
 1821,1821,"Siamese invasion of
-Kedah",Rattanakosin Kingdom,Kedah Sultanate
+Kedah",Rattanakosin Kingdom,Kedah Sultanate,
 1821,1825,"Ijebu and Ife war
 against Owu","Ijebu
-Ife",Owu Kingdom
+Ife",Owu Kingdom,
 1821,1821,"Wallachian uprising
-(1821)",Ottoman Empire,Principality of Wallachia
-1821,1821,Niš Rebellion (1821),Ottoman Empire,Niš Secret Organization
+(1821)",Ottoman Empire,Principality of Wallachia,
+1821,1821,Niš Rebellion (1821),Ottoman Empire,Niš Secret Organization,
 1821,1823,"Ottoman–Persian War
-(1821–23)",Qajar Persia,Ottoman Empire
+(1821–23)",Qajar Persia,Ottoman Empire,
 1821,1829,"Greek War of
 Independence","Greek revolutionaries
 Britain
@@ -580,169 +579,169 @@ United States of the
 Ionian Islands","Ottoman Empire
 Egypt Eyalet
 Beylik of Tunis (naval
-battles)"
+battles)",
 ,,,"Kingdom of France
 (1827 only)
 Russian Empire
-(1827 only)",
+(1827 only)",,
 1821,1837,Padri War,Dutch Empire,"Indigenous population of West
-Sumatra"
+Sumatra",
 1821,1829,"Spanish attempts to
-reconquer Mexico",Mexico,Spanish Empire
+reconquer Mexico",Mexico,Spanish Empire,
 1821,1870,"Comanche–Mexico
 Wars","Comanche
-Kiowa",Mexico
-1821,1821,1821 Alghero revolt[7],Kingdom of Sardinia,Rebels of Alghero
+Kiowa",Mexico,
+1821,1821,1821 Alghero revolt[7],Kingdom of Sardinia,Rebels of Alghero,
 1822,1823,"Mexican annexation of
 El Salvador","First Mexican Empire
-Guatemala",El Salvador
+Guatemala",El Salvador,
 1822,1823,"Casa Mata Plan
-Revolution",Mexican Republicans,First Mexican Empire
+Revolution",Mexican Republicans,First Mexican Empire,
 1822,1825,"Brazilian War of
-Independence",Empire of Brazil,Kingdom of Portugal
+Independence",Empire of Brazil,Kingdom of Portugal,
 1822,1844,"Haitian occupation of
-Santo Domingo",Republic of Spanish Haiti,Haiti
+Santo Domingo",Republic of Spanish Haiti,Haiti,
 1823,1823,"Hundred Thousand
 Sons of Saint Louis","France
-Armée de la Foi",Partisans of the Cortes
+Armée de la Foi",Partisans of the Cortes,
 1823,1823,"Ochomogo War
-Part of the Mexican
+",Republicans,Imperialists,"Mexican
 annexation of Central
-America",Republicans,Imperialists
+America"
 1823,1823,"Demerara rebellion of
-1823",British Empire,Demerara slaves
+1823",British Empire,Demerara slaves,
 1823,1823,"Expedition to the West
 Coast of Borneo","Royal Netherlands East
-Company",Chinese Indonesian rebels
+Company",Chinese Indonesian rebels,
 1823,1823,Revolt of Querétaro,"Provisional Government of
-Mexico",Mexican Empire
+Mexico",Mexican Empire,
 1823,1831,"First Anglo-Ashanti
-War",Ashanti Empire,British Empire
+War",Ashanti Empire,British Empire,
 1823,1824,First Greek civil war,"Primates and supporters
 of the Government","Military leaders and supporters of
-Philiki Etaireia"
+Philiki Etaireia",
 1824,1824,"Chumash revolt of
-1824",,
-1824,1824,Bathurst War,British Empire,Wiradjuri
+1824",,,
+1824,1824,Bathurst War,British Empire,Wiradjuri,
 1824,1824,"Confederation of the
-Equator Revolt",Empire of Brazil,Confederation of the Equator
-1824,1824,First Bone War,Dutch Empire,Sulawesi Rebels
-1824,1824,April Revolt,Absolutists,Liberals
+Equator Revolt",Empire of Brazil,Confederation of the Equator,
+1824,1824,First Bone War,Dutch Empire,Sulawesi Rebels,
+1824,1824,April Revolt,Absolutists,Liberals,
 1824,1825,"Second Greek civil
 war","Roumeliotes and Islanders
-(Hydra)",Moreotes
+(Hydra)",Moreotes,
 1824,1826,"First Anglo-Burmese
 War","Britain
-British East India",Burmese Empire
+British East India",Burmese Empire,
 ,,,"Company
-Native Tribes",
-1825,1825,Second Bone War,Dutch Empire,Sulawesi Rebels
-1825,1825,Battle of Tripoli (1825),Kingdom of Sardinia,Tripolitania
+Native Tribes",,
+1825,1825,Second Bone War,Dutch Empire,Sulawesi Rebels,
+1825,1825,Battle of Tripoli (1825),Kingdom of Sardinia,Tripolitania,
 1825,1828,"Aegean Sea Anti-
 Piracy Operations of
-the United States",United States,Greek Pirates
-1825,1825,Decembrist revolt,Russian Empire,Decembrists
+the United States",United States,Greek Pirates,
+1825,1825,Decembrist revolt,Russian Empire,Decembrists,
 1825,1828,Cisplatine War,Empire of Brazil,"United Provinces of the Río
-de la PlataThirty-Three Orientals"
+de la PlataThirty-Three Orientals",
 1825,1830,Java War,"Dutch Empire
 Pro-Netherlands Javanese","Rebellion forces of Prince
-Diponegoro"
+Diponegoro",
 1825,1825,"Franco-Trarzan War
 of 1825","France
-Comte de Villèle",Forces of Muhammad al Habib
+Comte de Villèle",Forces of Muhammad al Habib,
 1826,1826,Katamanso War,"Dutch Empire
 British Empire
 Netherlands
-Denmark",Ashanti Empire
+Denmark",Ashanti Empire,
 1826,1837,"Kurdish revolt of
-1826–1837[8]",Ottoman Empire,Kurdish rebels
+1826–1837[8]",Ottoman Empire,Kurdish rebels,
 1826,1829,"First Central American
-Civil War",Liberals,Conservatives
+Civil War",Liberals,Conservatives,
 1826,1828,"Russo-Persian War
 (1826–28)
-Part of the Russo-
-Persian Wars",Russian Empire,Persian Empire
+",Russian Empire,Persian Empire,"Russo-
+Persian Wars"
 1826,1826,"Chernigov Regiment
-revolt",Russian Empire,Decembrists
+revolt",Russian Empire,Decembrists,
 1826,1831,Sikh–Wahhabi War,Sikh Empire,"Mujahideen
 Kingdom of Amb
 Peshawari Sardars
-Pashtun tribes"
+Pashtun tribes",
 1826,1828,Siamese-Lao War,Siam,"Anouvong
-King of Vientiane"
+King of Vientiane",
 1827,1827,"1827 Honduran coup
-d'état",State of Honduras,Honduran Conservatives
+d'état",State of Honduras,Honduran Conservatives,
 1827,1827,Winnebago War,"United States
-Local militia",Winnebago
+Local militia",Winnebago,
 1828,1828,"Peruvian–Bolivian
-War of 1828",Peru,Bolivia
+War of 1828",Peru,Bolivia,
 1828,1829,"Gran Colombia–Peru
-War",Gran Colombia,Peru
+War",Gran Colombia,Peru,
 1828,1828,"Irish and German
 Mercenary Soldiers'
-Revolt",Empire of Brazil,Irish and German mercenaries
+Revolt",Empire of Brazil,Irish and German mercenaries,
 1828,1828,"Bombardment of
-Tripoli (1828)",Tripolitania,Kingdom of the Two Sicilies
+Tripoli (1828)",Tripolitania,Kingdom of the Two Sicilies,
 1828,1834,Liberal Wars,"Liberal forces of Queen
 Mary II","Absolutist forces of King
-Miguel"
+Miguel",
 ,,,"United Kingdom
-Spain",
+Spain",,
 1828,1829,"Russo-Turkish War
-(1828–29)",Russian Empire,Ottoman Empire
-1828,1832,Black War,British Empire,Tasmanian Aborigines
+(1828–29)",Russian Empire,Ottoman Empire,
+1828,1832,Black War,British Empire,Tasmanian Aborigines,
 1829,1830,"Austrian expedition
 against Morocco
-(1829)",Austrian Empire,Morocco
+(1829)",Austrian Empire,Morocco,
 1829,1830,"Chilean Civil War of
 1829–30","Pelucones
 Military of Chile
 Chilean Army
-Chilean Navy",Pipiolos
-1829,1833,Anglo-Khasi War,British Empire,Khasi people
-Start,Finish,Name of conflict,Belligerents,
+Chilean Navy",Pipiolos,
+1829,1833,Anglo-Khasi War,British Empire,Khasi people,
+Start,Finish,Name of conflict,Belligerents,,
 ,,,"Victorious party (if
 applicable)","Defeated party (if
-applicable)"
-1830,1830,Freiämtersturm,Freie Ämter militia,Canton of Aargau
+applicable)",
+1830,1830,Freiämtersturm,Freie Ämter militia,Canton of Aargau,
 1830,1830,"July Revolution
-French Revolution of 1830",House of Orléans,House of Bourbon
-1830,1831,November Uprising,Russian Empire,Polish insurgents
+French Revolution of 1830",House of Orléans,House of Bourbon,
+1830,1831,November Uprising,Russian Empire,Polish insurgents,
 1830,1831,Belgian Revolution,"Southern Provinces of the
 Netherlands","United Kingdom of the
-Netherlands"
+Netherlands",
 1830,1847,French conquest of Algeria,France,"Ottoman Empire
-Algiers"
-1830,1850,Port Phillip District Wars,British Empire,Australian Aborigines
+Algiers",
+1830,1850,Port Phillip District Wars,British Empire,Australian Aborigines,
 1831,1831,"Dutch expedition on the west
-coast of Sumatra",Dutch Empire,Sumatran Rebels
-1831,1831,Merthyr Rising,British Empire,Coal Miners
-1831,1831,Turner's Rebellion,United States,Slave Rebels
-1831,1833,Kol uprising,British Empire,Adivasi Rebels
+coast of Sumatra",Dutch Empire,Sumatran Rebels,
+1831,1831,Merthyr Rising,British Empire,Coal Miners,
+1831,1831,Turner's Rebellion,United States,Slave Rebels,
+1831,1833,Kol uprising,British Empire,Adivasi Rebels,
 1831,1834,"Siamese–Vietnamese War
 (1831–34)","Vietnam
 Vietnamese protectorate of
-Cambodia",Siam
-1831,1832,Baptist War,British Empire,Rebel slaves
-1831,1832,Naning War,East India Company,Malay rebels
+Cambodia",Siam,
+1831,1832,Baptist War,British Empire,Rebel slaves,
+1831,1832,Naning War,East India Company,Malay rebels,
 1831,1833,"Egyptian–Ottoman War
 (1831–33)",Egypt,"Ottoman Empire
 Russian Empire
-(from 1833)"
-1831,1833,Yagan Resistance,British Empire,Yagan
-1831,1833,Bosnian Uprising (1831–32),Ottoman Empire,Bosnian ayans
+(from 1833)",
+1831,1833,Yagan Resistance,British Empire,Yagan,
+1831,1833,Bosnian Uprising (1831–32),Ottoman Empire,Bosnian ayans,
 1832,1832,Black Hawk War,"United States
 Ho-Chunk
 Menominee
 Potawatomi","Black Hawk's British Band:
 Sauk
 Fox
-Kickapoo"
-1832,1832,June Rebellion,France,French Republicans
-1833,1834,Desert Campaign (1833–34),Argentina,Mapuche rebels
-1833,1835,Lê Văn Khôi revolt,Nguyễn dynasty,Lê Văn Khôi rebels
-1833,1839,Albanian Revolts of 1833–39,Ottoman Empire,Albanian rebels
-1833,1840,First Carlist War,Liberals and Allies:,Carlists:
+Kickapoo",
+1832,1832,June Rebellion,France,French Republicans,
+1833,1834,Desert Campaign (1833–34),Argentina,Mapuche rebels,
+1833,1835,Lê Văn Khôi revolt,Nguyễn dynasty,Lê Văn Khôi rebels,
+1833,1839,Albanian Revolts of 1833–39,Ottoman Empire,Albanian rebels,
+1833,1840,First Carlist War,Liberals and Allies:,Carlists:,
 ,,,"Forces of Queen
 Isabella II of Spain
 British Empire
@@ -751,73 +750,73 @@ Forces of Queen
 Mary II of Portugal","Forces of Infante
 Carlos of Spain
 Forces of King
-Miguel of Portugal"
-1834,1834,Peruvian civil war of 1834,Government of Peru,Revolutionaries
-1834,1834,Coorg War,,
-1834,1834,Priest Jovica's Rebellion,Ottoman Empire,Christian peasants
+Miguel of Portugal",
+1834,1834,Peruvian civil war of 1834,Government of Peru,Revolutionaries,
+1834,1834,Coorg War,,,
+1834,1834,Priest Jovica's Rebellion,Ottoman Empire,Christian peasants,
 1834,1834,"Peasants' Revolt of 1834
-(Palestine)",Egypt Eyalet,Palestinian Peasants
-1834,1834,Battle of Pinjarra,British Empire,Pinjarup
+(Palestine)",Egypt Eyalet,Palestinian Peasants,
+1834,1834,Battle of Pinjarra,British Empire,Pinjarup,
 1834,1836,Sixth Xhosa War,"British Empire
-Free Khoikhoi",Xhosa Tribes
+Free Khoikhoi",Xhosa Tribes,
 1835,1858,"1835–58 revolt in Ottoman
-Tripolitania",Ottoman Empire,Libyan rebels
-1835,1836,Revolution of the Reforms,State of Venezuela,Reformists
+Tripolitania",Ottoman Empire,Libyan rebels,
+1835,1836,Revolution of the Reforms,State of Venezuela,Reformists,
 1835,1836,Salaverry-Santa Cruz War,"Supporters of Luis José de
 Orbegoso and Andrés de
 Santa Cruz","Supporters of Felipe
-Santiago Salaverry"
+Santiago Salaverry",
 1835,1835,League War,San José,"Alajuela
 Cartago
-Cartago"
-1835,1835,Malê Revolt,Empire of Brazil,Muslim Nagos
-1835,1835,Zacatecas Rebellion,Mexico,Zacatecan rebels
-1835,1836,Texas Revolution,Republic of Texas,Mexico
+Cartago",
+1835,1835,Malê Revolt,Empire of Brazil,Muslim Nagos,
+1835,1835,Zacatecas Rebellion,Mexico,Zacatecan rebels,
+1835,1836,Texas Revolution,Republic of Texas,Mexico,
 1835,1842,"Second Seminole War
-Part of the Seminole Wars",United States,Seminole Tribes
+",United States,Seminole Tribes,Seminole Wars
 1835,1845,Ragamuffin War,Empire of Brazil,"Riograndense Republic
-Juliana Republic"
+Juliana Republic",
 1835,1840,Cabanagem,Empire of Brazil,"Indians
-Cabanos"
-1836,1836,Posavina rebellion (1836),Ottoman Empire,Bosnian nobility
+Cabanos",
+1836,1836,Posavina rebellion (1836),Ottoman Empire,Bosnian nobility,
 1836,1836,"Belogradchik rebellion
-(1836)",Ottoman Empire,Serbian peasants
-1836,1836,Berkovitsa rebellion (1836),Ottoman Empire,Bulgarian peasants
-1836,1836,Pirot rebellion,Ottoman Empire,Orthodox peasants
-,,,,
+(1836)",Ottoman Empire,Serbian peasants,
+1836,1836,Berkovitsa rebellion (1836),Ottoman Empire,Bulgarian peasants,
+1836,1836,Pirot rebellion,Ottoman Empire,Orthodox peasants,
+,,,,,
 1836,1839,War of the Confederation,"Chile
 North Peru
 Argentine Confederation","Peru-Bolivian
-Confederation"
+Confederation",
 1837,1838,"Siege of Herat (1838)
-Afghan-Persian War",Emirate of Afghanistan,Qajar Iran
-1837,1837,Revolt of 1837 (New Mexico),Mexico,Cantón
-1837,1838,Sabinada,Empire of Brazil,Bahia Republic
+Afghan-Persian War",Emirate of Afghanistan,Qajar Iran,
+1837,1837,Revolt of 1837 (New Mexico),Mexico,Cantón,
+1837,1838,Sabinada,Empire of Brazil,Bahia Republic,
 1837,1838,"Lower Canada Rebellion
-Part of the Rebellions of
-1837","United Kingdom
+","United Kingdom
 British North America","Patriote movement
 American
-Volunteers"
+Volunteers","Rebellions of
+1837"
 1837,1838,"Upper Canada Rebellion
-Part of the Rebellions of
-1837","United Kingdom
+","United Kingdom
 British North America","Hunters' Lodges
-Republic of Canada"
-1837,1839,Dutch–Ahanta War,Dutch Empire,Ahanta Kingdom
-1837,1847,Kenesary's Rebellion[9],Russian Empire,Kazakh Khanate
+Republic of Canada","Rebellions of
+1837"
+1837,1839,Dutch–Ahanta War,Dutch Empire,Ahanta Kingdom,
+1837,1847,Kenesary's Rebellion[9],Russian Empire,Kazakh Khanate,
 1838,1840,"Muhammad Ali's Yemeni
 Expedition
-Part of the Yemeni–
-Ottoman Conflicts",Ottoman Empire,Zaidis
-1838,1838,Battle of Blood River,Voortrekkers,Zulu kingdom
+",Ottoman Empire,Zaidis,"Yemeni–
+Ottoman Conflicts"
+1838,1838,Battle of Blood River,Voortrekkers,Zulu kingdom,
 1838,1838,Mormon War,Non-Mormon Missourians,"Latter Day Saint
-movement"
+movement",
 1838,1839,Balaiada,Empire of Brazil,"Balaios
-African slaves"
-1838,1839,Pastry War,France,Mexico
-1839,1839,Newport Rising,British Empire,Chartists
-1839,1839,Züriputsch,Zürich,Conservative Putschists
+African slaves",
+1838,1839,Pastry War,France,Mexico,
+1839,1839,Newport Rising,British Empire,Chartists,
+1839,1839,Züriputsch,Zürich,Conservative Putschists,
 1839,1841,"Egyptian–Ottoman War
 (1839–41)","British Empire
 Austrian Empire
@@ -825,14 +824,14 @@ Russian Empire
 Kingdom of Prussia
 Ottoman Empire","Egypt
 France
-Spain"
-1839,1840,Khivan campaign of 1839,Khanate of Khiva,Russian Empire
-1839,1841,War of the Supremes,,
+Spain",
+1839,1840,Khivan campaign of 1839,Khanate of Khiva,Russian Empire,
+1839,1841,War of the Supremes,,,
 1838,1842,First Anglo-Afghan War,Emirate of Afghanistan,"British Empire
 British East India
-Company"
-1839,1842,First Opium War,British Empire,Qing Empire of China
-1839,1847,Albanian Revolt of 1847,Ottoman Empire,Albanian rebels
+Company",
+1839,1842,First Opium War,British Empire,Qing Empire of China,
+1839,1847,Albanian Revolt of 1847,Ottoman Empire,Albanian rebels,
 1839,1851,Uruguayan Civil War,"Colorados
 Argentine Unitarians
 France
@@ -843,85 +842,85 @@ Empire of Brazil
 Italian Legion","Blancos
 Federalists
 Argentine
-Confederation"
+Confederation",
 1840,1841,Cambodian rebellion (1840),"Khmer anti-Vietnamese
 rebels
 Support:
 Rattanakosin Kingdom
-(Siam)",Nguyễn dynasty (Vietnam)
-1830s,1860s,Eumerella Wars,British Empire,Gunditjmara people
-Start,Finish,Name of conflict,Belligerents,
+(Siam)",Nguyễn dynasty (Vietnam),
+1830s,1860s,Eumerella Wars,British Empire,Gunditjmara people,
+Start,Finish,Name of conflict,Belligerents,,
 ,,,"Victorious party (if
 applicable)","Defeated party (if
-applicable)"
-1841,1841,Niš Rebellion (1841),Ottoman Empire,Christian rebels
-1841,1841,1841 rebellion in Guria,Russian Empire,Guria Peasants
+applicable)",
+1841,1841,Niš Rebellion (1841),Ottoman Empire,Christian rebels,
+1841,1841,1841 rebellion in Guria,Russian Empire,Guria Peasants,
 1841,1845,"Siamese–Vietnamese War
 (1841–45)","Vietnam
 Cambodia protectorates loyal
-to King Ang Duong",
-1841,1842,Sino-Sikh War,China,Sikh Empire
-1842,1847,Kurdish revolt of 1842–1847[8],Ottoman Empire,Emirate of Botan
+to King Ang Duong",,
+1841,1842,Sino-Sikh War,China,Sikh Empire,
+1842,1847,Kurdish revolt of 1842–1847[8],Ottoman Empire,Emirate of Botan,
 1842,1842,Shoorcha rebellion,Russian Empire,"Chuvash Peasants
 Tatar Peasants
-Mari Peasants"
-1842,1868,Russian Conquest of Bukhara,Russian Empire,Emirate of Bukhara
-1842,1843,Mier expedition,Mexico,Texas
+Mari Peasants",
+1842,1868,Russian Conquest of Bukhara,Russian Empire,Emirate of Bukhara,
+1842,1843,Mier expedition,Mexico,Texas,
 1843,1844,"Peruvian civil war of 1843–
-1844",Revolutionaries,Peruvian government
-1843,1844,Albanian Revolt of 1843–44,Ottoman Empire,Albanian rebels
+1844",Revolutionaries,Peruvian government,
+1843,1844,Albanian Revolt of 1843–44,Ottoman Empire,Albanian rebels,
 1843,1843,"Wairau Affray
-Part of the New Zealand Wars",Ngāti Toa,British Settlers
-1843,1843,Battle of One Tree Hill,British Settlers,Jagera people
+",Ngāti Toa,British Settlers,New Zealand Wars
+1843,1843,Battle of One Tree Hill,British Settlers,Jagera people,
 1844,1856,"Dominican War of
-Independence",Dominican Republic,Haiti
-1844,1844,Franco-Moroccan War,France,Morocco
+Independence",Dominican Republic,Haiti,
+1844,1844,Franco-Moroccan War,France,Morocco,
 1844,1847,Franco-Tahitian War,"France
 Tahitian allies","Tahiti
 Huahine
 Raiatea
-Bora Bora and Tahaa"
+Bora Bora and Tahaa",
 1844,1845,Malespín's War,"El Salvador
-Honduras",Nicaragua
-1845,1845,Albanian Revolt of 1845,Ottoman Empire,Albanian rebels
+Honduras",Nicaragua,
+1845,1845,Albanian Revolt of 1845,Ottoman Empire,Albanian rebels,
 1845,1846,First Anglo-Sikh War,"British East India
-Company",Sikh Empire
+Company",Sikh Empire,
 1845,1846,"Flagstaff War
 Northern War
-Part of the New Zealand Wars",Ngāpuhi Iwi,"British Empire
+",Ngāpuhi Iwi,"British Empire
 Forces of Tamati
-Waka Nene"
-1846,1847,,Venezuela,Federal rebels
-1846,1846,Revolution of Maria da Fonte,Portuguese Empire,Tax Resisters
+Waka Nene",New Zealand Wars
+1846,1847,,Venezuela,Federal rebels,
+1846,1846,Revolution of Maria da Fonte,Portuguese Empire,Tax Resisters,
 1846,1846,"Hutt Valley Campaign
-Part of the New Zealand Wars",British Empire,Ngāti Toa
+",British Empire,Ngāti Toa,New Zealand Wars
 ,,,"British Settlers
-Te Āti Awa",
+Te Āti Awa",,
 1846,1846,Kraków uprising,Austrian Empire,"Polish independence
-movement"
-1846,1846,Galician slaughter,Austrian Empire,Polish peasants
+movement",
+1846,1846,Galician slaughter,Austrian Empire,Polish peasants,
 1846,1846,"Dutch intervention in Northern
-Bali (1846)",Netherlands,Bali
-1846,1846,Revolt of the Faitiões,Portuguese Empire,Faitiões
+Bali (1846)",Netherlands,Bali,
+1846,1846,Revolt of the Faitiões,Portuguese Empire,Faitiões,
 1846,1847,Patuleia,Cartistas,"Septembrists
-Miguelists"
-1846,1847,Seventh Xhosa War,British Empire,Xhosa Tribes
+Miguelists",
+1846,1847,Seventh Xhosa War,British Empire,Xhosa Tribes,
 1846,1849,"Second Carlist War
 War of the Madrugadores","Forces of Queen Isabella
-II of Spain",Carlists
-1846,1848,Mexican–American War,United States,Mexico
+II of Spain",Carlists,
+1846,1848,Mexican–American War,United States,Mexico,
 1846,1848,"Wanganui Campaign
-Part of the New Zealand Wars","British Empire
+","British Empire
 British Settlers
-Māori Kupapa",Māori Iwis
-1847,1847,Sonderbund War,Swiss Confederation,Sonderbund
-1847,1850,Sierra Gorda Rebellion,Mexico,Tax Resisters
-1847,1855,Cayuse War,United States,Cayuse
-1847,1933,Caste War of Yucatán,Mexico,Maya Free State
+Māori Kupapa",Māori Iwis,New Zealand Wars
+1847,1847,Sonderbund War,Swiss Confederation,Sonderbund,
+1847,1850,Sierra Gorda Rebellion,Mexico,Tax Resisters,
+1847,1855,Cayuse War,United States,Cayuse,
+1847,1933,Caste War of Yucatán,Mexico,Maya Free State,
 1847,1847,"Operations against the Baizai
-(1847)[10]",British Empire,Baizai Tribesmen
+(1847)[10]",British Empire,Baizai Tribesmen,
 1848,1849,"Venezuelan Civil War of
-1848–1849",State of Venezuela,Rebels
+1848–1849",State of Venezuela,Rebels,
 1848,1849,"Revolutions of 1848 in the
 Italian states","Austrian Empire
 Kingdom of Two Sicilies
@@ -932,75 +931,75 @@ Republic of San Marco
 Roman Republic
 Central Italy Rebels
 Supported by:
-Kingdom of Sardinia"
+Kingdom of Sardinia",
 1848,1848,"Greater Poland Uprising
-(1848)",Kingdom of Prussia,Polish rebels
-1848,1848,French Revolution of 1848,French Republic,July Monarchy
+(1848)",Kingdom of Prussia,Polish rebels,
+1848,1848,French Revolution of 1848,French Republic,July Monarchy,
 1848,1849,"Revolutions of 1848 in the
 German states","German Confederation
 Austrian Empire
 Baden
 Prussia
 Kingdom of Saxony
-Kingdom of Bavaria",German Rebels
+Kingdom of Bavaria",German Rebels,
 1848,1849,"Baden Revolution
-Part of the Revolutions of",Baden,Freischar
-,,1848 in the German states,,
+",Baden,Freischar,Revolutions of
+,,1848 in the German states,,,
 1848,1849,"Revolutions of 1848 in the
-Habsburg areas",,
+Habsburg areas",,,
 1848,1848,"Wallachian Revolution of
 1848","Ottoman Empire
-Russian Empire",Wallachia
+Russian Empire",Wallachia,
 1848,1849,"Sicilian revolution of
 independence of 1848","Kingdom of the Two
 Sicilies
 Supported by:
 Kingdom of Spain","Kingdom of Sicily
 Supported by:
-Congress Poland"
+Congress Poland",
 1848,1848,"Dutch intervention in Northern
-Bali (1848)",Netherlands,Bali
-1848,1848,Matale rebellion,British Empire,Kandian Peasants
+Bali (1848)",Netherlands,Bali,
+1848,1848,Matale rebellion,British Empire,Kandian Peasants,
 1848,1849,"First Italian War of
 Independence",Austrian Empire,"Kingdom of Sardinia
 Grand Duchy of
 Tuscany
 Papal States
 Kingdom of the Two
-Sicilies"
+Sicilies",
 1848,1849,Second Anglo-Sikh War,"British Empire
 British East India
-Company",Sikh Empire
+Company",Sikh Empire,
 1848,1849,"Hungarian War of
 Independence","Austrian Empire
-Russian Empire",Hungary
+Russian Empire",Hungary,
 1848,1849,Serb Uprising of 1848–49,"Serbs (Austrian Empire)
 Serbian volunteers
-Austrian Empire",Hungary
-1848,1849,Praieira revolt,Empire of Brazil,Praieiros
-1848,1849,Slovak Uprising of 1848–49,Slovak National Council,Kingdom of Hungary
+Austrian Empire",Hungary,
+1848,1849,Praieira revolt,Empire of Brazil,Praieiros,
+1848,1849,Slovak Uprising of 1848–49,Slovak National Council,Kingdom of Hungary,
 1848,1851,"First Schleswig War
 The Three Years' War",Denmark,"Schleswig-Holstein
 Prussia
-Kingdom of Saxony"
+Kingdom of Saxony",
 1849,1850,"Dutch intervention in Bali
 (1849)","Netherlands
 Lombok","Buleleng
 Jembrana
-Klungkung"
+Klungkung",
 1849,1849,"May Uprising in Dresden
-Part of the Revolutions of
-1848 in the German states","Prussia
-Kingdom of Saxony",Freischar
+","Prussia
+Kingdom of Saxony",Freischar,"Revolutions of
+1848 in the German states"
 1849,1849,"Palatine uprising
-Part of the Revolutions of
-1848 in the German states",Kingdom of Bavaria,Freischar
-,,,,
+",Kingdom of Bavaria,Freischar,"Revolutions of
+1848 in the German states"
+,,,,,
 1849,1849,"Yemeni Expedition of 1849
-Part of the Yemeni–
-Ottoman Conflicts",Zaidis,Ottoman Empire
+",Zaidis,Ottoman Empire,"Yemeni–
+Ottoman Conflicts"
 1849,1855,"Burmese–Siamese War
-(1849–55)",Burma,Siam
+(1849–55)",Burma,Siam,
 1849,1924,Apache Wars,"United States
 (1849–1924)
 Confederate States of
@@ -1019,38 +1018,38 @@ Comanche
 Cheyenne
 Kiowa
 Yuma
-Mohave"
+Mohave",
 1849,1849,"Operations against the Baizai
-(1849)",British Empire,Baizai Tribesmen
-Start,Finish,Name of conflict,Belligerents,
-,,,Victorious party (if applicable),Defeated party (if applicable)
+(1849)",British Empire,Baizai Tribesmen,
+Start,Finish,Name of conflict,Belligerents,,
+,,,Victorious party (if applicable),Defeated party (if applicable),
 1850,1856,"Soninke-Marabout
 War (1850–1856)","British Empire
 French Empire","Marabout confederacy
 Kingdom of the Kombo
-(Soninke)"
+(Soninke)",
 1850,1864,Taiping Rebellion,"China
 British Empire
-French Empire",Taiping Heavenly Kingdom
+French Empire",Taiping Heavenly Kingdom,
 1850,1853,Eighth Xhosa War,British Empire,"Xhosa Tribes
 Khoikhoi Tribes
-Native Kafir Police"
+Native Kafir Police",
 1851,1851,"1851 Chilean
-Revolution",Chile,Liberal rebels
+Revolution",Chile,Liberal rebels,
 1851,1851,"Bombardment of
-Salé",France,Morocco
+Salé",France,Morocco,
 1851,1851,"1851 French coup
 d'état","French Second Republic under
-Louis-Napoléon Bonaparte",Republicans
+Louis-Napoléon Bonaparte",Republicans,
 1851,1852,Platine War,"Empire of Brazil
 Uruguay
 Entre Ríos
 Corrientes
 Santa Fe","Argentine Confederation
-Blancos"
+Blancos",
 1851,1855,"Palembang
 Highlands
-Expeditions",Dutch Empire,Palembangese Rebels
+Expeditions",Dutch Empire,Palembangese Rebels,
 1851,1865,"California Indian
 Wars",United States,"Miwok
 Yokuts
@@ -1067,18 +1066,18 @@ Hupa
 Tsnungwe
 Wiyot
 Whilkut
-Yuki"
-1851,1868,Nian Rebellion,Qing dynasty,Nien militia
-1852,1852,Kautokeino rebellion,Sweden-Norway,Sami rebels
-,,,,
+Yuki",
+1851,1868,Nian Rebellion,Qing dynasty,Nien militia,
+1852,1852,Kautokeino rebellion,Sweden-Norway,Sami rebels,
+,,,,,
 1852,1852,"Second Anglo-
-Burmese War",British Empire,Burma
+Burmese War",British Empire,Burma,
 1852,1853,"Montenegrin–
 Ottoman War (1852–
-53)",Montenegro,Ottoman Empire
+53)",Montenegro,Ottoman Empire,
 1852,1862,"Herzegovina Uprising
-(1852–62)",Ottoman Empire,Serbian rebels
-1853,1854,,State of Venezuela,Rebels
+(1852–62)",Ottoman Empire,Serbian rebels,
+1853,1854,,State of Venezuela,Rebels,
 1853,1856,Crimean War,"Ottoman Empire
 French Empire
 (from 1854)
@@ -1097,53 +1096,53 @@ Principality of Mingrelia
 (vassal)
 Kurdish rebels[12]
 Kingdom of Greece (until
-1854)"
+1854)",
 1854,1854,"1854 Macedonian
-rebellion",Ottoman Empire,Macedonian rebels
+rebellion",Ottoman Empire,Macedonian rebels,
 1854,1855,"Expedition against
 the Chinese in
 Montrado",Netherlands,"Pro-Chinese Indonesian rebels
 Chinese volunteers
 Supported by:
-China"
-1854,1854,Epirus Revolt of 1854,Ottoman Empire,Greek rebels
-1854,1857,Revolution of Ayutla,Mexican rebels,Santa Anna dictatorship
+China",
+1854,1854,Epirus Revolt of 1854,Ottoman Empire,Greek rebels,
+1854,1857,Revolution of Ayutla,Mexican rebels,Santa Anna dictatorship,
 1854,1873,"Miao Rebellion
-(1854–73)",China,Miao people
+(1854–73)",China,Miao people,
 1854,1860,"French conquest of
 Senegal",French Empire,"Kingdom of Waalo
-Toucouleur Empire"
+Toucouleur Empire",
 1854,1856,"Red Turban
-Rebellion (1854–56)",Qing Empire of China,Tiandihui
-1854,1861,Bleeding Kansas,Free-Stater (Kansas),Border ruffians
+Rebellion (1854–56)",Qing Empire of China,Tiandihui,
+1854,1861,Bleeding Kansas,Free-Stater (Kansas),Border ruffians,
 1855,1855,"Kurdish revolt of
 1855[8]","Ottoman Empire
 Supported by:
 French Empire
-British Empire",Kurdish rebels
-1855,1855,First Fiji Expedition,United States,Fiji
-,,,,
+British Empire",Kurdish rebels,
+1855,1855,First Fiji Expedition,United States,Fiji,
+,,,,,
 1855,1856,"Nepalese–Tibetan
-War",Kingdom of Nepal,Tibet
+War",Kingdom of Nepal,Tibet,
 1855,1856,Santhal rebellion,"British Raj
-Zamindars",Santal rebels
-1855,1858,Yakima War,United States,Yakama
-1855,1855,Rogue River Wars,United States,Rogue River
-1855,1855,Battle of Ash Hollow,United States,Brulé Sioux
+Zamindars",Santal rebels,
+1855,1858,Yakima War,United States,Yakama,
+1855,1855,Rogue River Wars,United States,Rogue River,
+1855,1855,Battle of Ash Hollow,United States,Brulé Sioux,
 1855,1856,Puget Sound War,United States,"Nisqually
 Muckleshoot
 Puyallup
 Klickitat
 Haida
-Tlingit"
+Tlingit",
 1855,1858,"Third Seminole War
 part of the Seminole
-Wars",United States,Seminole Tribes
-1855,1864,Nias Expedition,Dutch Empire,Nias Rebels
+Wars",United States,Seminole Tribes,
+1855,1864,Nias Expedition,Dutch Empire,Nias Rebels,
 1855,1867,"Punti-Hakka Clan
-Wars",Punti,Hakka
+Wars",Punti,Hakka,
 1856,1857,"Peruvian civil war of
-1856–1858",,
+1856–1858",,,
 1856,1857,Filibuster War,"Allied Central American Army
 (Ejército Aliado Centroamericano)
 Costa Rica
@@ -1154,9 +1153,9 @@ Nicaragua
 Legitimistas (conservative party)
 Democráticos (liberal party)
 United States (naval
-support)",Filibusters
+support)",Filibusters,
 1856,1857,"Khost rebellion
-(1856–1857)",Emirate of Afghanistan,Khostwal and Waziri tribesmen
+(1856–1857)",Emirate of Afghanistan,Khostwal and Waziri tribesmen,
 1856,1857,"Campaign of 1856–
 57","Costa Rica
 Guatemala
@@ -1164,21 +1163,21 @@ El Salvador
 Honduras
 Rebel Forces of Patricio
 Rivas","Republic of Sonora
-Nicaragua"
-1856,1856,Battle of Tres Forcas,Morocco,Prussia
-,,,,
+Nicaragua",
+1856,1856,Battle of Tres Forcas,Morocco,Prussia,
+,,,,,
 1856,1860,"Second Opium War
 Arrow War","United Kingdom
 French Empire
 United States (1856 and
-1859 only)",Qing Empire of China
+1859 only)",Qing Empire of China,
 1856,1857,Anglo-Persian War,"British Empire
 East India Company
-Afghanistan",Persia
+Afghanistan",Persia,
 1856,1873,"Panthay Rebellion
-Du Wenxiu Rebellion",Qing Empire of China,Pingnan Guo
+Du Wenxiu Rebellion",Qing Empire of China,Pingnan Guo,
 1856,1857,"1857 Cheyenne
-Expedition",United States,Cheyenne
+Expedition",United States,Cheyenne,
 1857,1858,"Indian Rebellion of
 1857
 India's First War of
@@ -1196,59 +1195,59 @@ Jagdishpur
 Kohra
 Bijairaghogarh
 Tulsipur State
-7 Princely states"
+7 Princely states",
 1857,1858,Utah War,United States,"State of Deseret
 Utah Territory
-Nauvoo Legion"
+Nauvoo Legion",
 1857,1860,"Ecuadorian–Peruvian
-War (1857–1860)",Peru,Ecuador
+War (1857–1860)",Peru,Ecuador,
 1857,1861,Reform War,"Liberals
-United States",Conservatives
+United States",Conservatives,
 1857,1861,Cibaenian Revolution,"Dominican Republic
 Liberals Supported by:
 Conservatives
 Kingdom of Spain","Revolutionary
-Government of Cibao"
+Government of Cibao",
 1857,1863,Pahang Civil War,"Wan Ahmad loyalists
 Terengganu Sultanate
 Rattanakosin Kingdom","Tun Mutahir loyalists
 Johor
-United Kingdom"
+United Kingdom",
 1858,1858,"March Revolution
-(Venezuela)",,
-1858,1858,Mahtra War,Russian Empire,Estonian peasants
+(Venezuela)",,,
+1858,1858,Mahtra War,Russian Empire,Estonian peasants,
 1858,1858,Coeur d'Alene War,United States,"Spokane
-Coeur d'Alene"
+Coeur d'Alene",
 ,,,,"Paloos
-Northern Paiute"
+Northern Paiute",
 1858,1858,Fraser Canyon War,"United States
-British Empire",Nlaka'pamux
-1858,1858,Pecija's First Revolt,Ottoman Empire,Serbian peasants
+British Empire",Nlaka'pamux,
+1858,1858,Pecija's First Revolt,Ottoman Empire,Serbian peasants,
 1858,1862,"Cochinchina
 Campaign","French Empire
-Kingdom of Spain",Dai Nam
-1859,1859,Indigo revolt,British Empire,Bengali Peasants
-1859,1859,Third Fiji expedition,United States,Fiji
+Kingdom of Spain",Dai Nam,
+1859,1859,Indigo revolt,British Empire,Bengali Peasants,
+1859,1859,Third Fiji expedition,United States,Fiji,
 1859,1859,"Second Italian War of
 Independence","French Empire
-Kingdom of Sardinia",Austrian Empire
-1859,1859,Revolution of 1859,Chile,Liberal rebels
-1859,1872,Pig War,United States,United Kingdom
+Kingdom of Sardinia",Austrian Empire,
+1859,1859,Revolution of 1859,Chile,Liberal rebels,
+1859,1872,Pig War,United States,United Kingdom,
 1859,1860,"Hispano-Moroccan
-War (1859–60)",Spain,Morocco
-1859,1863,Banjarmasin War,Dutch Empire,Sultanate of Banjar
+War (1859–60)",Spain,Morocco,
+1859,1863,Banjarmasin War,Dutch Empire,Sultanate of Banjar,
 1859,1863,Federal War,Venezuelan Federalists,"Venezuelan
-Conservatives"
+Conservatives",
 1859,1859,"1859 Perugia
-uprising",Papal States,Rebels
-Start,Finish,Name of conflict,Belligerents,
-,,,Victorious party (if applicable),Defeated party (if applicable)
+uprising",Papal States,Rebels,
+Start,Finish,Name of conflict,Belligerents,,
+,,,Victorious party (if applicable),Defeated party (if applicable),
 1860,1860,"Expedition of the
 Thousand",Kingdom of Italy,"Two Sicilies
-Papal States"
+Papal States",
 1860,1860,"Portugal–Angoche
 conflict[13]","Portuguese Empire
-Mozambique",Angoche Sultanate
+Mozambique",Angoche Sultanate,
 1860,1860,"1860 Mount Lebanon
 civil war","Rural Druze clans
 Abu Nakad clan
@@ -1264,21 +1263,21 @@ militiamen
 Sardiyah tribe","Maronites and allies
 Rural Maronite militiamen
 Zahalni militiamen
-Shihab dynasty"
-1860,1860,Paiute War,United States,Paiute tribes
+Shihab dynasty",
+1860,1860,Paiute War,United States,Paiute tribes,
 1860,1861,"First Taranaki War
 Second Māori War
 Part of New Zealand
 Wars","Māori iwi (tribes)
 Māori King Movement","Government of New Zealand
-British Settlers"
+British Settlers",
 1860,1862,"Colombian Civil War
-(1860–62)",Granadine Confederation,Federal State of Cauca
-1860,1890,Barasa–Ubaidat War,Ubaidat Tribe,Barasa Tribe
+(1860–62)",Granadine Confederation,Federal State of Cauca,
+1860,1890,Barasa–Ubaidat War,Ubaidat Tribe,Barasa Tribe,
 1861,1883,"Occupation of
-Araucanía",Chile,Araucanía
+Araucanía",Chile,Araucanía,
 1861,1865,American Civil War,United States of America,"Confederate States of
-America"
+America",
 1861,1867,"French intervention
 in Mexico
 Also known as
@@ -1295,120 +1294,120 @@ Supported by :
 Kingdom of Spain (retired in
 1862)
 United Kingdom (retired in
-1862)"
-1862,1862,Dakota War of 1862,United States,Dakota Sioux
-,,,,
+1862)",
+1862,1862,Dakota War of 1862,United States,Dakota Sioux,
+,,,,,
 1862,1877,"Dungan Revolt
 (1862–77)
-Muslim Rebellion",Qing Empire of China,Muslims of China
+Muslim Rebellion",Qing Empire of China,Muslims of China,
 1863,1863,"Ecuadorian–
-Colombian War",United States of Colombia,Ecuador
+Colombian War",United States of Colombia,Ecuador,
 1863,1863,"Battle of
-Shimonoseki Straits",United States,Chōshū Domain
+Shimonoseki Straits",United States,Chōshū Domain,
 1863,1863,"Bombardment of
 Kagoshima
-Anglo-Satsuma War",British Empire,Satsuma Domain
+Anglo-Satsuma War",British Empire,Satsuma Domain,
 1863,1864,"Shimonoseki
 Campaign","British Empire
 Netherlands
 United States
 Second French Empire","Choshu Domain
 Chofu Domain
-Kiheitai Volunteers"
+Kiheitai Volunteers",
 1863,1864,Ambela campaign,British Raj,"Afghan Pashtuns
-Yusufzai"
+Yusufzai",
 1863,1864,"Invasion of Waikato
 Part of New Zealand
 Wars","Government of New
 Zealand
-Māori Kupapa",Māori King Movement
+Māori Kupapa",Māori King Movement,
 1863,1864,"Second Anglo-
-Ashanti War",Ashanti Empire,British Empire
+Ashanti War",Ashanti Empire,British Empire,
 1863,1865,"Dominican
-Restoration War",Dominican Republic,Spain
+Restoration War",Dominican Republic,Spain,
 1863,1864,January Uprising,Russian Empire,"Polish-Lithuanian-Ruthenian
-Commonwealth"
+Commonwealth",
 1863,1865,Colorado War,United States,"Cheyenne
-Arapaho"
+Arapaho",
 1863,1866,"Second Taranaki War
 Part of New Zealand
-Wars",British Empire,Māori of Taranaki
+Wars",British Empire,Māori of Taranaki,
 1864,1864,"Kinmon Incident and
 First Chōshū
 expedition","Tokugawa Shogunate
 Satsuma Domain","Aizu Domain
 Choshu Domain
-Sonno joi Rebels"
+Sonno joi Rebels",
 1864,1864,"Second Schleswig
 War
 Second Danish-
 German War","German Confederation
 Austrian Empire
-Kingdom of Prussia",Denmark
+Kingdom of Prussia",Denmark,
 1864,1864,"Battle of Dybbøl
 Part of Second
-Schleswig War",Prussia,Denmark
+Schleswig War",Prussia,Denmark,
 1864,1864,"Tauranga Campaign
-Part of the New
-Zealand Wars","Government of New
+","Government of New
 Zealand
 British Settlers
-Māori Kupapa",Ngāi Te Rangi Iwi
-,,,,
+Māori Kupapa",Ngāi Te Rangi Iwi,"New
+Zealand Wars"
+,,,,,
 1864,1865,Uruguayan War,"Empire of Brazil
-Colorados",Uruguay
-1864,1865,Mejba Revolt,Beylik of Tunis,Tax resisters
+Colorados",Uruguay,
+1864,1865,Mejba Revolt,Beylik of Tunis,Tax resisters,
 1864,1865,"Mito Rebellion
 Kanto insurrection
-Part of the Japanese
-Civil War","Tokugawa Shogunate
+","Tokugawa Shogunate
 Mito Domain","Sonno joi Rebels of Eastern
-Japan"
-1864,1865,Bhutan War,British Empire,Bhutan
+Japan","Japanese
+Civil War"
+1864,1865,Bhutan War,British Empire,Bhutan,
 1864,1865,,Russian Empire,"Khanate of Kokand
-Emirate of Bukhara"
+Emirate of Bukhara",
 1864,1866,Chincha Islands War,"Peru
 Chile
 Joined in 1866:
 Ecuador
-Bolivia",Spain
+Bolivia",Spain,
 1864,1868,Snake War,United States,"Shoshone, Bannock, and Paiute
-Tribes"
+Tribes",
 1864,1868,"Pasoemah
-Expedition",Dutch Empire,Sumatran Rebels
+Expedition",Dutch Empire,Sumatran Rebels,
 1864,1870,Paraguayan War,"Empire of Brazil
 Argentina
-Uruguay",Paraguay
+Uruguay",Paraguay,
 1865,1865,"Peruvian civil war of
-1865",Revolutionaries,Government of Peru
-1865,1875,Saudi Civil War,Supporters of Saud,Supporters of Rahman
+1865",Revolutionaries,Government of Peru,
+1865,1875,Saudi Civil War,Supporters of Saud,Supporters of Rahman,
 1865,1872,"Black Hawk War
 (1865–72)",United States,"Ute
 Paiute
 Navajo
-Apache"
+Apache",
 1865,1865,"Powder River
 Expedition (1865)",United States,"Arapaho
 Sioux
-Cheyenne"
-1865,1865,Morant Bay rebellion,British Empire,Jamaican Rebels
-1865,1870,Hualapai War,United States,Hualapai
+Cheyenne",
+1865,1865,Morant Bay rebellion,British Empire,Jamaican Rebels,
+1865,1870,Hualapai War,United States,Hualapai,
 1865,1866,Seqiti War,"Basuto Kingdom
-British Empire",Orange Free State
+British Empire",Orange Free State,
 1865,1868,"East Cape War
-Part of the New
-Zealand Wars","Government of New
+","Government of New
 Zealand
 British Settlers
-Māori Kupapa",Hau-Hauist Māori
+Māori Kupapa",Hau-Hauist Māori,"New
+Zealand Wars"
 1865,1868,"Russo-Bukharan
-Wars",Russian Empire,Emirate of Bukhara
-1865,1890,Haw wars,Kingdom of Siam,Haw rebels
-,,,,
+Wars",Russian Empire,Emirate of Bukhara,
+1865,1890,Haw wars,Kingdom of Siam,Haw rebels,
+,,,,,
 1866,1866,"Second Chōshū
 expedition
 Summer War",Choshu Domain,"Tokugawa Shogunate
-Aizu Domain"
+Aizu Domain",
 1866,1866,"Austro-Prussian War
 Seven Weeks War
 German Civil War","Kingdom of Prussia
@@ -1444,53 +1443,52 @@ Duchy of Saxe-
 Meiningen
 County of Schaumburg-
 Lippe
-Nassau"
+Nassau",
 1866,1866,"Third Italian War of
 Independence
-Part of the Austro-
-Prussian War",Kingdom of Italy,Austrian Empire
-1866,1868,Red Cloud's War,Lakota Tribe,United States
-1866,1866,Baikal Insurrection,Russian Empire,Sybiracy
+",Kingdom of Italy,Austrian Empire,"Austro-
+Prussian War"
+1866,1868,Red Cloud's War,Lakota Tribe,United States,
+1866,1866,Baikal Insurrection,Russian Empire,Sybiracy,
 1866,1869,"Cretan Revolt (1866–
-69)",Greek rebels,Ottoman Empire
+69)",Greek rebels,Ottoman Empire,
 1866,1866,"French campaign
 against Korea (1866)
 Byeongin Western
-invasion",Joseon dynasty (Korea),Second French Empire
+invasion",Joseon dynasty (Korea),Second French Empire,
 1866,1867,"1867 Macedonian
-rebellion",Ottoman Empire,Greek revolutionaries.
+rebellion",Ottoman Empire,Greek revolutionaries.,
 1867,1867,"Peruvian civil war of
-1867",Revolutionaries (Conservatives),Government of Peru (Liberals)
-1867,1867,La Genuina,,
+1867",Revolutionaries (Conservatives),Government of Peru (Liberals),
+1867,1867,La Genuina,,,
 1867,1868,"Blue revolution
-(Venezuela)",,
+(Venezuela)",,,
 1867,1867,"Andaman Islands
-Expedition",British Empire,Onge rebels
+Expedition",British Empire,Onge rebels,
 1867,1875,"Comanche
 Campaign",United States,"Comanche
 Arapaho
 Kiowa
-Southern Cheyenne"
-,,,,
-1867,1868,Qatari–Bahraini War,Al Thani,Al Khalifa
+Southern Cheyenne",
+,,,,,
+1867,1868,Qatari–Bahraini War,Al Thani,Al Khalifa,
 1867,1874,"Klang War
 Selangor Civil War","Forces of Raja Abdullah of Klang
 British Straits
-Settlements",Forces of Raja Mahadi
-1868,1874,Six Years' War,Dominican Liberals,Dominican Conservatives
+Settlements",Forces of Raja Mahadi,
+1868,1874,Six Years' War,Dominican Liberals,Dominican Conservatives,
 1868,1868,"Glorious Revolution
-(Spain)",Spain (Liberals),Spain (Moderados)
-1868,1868,Grito de Lares,Spain,Puerto Rican Rebels
+(Spain)",Spain (Liberals),Spain (Moderados),
+1868,1868,Grito de Lares,Spain,Puerto Rican Rebels,
 1868,1869,"Tītokowaru's War
-Part of the New
-Zealand Wars","Government of New
+","Government of New
 Zealand
-Māori Kupapa",Ngati Ruanui Iwi
+Māori Kupapa",Ngati Ruanui Iwi,"New
+Zealand Wars"
 1868,1869,"Boshin War
 War of the Year of
 the Dragon
-Part of the Japanese
-Civil War","Imperial Faction:
+","Imperial Faction:
 Forces of the Emperor
 of Japan
 Satsuma Domain
@@ -1501,121 +1499,122 @@ Saga Domain
 British Empire","Tokugawa Shogunate
 Northern Alliance
 Republic of Ezo
-Second French Empire"
+Second French Empire","Japanese
+Civil War"
 1868,1868,"British Expedition to
-Abyssinia",British Empire,Ethiopian Empire
+Abyssinia",British Empire,Ethiopian Empire,
 1868,1872,"Te Kooti's War
-Part of the New
-Zealand Wars","Government of New
+","Government of New
 Zealand
 British Settlers
-Māori Kupapa",Māori iwi
+Māori Kupapa",Māori iwi,"New
+Zealand Wars"
 1868,1878,"Ten Years' War
-Great War",Spain,Cuba
+Great War",Spain,Cuba,
 1869,1869,"Haitian Revolution of
-1869",Forces of Nissage Saget,Forces of Sylvain Salnave
+1869",Forces of Nissage Saget,Forces of Sylvain Salnave,
 1869,1869,"1869 uprising in
-Krivošije",Serbian Rebels,Austria-Hungary
+Krivošije",Serbian Rebels,Austria-Hungary,
 1869,1869,Red River Rebellion,"Dominion of Canada
 Métis Loyalists
-British Empire",Métis Forces of Louis Riel
-Start,Finish,Name of conflict,Belligerents,
+British Empire",Métis Forces of Louis Riel,
+Start,Finish,Name of conflict,Belligerents,,
 ,,,"Victorious party (if
 applicable)","Defeated party (if
-applicable)"
-1870,1870,Kirk–Holden war,United States,Ku Klux Klan
+applicable)",
+1870,1870,Kirk–Holden war,United States,Ku Klux Klan,
 1870,1871,Al-Hasa Expedition[14][15],"Ottoman Empire
-Kuwait",Nejd
-1870,1870,Adai rebellion,Russian Empire,Kazakhs of Aday
+Kuwait",Nejd,
+1870,1870,Adai rebellion,Russian Empire,Kazakhs of Aday,
 1870,1871,Franco-Prussian War,"North German
 Confederation
 Kingdom of Bavaria
 Baden
 Kingdom of
-Württemberg",Second French Empire
-1870,1872,Revolution of the Lances,Blancos,Colorados
-1870,1900,Sheep Wars,Cattle Ranchers,Sheepmen
-1870,1890,Kalkadoon Wars,British colonists,Kalkadoon people
-1871,1871,French Civil War of 1871,French Republic,Communards
+Württemberg",Second French Empire,
+1870,1872,Revolution of the Lances,Blancos,Colorados,
+1870,1900,Sheep Wars,Cattle Ranchers,Sheepmen,
+1870,1890,Kalkadoon Wars,British colonists,Kalkadoon people,
+1871,1871,French Civil War of 1871,French Republic,Communards,
 1871,1871,"United States expedition to
-Korea",United States,Joseon dynasty (Korea)
-1871,1872,Nukapu Expedition,United Kingdom,Nukapu
-1872,1873,Dembos War (1872–1873)[16],Portugal,rebels
+Korea",United States,Joseon dynasty (Korea),
+1871,1872,Nukapu Expedition,United Kingdom,Nukapu,
+1872,1873,Dembos War (1872–1873)[16],Portugal,rebels,
 1872,1872,"Yemeni Expedition of 1872
-Part of the Yemeni–
-Ottoman Conflicts",Ottoman Empire,Zaidis
+",Ottoman Empire,Zaidis,"Yemeni–
+Ottoman Conflicts"
 1872,1876,Third Carlist War,"Kingdom of Spain
 (Savoy) (to 1873)
 First Spanish Republic
 (to 1874)
 Kingdom of Spain
-(Bourbon) (from 1875)",Carlists
+(Bourbon) (from 1875)",Carlists,
 1872,1873,"Modoc War
-Lava Beds War",United States,Modoc Tribes
-1873,1873,Khivan campaign of 1873,Russian Empire,Khanate of Khiva
-1873,1904,Aceh War,Dutch East Indies,Aceh Sultanate
-1873,1874,Revolt of the Muckers,Empire of Brazil,Muckers
-1873,1874,Pabna Peasant Uprisings,British Empire,Bengali Peasants
-1873,1874,Third Anglo-Ashanti War,British Empire,Ashanti Empire
-,,,,
+Lava Beds War",United States,Modoc Tribes,
+1873,1873,Khivan campaign of 1873,Russian Empire,Khanate of Khiva,
+1873,1904,Aceh War,Dutch East Indies,Aceh Sultanate,
+1873,1874,Revolt of the Muckers,Empire of Brazil,Muckers,
+1873,1874,Pabna Peasant Uprisings,British Empire,Bengali Peasants,
+1873,1874,Third Anglo-Ashanti War,British Empire,Ashanti Empire,
+,,,,,
 1873,1888,Colfax County War,"Settlers
-Jicarilla Apaches",Maxwell Land Grant
-1873,1874,Cantonal Revolution,First Spanish Republic,Spanish Cantons
-1874,1874,Brooks–Baxter War,Republican Party,Liberal Republican Party
+Jicarilla Apaches",Maxwell Land Grant,
+1873,1874,Cantonal Revolution,First Spanish Republic,Spanish Cantons,
+1874,1874,Brooks–Baxter War,Republican Party,Liberal Republican Party,
 1874,1874,Saga Rebellion,Empire of Japan,"Rebels of former Saga
-Domain"
+Domain",
 1874,1874,"Japanese invasion of Taiwan
-(1874)",Empire of Japan,Qing Empire
+(1874)",Empire of Japan,Qing Empire,
 1874,1875,Red River War,United States,"Comanche Tribes
 Kiowa Tribes
 Southern Cheyenne
 Tribes
-Arapaho Tribes"
-1874,1876,Ethiopian–Egyptian War,Ethiopia,Egypt
-1875,1875,Ganghwa Island incident,Empire of Japan,Joseon dynasty
-1875,1875,Las Cuevas War,Texas Rangers,Mexican Militia
-1875,1876,Perak War,British Empire,Malay rebels
+Arapaho Tribes",
+1874,1876,Ethiopian–Egyptian War,Ethiopia,Egypt,
+1875,1875,Ganghwa Island incident,Empire of Japan,Joseon dynasty,
+1875,1875,Las Cuevas War,Texas Rangers,Mexican Militia,
+1875,1876,Perak War,British Empire,Malay rebels,
 1875,1876,Mason County War,"Vigilantes
 German-American
-settlers",Texas Rangers
+settlers",Texas Rangers,
 1876,1876,Shinpuren Rebellion,Empire of Japan,"Keishintō
 Samurai of former the
-Kumamoto Domain"
-1876,1876,Razlovtsi insurrection,Ottoman Empire,Bulgarian rebels
-1876,1876,April Uprising,Ottoman Empire,Bulgarian rebels
+Kumamoto Domain",
+1876,1876,Razlovtsi insurrection,Ottoman Empire,Bulgarian rebels,
+1876,1876,April Uprising,Ottoman Empire,Bulgarian rebels,
 1876,1876,Akizuki Rebellion,Empire of Japan,"Samurai of former the Akizuki
-Domain"
-1876,1876,Hagi Rebellion,Empire of Japan,Choshu Domain
-1876,1877,Colombian Civil War of 1876,Colombian Liberals,Colombian Conservatives
+Domain",
+1876,1876,Hagi Rebellion,Empire of Japan,Choshu Domain,
+1876,1877,Colombian Civil War of 1876,Colombian Liberals,Colombian Conservatives,
 1876,1877,"Great Sioux War of 1876
 Black Hills War","United States
 Shoshone Tribes
 Crow Nation
 Pawnee Tribes","Arapaho Tribes
 Cheyenne Tribes
-Lakota Tribes"
-1876,1878,Qing reconquest of Xinjiang,Qing dynasty,Kashgaria
+Lakota Tribes",
+1876,1878,Qing reconquest of Xinjiang,Qing dynasty,Kashgaria,
 1876,1878,"Montenegrin–Ottoman War
 (1876–78)
-Part of the Great Eastern
-Crisis",Montenegro,Ottoman Empire
+",Montenegro,Ottoman Empire,"Great Eastern
+Crisis"
 1877,1890,Angoche Civil War[17],Followers of Farelay,"6 other claimants to the
-throne of the Angoche"
-,,,,Sultanate
-1877,1877,Nez Perce War,United States,Nez Perce
+throne of the Angoche",
+,,,,Sultanate,
+1877,1877,Nez Perce War,United States,Nez Perce,
 1877,1877,Satsuma Rebellion,Empire of Japan,"Samurai of former the
 Satsuma Domain, Kumamoto
 Domain
-Shi-gakkō"
-1877,1878,San Elizario Salt War,United States,Mexican-Indians
+Shi-gakkō",
+1877,1878,San Elizario Salt War,United States,Mexican-Indians,
 1877,1879,Ninth Xhosa War,"British Empire
-Mfengu Tribe",Xhosa Gcaleka Tribe
+Mfengu Tribe",Xhosa Gcaleka Tribe,
 1877,1878,Russo-Turkish War (1877–78),"Russian Empire
 Serbia
 Romania
 Montenegro
-Bulgarian volunteers",Ottoman Empire
-1877,1879,Cheyenne War,United States,Cheyenne
+Bulgarian volunteers",Ottoman Empire,
+1877,1879,Cheyenne War,United States,Cheyenne,
 1877,1893,Kiriji War,"Ibadan
 Iwo Kingdom
 Igbajo
@@ -1627,98 +1626,98 @@ Egba Kingdom
 Ijebu Kingdom
 Ila Kingdom
 Ilorin Emirate
-Ife Kingdom"
+Ife Kingdom",
 1878,1878,Bannock War,United States,"Bannock
-Northern Shoshone"
+Northern Shoshone",
 1878,1878,"Austro-Hungarian campaign
 in Bosnia and Herzegovina in
-1878",Austria-Hungary,Bosnia Vilayet
-1878,1878,Kanak Revolt,France,Kanaks
+1878",Austria-Hungary,Bosnia Vilayet,
+1878,1878,Kanak Revolt,France,Kanaks,
 1878,1878,Lincoln County War,"Ranchers
 Regulators","General Store Monopoly
 John Kinney Gang
 Jesse Evans Gang
-Seven Rivers Warriors"
-1878,1878,Kumanovo Uprising,Ottoman Empire,Serbian rebels
-1878,1878,Epirus Revolt of 1878,Ottoman Empire,Greek rebels
+Seven Rivers Warriors",
+1878,1878,Kumanovo Uprising,Ottoman Empire,Serbian rebels,
+1878,1878,Epirus Revolt of 1878,Ottoman Empire,Greek rebels,
 1878,1878,"1878 Greek Macedonian
-rebellion",Ottoman Empire,Greek rebels
-1878,1879,Kresna–Razlog Uprising,Ottoman Empire,Bulgarian rebels
-1878,1880,Second Anglo-Afghan War,British Empire,Afghanistan
-1878,1885,Conquest of the Desert,Argentina,Araucans
-1878,1888,Nauruan Civil War,King Aweida Loyalists,Anti-Aweida rebels
+rebellion",Ottoman Empire,Greek rebels,
+1878,1879,Kresna–Razlog Uprising,Ottoman Empire,Bulgarian rebels,
+1878,1880,Second Anglo-Afghan War,British Empire,Afghanistan,
+1878,1885,Conquest of the Desert,Argentina,Araucans,
+1878,1888,Nauruan Civil War,King Aweida Loyalists,Anti-Aweida rebels,
 ,,,"German Empire
-(1888)",
-1879,1880,Little War (Cuba),Kingdom of Spain,Cuba
-1879,1879,Jementah Civil War,Johor Sultanate,Muar
+(1888)",,
+1879,1880,Little War (Cuba),Kingdom of Spain,Cuba,
+1879,1879,Jementah Civil War,Johor Sultanate,Muar,
 1879,1879,Anglo-Zulu War,"British Empire
-Colony of Natal",Zulu Kingdom
-1879,1879,Second Sekhukhune War,British Empire,BaPedi Kingdom
+Colony of Natal",Zulu Kingdom,
+1879,1879,Second Sekhukhune War,British Empire,BaPedi Kingdom,
 1879,1883,War of the Pacific,Chile,"Peru
-Bolivia"
-1879,1879,Sheepeater Indian War,United States,Turakina
+Bolivia",
+1879,1879,Sheepeater Indian War,United States,Turakina,
 1879,1881,Victorio's War,"United States
-Mexico",Apache
-Start,Finish,Name of conflict,Belligerents,
+Mexico",Apache,
+Start,Finish,Name of conflict,Belligerents,,
 ,,,"Victorious party (if
-applicable)",Defeated party (if applicable)
-1880,1881,Basuto Gun War,Basotho Tribe,Cape Colony
-1880,1881,Brsjak Revolt,Ottoman Empire,Christian rebels
+applicable)",Defeated party (if applicable),
+1880,1881,Basuto Gun War,Basotho Tribe,Cape Colony,
+1880,1881,Brsjak Revolt,Ottoman Empire,Christian rebels,
 1880,1881,"Kurdish revolt of
-1880–1881[8]",Ottoman Empire,Kurdish rebels
-1880,1881,First Boer War,South African Republic,British Empire
+1880–1881[8]",Ottoman Empire,Kurdish rebels,
+1880,1881,First Boer War,South African Republic,British Empire,
 1881,1881,"Mapuche uprising of
-1881",Chile,Mapuche rebels
+1881",Chile,Mapuche rebels,
 1881,1881,"French occupation of
-Tunisia",France,Tunisia
+Tunisia",France,Tunisia,
 1881,1899,Mahdist War,"Egypt
 British Empire
 Italy
 Belgium
-Ethiopian Empire",Mahdist Sudan
+Ethiopian Empire",Mahdist Sudan,
 1882,1882,Anglo-Egyptian War,"British Empire
-Egypt",Egyptian rebels under Arabi Pasha
-1882,1898,Mandingo Wars,French Third Republic,Wassoulou Empire
+Egypt",Egyptian rebels under Arabi Pasha,
+1882,1898,Mandingo Wars,French Third Republic,Wassoulou Empire,
 1882,1892,Pleasant Valley War,"Tewksbury Family
-Arizona Rangers",Graham and Blevins Family
-1883,1914,Ekumeku Movement,British Empire,Ekumeku Organization
-1883,1883,Timok Rebellion,Kingdom of Serbia,People's Radical Party
+Arizona Rangers",Graham and Blevins Family,
+1883,1914,Ekumeku Movement,British Empire,Ekumeku Organization,
+1883,1883,Timok Rebellion,Kingdom of Serbia,People's Radical Party,
 1883,1885,"First Madagascar
-expedition",French Third Republic,Merina Kingdom
+expedition",French Third Republic,Merina Kingdom,
 1883,1886,Tonkin Campaign,French Third Republic,"Qing dynasty
 Black Flag Army
-Nguyen dynasty"
+Nguyen dynasty",
 1884,1885,"Peruvian civil war of
 1884–1885","Reds
 Bolivia","Blues
-Chile"
-1884,1884,Chichibu Incident,Empire of Japan,Japanese peasants
+Chile",
+1884,1884,Chichibu Incident,Empire of Japan,Japanese peasants,
 1884,1885,Sino-French War,"France
 Annam Protectorate","Qing dynasty of China
 Remnants of the Nguyen dynasty of
 Vietnam
-Black Flag Army"
-,,,,
-1884,1885,Mandor Rebellion,Dutch Empire,Lanfang Republic
-1885,1885,,Russian Empire,Tajik Rebels
+Black Flag Army",
+,,,,,
+1884,1885,Mandor Rebellion,Dutch Empire,Lanfang Republic,
+1885,1885,,Russian Empire,Tajik Rebels,
 1885,1885,North-West Rebellion,Canada,"Provisional Government of
 Saskatchewan
-Cree–Assiniboine"
-1885,1885,Serbo-Bulgarian War,Bulgaria,Serbia
+Cree–Assiniboine",
+1885,1885,Serbo-Bulgarian War,Bulgaria,Serbia,
 1885,1885,"Barrios' War of
 Reunification","El Salvador
 Mexico
 Costa Rica
 Nicaragua","Guatemala
-Honduras"
+Honduras",
 1885,1885,"Third Anglo-Burmese
-War",British Empire,Third Burmese Empire
-1885,1885,Jambi Uprising,Dutch Empire,Sumatran Rebels
-1886,1894,Samoan Civil War,Mata'afans,Tamasese
-,,,,
+War",British Empire,Third Burmese Empire,
+1885,1885,Jambi Uprising,Dutch Empire,Sumatran Rebels,
+1886,1894,Samoan Civil War,Mata'afans,Tamasese,
+,,,,,
 1887,1889,Karonga War,"African Lakes Corporation
 Ngonde","Swahili
-Henga"
+Henga",
 1887,1895,"Hawaiian rebellions
 (1887–95)","Hawaiian League
 Republic of Hawaii
@@ -1727,66 +1726,66 @@ United States
 Empire of Japan
 United Kingdom
 Redshirts
-Hawaiian Patriotic League"
+Hawaiian Patriotic League",
 1888,1893,"1888–1893 Uprisings
-of Hazaras",Emirate of Afghanistan,Hazaras
-1888,1888,Sikkim Expedition,British Empire,Tibet
+of Hazaras",Emirate of Afghanistan,Hazaras,
+1888,1888,Sikkim Expedition,British Empire,Tibet,
 1888,1889,Abushiri Revolt,German Empire,"Rebels led by Abushiri ibn Salim al-
-Harthi"
-1889,1890,Ammiyya,Syrian Peasants,Syrian Sheikhs
-1889,1893,Johnson County War,Homesteaders,Cattle Barons
-Start,Finish,Name of conflict,Belligerents,
+Harthi",
+1889,1890,Ammiyya,Syrian Peasants,Syrian Sheikhs,
+1889,1893,Johnson County War,Homesteaders,Cattle Barons,
+Start,Finish,Name of conflict,Belligerents,,
 ,,,"Victorious party (if
 applicable)","Defeated party (if
-applicable)"
+applicable)",
 "Late
 19th
 century","Late 19th
 century","Qu'aiti–Kathiri conflict over
 Mukalla[18]","Qu'aiti
 Supported by:
-British Empire",Kathiri
+British Empire",Kathiri,
 1890s,1890s,"1890s Hamawand
-revolts[19]",Ottoman Empire,Hamawand rebels
-1890,1890,Edi Expedition,Dutch Empire,Acehese Rebels
-1890,1890,Revolution of the Park,Argentina,Civic Union
+revolts[19]",Ottoman Empire,Hamawand rebels,
+1890,1890,Edi Expedition,Dutch Empire,Acehese Rebels,
+1890,1890,Revolution of the Park,Argentina,Civic Union,
 1890,1890,"First Franco-Dahomean
 War","Kingdom of Porto-Novo
 French Third
-Republic",Kingdom of Dahomey
+Republic",Kingdom of Dahomey,
 1890,1916,Castaic Range War,"William Willoby
 Jenkins
 Los Angeles
-Rangers",William C. Chormicle
+Rangers",William C. Chormicle,
 1895,1900,Colorado Range War,Cattle Barons,"Homesteader and
-Rustlers"
-1890,1891,Ghost Dance War,,Sioux tribes
-1891,1891,Battle of Mulayda,Jabal Shammar,Najd
+Rustlers",
+1890,1891,Ghost Dance War,,Sioux tribes,
+1891,1891,Battle of Mulayda,Jabal Shammar,Najd,
 1891,1891,"Yemeni Rebellion of 1891
-Part of the Yemeni–
-Ottoman Conflicts",Ottoman Empire,Zaidis
+",Ottoman Empire,Zaidis,"Yemeni–
+Ottoman Conflicts"
 1891,1891,Hunza-Nagar Campaign,British Raj,"Hunza
-Nagar"
-1891,1891,Anglo-Manipur War,British Raj,Kingdom of Manipur
+Nagar",
+1891,1891,Anglo-Manipur War,British Raj,Kingdom of Manipur,
 1891,1891,Chilean Civil War of 1891,"Congressist Junta
 Navy of Chile","Republic of Chile
-Army of Chile"
-1891,1892,Tomochic Rebellion,Mexico,Rebels
+Army of Chile",
+1891,1892,Tomochic Rebellion,Mexico,Rebels,
 1891,1893,Garza Revolution,"Mexico
-United States",Garzistas
-1891,1894,Semantan War,British Empire,Malay rebels
-1891,1907,Bafut Wars,German Empire,Fondom of Bafut
-,,,,
-1892,1892,Second Hazara Uprising,Emirate of Afghanistan,Hazaras
+United States",Garzistas,
+1891,1894,Semantan War,British Empire,Malay rebels,
+1891,1907,Bafut Wars,German Empire,Fondom of Bafut,
+,,,,,
+1892,1892,Second Hazara Uprising,Emirate of Afghanistan,Hazaras,
 1892,1894,"Second Franco-
-Dahomean War",France,Kingdom of Dahomey
+Dahomean War",France,Kingdom of Dahomey,
 1892,1894,Congo–Arab War,Congo Free State,"Zanzibari Arab Slave
-traders"
-1893,1893,Third Hazara Uprising,Emirate of Afghanistan,Hazaras
+traders",
+1893,1893,Third Hazara Uprising,Emirate of Afghanistan,Hazaras,
 1893,1893,Battle of Al Wajbah,"Al Thani
-Allied Tribes",Ottoman Empire
+Allied Tribes",Ottoman Empire,
 1893,1893,Franco-Siamese conflict,"France
-French Indochina",Siam
+French Indochina",Siam,
 1893,1908,Macedonian Struggle,"Hellenic Macedonian
 Committee
 Ethniki Etaireia (from
@@ -1808,100 +1807,100 @@ Thessaloniki (from
 1900 to 1903)
 Serbian Chetnik
 Organization (from
-1903)",Ottoman Empire
+1903)",Ottoman Empire,
 1893,1893,"Conquest of the Bornu
-Empire",Rabih az-Zubayr's Empire,Bornu Empire
-1893,1894,First Melillan campaign,Spain,Morocco
+Empire",Rabih az-Zubayr's Empire,Bornu Empire,
+1893,1894,First Melillan campaign,Spain,Morocco,
 1893,1894,First Matabele War,"British South Africa
 Company
 Tswana","Ndebele (Matabele)
-kingdom"
-1893,1894,Revolta da Armada,Brazil,Brazilian navy mutineers
+kingdom",
+1893,1894,Revolta da Armada,Brazil,Brazilian navy mutineers,
 1893,1895,Federalist Revolution,Brazil,"Federalist Rebels
-National Party"
+National Party",
 1894,1895,"Peruvian civil war of 1894–
-1895",Rebels,Government of Peru
-,,,,
+1895",Rebels,Government of Peru,
+,,,,,
 1894,1894,Malaboch War,"South African
-Republic",Bahananwa people
-1894,1894,1894 Sasun rebellion,Ottoman Empire,Armenian rebels
+Republic",Bahananwa people,
+1894,1894,1894 Sasun rebellion,Ottoman Empire,Armenian rebels,
 1894,1894,Revolution of the 44,Salvadoran Rebels,"Salvadoran
-Government"
+Government",
 1894,1894,"Donghak Peasant
 Revolution","Joseon dynasty
-Empire of Japan",Donghak army
-1894,1895,First Sino-Japanese War,Empire of Japan,Qing Empire
+Empire of Japan",Donghak army,
+1894,1895,First Sino-Japanese War,Empire of Japan,Qing Empire,
 1894,1895,"Second Madagascar
-expedition",France,Merina Kingdom
-1894,1897,Jandamarra Guerilla War,British Empire,Australian aborigines
-1894,1900,Mat Salleh Rebellion,British Empire,Malay rebels
+expedition",France,Merina Kingdom,
+1894,1897,Jandamarra Guerilla War,British Empire,Australian aborigines,
+1894,1900,Mat Salleh Rebellion,British Empire,Malay rebels,
 1895,1895,"Japanese invasion of
 Taiwan (1895)",Empire of Japan,"Republic of Formosa
-Various militia forces"
-1895,1896,Dungan revolt (1895–96),China,Muslim rebels
+Various militia forces",
+1895,1896,Dungan revolt (1895–96),China,Muslim rebels,
 1895,1896,"Zeitun Rebellion (1895–
-96)",Armenian rebels,Ottoman Empire
-1895,1897,Menalamba rebellion,France,Menalamba rebels
-1895,1896,Fourth Anglo-Ashanti War,United Kingdom,Ashanti Empire
-1895,1896,First Italo-Ethiopian War,Ethiopia,Kingdom of Italy
+96)",Armenian rebels,Ottoman Empire,
+1895,1897,Menalamba rebellion,France,Menalamba rebels,
+1895,1896,Fourth Anglo-Ashanti War,United Kingdom,Ashanti Empire,
+1895,1896,First Italo-Ethiopian War,Ethiopia,Kingdom of Italy,
 1895,1898,"Cuban War of
 Independence","Cuban rebels
-United States",Kingdom of Spain
+United States",Kingdom of Spain,
 1896,1897,"1896–1897 Greek
-Macedonian rebellion",Ottoman Empire,Rebels
-1896,1896,Defense of Van (1896),Ottoman Empire,Armenian rebels
+Macedonian rebellion",Ottoman Empire,Rebels,
+1896,1896,Defense of Van (1896),Ottoman Empire,Armenian rebels,
 1896,1896,"Khaua-Mbandjeru
 Rebellion",German Empire,"Mbandjeru
-Khaua Mbandjeru"
+Khaua Mbandjeru",
 1896,1896,"Anglo-Zanzibar War
 The shortest war in
-history",British Empire,Zanzibar
-1896,1897,War of Canudos,Brazil,Canudos inhabitants
-1896,1897,Langeberg Rebellion,Cape Colony,Batlhaping rebels
-1896,1897,Batetela Rebellion,Congo Free State,Tetela rebels
+history",British Empire,Zanzibar,
+1896,1897,War of Canudos,Brazil,Canudos inhabitants,
+1896,1897,Langeberg Rebellion,Cape Colony,Batlhaping rebels,
+1896,1897,Batetela Rebellion,Congo Free State,Tetela rebels,
 1896,1897,Second Matabele War,"British South Africa
 Company","Ndebele (Matabele)
 people
-Shona (Mashona) people"
+Shona (Mashona) people",
 1896,1898,Philippine Revolution,"Katipunan
 Sovereign Tagalog
 Nation
 First Philippine
 Republic
-United States",Kingdom of Spain
-,,,,
+United States",Kingdom of Spain,
+,,,,,
 1897,1897,"Greco-Turkish War (1897)
-The Thirty Days' War",Ottoman Empire,Kingdom of Greece
-1897,1897,Intentona de Yauco,Spain,Puerto Rican Rebels
-1897,1897,Benin Expedition of 1897,British Empire,Kingdom of Benin
+The Thirty Days' War",Ottoman Empire,Kingdom of Greece,
+1897,1897,Intentona de Yauco,Spain,Puerto Rican Rebels,
+1897,1897,Benin Expedition of 1897,British Empire,Kingdom of Benin,
 1897,1898,"The Great Frontier Revolt
 Malakand Uprising
 Waziristan Expedition
 Tirah Campaign
 Mohmand Revolt",United Kingdom,"Pashtun tribes of
-Afghanistan"
-1898,1898,1898 Baloch uprising,,
-1898,1898,Andijan uprising of 1898,Russian Empire,Kokand Khanate Loyalists
+Afghanistan",
+1898,1898,1898 Baloch uprising,,,
+1898,1898,Andijan uprising of 1898,Russian Empire,Kokand Khanate Loyalists,
 1898,1898,Spanish–American War,"United States
 Cuba
 First Philippine
 Republic
-Katipunan",Kingdom of Spain
+Katipunan",Kingdom of Spain,
 1898,1898,Negros Revolution,"Katipunan
 Negrense
-Revolutionaries",Kingdom of Spain
+Revolutionaries",Kingdom of Spain,
 1898,1899,"Federal Revolution of
-1899",Liberal Party,Conservative Party
-1898,1899,Second Samoan Civil War,Samoa,Mata'afans
+1899",Liberal Party,Conservative Party,
+1898,1899,Second Samoan Civil War,Samoa,Mata'afans,
 1898,1898,1898 Baloch uprising,British Empire,"Rebels under Mir Baloch
 Khan and Mir Mehrab
-Khan Nausherwani"
-1898,1900,Voulet-Chanoine Mission,France,Rabih az-Zubayr's Empire
+Khan Nausherwani",
+1898,1900,Voulet-Chanoine Mission,France,Rabih az-Zubayr's Empire,
 1899,1901,Rabih War,"France
-Kingdom of Baguirmi",Rabih's empire
+Kingdom of Baguirmi",Rabih's empire,
 1899,1902,"(See Battle of Maroua–
 Miskin)","German Empire
-German Kamerun",Adamawa Emirate
+German Kamerun",Adamawa Emirate,
 1899,1901,Boxer Rebellion,"Eight-Nation Alliance
 Empire of Japan
 Russian Empire
@@ -1912,10 +1911,10 @@ German Empire
 Kingdom of Italy
 Austria-Hungary","Righteous Harmony
 Society
-China"
+China",
 ,,,"Netherlands
 Belgium
-Spain",
+Spain",,
 1899,1902,Second Boer War,"British Empire
 Cape Colony
 Natal Colony
@@ -1925,10 +1924,10 @@ Canada
 New Zealand","Orange Free State
 South African
 Republic
-Foreign volunteers"
+Foreign volunteers",
 1899,1902,Thousand Days' War,"Colombian
 Conservative Party","Colombian Liberal
-Party"
+Party",
 1899,"1902
 (Malvar
 surrender)
@@ -1942,6 +1941,6 @@ Republic
 Katipunan
 Pulajanes
 Sultanate of Sulu
-Moro people"
+Moro people",
 1899,1903,Acre War,"Brazil
-Republic of Acre",Bolivia
+Republic of Acre",Bolivia,
