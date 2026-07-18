@@ -1,7 +1,7 @@
 import pandas as pd;
 import requests;
 
-article = "Burmese%E2%80%93Siamese_wars"  # Wikipedia article title, spaces become underscores automatically below
+article = "Zande_resistance?action=edit&redlink=1"  # Wikipedia article title, spaces become underscores automatically below
 project = "en.wikipedia.org"
 start = "20250101"  # YYYYMMDD
 end = "20260630"
