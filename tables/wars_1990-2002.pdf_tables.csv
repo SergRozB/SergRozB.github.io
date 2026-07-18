@@ -1,6 +1,6 @@
-Started,Ended,Name of Conflict,Belligerents,,Part of,War link,Wider conflict link
+Started,Ended,Name of Conflict,Belligerents,,Part of,War link,Wider conflict link,Wikipedia pageviews (2025 - 2026)
 ,,,"Victorious party (if
-applicable)",Defeated party (if applicable),,,
+applicable)",Defeated party (if applicable),,,,
 1990,Ongoing,"DHKP/C insurgency in
 Turkey","Government of
 Turkey
@@ -29,11 +29,11 @@ MLKP
 Communist Party of Turkey
 (Workers Voice)
 Supported by:
-Syria (Until 2024)[2]",,,
+Syria (Until 2024)[2]",,,,
 1990,1995,"Eelam War II Part of
 the Sri Lankan Civil
 War",Sri Lanka,"Liberation Tigers of Tamil
-Eelam",,,
+Eelam",,https://en.wikipedia.org/wiki/Eelam_War_II,https://en.wikipedia.org/wiki/Sri_Lankan_civil_war,22331.0
 1990,1991,"Gulf War
 ","United States
 United Kingdom
@@ -75,20 +75,20 @@ Sierra Leone
 Singapore
 South Korea
 Spain",Iraq,"Arab Cold
-War",,
+War",https://en.wikipedia.org/wiki/Gulf_War,https://en.wikipedia.org/wiki/Arab_Cold_War,4463471.0
 ,,,"Sweden
 Syria
 Turkey
-United Arab Emirates",,,,
+United Arab Emirates",,,,,
 1990,1994,Rwandan Civil War,"Rwandan Patriotic
 Front (RPF)","Rwanda
 Zaire (1990)
-France",,,
+France",,https://en.wikipedia.org/wiki/Rwandan_Civil_War,,409147.0
 1990,1990,"1990 Mindanao crisis
 ",Philippines,"Federal Republic of
 Mindanao","1986–90
 Philippine coup
-attempts",,
+attempts",https://en.wikipedia.org/wiki/1990_Mindanao_crisis,https://en.wikipedia.org/wiki/1986%E2%80%9390_Philippine_coup_attempts,5611.0
 1990,1992,"Transnistria War
 ","Transnistria
 Russia[4][5]
@@ -98,7 +98,7 @@ Supported by:
 Romania","dissolution
 of the Soviet Union
 and the Transnistria
-conflict",,
+conflict",https://en.wikipedia.org/wiki/Transnistria_War,https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union,217001.0
 1990,1995,"Tuareg rebellion
 (1990–1995)
 ","Niger
@@ -117,7 +117,7 @@ Front for the Liberation of
 Tamoust, (FLT),
 CRA & ORA coalitions (1994–
 95)","Tuareg
-rebellions",,
+rebellions",https://en.wikipedia.org/wiki/Tuareg_rebellion_(1990%E2%80%931995),https://en.wikipedia.org/wiki/Tuareg_rebellion_(1990%E2%80%931995),46959.0
 1991,1992,"1991–1992 South
 Ossetia War
 ","South Ossetia
@@ -126,7 +126,7 @@ Russia[7]
 Ossetian conflict,
 Georgian Civil War,
 and Dissolution of the
-Soviet Union",,
+Soviet Union",https://en.wikipedia.org/wiki/1991%E2%80%931992_South_Ossetia_War,https://en.wikipedia.org/wiki/1991%E2%80%931992_South_Ossetia_War,22811.0
 "1981/1988/1991
 (disputed)",Ongoing,"Somali Civil War
 ","1980s–1991:
@@ -180,7 +180,7 @@ War against the Islamic
 State, Operation Enduring
 Freedom – Horn of Africa,
 and Global War on
-Terrorism",,
+Terrorism",https://en.wikipedia.org/wiki/Somali_Civil_War,https://en.wikipedia.org/wiki/Conflicts_in_the_Horn_of_Africa,1030780.0
 ,,,"Morocco
 New Zealand
 Norway
@@ -301,7 +301,7 @@ Ethiopia[58]
 UAE[59]
 United Kingdom
 Yemen
-European Union",,,
+European Union",,,,
 ,,,"United States
 Zimbabwe
 1995–2006:
@@ -372,7 +372,7 @@ United
 States[25][28][29]
 U.S. Army
 U.S. Marine Corps
-U.S. Air Force",,,,
+U.S. Air Force",,,,,
 ,,,"U.S. Navy
 CIA
 AFRICOM
@@ -446,8 +446,8 @@ Puntland Maritime
 Police Force
 Jubaland
 Jubaland Dervish Force
-Raskamboni",,,,
-,,,Movement,,,,
+Raskamboni",,,,,
+,,,Movement,,,,,
 1991,1991,"Operation Traíra
 ","Brazil
 Brazilian Army
@@ -457,7 +457,7 @@ Colombia
 Colombian Army","FARC
 Comando Simón Bolívar","Colombian
 conflict and war on
-drugs",,
+drugs",https://en.wikipedia.org/wiki/Operation_Traira,https://en.wikipedia.org/wiki/Colombian_conflict,16060.0
 1991,1991,"1991 Iraqi uprisings
 ","Ba'athist Iraq
 Ba'ath Party
@@ -489,7 +489,7 @@ PDKI
 Diplomatic Support:
 United States[60]
 Military Support Iran[61]","aftermath of the
-Gulf War",,
+Gulf War",https://en.wikipedia.org/wiki/1991_Iraqi_uprisings,https://en.wikipedia.org/wiki/Aftermath_of_the_Gulf_War,173344.0
 1991,2002,"Sierra Leone Civil War
 ","Sierra Leone
 SLA (before and after the
@@ -531,8 +531,8 @@ Supported by:
 Libya
 Burkina Faso","spillover of the
 First and Second Liberian
-Civil Wars",,
-,,,,,,,
+Civil Wars",https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War,https://en.wikipedia.org/wiki/First_Liberian_Civil_War,442793.0
+,,,,,,,,
 1991,1995,"Croatian War of
 Independence Part of
 the Yugoslav Wars","1991–94:
@@ -548,9 +548,9 @@ and Western Syrmia
 SAO Western Slavonia
 1992–95:
 Serbian Krajina
-Republika Srpska",,,
+Republika Srpska",,https://en.wikipedia.org/wiki/Croatian_War_of_Independence,https://en.wikipedia.org/wiki/Croatian_War_of_Independence,687307.0
 1991,1991,"Ten-Day War
-",Slovenia,Yugoslavia,Yugoslav Wars,,
+",Slovenia,Yugoslavia,Yugoslav Wars,https://en.wikipedia.org/wiki/Ten-Day_War,https://en.wikipedia.org/wiki/Yugoslav_Wars,272794.0
 1991,1991,"1991 Soviet coup d'état
 attempt
 ","Presidency of the
@@ -655,7 +655,7 @@ Serbia
 Montenegro","Cold War, the
 Revolutions of 1989,
 and the dissolution of the
-Soviet Union",,
+Soviet Union",https://en.wikipedia.org/wiki/1991_Soviet_coup_d'%C3%A9tat_attempt,https://en.wikipedia.org/wiki/1991_Soviet_coup_d'%C3%A9tat_attempt,214969.0
 ,,,"Israel
 Italy
 Japan
@@ -671,10 +671,10 @@ United Kingdom
 United States
 Yugoslavia
 Croatia
-Slovenia",,,,
+Slovenia",,,,,
 1991,1994,Djiboutian Civil War,"Djibouti
 Supported by:
-France",FRUD,,,
+France",FRUD,,https://en.wikipedia.org/wiki/Djiboutian_Civil_War,,35759.0
 1991,1993,"Georgian Civil War
 ","Pro-Shevardnadze
 forces
@@ -728,7 +728,7 @@ Ichkeria","post-Soviet
 conflicts, the Wars in the
 Caucasus, and the
 Dissolution of the Soviet
-Union",,
+Union",https://en.wikipedia.org/wiki/Georgian_civil_war_of_1991%E2%80%931993,https://en.wikipedia.org/wiki/Post-Soviet_conflicts,26111.0
 1992,2002,Algerian Civil War,"Government of
 Algeria
 Minor involvement:
@@ -751,19 +751,19 @@ Minor involvement:
 Sudan (alleged)[84][85][86]
 Iran (alleged)[84][85][86]
 Egyptian Islamic Jihad (until
-1995)[87]",,,
+1995)[87]",,https://en.wikipedia.org/wiki/Algerian_Civil_War,,353069.0
 ,,,,"Salafist Group for
 Preaching and Combat (from
 1998)
 Minor involvement:
-Al-Qaeda[84]",,,
+Al-Qaeda[84]",,,,
 1992,1992,"1992 Venezuelan
 coup d'état attempts","Venezuelan
 Government
 Venezuelan Armed
 Forces","MBR-200
 Cuba (alleged)
-DGI",,,
+DGI",,https://en.wikipedia.org/wiki/1992_Venezuelan_coup_d'%C3%A9tat_attempts,https://en.wikipedia.org/wiki/1992_Venezuelan_coup_d'%C3%A9tat_attempts,57266.0
 1992,1995,"Bosnian War Part of
 the Yugoslav Wars","Until October 1992:
 Bosnia and
@@ -798,7 +798,7 @@ Republika Srpska
 Serbian Krajina
 Western Bosnia
 Supported by:
-FR Yugoslavia",,,
+FR Yugoslavia",,https://en.wikipedia.org/wiki/Bosnian_War,https://en.wikipedia.org/wiki/Yugoslav_Wars,1998515.0
 1992,1996,"Afghan Civil War
 (1992–1996)
 ","Taliban (from late
@@ -842,7 +842,7 @@ Pakistan (until late 1994)","Afghan
 conflict and the Iran–
 Saudi Arabia proxy
 conflict (after Dec.
-1992)",,
+1992)",https://en.wikipedia.org/wiki/Afghan_Civil_War_(1992%E2%80%931996),https://en.wikipedia.org/wiki/Afghan_Civil_War_(1992%E2%80%931996),183064.0
 ,,,,"Hezb-i Wahdat (after Dec.
 1992)
 Supported by:
@@ -855,7 +855,7 @@ Regional Kandahar Militia
 Leaders
 Afghan Army and Airforce
 Remnants (allegedly, until
-October 1992)",,,
+October 1992)",,,,
 1992,1997,"Tajikistani Civil War
 ","/ Tajikistan
 Popular Front of
@@ -902,7 +902,7 @@ Iran (alleged, denied by
 Iran)[91][92][93][94]","post-Soviet
 conflicts and spillover
 of the Afghan Civil
-War (1992–1996)",,
+War (1992–1996)",https://en.wikipedia.org/wiki/Tajikistani_Civil_War,https://en.wikipedia.org/wiki/Post-Soviet_conflicts,229461.0
 1992,1993[95][b],"War in Abkhazia (1992–
 1993)
 ","Abkhazia
@@ -913,19 +913,19 @@ Supported by:
 Russia[c]",Georgia,"Georgian–
 Abkhazian conflict
 and the Georgian Civil
-War",,
+War",https://en.wikipedia.org/wiki/War_in_Abkhazia_(1992%E2%80%931993),https://en.wikipedia.org/wiki/War_in_Abkhazia_(1992%E2%80%931993),181281.0
 1992,1992,"East Prigorodny
 conflict
 ","North Ossetia
 Russian
 Federation",Ingush rebels,"post-Soviet
 conflicts and the Wars
-in the Caucasus",,
+in the Caucasus",https://en.wikipedia.org/wiki/East_Prigorodny_conflict,https://en.wikipedia.org/wiki/East_Prigorodny_conflict,46954.0
 1993,1994[97],"Republic of the Congo
 Civil War (1993–1994)","Republic of the
 Congo
 Cocoye Militia","Cobra Militia
-Ninja Militia",,,
+Ninja Militia",,https://en.wikipedia.org/wiki/Republic_of_the_Congo_Civil_War_(1993%E2%80%931994),https://en.wikipedia.org/wiki/Republic_of_the_Congo_Civil_War_(1993%E2%80%931994),22360.0
 1993,1993,"1993 Russian
 constitutional crisis
 ","Presidential
@@ -935,7 +935,7 @@ Administration of
 Protection","Parliamentary forces:
 Congress of People's Deputies
 Supreme Soviet","conflicts in the
-former Soviet Union",,
+former Soviet Union",https://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis,https://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis,471261.0
 ,,,"Ministry of the
 Interior
 Ministry of Defence
@@ -986,7 +986,7 @@ Russian National Unity
 Labour Russia
 Other opposition forces[note 1]
 Support:
-Transnistria[d][100]",,,
+Transnistria[d][100]",,,,
 1993,2005,"Burundian Civil War
 ","Burundi
 Armed forces
@@ -1020,11 +1020,11 @@ Sans Défaite
 Sans Pitié
 Sans Capote","spillovers of the
 Rwandan genocide, First
-and Second Congo Wars",,
+and Second Congo Wars",https://en.wikipedia.org/wiki/Burundian_Civil_War,https://en.wikipedia.org/wiki/Rwandan_genocide,120898.0
 ,,,,"Imbogaraburundi
 PA-Amasekanya
 Supported by:
-RPF (Rwanda)",,,
+RPF (Rwanda)",,,,
 1993,Ongoing,"Maoist insurgency in
 Bangladesh
 Part of Terrorism in
@@ -1042,14 +1042,14 @@ New BCP
 Jamaat-ul-Mujahideen
 Bangladesh
 Jagrata Muslim Janata
-Bangladesh[105]",,,
+Bangladesh[105]",,https://en.wikipedia.org/wiki/Maoist_insurgency_in_Bangladesh,https://en.wikipedia.org/wiki/Maoist_insurgency_in_Bangladesh,27442.0
 1993,Ongoing,Insurgency in Ecuador,Ecuador,"GCP
 PCE-SR
 ELA
 FARE
 CAR (2005–2008)
 FARC dissidents (from
-2018)",,,
+2018)",,https://en.wikipedia.org/wiki/Insurgency_in_Ecuador,,17117.0
 1994,2020,Chiapas conflict,"Mexico
 Paz y Justicia
 United States
@@ -1064,10 +1064,10 @@ Liberation (EZLN)
 Popular Revolutionary
 Army[107]
 Supported by:
-Venezuela (1999–2013)[108]",,,
+Venezuela (1999–2013)[108]",,https://en.wikipedia.org/wiki/Chiapas_conflict,,154176.0
 1994,1994,"1994 Zapatista Uprising
 ","Mexico
-Mexican Armed Forces",EZLN,Chiapas conflict,,
+Mexican Armed Forces",EZLN,Chiapas conflict,https://en.wikipedia.org/wiki/Zapatista_uprising,https://en.wikipedia.org/wiki/Chiapas_conflict,133725.0
 1992,2018,"Insurgency in Ogaden
 ","Ethiopia
 Supported by:
@@ -1078,8 +1078,8 @@ Egypt (alleged by
 Ethiopia)[112]
 al-Itihaad al-Islamiya[113]
 (1992–97)","conflicts in the
-Horn of Africa",,
-,,,,,,,
+Horn of Africa",https://en.wikipedia.org/wiki/Insurgency_in_Ogaden,https://en.wikipedia.org/wiki/Conflicts_in_the_Horn_of_Africa,27787.0
+,,,,,,,,
 1994,1994,"1994 Bophuthatswana
 crisis
 ",BDF mutineers,"Bophuthatswana
@@ -1090,7 +1090,7 @@ Force[114][115]","internal
 resistance to apartheid
 and the negotiations to
 end apartheid in South
-Africa",,
+Africa",https://en.wikipedia.org/wiki/1994_Bophuthatswana_crisis,https://en.wikipedia.org/wiki/1994_Bophuthatswana_crisis,82511.0
 1994,1997,"Iraqi Kurdish Civil War
 ","PUK
 PKK[116]
@@ -1111,11 +1111,11 @@ Kurdish conflict,
 Kurdistan Region-
 PKK conflict and the
 Iraqi no-fly zones
-conflict",,
+conflict",https://en.wikipedia.org/wiki/Iraqi_Kurdish_Civil_War,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,78470.0
 1994,1994,Yemeni Civil War (1994),"Yemen
 Islamic Jihad in
 Yemen[117]","Democratic Republic of
-Yemen",,,
+Yemen",,https://en.wikipedia.org/wiki/Yemeni_Civil_War_(1994),,30887.0
 1994,1996,"First Chechen War
 ","Chechen Republic
 of Ichkeria
@@ -1127,32 +1127,32 @@ conflict, the Russo-
 Caucasian conflict,
 the Wars in the
 Caucasus and post-
-Soviet conflicts",,
-1998,2002,Caprivi conflict,Namibia,Caprivi Liberation Army,,,
+Soviet conflicts",https://en.wikipedia.org/wiki/First_Chechen_War,https://en.wikipedia.org/wiki/Chechen%E2%80%93Russian_conflict,718022.0
+1998,2002,Caprivi conflict,Namibia,Caprivi Liberation Army,,https://en.wikipedia.org/wiki/Caprivi_conflict,,22565.0
 1995,1995,Cenepa War,Peru,"Ecuador
 Armament support by:
 Argentina
 Chile
 Diplomatic support by:
-United States",,,
+United States",,https://en.wikipedia.org/wiki/Cenepa_War,,103900.0
 1995,2002,"Eelam War III
 ","Sri Lanka
 Military of Sri Lanka","Liberation Tigers of Tamil
 Eelam","Sri Lankan Civil
-War",,
+War",https://en.wikipedia.org/wiki/Eelam_War_III,https://en.wikipedia.org/wiki/Sri_Lankan_civil_war,24807.0
 1995,2018,"Second Afar
 Insurgency Part of the
 Eritrean–Ethiopian
 border conflict","Ethiopia
 Eritrea","ARDUF
-RSADO",,,
+RSADO",,https://en.wikipedia.org/wiki/Second_Afar_insurgency,https://en.wikipedia.org/wiki/Second_Afar_insurgency,17507.0
 1995,1995,"1995 Sudanese-Ugandan
-border conflict",Uganda,Sudan,,,
+border conflict",Uganda,Sudan,,https://en.wikipedia.org/wiki/1995_Sudanese-Ugandan_border_conflict?action=edit&redlink=1,https://en.wikipedia.org/wiki/1995_Sudanese-Ugandan_border_conflict?action=edit&redlink=1,-1.0
 1995,1995,"Hanish Islands conflict
 ",Eritrea,Yemen,"conflicts in
-the Horn of Africa",,
+the Horn of Africa",https://en.wikipedia.org/wiki/Hanish_Islands_conflict,https://en.wikipedia.org/wiki/Conflicts_in_the_Horn_of_Africa,32681.0
 1996,1999,Arab-Masalit conflict,"Arab tribes
-Sudan",Masalit tribes,,,
+Sudan",Masalit tribes,,https://en.wikipedia.org/wiki/Arab-Massalit_conflict?action=edit&redlink=1,,-1.0
 1996,2006,Nepalese Civil War,"Communist Party
 of Nepal (Maoist)
 People's Liberation
@@ -1160,7 +1160,7 @@ Army, Nepal","Kingdom of Nepal
 Nepalese Armed Forces
 Royal Nepali Army
 Nepal Police
-Armed Police Force",,,
+Armed Police Force",,https://en.wikipedia.org/wiki/Nepalese_Civil_War,,308522.0
 ,,,"Supported by:
 Communist Party
 of India (Maoist)
@@ -1173,13 +1173,13 @@ Belgium[123]
 China[124]
 United Kingdom[125]
 France[125]
-United States[125]",,,
+United States[125]",,,,
 1996,2001,"Afghan Civil War
 (1996–2001) Part of
 the Afghan conflict",Afghanistan,"Taliban
 Al-Qaeda
 Islamic Uzbek Movement
-Pakistan[126][127][128][129][130]",,,
+Pakistan[126][127][128][129][130]",,https://en.wikipedia.org/wiki/Afghan_Civil_War_(1996%E2%80%932001),https://en.wikipedia.org/wiki/Afghan_Civil_War_(1996%E2%80%932001),137005.0
 1996,1997,"First Congo War
 ","AFDL
 Rwanda
@@ -1219,7 +1219,7 @@ Rwandan genocide,
 spillovers of the Burundian
 Civil War, the Second
 Sudanese Civil War and
-the Angolan Civil War",,
+the Angolan Civil War",https://en.wikipedia.org/wiki/First_Congo_War,https://en.wikipedia.org/wiki/Congolese_Civil_War_(disambiguation),430222.0
 1996,Ongoing,"ADF insurgency
 ","Uganda
 DR Congo
@@ -1247,7 +1247,7 @@ Various Jihadi groups
 claim)[151]
 Sudan (1990s; currently
 unknown)","Kivu
-conflict",https://en.wikipedia.org/wiki/List_of_ongoing_military_conflicts,
+conflict",https://en.wikipedia.org/wiki/Allied_Democratic_Forces_insurgency,https://en.wikipedia.org/wiki/Kivu_conflict,98901.0
 1997,1997,"1997 Albanian civil
 unrest","Albanian Government
 Democratic Party
@@ -1257,7 +1257,7 @@ Albanian Police","Albanian Rebels
 Armed civilians who lost their
 properties
 Armed gangs
-Albanian Army defectors",,,
+Albanian Army defectors",,https://en.wikipedia.org/wiki/1997_Albanian_civil_unrest,https://en.wikipedia.org/wiki/1997_Albanian_civil_unrest,156945.0
 ,,,"Republican Guard
 UNSC missions
 Austria
@@ -1270,9 +1270,9 @@ Spain
 Turkey
 United States","Salvation Committees
 Socialist Party
-Social Democratic Party",,,
+Social Democratic Party",,,,
 1997,1997,"1997 Sudanese-Eritrean
-border conflict",Eritrea,Sudan,,,
+border conflict",Eritrea,Sudan,,https://en.wikipedia.org/wiki/1997_Sudanese-Eritrean_border_conflict?action=edit&redlink=1,https://en.wikipedia.org/wiki/1997_Sudanese-Eritrean_border_conflict?action=edit&redlink=1,-1.0
 1997,1999,"Republic of the Congo
 Civil War (1997–1999)
 ","Armed Forces of
@@ -1296,12 +1296,12 @@ Supported by:
 DR Congo","aftermaths
 of the First Congo
 War and Rwandan
-genocide",,
+genocide",https://en.wikipedia.org/wiki/Republic_of_the_Congo_Civil_War_(1997%E2%80%931999),https://en.wikipedia.org/wiki/Republic_of_the_Congo_Civil_War_(1997%E2%80%931999),52256.0
 1997,1997,"1997 clashes in
 Cambodia","Cambodian People's
 Party","FUNCINPEC
 Khmer Rouge (mostly in the
-northern provinces)[154]",,,
+northern provinces)[154]",,https://en.wikipedia.org/wiki/1997_clashes_in_Cambodia,https://en.wikipedia.org/wiki/1997_clashes_in_Cambodia,9147.0
 1998,1998,"1998 Monrovia
 clashes
 ","Liberian
@@ -1312,7 +1312,7 @@ Limited involvement:
 Nigeria
 United States","aftermath
 of the First Liberian
-Civil War",,
+Civil War",https://en.wikipedia.org/wiki/1998_Monrovia_clashes,https://en.wikipedia.org/wiki/1998_Monrovia_clashes,14674.0
 1998,1999,"Kosovo War Part of
 the Yugoslav
 Wars[155]","Kosovo Liberation
@@ -1332,20 +1332,20 @@ Portugal
 Spain
 Turkey[157]
 United Kingdom
-United States",FR Yugoslavia,,,
+United States",FR Yugoslavia,,https://en.wikipedia.org/wiki/Kosovo_War,https://en.wikipedia.org/wiki/Yugoslav_Wars,1340784.0
 1998,2000,"Eritrean–Ethiopian
 War
 ",Ethiopia,Eritrea,"Eritrean–
 Ethiopian border
-conflict",,
+conflict",https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_War,https://en.wikipedia.org/wiki/Eritrean%E2%80%93Ethiopian_War,219914.0
 1998,1998,"War in Abkhazia
 (1998) Part of the
 Georgian–Abkhazian
 conflict",Abkhazia,"Georgian separatists
 White Legion
 Mkhedrioni
-Forest Brothers",,,
-,,,,,,,
+Forest Brothers",,https://en.wikipedia.org/wiki/War_in_Abkhazia_(1998),https://en.wikipedia.org/wiki/War_in_Abkhazia_(1998),25725.0
+,,,,,,,,
 1998,1999,"Guinea-Bissau Civil
 War","Military rebels
 MFDC[158]
@@ -1356,7 +1356,7 @@ Senegal[161]
 Guinea[162]
 Supported by:
 France[159]
-Portugal[163]",,,
+Portugal[163]",,https://en.wikipedia.org/wiki/Guinea-Bissau_Civil_War,https://en.wikipedia.org/wiki/Guinea-Bissau_Civil_War,36155.0
 1998,2003,"Second Congo War
 ","Pro-government:
 DR Congo
@@ -1397,10 +1397,10 @@ Burundi
 Libya (alleged)[164]","Congolese Civil
 Wars and the aftermath of
 the First Congo War and
-the Angolan Civil War",,
+the Angolan Civil War",https://en.wikipedia.org/wiki/Second_Congo_War,https://en.wikipedia.org/wiki/Congolese_Civil_War_(disambiguation),789248.0
 1998,1998,"1998 Saudi-Yemeni
 border
-clash[165][166][167]",Yemen,Saudi Arabia,,,
+clash[165][166][167]",Yemen,Saudi Arabia,,https://en.wikipedia.org/wiki/Saudi_Arabia%E2%80%93Yemen_relations#1998_clash,https://en.wikipedia.org/wiki/Saudi_Arabia%E2%80%93Yemen_relations#1998_clash,17895.0
 1998,Ongoing,"Al-Qaeda insurgency
 in Yemen
 ","Republic of
@@ -1472,7 +1472,7 @@ Saleh loyalists (until 2017)
 Pro-Houthi Popular
 Committees[222]","war on
 terror and the Yemeni
-Civil War",,
+Civil War",https://en.wikipedia.org/wiki/Al-Qaeda_insurgency_in_Yemen,https://en.wikipedia.org/wiki/Al-Qaeda_insurgency_in_Yemen,96417.0
 ,,,"Morocco[189]
 (2015–19)[190]
 Qatar (2015–17)[191]
@@ -1505,7 +1505,7 @@ Iran[224][225]
 Hezbollah[226]
 North Korea[227][228][229][230]
 Islamic State
-Islamic State - Yemen Province",,,
+Islamic State - Yemen Province",,,,
 1999,2002,"Maluku sectarian conflict
 ","Government of
 Indonesia
@@ -1529,7 +1529,7 @@ Laskar Kristus
 Maluku Sovereignty Front
 Brigade Manguni
 Pasukan Merah","post-Suharto
-era in Indonesia",,
+era in Indonesia",https://en.wikipedia.org/wiki/Maluku_sectarian_conflict,https://en.wikipedia.org/wiki/Post-Suharto_era_in_Indonesia,90306.0
 1999,2002,"1999 East Timorese
 crisis
 Part of the
@@ -1540,7 +1540,7 @@ UNTAET","Pro-Indonesia militias
 Aitarak
 Besi Merah Putih
 Laksaur
-Mahidi",,,
+Mahidi",,https://en.wikipedia.org/wiki/1999_East_Timorese_crisis,https://en.wikipedia.org/wiki/1999_East_Timorese_crisis,157617.0
 1999[231],2003,"Second Liberian Civil
 War
 ","Rebel groups:
@@ -1560,28 +1560,28 @@ RUF
 RDFG","Liberian
 Civil Wars and
 spillover of the Sierra
-Leone Civil War",,
+Leone Civil War",https://en.wikipedia.org/wiki/Second_Liberian_Civil_War,https://en.wikipedia.org/wiki/Second_Liberian_Civil_War,195853.0
 ,,,"Ivory Coast
 United Kingdom
-United States",,,,
+United States",,,,,
 1999,1999,"Kargil War
 ",India,"Pakistan
 Non-state allies:
 United Jihad Council[232]
 Afghan mercenaries","Kashmir
 conflict and the India–
-Pakistan conflict",,
+Pakistan conflict",https://en.wikipedia.org/wiki/Kargil_War,https://en.wikipedia.org/wiki/Kashmir_conflict,1565500.0
 1999,2001[233],"Insurgency in the Preševo
 Valley
 ","FR Yugoslavia
 KFOR",UÇPMB,"Yugoslav
-Wars",,
+Wars",https://en.wikipedia.org/wiki/Insurgency_in_the_Pre%C5%A1evo_Valley,https://en.wikipedia.org/wiki/Insurgency_in_the_Pre%C5%A1evo_Valley,120254.0
 1999,1999,Batken Conflict,"Kyrgyzstan
 Russia (material
 support)
 Uzbekistan
 (military support)","Islamic Movement of
-Uzbekistan",,,
+Uzbekistan",,https://en.wikipedia.org/wiki/Batken_Conflict,,10548.0
 1972,Ongoing,"Ituri conflict
 ","Hema ethnic group:
 UPC
@@ -1599,7 +1599,7 @@ ADF
 IS-CAP
 Mai-Mai Kyandenga[235]","Second
 Congo War and the
-Kivu conflict",,
+Kivu conflict",https://en.wikipedia.org/wiki/Ituri_conflict,https://en.wikipedia.org/wiki/Second_Congo_War,101051.0
 1999,1999[236][237],"War of Dagestan
 ","Russia
 Armed Forces
@@ -1624,7 +1624,7 @@ IIPB
 SPIR
 Religious Police","spillover of the
 Second Chechen War,
-Post-Soviet conflicts",,
+Post-Soviet conflicts",https://en.wikipedia.org/wiki/War_of_Dagestan,https://en.wikipedia.org/wiki/Second_Chechen_War,65119.0
 1999,2009,"Second Chechen War
 ","Russia
 Provisional Council
@@ -1639,11 +1639,11 @@ North Caucasian volunteers
 Mujahideen[238][239][240][241]
 Grey Wolves[242][243][244]","Chechen-
 Russian conflict and the
-Post-Soviet conflicts",,
-,,,,,,,
+Post-Soviet conflicts",https://en.wikipedia.org/wiki/Second_Chechen_War,https://en.wikipedia.org/wiki/Chechen-Russian_conflict,998234.0
+,,,,,,,,
 2000,2000,"Six-Day War (2000)
 ",Rwanda,Uganda,"Second
-Congo War",,
+Congo War",https://en.wikipedia.org/wiki/Six-Day_War_(2000),https://en.wikipedia.org/wiki/Second_Congo_War,26517.0
 2000,2005,"Second Intifada
 ",Israel,"Palestinian Authority
 PLO
@@ -1656,19 +1656,19 @@ Hamas
 Palestinian Islamic Jihad
 Popular Resistance
 Committees","Israeli–
-Palestinian conflict",,
+Palestinian conflict",https://en.wikipedia.org/wiki/Second_Intifada,https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict,815170.0
 2000,2006,"2000–2006 Shebaa
 Farms conflict
 ",Israel,Hezbollah,"Israeli–
 Lebanese conflict and
 the Iran–Israel proxy
-conflict",,
+conflict",https://en.wikipedia.org/wiki/2000%E2%80%932006_Shebaa_Farms_conflict,https://en.wikipedia.org/wiki/2000%E2%80%932006_Shebaa_Farms_conflict,35498.0
 2001,2001,"2001 insurgency in
 Macedonia Part of the
 Yugoslav Wars",Macedonia,"National Liberation Army
-Albanian National Army[245]",,,
+Albanian National Army[245]",,https://en.wikipedia.org/wiki/2001_insurgency_in_Macedonia,https://en.wikipedia.org/wiki/2001_insurgency_in_Macedonia,218801.0
 2001,2001,"2001 Bangladesh–
-India border clashes",Bangladesh,India,,,
+India border clashes",Bangladesh,India,,https://en.wikipedia.org/wiki/2001_Bangladesh%E2%80%93India_border_clashes,https://en.wikipedia.org/wiki/2001_Bangladesh%E2%80%93India_border_clashes,44247.0
 2001,2001,"2001 Special
 Operations Unit
 mutiny","Special Operations
@@ -1686,7 +1686,7 @@ Support:
 Democratic Party
 New Democracy
 Christian Democratic Party of
-Serbia",,,
+Serbia",,https://en.wikipedia.org/wiki/2001_Special_Operations_Unit_mutiny_(Serbia),https://en.wikipedia.org/wiki/2001_Special_Operations_Unit_mutiny_(Serbia),9477.0
 2001,2003,"Islamist insurgency in
 Iraqi Kurdistan
 ","Kurdistan Region
@@ -1704,7 +1704,7 @@ KDP (alleged by PUK)[249]","Iraqi no-fly
 zones conflict, the
 Iraq War, Islamism in
 Kurdistan, and the
-war on terror",,
+war on terror",https://en.wikipedia.org/wiki/Islamist_insurgency_in_Iraqi_Kurdistan,https://en.wikipedia.org/wiki/Islamist_insurgency_in_Iraqi_Kurdistan,8451.0
 2001,Ongoing,"War on terror
 ","Main countries:
 United States
@@ -1724,7 +1724,7 @@ First Islamic Emirate of
 Afghanistan (Taliban)
 Ba'athist Iraq[note 3]
 Iraqi Ba'athist insurgents","post-Cold War
-and post-9/11 eras",,
+and post-9/11 eras",https://en.wikipedia.org/wiki/War_on_terror,https://en.wikipedia.org/wiki/Post%E2%80%93Cold_War_era,1353275.0
 2001,2021,"Taliban insurgency
 ","Taliban
 · Haqqani network[250]
@@ -1745,8 +1745,8 @@ Albania","War in
 Afghanistan (2001–
 2021), the Afghan
 conflict, and the war
-on terror",,
-,,,,,,,
+on terror",https://en.wikipedia.org/wiki/Taliban_insurgency,https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021),139758.0
+,,,,,,,,
 ,,,"(from 2012)[252]
 · Fidai Mahaz (from 2013)
 Supported by:
@@ -1850,7 +1850,7 @@ Finland
 Bosnia and Herzegovina
 Belgium
 Hungary
-Albania",,,
+Albania",,,,
 ,,,,"Azerbaijan
 Armenia
 Denmark
@@ -1880,7 +1880,7 @@ since
 2015)[270][271][272][273][274][275]
 Jamiat-e Islami[276]
 Junbish-i-Milli[276]
-Hezbe Wahdat[277]",,,
+Hezbe Wahdat[277]",,,,
 2002,2017,"Operation Enduring
 Freedom – Philippines
 ","Philippines
@@ -1902,10 +1902,10 @@ Islamic State of Iraq and the
 Levant (de facto)","Philippine
 civil conflict, Islamic
 terrorism and Global
-War on Terror",,
+War on Terror",https://en.wikipedia.org/wiki/Operation_Enduring_Freedom_%E2%80%93_Philippines,https://en.wikipedia.org/wiki/Operation_Enduring_Freedom_%E2%80%93_Philippines,74607.0
 2002,2003,"2002–2003 conflict in the
 Pool Department","Republic of the
-Congo",Ninja militia,,,
+Congo",Ninja militia,,https://en.wikipedia.org/wiki/2002%E2%80%932003_conflict_in_the_Pool_Department,https://en.wikipedia.org/wiki/2002%E2%80%932003_conflict_in_the_Pool_Department,10623.0
 2002,2007,"First Ivorian Civil War
 ","Ivory Coast
 COJEP
@@ -1916,7 +1916,7 @@ Burkina Faso
 Liberia
 France
 UNOCI","Ivorian Civil
-Wars",,
+Wars",https://en.wikipedia.org/wiki/First_Ivorian_Civil_War,https://en.wikipedia.org/wiki/Ivorian_Civil_War_(disambiguation),137690.0
 2002,Ongoing,"Operation Enduring
 Freedom – Horn of
 Africa","United Kingdom
@@ -1935,7 +1935,7 @@ Hizbul Islam
 Ras Kamboni Brigades
 (2007–10)
 Jabhatul Islamiya
-(2007–09)",,,
+(2007–09)",,https://en.wikipedia.org/wiki/Operation_Enduring_Freedom_%E2%80%93_Horn_of_Africa,https://en.wikipedia.org/wiki/Operation_Enduring_Freedom_%E2%80%93_Horn_of_Africa,85897.0
 ,,,,"Mu'askar Anole
-(2007–09)",,,
-,,,,,,,
+(2007–09)",,,,
+,,,,,,,,

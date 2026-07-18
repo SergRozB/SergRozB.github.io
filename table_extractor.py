@@ -48,24 +48,30 @@ def get_wikipedia_pageviews(article, start, end, project="en.wikipedia.org"):
         return total_views
 
 # PDFList specifies which PDFs to make csvs for
-PDFList = ["wars_1900-1944.pdf", "wars_1945-1989.pdf", 
-        "wars_1990-2002.pdf"]
+
+PDFList = ["wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"]
+#PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf"]
+#PDFList = ["wars_2003-2019.pdf", "wars_2020-present.pdf"]
+#PDFList = ["wars_1990-2002.pdf"]
+#PDFList = ["wars_1900-1944.pdf", "wars_1945-1989.pdf", 
+        #"wars_1990-2002.pdf"]
 #PDFList = ["wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", # Current intended ones
            #"wars_1990-2002.pdf"]
-#PDFList = ["wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
-           #"wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"]
+#PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
+           #"wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
 #PDFList = ["wars_2003-2019.pdf"]
 #PDFList = ["wars_1500-1799.pdf"]
 
+pdfs_with_extra_column = ["wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"]
 pdf_to_df = {}
 pdf_to_war_links = {}
 pdf_to_wider_conflict_links = {}
-use_intermediate_csv = True  # Set to True to skip page processing and use intermediate CSV files if they exist
+use_intermediate_csv = False  # Set to True to skip page processing and use intermediate CSV files if they exist
                             # Ensure relevant intermediate CSV and textfiles exist when set True, otherwise the script will raise an exception.
 skipped_page_processing = False  # Flag to indicate if page processing was skipped
 
 for pdf in PDFList:
-    path = Path(pdf)
+    path = Path("pdfs/"+pdf)
     if path.exists():
         print(f"PDF file '{pdf}' found.")
     else:
@@ -80,7 +86,7 @@ if not use_intermediate_csv:
         p_inspect = None
         list_of_table_conflicts = []
         count = 0
-        with pdfplumber.open(pdf_name) as pdf:
+        with pdfplumber.open('pdfs/'+pdf_name) as pdf:
             for page in tqdm(pdf.pages, desc=f"Processing pages of PDF '{pdf_name}'"):
                 page_number = pdf.pages.index(page) + 1
                 if page_number == 1:
@@ -111,7 +117,10 @@ if not use_intermediate_csv:
                             #print(f"Processing row {j} on page {page_number} of PDF '{pdf_name}'. Count: {count}")
                             if len(row.cells) < 3:
                                 continue  # Skip rows that don't have enough cells
-                            cell_bbox = row.cells[2]  # Assuming the "Name of conflict" column is the third column (index 2)
+                            if pdf_name in pdfs_with_extra_column:
+                                cell_bbox = row.cells[3] # "Name of conflict" column different index in these pdfs
+                            else:
+                                cell_bbox = row.cells[2]  # Assuming the "Name of conflict" column is the third column (index 2)
 
                             if cell_bbox is None:
                                 #print("Warning: Cell bbox is None for row:", j, "on page:", page_number)
@@ -119,7 +128,6 @@ if not use_intermediate_csv:
                                 wider_conflict_links.append("")
                                 list_of_table_conflicts.append(("no cell bbox", page_number, j))
                                 continue
-
                             matching_links = [
                                 link for link in page.hyperlinks
                                 if bbox_overlaps(cell_bbox, (link['x0'], link['top'], link['x1'], link['bottom']))
@@ -158,13 +166,15 @@ if not use_intermediate_csv:
         pdf_to_wider_conflict_links[pdf_name] = wider_conflict_links
         df = pdf_to_df[pdf_name]
 
-        if pdf_name == "wars_1990-2002.pdf": # Removing column which only this PDF has
+        if pdf_name in pdfs_with_extra_column: # Removing column which only this PDF has
             df = df.drop(df.columns[0], axis=1)
 
         if not df.empty:
             header_index = -1
+            conflict_index = 2
             for row_index in range(len(df)):
-                if df.iloc[row_index, 2] == "Name of conflict" or df.iloc[row_index, 2] == "Name of Conflict":
+                print("row index:", row_index, "| row contents:", df.iloc[row_index].tolist())
+                if df.iloc[row_index, conflict_index] == "Name of conflict" or df.iloc[row_index, conflict_index] == "Name of Conflict":
                     header_index = row_index
                     break
                 if row_index > 10:  # Limit the search to the first 10 rows
@@ -206,10 +216,11 @@ if not use_intermediate_csv:
         print("war links length:", len(war_links), "table rows length:", len(df))
         df["War link"] = war_links
         df["Wider conflict link"] = wider_conflict_links
-        intermediate_csv = df.to_csv(f"{pdf_name}_intermediate.csv", index=False)
-        intermediate_file = open(f"{pdf_name}_intermediate_file.txt", "a")
+        intermediate_csv = df.to_csv(f"intermediate/{pdf_name}_intermediate.csv", index=False)
+        intermediate_file = open(f"intermediate/{pdf_name}_intermediate_file.txt", "a")
         intermediate_file.write(str(war_links)+"\n")
         intermediate_file.write(str(wider_conflict_links)+"\n")
+        pdf_to_df[pdf_name] = df
 
 else:
     skipped_page_processing = True
@@ -219,7 +230,7 @@ else:
         if intermediate_csv_path.exists() and intermediate_file_path.exists():
             print(f"Intermediate CSV and file for '{pdf_name}' found. Loading data.")
             df = pd.read_csv(intermediate_csv_path)
-            with open(intermediate_file_path, "r") as f:
+            with open('intermediate/'+intermediate_file_path, "r") as f:
                 lines = f.readlines()
                 war_links = eval(lines[0].strip())
                 wider_conflict_links = eval(lines[1].strip())
@@ -259,18 +270,12 @@ for pdf_name in PDFList:
             page_views_list.append(None)
 
     page_views_title = f"Wikipedia pageviews ({start[:4]} - {end[:4]})"
+    print("LEN of table:", len(df))
     df[page_views_title] = page_views_list
     df_title = f"{pdf_name}_tables.csv"
-    df.to_csv(df_title, index=False) 
+    df.to_csv("tables/"+df_title, index=False) 
 
     pdf_to_df[pdf_name] = df
-    vars_file = open("vars_file.txt", "a")
-    vars_file.write(df_title + "\n")
-    vars_file.write(page_views_title + "\n")
-    vars_file.write(str(page_views_list) + "\n")
-    vars_file.write("END OF PDF: " + pdf_name + "\n")
-
-vars_file.close()
 #im = p_inspect.to_image()
 #im.debug_tablefinder(table_settings={})
 #im.show()
