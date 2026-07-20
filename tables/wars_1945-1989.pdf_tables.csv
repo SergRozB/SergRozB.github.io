@@ -1,7 +1,7 @@
-Started,Ended,Name of conflict,Belligerents,Unnamed: 4,Part of,War link,Wider conflict link,Wikipedia pageviews (2025 - 2026)
-,,,"Victorious party (if
-applicable)",Defeated party (if applicable),,,,
-1944,1963,"Polish anti-communist
+,Started,Ended,Name of conflict,Belligerents,Unnamed: 4,Part of,War link,Wider conflict link,Wikipedia pageviews (2025 - 2026),Continent
+0,,,,"Victorious party (if
+applicable)",Defeated party (if applicable),,,,,Undefined
+1,1944,1963,"Polish anti-communist
 resistance insurgency","Polish Committee of
 National Liberation (until
 1945)
@@ -21,8 +21,8 @@ National Armed Forces
 Freedom and Independence
 Association
 ...and other various organized and
-un-organized groups",,,,
-1944,1962,"Romanian anti-communist
+un-organized groups",,,,,Undefined
+2,1944,1962,"Romanian anti-communist
 resistance movement
 Part of World War II, the
 Cold War and anti-
@@ -44,12 +44,12 @@ Iron Guards
 Supported by:
 United States
 United Kingdom
-CNR",,https://en.wikipedia.org/wiki/Romanian_anti-communist_resistance_movement,https://en.wikipedia.org/wiki/Romanian_anti-communist_resistance_movement,58152.0
-1945,1949,1945 Khuzestan revolt[1],Iran,Khuzestan rebels,,https://en.wikipedia.org/wiki/1945_Khuzestan_revolt?action=edit&redlink=1,,-1.0
-1945,1945,Conquest of al-Ghurfa,"British Empire
-Aden Protectorate",Al-Ghurfa,,https://en.wikipedia.org/wiki/Al-Ghurfa_(1918%E2%80%931945),,-1.0
-1945,1950,Crusader insurgency,Yugoslavia,Crusaders,,https://en.wikipedia.org/wiki/Crusaders_(guerrilla),,50441.0
-1945,1949,"Chinese Civil War
+CNR",,https://en.wikipedia.org/wiki/Romanian_anti-communist_resistance_movement,https://en.wikipedia.org/wiki/Romanian_anti-communist_resistance_movement,58152.0,Europe
+3,1945,1949,1945 Khuzestan revolt[1],Iran,Khuzestan rebels,,https://en.wikipedia.org/wiki/1945_Khuzestan_revolt?action=edit&redlink=1,,-1.0,Undefined
+4,1945,1945,Conquest of al-Ghurfa,"British Empire
+Aden Protectorate",Al-Ghurfa,,https://en.wikipedia.org/wiki/Al-Ghurfa_(1918%E2%80%931945),,-1.0,Undefined
+5,1945,1950,Crusader insurgency,Yugoslavia,Crusaders,,https://en.wikipedia.org/wiki/Crusaders_(guerrilla),,50441.0,Europe
+6,1945,1949,"Chinese Civil War
 (second phase)
 ","1945–1949
 Yan'an Soviet
@@ -66,8 +66,8 @@ Kuomintang
 Republic of China
 Armed Forces","Chinese
 Communist Revolution
-and the Cold War",https://en.wikipedia.org/wiki/Chinese_Civil_War,https://en.wikipedia.org/wiki/Chinese_Communist_Revolution,1569753.0
-1945,1945,"August Revolution
+and the Cold War",https://en.wikipedia.org/wiki/Chinese_Civil_War,https://en.wikipedia.org/wiki/Chinese_Communist_Revolution,1569753.0,Asia
+7,1945,1945,"August Revolution
 ","Việt Minh
 National Liberation
 Committee of Vietnam
@@ -99,16 +99,16 @@ theatre of World War
 II, the Pacific Theater
 of World War II, and
 the Decolonisation of
-Asia",https://en.wikipedia.org/wiki/August_Revolution,https://en.wikipedia.org/wiki/Civil_conflicts_in_Vietnam_(1945%E2%80%931949),144852.0
-,,,"Vietnam Revolutionary
+Asia",https://en.wikipedia.org/wiki/August_Revolution,https://en.wikipedia.org/wiki/Civil_conflicts_in_Vietnam_(1945%E2%80%931949),144852.0,Asia
+8,,,,"Vietnam Revolutionary
 League
 Vietnamese
 Provisional National
 Government
 Việt Quốc
 Đại Việt
-Nationalist",,,,,
-1945,1949,"Indonesian National
+Nationalist",,,,,,Undefined
+9,1945,1949,"Indonesian National
 Revolution
 ","Indonesia
 PDRI[a]
@@ -128,11 +128,11 @@ DI/TII (from 1949)
 FDR
 Small guerrilla groups","aftermath of
 World War II and the
-decolonisation of Asia",https://en.wikipedia.org/wiki/Indonesian_National_Revolution,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,581554.0
-1948,Ongoing,"Korean conflict
+decolonisation of Asia",https://en.wikipedia.org/wiki/Indonesian_National_Revolution,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,581554.0,Asia
+10,1948,Ongoing,"Korean conflict
 ",South Korea,North Korea,"Cold War in
-Asia (until 1991)",https://en.wikipedia.org/wiki/Korean_conflict,https://en.wikipedia.org/wiki/Cold_War,311344.0
-1945,1946,"War in Vietnam
+Asia (until 1991)",https://en.wikipedia.org/wiki/Korean_conflict,https://en.wikipedia.org/wiki/Cold_War,311344.0,Asia
+11,1945,1946,"War in Vietnam
 (1945–46)
 ","British Empire
 United Kingdom
@@ -151,10 +151,10 @@ Cao Đài
 Anti-communist Bình Xuyên
 Việt Nam Quốc Dân Đảng","aftermath
 of World War II and
-the Indochina Wars",https://en.wikipedia.org/wiki/War_in_Vietnam_(1945%E2%80%931946),https://en.wikipedia.org/wiki/War_in_Vietnam_(1945%E2%80%931946),77256.0
-1945,1946,"1945 Hazara
-Rebellion",Hazara rebels,Kingdom of Afghanistan,,https://en.wikipedia.org/wiki/1945_Hazara_Rebellion,https://en.wikipedia.org/wiki/1945_Hazara_Rebellion,7994.0
-1945,1946,"Iran crisis of 1946
+the Indochina Wars",https://en.wikipedia.org/wiki/War_in_Vietnam_(1945%E2%80%931946),https://en.wikipedia.org/wiki/War_in_Vietnam_(1945%E2%80%931946),77256.0,Asia
+12,1945,1946,"1945 Hazara
+Rebellion",Hazara rebels,Kingdom of Afghanistan,,https://en.wikipedia.org/wiki/1945_Hazara_Rebellion,https://en.wikipedia.org/wiki/1945_Hazara_Rebellion,7994.0,Asia
+13,1945,1946,"Iran crisis of 1946
 ","Iran
 Supported by:
 United Kingdom
@@ -167,8 +167,8 @@ Soviet Union","aftermath
 of the Second World
 War, prelude to the
 Cold War and Kurdish
-separatism in Iran",https://en.wikipedia.org/wiki/Iran_crisis_of_1946,https://en.wikipedia.org/wiki/Aftermath_of_the_Second_World_War,204366.0
-1946,1949,"Greek Civil War
+separatism in Iran",https://en.wikipedia.org/wiki/Iran_crisis_of_1946,https://en.wikipedia.org/wiki/Aftermath_of_the_Second_World_War,204366.0,Asia
+14,1946,1949,"Greek Civil War
 ","Kingdom of
 Greece
 Hellenic Army
@@ -179,8 +179,8 @@ Democratic Army (from
 December 1946)
 Communist Party of Greece
 and allies","Cold War
-(from 1947)",https://en.wikipedia.org/wiki/Greek_Civil_War,https://en.wikipedia.org/wiki/Cold_War,568058.0
-,,,"Royal Hellenic
+(from 1947)",https://en.wikipedia.org/wiki/Greek_Civil_War,https://en.wikipedia.org/wiki/Cold_War,568058.0,Europe
+15,,,,"Royal Hellenic
 Navy (limited participation
 in support)
 Royal Gendarmerie
@@ -199,12 +199,12 @@ Supported by:
 Yugoslavia (1946–1948)
 Bulgaria
 Albania
-Soviet Union (limited)",,,,
-1946,1954,"Hukbalahap Rebellion
+Soviet Union (limited)",,,,,Undefined
+16,1946,1954,"Hukbalahap Rebellion
 ","Philippines
 Supported by:
-United States",Philippine Communist Party,Cold War,https://en.wikipedia.org/wiki/Hukbalahap_Rebellion,https://en.wikipedia.org/wiki/Cold_War,49623.0
-1946,1946,Autumn Uprising of 1946,"United States
+United States",Philippine Communist Party,Cold War,https://en.wikipedia.org/wiki/Hukbalahap_Rebellion,https://en.wikipedia.org/wiki/Cold_War,49623.0,Undefined
+17,1946,1946,Autumn Uprising of 1946,"United States
 Army Military
 Government in Korea
 Right-wing groups:
@@ -213,14 +213,14 @@ Association
 Northwest Youth
 League","Communist Party of Korea
 National Council of Korean
-Labour Unions",,https://en.wikipedia.org/wiki/Autumn_Uprising_of_1946,,30634.0
-1946,1946,"Corfu Channel incident
-",Albania,United Kingdom,Cold War,https://en.wikipedia.org/wiki/Corfu_Channel_incident,https://en.wikipedia.org/wiki/Cold_War,59046.0
-1946,1946,Punnapra-Vayalar uprising,"Kingdom of
+Labour Unions",,https://en.wikipedia.org/wiki/Autumn_Uprising_of_1946,,30634.0,Asia
+18,1946,1946,"Corfu Channel incident
+",Albania,United Kingdom,Cold War,https://en.wikipedia.org/wiki/Corfu_Channel_incident,https://en.wikipedia.org/wiki/Cold_War,59046.0,Europe
+19,1946,1946,Punnapra-Vayalar uprising,"Kingdom of
 Travanore","Laborers in Punnapra and
 Vayalar
-Communist Party of India",,https://en.wikipedia.org/wiki/Punnapra-Vayalar_uprising,,58587.0
-1946,1954,"First Indochina War
+Communist Party of India",,https://en.wikipedia.org/wiki/Punnapra-Vayalar_uprising,,58587.0,Asia
+20,1946,1954,"First Indochina War
 ","Democratic
 Republic of Vietnam
 Việt Minh
@@ -239,9 +239,9 @@ CIA","Indochina Wars,
 the Civil war in Vietnam
 (1945-1949), the
 decolonization of Asia, and
-the Cold War in Asia",https://en.wikipedia.org/wiki/First_Indochina_War,https://en.wikipedia.org/wiki/Indochina_Wars,877892.0
-,,,,,,,,
-1946,1951,Telangana Rebellion,"1946–1948:
+the Cold War in Asia",https://en.wikipedia.org/wiki/First_Indochina_War,https://en.wikipedia.org/wiki/Indochina_Wars,877892.0,Asia
+21,,,,,,,,,,Undefined
+22,1946,1951,Telangana Rebellion,"1946–1948:
 Hyderabad
 State
 Durras of Hyderabad
@@ -261,8 +261,8 @@ Supported by:
 Congress socialists (Tirtha
 Group)
 Socialist Party of India
-(1948–1951)",,https://en.wikipedia.org/wiki/Telangana_Rebellion,,112107.0
-1947,1947,"Paraguayan Civil War
+(1948–1951)",,https://en.wikipedia.org/wiki/Telangana_Rebellion,,112107.0,Asia
+23,1947,1947,"Paraguayan Civil War
 (1947)
 ","Paraguayan
 Government
@@ -276,8 +276,8 @@ Febrerista Revolutionary
 Concentration
 Paraguayan Communist
 Party","Cold War (from
-12 March 1947)",https://en.wikipedia.org/wiki/Paraguayan_Civil_War_(1947),https://en.wikipedia.org/wiki/Paraguayan_Civil_War_(1947),38422.0
-1947,1949,"Malagasy Uprising
+12 March 1947)",https://en.wikipedia.org/wiki/Paraguayan_Civil_War_(1947),https://en.wikipedia.org/wiki/Paraguayan_Civil_War_(1947),38422.0,South America
+24,1947,1949,"Malagasy Uprising
 ","France
 French colonial empire
 PADESM (limited
@@ -289,8 +289,8 @@ MDRM (limited involvement)
 Supported by:
 United Kingdom (disputed;
 French intelligence claims)","decolonisation
-of Africa",https://en.wikipedia.org/wiki/Malagasy_Uprising,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,72197.0
-1947,1947,1947 Poonch rebellion,"Azad Army
+of Africa",https://en.wikipedia.org/wiki/Malagasy_Uprising,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,72197.0,Africa
+25,1947,1947,1947 Poonch rebellion,"Azad Army
 Predominantly
 Sudhans in
 Poonch[4][5][6]
@@ -299,9 +299,9 @@ people in Mirpur
 Division[7][8]
 Supported by:
 Pakistan","Jammu and Kashmir State
-Forces",,https://en.wikipedia.org/wiki/1947_Poonch_rebellion,,59195.0
-1948,1948,Annexation of Junagadh,Dominion of India,Junagadh State,,https://en.wikipedia.org/wiki/Annexation_of_Junagadh,,217840.0
-1947,Ongoing,"Indo-Pakistani wars and
+Forces",,https://en.wikipedia.org/wiki/1947_Poonch_rebellion,,59195.0,Asia
+26,1948,1948,Annexation of Junagadh,Dominion of India,Junagadh State,,https://en.wikipedia.org/wiki/Annexation_of_Junagadh,,217840.0,Asia
+27,1947,Ongoing,"Indo-Pakistani wars and
 conflicts
 ","India
 Bangladesh (1971)[9]","Pakistan
@@ -318,19 +318,19 @@ The Resistance Front
 Dukhtaran-e-Millat[10]
 Harkat-ul-Mujahideen","Kashmir
 conflict and the Cold
-War",https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts,https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts,3028703.0
-,,,,"Harkat-ul-Jihad al-Islami
+War",https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts,https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts,3028703.0,Asia
+28,,,,,"Harkat-ul-Jihad al-Islami
 Khalistani insurgents (1984–1995)[11]
-Mizo insurgents (1961–1986)[12]",,,,
-1947,1949,"Indo-Pakistani War of
+Mizo insurgents (1961–1986)[12]",,,,,Undefined
+29,1947,1949,"Indo-Pakistani War of
 1947–1948
 ","India
 Jammu and
 Kashmir[f]",Pakistan,"Indo-
 Pakistani wars,
 Kashmir conflict, and
-the Partition of India",https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1947%E2%80%931948,https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1947%E2%80%931948,111044.0
-1947,1948,"1947–1948 civil war in
+the Partition of India",https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1947%E2%80%931948,https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1947%E2%80%931948,111044.0,Undefined
+30,1947,1948,"1947–1948 civil war in
 Mandatory Palestine
 ","Jewish National
 Council
@@ -349,17 +349,17 @@ Mandatory Palestine","intercommunal
 conflict in Mandatory
 Palestine, the 1948
 Palestine War and the
-decolonisation of Asia",https://en.wikipedia.org/wiki/1947%E2%80%931948_civil_war_in_Mandatory_Palestine,https://en.wikipedia.org/wiki/1947%E2%80%931948_civil_war_in_Mandatory_Palestine,383720.0
-1948[14] or 1947[15],1949,Safi Rebellion[14][15],Afghanistan,Safi rebels,,https://en.wikipedia.org/wiki/Afghan_tribal_revolts_of_1944%E2%80%931947#Aftermath,,30788.0
-1948,1948,Al-Wathbah uprising,Iraqi Police,"Student Cooperation
+decolonisation of Asia",https://en.wikipedia.org/wiki/1947%E2%80%931948_civil_war_in_Mandatory_Palestine,https://en.wikipedia.org/wiki/1947%E2%80%931948_civil_war_in_Mandatory_Palestine,383720.0,Asia
+31,1948[14] or 1947[15],1949,Safi Rebellion[14][15],Afghanistan,Safi rebels,,https://en.wikipedia.org/wiki/Afghan_tribal_revolts_of_1944%E2%80%931947#Aftermath,,30788.0,Undefined
+32,1948,1948,Al-Wathbah uprising,Iraqi Police,"Student Cooperation
 Committee (communists)
 Progressive Democrats
 Populists
 Kurdish Democrats
 Student wings of the National
 Democratic Party and the
-Independence Party",,https://en.wikipedia.org/wiki/Al-Wathbah_uprising,,25735.0
-1948,1948,"Costa Rican civil war
+Independence Party",,https://en.wikipedia.org/wiki/Al-Wathbah_uprising,,25735.0,Asia
+33,1948,1948,"Costa Rican civil war
 ","National
 Liberation Army
 Ulatista Forces
@@ -370,8 +370,8 @@ United States","Government of Costa
 Rica
 Calderon forces
 People's Vanguard Party
-Nicaraguan National Guard",Cold War,https://en.wikipedia.org/wiki/Costa_Rican_civil_war,https://en.wikipedia.org/wiki/Cold_War,3869.0
-1948,Ongoing,"Internal conflict in
+Nicaraguan National Guard",Cold War,https://en.wikipedia.org/wiki/Costa_Rican_civil_war,https://en.wikipedia.org/wiki/Cold_War,3869.0,Undefined
+34,1948,Ongoing,"Internal conflict in
 Myanmar","Union of Burma
 (1948–1962)
 Socialist Republic of
@@ -383,8 +383,8 @@ Myanmar (since 2011)
 SAC (since 2021)","National Unity Government
 (since 2021)
 People's Defence Force
-Ethnic armed organisations[g]",,https://en.wikipedia.org/wiki/Internal_conflict_in_Myanmar,https://en.wikipedia.org/wiki/Internal_conflict_in_Myanmar,81612.0
-1948,1949,"Jeju uprising
+Ethnic armed organisations[g]",,https://en.wikipedia.org/wiki/Internal_conflict_in_Myanmar,https://en.wikipedia.org/wiki/Internal_conflict_in_Myanmar,81612.0,Asia
+35,1948,1949,"Jeju uprising
 ","United States
 Army Military
 Government in Korea
@@ -396,8 +396,8 @@ League
 Korean Youth League","Workers' Party of South
 Korea
 Local supporters","division of
-Korea and the Cold War",https://en.wikipedia.org/wiki/Jeju_uprising,https://en.wikipedia.org/wiki/Division_of_Korea,406051.0
-1948,1958,"La Violencia
+Korea and the Cold War",https://en.wikipedia.org/wiki/Jeju_uprising,https://en.wikipedia.org/wiki/Division_of_Korea,406051.0,Asia
+36,1948,1958,"La Violencia
 ","Colombian
 Conservative Party
 Conservative party
@@ -410,9 +410,9 @@ groups
 Colombian Communist Party
 Grupos de Autodefensas
 Campesinas","Colombian Civil
-Wars and the Cold War",https://en.wikipedia.org/wiki/La_Violencia,https://en.wikipedia.org/wiki/Colombian_Civil_Wars,187214.0
-,,,,,,,,
-1948,1949,"1948 Arab–Israeli War
+Wars and the Cold War",https://en.wikipedia.org/wiki/La_Violencia,https://en.wikipedia.org/wiki/Colombian_Civil_Wars,187214.0,South America
+37,,,,,,,,,,Undefined
+38,1948,1949,"1948 Arab–Israeli War
 ","Israel
 Before 26 May 1948:
 Yishuv
@@ -445,8 +445,8 @@ Arab Liberation Army
 Al-Najjada
 Holy War Army","1948 Palestine
 war and the Arab–Israeli
-conflict",https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War,https://en.wikipedia.org/wiki/1948_Palestine_war,1440564.0
-1948,1960,"Malayan Emergency
+conflict",https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War,https://en.wikipedia.org/wiki/1948_Palestine_war,1440564.0,Africa
+39,1948,1960,"Malayan Emergency
 ","British
 Commonwealth
 forces:
@@ -476,12 +476,12 @@ Malayan Communist Party
 Malayan National Liberation
 Army","decolonization
 of Asia and Cold War in
-Asia",https://en.wikipedia.org/wiki/Malayan_Emergency,https://en.wikipedia.org/wiki/Decolonization_of_Asia,638253.0
-1948,1948,"Annexation of Hyderabad
+Asia",https://en.wikipedia.org/wiki/Malayan_Emergency,https://en.wikipedia.org/wiki/Decolonization_of_Asia,638253.0,Asia
+40,1948,1948,"Annexation of Hyderabad
 Part of Telangana
 Rebellion and the Political
-integration of India",Dominion of India,Hyderabad,,https://en.wikipedia.org/wiki/Annexation_of_Hyderabad,https://en.wikipedia.org/wiki/Telangana_Rebellion,281518.0
-1948,1948,"Madiun Affair
+integration of India",Dominion of India,Hyderabad,,https://en.wikipedia.org/wiki/Annexation_of_Hyderabad,https://en.wikipedia.org/wiki/Telangana_Rebellion,281518.0,Asia
+41,1948,1948,"Madiun Affair
 ","Indonesia
 TNI
 POLRI","People's Democratic Front
@@ -490,42 +490,42 @@ PS
 PBI
 SOBSI
 Pesindo","Indonesian
-National Revolution",https://en.wikipedia.org/wiki/Madiun_Affair,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,58786.0
-1948,1948,"Yeosu–Suncheon rebellion
+National Revolution",https://en.wikipedia.org/wiki/Madiun_Affair,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,58786.0,Undefined
+42,1948,1948,"Yeosu–Suncheon rebellion
 ",South Korea,"Workers' Party of South
 Korea
 Local supporters
 14th regiment","division of
-Korea",https://en.wikipedia.org/wiki/Yeosu%E2%80%93Suncheon_rebellion,https://en.wikipedia.org/wiki/Division_of_Korea,33669.0
-1948,1950,"Pre-Korean War
+Korea",https://en.wikipedia.org/wiki/Yeosu%E2%80%93Suncheon_rebellion,https://en.wikipedia.org/wiki/Division_of_Korea,33669.0,Asia
+43,1948,1950,"Pre-Korean War
 insurgency[23]",South Korea,"Anti-government insurgents
-Pro-North Korean rebels",,https://en.wikipedia.org/wiki/Korean_War,https://en.wikipedia.org/wiki/Korean_War#Communist_insurgency_in_South_Korea_(1948%E2%80%931950),4546373.0
-1949,1949,1949 Hazara Rebellion,"Kingdom of
-Afghanistan",Hazara rebels,,https://en.wikipedia.org/wiki/1949_Hazara_Rebellion,,3944.0
-1949,1956,"Palestinian Fedayeen
+Pro-North Korean rebels",,https://en.wikipedia.org/wiki/Korean_War,https://en.wikipedia.org/wiki/Korean_War#Communist_insurgency_in_South_Korea_(1948%E2%80%931950),4546373.0,Asia
+44,1949,1949,1949 Hazara Rebellion,"Kingdom of
+Afghanistan",Hazara rebels,,https://en.wikipedia.org/wiki/1949_Hazara_Rebellion,,3944.0,Asia
+45,1949,1956,"Palestinian Fedayeen
 insurgency
 ",Israel,"Palestinian Fedayeen
 Supported by:
 All-Palestine Protectorate","Israeli–
 Palestinian conflict and
-Arab–Israeli conflict",https://en.wikipedia.org/wiki/Palestinian_Fedayeen_insurgency,https://en.wikipedia.org/wiki/Palestinian_Fedayeen_insurgency,75455.0
-,,,,"Kingdom of Egypt (until 1953)
+Arab–Israeli conflict",https://en.wikipedia.org/wiki/Palestinian_Fedayeen_insurgency,https://en.wikipedia.org/wiki/Palestinian_Fedayeen_insurgency,75455.0,Asia
+46,,,,,"Kingdom of Egypt (until 1953)
 Republic of Egypt (from
 1953)
 Syria
-Jordan",,,,
-1949,1949,Palace Rebellion,"Phibun regime
+Jordan",,,,,Undefined
+47,1949,1949,Palace Rebellion,"Phibun regime
 Royal Thai Army","Democracy February 26
 Movement
 Royal Thai Navy
-Royal Thai Marine Corps",,https://en.wikipedia.org/wiki/Palace_Rebellion,,11210.0
-1949,1953,"Campaign to Suppress
+Royal Thai Marine Corps",,https://en.wikipedia.org/wiki/Palace_Rebellion,,11210.0,Asia
+48,1949,1953,"Campaign to Suppress
 Bandits in Central and
 Southern China
 ",China,"National Revolutionary
 Army","Chinese
-Civil War",https://en.wikipedia.org/wiki/Campaign_to_Suppress_Bandits_in_Central_and_Southern_China,https://en.wikipedia.org/wiki/Campaign_to_Suppress_Bandits_in_Central_and_Southern_China,6451.0
-1949,1962,"Darul Islam rebellion
+Civil War",https://en.wikipedia.org/wiki/Campaign_to_Suppress_Bandits_in_Central_and_Southern_China,https://en.wikipedia.org/wiki/Campaign_to_Suppress_Bandits_in_Central_and_Southern_China,6451.0,Undefined
+49,1949,1962,"Darul Islam rebellion
 ","Republic of
 Indonesia","Islamic State of Indonesia
 426 Battalion (1951–1952)
@@ -533,8 +533,8 @@ Legion of the Just Ruler
 (until 1950)","aftermath of the
 Indonesian National
 Revolution and Cold War
-in Asia",https://en.wikipedia.org/wiki/Darul_Islam_rebellion,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,39614.0
-1949,Ongoing,"Afghanistan–Pakistan
+in Asia",https://en.wikipedia.org/wiki/Darul_Islam_rebellion,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,39614.0,Asia
+50,1949,Ongoing,"Afghanistan–Pakistan
 border skirmishes
 ",Pakistan,"Afghanistan
 Tehrik-i-Taliban Pakistan
@@ -542,11 +542,11 @@ Tehrik-i-Taliban Pakistan
 Jamaat-ul-Ahrar (2015–
 2020)[26]","Taliban
 insurgency and Insurgency
-in Khyber Pakhtunkhwa",https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_border_skirmishes,https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_border_skirmishes,207648.0
-Started,Ended,Name of conflict,Belligerents,,,,,
-,,,"Victorious party (if
-applicable)",Defeated party (if applicable),,,,
-1950,1958,"Kuomintang Islamic
+in Khyber Pakhtunkhwa",https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_border_skirmishes,https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_border_skirmishes,207648.0,Asia
+51,Started,Ended,Name of conflict,Belligerents,,,,,,Undefined
+52,,,,"Victorious party (if
+applicable)",Defeated party (if applicable),,,,,Undefined
+53,1950,1958,"Kuomintang Islamic
 insurgency
 ","People's Republic of
 China
@@ -554,26 +554,26 @@ Chinese Communist
 Party","Republic of China
 Kuomintang","Cross-Strait
 conflict, the Chinese Civil
-War, and the Cold War",https://en.wikipedia.org/wiki/Kuomintang_Islamic_insurgency,https://en.wikipedia.org/wiki/Kuomintang_Islamic_insurgency,83689.0
-1950,1950,"APRA coup d'état
+War, and the Cold War",https://en.wikipedia.org/wiki/Kuomintang_Islamic_insurgency,https://en.wikipedia.org/wiki/Kuomintang_Islamic_insurgency,83689.0,Asia
+54,1950,1950,"APRA coup d'état
 ","Indonesia
 TNI","Legion of the Just
 Ruler (APRA)","aftermath of the
 Indonesian National
-Revolution",https://en.wikipedia.org/wiki/APRA_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,27230.0
-1950,1950,"Makassar Uprising
+Revolution",https://en.wikipedia.org/wiki/APRA_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,27230.0,Asia
+55,1950,1950,"Makassar Uprising
 ",Republic of Indonesia,East Indonesia,"aftermath of the
 Indonesian National
-Revolution",https://en.wikipedia.org/wiki/Makassar_Uprising,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,18049.0
-1950,1966,"Indonesian invasion of South
+Revolution",https://en.wikipedia.org/wiki/Makassar_Uprising,https://en.wikipedia.org/wiki/Indonesian_National_Revolution,18049.0,Asia
+56,1950,1966,"Indonesian invasion of South
 Maluku
 ","Indonesia
 TNI","Republic of South
 Maluku","aftermath of the
 Indonesian National
-Revolution",https://en.wikipedia.org/wiki/Indonesian_invasion_of_South_Maluku,https://en.wikipedia.org/wiki/Indonesian_invasion_of_South_Maluku,7249.0
-1950,1950,La Revolución del 50,Peru,Rebels,,,,
-25 June 1950,27 July 1953,"Korean War
+Revolution",https://en.wikipedia.org/wiki/Indonesian_invasion_of_South_Maluku,https://en.wikipedia.org/wiki/Indonesian_invasion_of_South_Maluku,7249.0,Undefined
+57,1950,1950,La Revolución del 50,Peru,Rebels,,,,,Undefined
+58,25 June 1950,27 July 1953,"Korean War
 ","South Korea
 United Nations[j]
 United States
@@ -581,19 +581,19 @@ United States
 China
 Soviet Union
 (air support only)","Cold War and the
-Korean conflict",https://en.wikipedia.org/wiki/Korean_War,https://en.wikipedia.org/wiki/Cold_War,4546373.0
-1950,1950,"Battle of Chamdo
+Korean conflict",https://en.wikipedia.org/wiki/Korean_War,https://en.wikipedia.org/wiki/Cold_War,4546373.0,Asia
+59,1950,1950,"Battle of Chamdo
 ",China,Tibet,"Annexation of
 Tibet by the People's
 Republic of China and the
-Cold War",https://en.wikipedia.org/wiki/Battle_of_Chamdo,https://en.wikipedia.org/wiki/Annexation_of_Tibet_by_the_People's_Republic_of_China,121829.0
-1950,1954,"Puerto Rican Nationalist
+Cold War",https://en.wikipedia.org/wiki/Battle_of_Chamdo,https://en.wikipedia.org/wiki/Annexation_of_Tibet_by_the_People's_Republic_of_China,121829.0,Asia
+60,1950,1954,"Puerto Rican Nationalist
 Party revolts of the 1950s","United States
 Puerto Rico National
 Guard","Puerto Rican
 Nationalist Party
-Cadets of the Republic",,https://en.wikipedia.org/wiki/Puerto_Rican_Nationalist_Party_revolts_of_the_1950s,https://en.wikipedia.org/wiki/Puerto_Rican_Nationalist_Party_revolts_of_the_1950s,13675.0
-1950s,1960s,"Reprisal operations (Israel)
+Cadets of the Republic",,https://en.wikipedia.org/wiki/Puerto_Rican_Nationalist_Party_revolts_of_the_1950s,https://en.wikipedia.org/wiki/Puerto_Rican_Nationalist_Party_revolts_of_the_1950s,13675.0,Undefined
+61,1950s,1960s,"Reprisal operations (Israel)
 ",Israel,"All-Palestine
 Palestinian fedayeen
 Supported by:
@@ -606,9 +606,9 @@ Jordan
 Syria","Palestinian
 Fedayeen insurgency
 (during the Arab–Israeli
-conflict)",https://en.wikipedia.org/wiki/Reprisal_operations_(Israel),https://en.wikipedia.org/wiki/Palestinian_Fedayeen_insurgency,5570.0
-1951,1951,Manhattan Rebellion,Phibun's Government,Group of naval officers,,https://en.wikipedia.org/wiki/Manhattan_Rebellion,,19706.0
-1952,1955,Buraimi dispute,"Trucial Emirates
+conflict)",https://en.wikipedia.org/wiki/Reprisal_operations_(Israel),https://en.wikipedia.org/wiki/Palestinian_Fedayeen_insurgency,5570.0,Undefined
+62,1951,1951,Manhattan Rebellion,Phibun's Government,Group of naval officers,,https://en.wikipedia.org/wiki/Manhattan_Rebellion,,19706.0,Asia
+63,1952,1955,Buraimi dispute,"Trucial Emirates
 Emirate of Abu Dhabi
 British Empire
 Supported by
@@ -617,10 +617,10 @@ and Oman
 Aden Protectorate","Saudi Arabia
 Supported by
 Al Bu Shamis tribe
-Na'im tribe",,https://en.wikipedia.org/wiki/Buraimi_dispute,,41023.0
-1952,1952,1952 Hazara Rebellion[28],Afghanistan,Rebels,,https://en.wikipedia.org/wiki/1952_Hazara_Rebellion?action=edit&redlink=1,,-1.0
-,,,,,,,,
-1952,1952,"Egyptian revolution of
+Na'im tribe",,https://en.wikipedia.org/wiki/Buraimi_dispute,,41023.0,Asia
+64,1952,1952,1952 Hazara Rebellion[28],Afghanistan,Rebels,,https://en.wikipedia.org/wiki/1952_Hazara_Rebellion?action=edit&redlink=1,,-1.0,Undefined
+65,,,,,,,,,,Undefined
+66,1952,1952,"Egyptian revolution of
 1952
 Part of the
 decolonisation of Africa
@@ -630,8 +630,8 @@ Movement
 Supported by:
 United States[29][30]","Kingdom of Egypt
 Supported by:
-United Kingdom",,https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952,https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952,139474.0
-1952,1960,"Mau Mau rebellion
+United Kingdom",,https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952,https://en.wikipedia.org/wiki/Egyptian_revolution_of_1952,139474.0,Undefined
+67,1952,1960,"Mau Mau rebellion
 ","United Kingdom
 Kenya
 Uganda
@@ -640,37 +640,37 @@ Kenya Land and Freedom
 Army
 Maasai Bands (from
 1954)[32]","decolonisation of
-Africa",https://en.wikipedia.org/wiki/Mau_Mau_rebellion,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,548277.0
-1953,1953,"Air battle over Merklín
-",Czechoslovakia,United States,Cold War,https://en.wikipedia.org/wiki/Air_battle_over_Merkl%C3%ADn,https://en.wikipedia.org/wiki/Cold_War,19013.0
-1953,1953,"1953 Plzeň uprising
-",Czechoslovakia,Demonstrators,Cold War,https://en.wikipedia.org/wiki/1953_Plze%C5%88_uprising,https://en.wikipedia.org/wiki/Cold_War,11875.0
-1953,1953,"East German uprising of
+Africa",https://en.wikipedia.org/wiki/Mau_Mau_rebellion,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,548277.0,Undefined
+68,1953,1953,"Air battle over Merklín
+",Czechoslovakia,United States,Cold War,https://en.wikipedia.org/wiki/Air_battle_over_Merkl%C3%ADn,https://en.wikipedia.org/wiki/Cold_War,19013.0,Europe
+69,1953,1953,"1953 Plzeň uprising
+",Czechoslovakia,Demonstrators,Cold War,https://en.wikipedia.org/wiki/1953_Plze%C5%88_uprising,https://en.wikipedia.org/wiki/Cold_War,11875.0,Europe
+70,1953,1953,"East German uprising of
 1953
 ","East Germany
 Soviet Union","Anti-Stalinist
-demonstrators",Cold War,https://en.wikipedia.org/wiki/East_German_uprising_of_1953,https://en.wikipedia.org/wiki/East_German_uprising_of_1953,203795.0
-1953,1959,Cuban Revolution,"26th of July Movement
+demonstrators",Cold War,https://en.wikipedia.org/wiki/East_German_uprising_of_1953,https://en.wikipedia.org/wiki/East_German_uprising_of_1953,203795.0,Europe
+71,1953,1959,Cuban Revolution,"26th of July Movement
 Revolutionary Directorate
 of March 13th
 Second National Front of
 Escambray","Cuba
 Cuban Constitutional
-Army",,https://en.wikipedia.org/wiki/Cuban_Revolution,,1061333.0
-1953,1953,"1953 Iranian coup d'état
+Army",,https://en.wikipedia.org/wiki/Cuban_Revolution,,1061333.0,North America
+72,1953,1953,"1953 Iranian coup d'état
 ","House of Pahlavi
 supporters
 United States[l]
 United Kingdom[l]","Iranian Government
 supporters","Abadan Crisis and
-the Cold War",https://en.wikipedia.org/wiki/1953_Iranian_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Abadan_Crisis,1655521.0
-1954,1954,1954 Paraguayan coup d'état,"Paraguayan Army
+the Cold War",https://en.wikipedia.org/wiki/1953_Iranian_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Abadan_Crisis,1655521.0,Asia
+73,1954,1954,1954 Paraguayan coup d'état,"Paraguayan Army
 Colorado Party","Government of
-Paraguay",,https://en.wikipedia.org/wiki/1954_Paraguayan_coup_d'%C3%A9tat,,19591.0
-1954,1954,Kengir uprising,"Soviet Army
+Paraguay",,https://en.wikipedia.org/wiki/1954_Paraguayan_coup_d'%C3%A9tat,,19591.0,South America
+74,1954,1954,Kengir uprising,"Soviet Army
 MVD
-Gulag authorities",Kengir resistance,,https://en.wikipedia.org/wiki/Kengir_uprising,,39666.0
-1954,1954,"Annexation of Dadra and
+Gulag authorities",Kengir resistance,,https://en.wikipedia.org/wiki/Kengir_uprising,,39666.0,Asia
+75,1954,1954,"Annexation of Dadra and
 Nagar Haveli
 ","Indian nationalists
 and communists
@@ -686,22 +686,22 @@ Swayamsevak Sangh[33]
 Supported by:
 India","Portugal
 Portuguese India","decolonisation of
-Asia and the Cold War",https://en.wikipedia.org/wiki/Annexation_of_Dadra_and_Nagar_Haveli,https://en.wikipedia.org/wiki/Annexation_of_Dadra_and_Nagar_Haveli,46109.0
-1954,1955,"First Taiwan Strait Crisis
+Asia and the Cold War",https://en.wikipedia.org/wiki/Annexation_of_Dadra_and_Nagar_Haveli,https://en.wikipedia.org/wiki/Annexation_of_Dadra_and_Nagar_Haveli,46109.0,Asia
+76,1954,1955,"First Taiwan Strait Crisis
 ","People's Republic of
 China","Republic of China
 United States","Cold War and the
 aftermath of the Chinese
-Civil War",https://en.wikipedia.org/wiki/First_Taiwan_Strait_Crisis,https://en.wikipedia.org/wiki/Cold_War,161846.0
-1954,1959,"Jebel Akhdar War
+Civil War",https://en.wikipedia.org/wiki/First_Taiwan_Strait_Crisis,https://en.wikipedia.org/wiki/Cold_War,161846.0,Asia
+77,1954,1959,"Jebel Akhdar War
 ","Sultanate of Muscat
 United Kingdom","Imamate of Oman
 Supported by:
 Republic of Egypt
 Saudi Arabia","decolonisation of
-Asia and the Arab Cold War",https://en.wikipedia.org/wiki/Jebel_Akhdar_War,https://en.wikipedia.org/wiki/Decolonisation_of_Asia,86980.0
-,,,,,,,,
-1954,1962,"Algerian War
+Asia and the Arab Cold War",https://en.wikipedia.org/wiki/Jebel_Akhdar_War,https://en.wikipedia.org/wiki/Decolonisation_of_Asia,86980.0,Asia
+78,,,,,,,,,,Undefined
+79,1954,1962,"Algerian War
 ","FLN
 MNA
 PCA","French Fourth Republic
@@ -715,8 +715,8 @@ FAF
 (1960–61)
 OAS
 (1961–62)","Cold War and the
-decolonisation of Africa",https://en.wikipedia.org/wiki/Algerian_War,https://en.wikipedia.org/wiki/Cold_War,1011686.0
-1954,Ongoing,Insurgency in Northeast India,"India
+decolonisation of Africa",https://en.wikipedia.org/wiki/Algerian_War,https://en.wikipedia.org/wiki/Cold_War,1011686.0,Africa
+80,1954,Ongoing,Insurgency in Northeast India,"India
 Indian Armed Forces
 Central Reserve
 Police Force
@@ -788,15 +788,15 @@ Solidarity (1999–2014)
 Supported by:
 China (claimed by India)[39]
 Myanmar (until 2018)[40]
-Bhutan (until 2003)[41]",,https://en.wikipedia.org/wiki/Insurgency_in_Northeast_India,,210238.0
-,,,,"CPI (Maoist)[42]
+Bhutan (until 2003)[41]",,https://en.wikipedia.org/wiki/Insurgency_in_Northeast_India,,210238.0,Asia
+81,,,,,"CPI (Maoist)[42]
 Jihadist groups:
 MULT Assam (1996–
 2016)
 AQIS (2016–
-present)[43]",,,,
-1955,1955,Afghan tribal revolt of 1955,Afghanistan,Rebels,,https://en.wikipedia.org/wiki/1955_in_Afghanistan#Tribal_revolt_(unknown_date),,3797.0
-1955,1955,"Calderonista invasion of
+present)[43]",,,,,Undefined
+82,1955,1955,Afghan tribal revolt of 1955,Afghanistan,Rebels,,https://en.wikipedia.org/wiki/1955_in_Afghanistan#Tribal_revolt_(unknown_date),,3797.0,Undefined
+83,1955,1955,"Calderonista invasion of
 Costa Rica","Costa Rica
 Supported by:
 United States
@@ -807,8 +807,8 @@ Nicaragua
 Venezuela
 Dominican Republic
 Guatemala
-(Diplomatic Support)",,https://en.wikipedia.org/wiki/Calderonista_invasion_of_Costa_Rica,https://en.wikipedia.org/wiki/Calderonista_invasion_of_Costa_Rica,14016.0
-1955,1955,Revolución Libertadora,"Antiperonist rebels
+(Diplomatic Support)",,https://en.wikipedia.org/wiki/Calderonista_invasion_of_Costa_Rica,https://en.wikipedia.org/wiki/Calderonista_invasion_of_Costa_Rica,14016.0,North America
+84,1955,1955,Revolución Libertadora,"Antiperonist rebels
 Argentine Navy
 Argentine Air Force
 Argentine Army
@@ -817,8 +817,8 @@ Argentine Army
 Argentine Air Force
 Peronist Party
 Nationalist Liberation
-Alliance",,https://en.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora,,106329.0
-1955,1964,"Bamileke War
+Alliance",,https://en.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora,,106329.0,South America
+85,1955,1964,"Bamileke War
 ","Independence War
 Phase (1955–1960)
 France (1955–1960)
@@ -832,9 +832,9 @@ of Cameroon
 Supported by:
 People's Socialist
 Republic of Albania[44]","decolonisation of
-Africa",https://en.wikipedia.org/wiki/Bamileke_War,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,8357.0
-1955,1957,Upper Yafa uprisings[45],United Kingdom,Rebels,,https://en.wikipedia.org/wiki/Upper_Yafa,,26175.0
-1955,1972,"First Sudanese Civil War
+Africa",https://en.wikipedia.org/wiki/Bamileke_War,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,8357.0,Undefined
+86,1955,1957,Upper Yafa uprisings[45],United Kingdom,Rebels,,https://en.wikipedia.org/wiki/Upper_Yafa,,26175.0,Undefined
+87,1955,1972,"First Sudanese Civil War
 ","SDF mutineers,
 bandits, and unaffiliated
 separatist militias
@@ -878,14 +878,14 @@ East Germany[56][58]
 Czechoslovakia[58]","Sudanese Civil
 Wars and the South
 Sudanese wars of
-independence",https://en.wikipedia.org/wiki/First_Sudanese_Civil_War,https://en.wikipedia.org/wiki/Sudanese_Civil_War,158431.0
-,,,,"Saudi Arabia[58]
+independence",https://en.wikipedia.org/wiki/First_Sudanese_Civil_War,https://en.wikipedia.org/wiki/Sudanese_Civil_War,158431.0,Africa
+88,,,,,"Saudi Arabia[58]
 Kingdom of Libya
 (until 1969)[58]
 Algeria[58]
 United States[59]
-West Germany[59]",,,,
-1 November 1955,30 April 1975,"Vietnam War
+West Germany[59]",,,,,Undefined
+89,1 November 1955,30 April 1975,"Vietnam War
 ","North Vietnam
 Viet Cong and PRG
 Pathet Lao
@@ -906,8 +906,8 @@ Thailand
 Philippines
 Taiwan
 Spain","Indochina Wars
-and the Cold War in Asia",https://en.wikipedia.org/wiki/Vietnam_War,https://en.wikipedia.org/wiki/Indochina_Wars,8044273.0
-1955,1959,"Cyprus Emergency
+and the Cold War in Asia",https://en.wikipedia.org/wiki/Vietnam_War,https://en.wikipedia.org/wiki/Indochina_Wars,8044273.0,Asia
+90,1955,1959,"Cyprus Emergency
 ",EOKA,"United Kingdom
 British Cyprus
 Turkey
@@ -915,8 +915,8 @@ Special Warfare
 Department
 Turkish Resistance
 Organisation","Cyprus problem
-and Decolonisation",https://en.wikipedia.org/wiki/Cyprus_Emergency,https://en.wikipedia.org/wiki/Cyprus_problem,144920.0
-1956,1956,"Hungarian Revolution of
+and Decolonisation",https://en.wikipedia.org/wiki/Cyprus_Emergency,https://en.wikipedia.org/wiki/Cyprus_problem,144920.0,Asia
+91,1956,1956,"Hungarian Revolution of
 1956
 ","Soviet Union
 Until 28 October:
@@ -926,48 +926,48 @@ Kádár government","Hungarian
 revolutionaries
 From 28 October:
 Hungary (Nagy
-government)",Cold War,https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956,https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956,961887.0
-1956,1956,"1956 Poznań protests
+government)",Cold War,https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956,https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956,961887.0,Europe
+92,1956,1956,"1956 Poznań protests
 ","Polish People's Army
 Internal Security Corps
-Służba Bezpieczeństwa",Protesters,Cold War,https://en.wikipedia.org/wiki/1956_Pozna%C5%84_protests,https://en.wikipedia.org/wiki/Cold_War,57051.0
-1956,1956,"Suez Crisis
+Służba Bezpieczeństwa",Protesters,Cold War,https://en.wikipedia.org/wiki/1956_Pozna%C5%84_protests,https://en.wikipedia.org/wiki/Cold_War,57051.0,Undefined
+93,1956,1956,"Suez Crisis
 ","Israel
 United Kingdom
 France",Egypt,"Cold War
 and the Arab–Israeli
-conflict",https://en.wikipedia.org/wiki/Suez_Crisis,https://en.wikipedia.org/wiki/Cold_War,1622516.0
-1956,1956,"Quỳnh Lưu uprising
+conflict",https://en.wikipedia.org/wiki/Suez_Crisis,https://en.wikipedia.org/wiki/Cold_War,1622516.0,Africa
+94,1956,1956,"Quỳnh Lưu uprising
 ","North Vietnamese
-Army",Quỳnh Lưu's Christians,Cold War,https://en.wikipedia.org/wiki/Qu%E1%BB%B3nh_L%C6%B0u_uprising,https://en.wikipedia.org/wiki/Cold_War,9873.0
-1957,1958,"Ifni War
+Army",Quỳnh Lưu's Christians,Cold War,https://en.wikipedia.org/wiki/Qu%E1%BB%B3nh_L%C6%B0u_uprising,https://en.wikipedia.org/wiki/Cold_War,9873.0,Asia
+95,1957,1958,"Ifni War
 ","Morocco
 Army of Liberation
 Allied Sahrawi tribes","Spain
 West Africa
 France (1958)
 Mauritania","decolonisation of
-Africa",https://en.wikipedia.org/wiki/Ifni_War,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,132952.0
-1957,1961,PRRI and Permesta rebellion,Indonesia,"Revolutionary Government
+Africa",https://en.wikipedia.org/wiki/Ifni_War,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,132952.0,Africa
+96,1957,1961,PRRI and Permesta rebellion,Indonesia,"Revolutionary Government
 of the Republic of Indonesia
-Permesta",,,,
-Late 1950s,Late 1950s,"Anti-taxation uprising in
-Afghanistan[60]",Afghanistan,Hazara rebels,,https://en.wikipedia.org/wiki/Anti-taxation_uprising_in_Afghanistan?action=edit&redlink=1,https://en.wikipedia.org/wiki/Anti-taxation_uprising_in_Afghanistan?action=edit&redlink=1,-1.0
-1958,1958,"14 July Revolution
+Permesta",,,,,Undefined
+97,Late 1950s,Late 1950s,"Anti-taxation uprising in
+Afghanistan[60]",Afghanistan,Hazara rebels,,https://en.wikipedia.org/wiki/Anti-taxation_uprising_in_Afghanistan?action=edit&redlink=1,https://en.wikipedia.org/wiki/Anti-taxation_uprising_in_Afghanistan?action=edit&redlink=1,-1.0,Undefined
+98,1958,1958,"14 July Revolution
 ","Free Officers
 19th Brigade
 20th Brigade","Arab Federation
 Kingdom of Iraq
 Royal Guard
 Supported by:
-Kingdom of Jordan",Arab Cold War,https://en.wikipedia.org/wiki/14_July_Revolution,https://en.wikipedia.org/wiki/Arab_Cold_War,234250.0
-1958,1958,"1958 Lebanon crisis
+Kingdom of Jordan",Arab Cold War,https://en.wikipedia.org/wiki/14_July_Revolution,https://en.wikipedia.org/wiki/Arab_Cold_War,234250.0,Asia
+99,1958,1958,"1958 Lebanon crisis
 ","Government
 Lebanese Armed
 Forces","Opposition
 Najjadeh Party","Cold War and the
-Arab Cold War",https://en.wikipedia.org/wiki/1958_Lebanon_crisis,https://en.wikipedia.org/wiki/Cold_War,185228.0
-,,,"Kataeb Party
+Arab Cold War",https://en.wikipedia.org/wiki/1958_Lebanon_crisis,https://en.wikipedia.org/wiki/Cold_War,185228.0,Undefined
+100,,,,"Kataeb Party
 Syrian Social
 Nationalist Party
 ARF
@@ -978,13 +978,13 @@ Lebanese Communist
 Party
 Al-Mourabitoun
 Supported by:
-United Arab Republic",,,,
-1958,1958,"Second Taiwan Strait Crisis
+United Arab Republic",,,,,Undefined
+101,1958,1958,"Second Taiwan Strait Crisis
 ","People's Republic of
 China","Republic of China
 United States","Chinese Civil
-War and the Cold War",https://en.wikipedia.org/wiki/Second_Taiwan_Strait_Crisis,https://en.wikipedia.org/wiki/Chinese_Civil_War,233102.0
-1958,Ongoing,"Ethnic conflict in Nagaland
+War and the Cold War",https://en.wikipedia.org/wiki/Second_Taiwan_Strait_Crisis,https://en.wikipedia.org/wiki/Chinese_Civil_War,233102.0,Asia
+102,1958,Ongoing,"Ethnic conflict in Nagaland
 ","India
 Indian Armed Forces
 Central Reserve Police
@@ -1023,20 +1023,20 @@ ZUF
 MNPF
 MNRF (Until 2013)
 UNPC (Until 2013)","Insurgency in
-Northeast India",https://en.wikipedia.org/wiki/Ethnic_conflict_in_Nagaland,https://en.wikipedia.org/wiki/Insurgency_in_Northeast_India,20166.0
-1958,1959,"North Vietnamese invasion of
+Northeast India",https://en.wikipedia.org/wiki/Ethnic_conflict_in_Nagaland,https://en.wikipedia.org/wiki/Insurgency_in_Northeast_India,20166.0,Asia
+103,1958,1959,"North Vietnamese invasion of
 Laos
 ","North Vietnam
 Pathet Lao",Laos,"Vietnam War and
-Laotian Civil War",https://en.wikipedia.org/wiki/North_Vietnamese_invasion_of_Laos,https://en.wikipedia.org/wiki/North_Vietnamese_invasion_of_Laos,46779.0
-1958,1959,"Mexico–Guatemala conflict
+Laotian Civil War",https://en.wikipedia.org/wiki/North_Vietnamese_invasion_of_Laos,https://en.wikipedia.org/wiki/North_Vietnamese_invasion_of_Laos,46779.0,Undefined
+104,1958,1959,"Mexico–Guatemala conflict
 ",Guatemala,Mexico,"Guatemala–
-Mexico relations",https://en.wikipedia.org/wiki/Mexico%E2%80%93Guatemala_conflict,https://en.wikipedia.org/wiki/Guatemala%E2%80%93Mexico_relations,23948.0
-1959,1959,"Spirit Soldier rebellion (1959)
+Mexico relations",https://en.wikipedia.org/wiki/Mexico%E2%80%93Guatemala_conflict,https://en.wikipedia.org/wiki/Guatemala%E2%80%93Mexico_relations,23948.0,North America
+105,1959,1959,"Spirit Soldier rebellion (1959)
 ",China,"""Regiment of Spirit
 Soldiers""","resistance against
-the Great Leap Forward",https://en.wikipedia.org/wiki/Spirit_Soldier_rebellion_(1959),https://en.wikipedia.org/wiki/Great_Leap_Forward#Resistance,6524.0
-1959,1959,"1959 Tibetan uprising
+the Great Leap Forward",https://en.wikipedia.org/wiki/Spirit_Soldier_rebellion_(1959),https://en.wikipedia.org/wiki/Great_Leap_Forward#Resistance,6524.0,Asia
+106,1959,1959,"1959 Tibetan uprising
 ","People's Republic of
 China
 People's Liberation
@@ -1047,11 +1047,11 @@ Army
 Simultaneous rebellion in Kham
 and Amdo:
 Chushi Gangdruk
-Supported by:",Cold War,https://en.wikipedia.org/wiki/1959_Tibetan_uprising,https://en.wikipedia.org/wiki/Cold_War,253852.0
-,,,,"Republic of China
+Supported by:",Cold War,https://en.wikipedia.org/wiki/1959_Tibetan_uprising,https://en.wikipedia.org/wiki/Cold_War,253852.0,Asia
+107,,,,,"Republic of China
 United States (CIA)
-India (diplomatic)",,,,
-1959,1959,"1959 Mosul uprising
+India (diplomatic)",,,,,Undefined
+108,1959,1959,"1959 Mosul uprising
 ","Iraqi Government
 Communist Party
 Kurdistan Democratic
@@ -1067,8 +1067,8 @@ Republic[65][66][67]
 United States[68]
 CIA (alleged)","Arab Cold War
 and Aftermath of the 14 July
-Revolution",https://en.wikipedia.org/wiki/1959_Mosul_uprising,https://en.wikipedia.org/wiki/Arab_Cold_War,39079.0
-1959,1975,"Laotian Civil War
+Revolution",https://en.wikipedia.org/wiki/1959_Mosul_uprising,https://en.wikipedia.org/wiki/Arab_Cold_War,39079.0,Asia
+109,1959,1975,"Laotian Civil War
 ","Pathet Lao
 North Vietnam
 Neutralists (1960–1962)
@@ -1083,8 +1083,8 @@ Thailand
 Republic of China
 (until 1967)","Vietnam War, the
 Indochina Wars, and the
-Cold War in Asia",https://en.wikipedia.org/wiki/Laotian_Civil_War,https://en.wikipedia.org/wiki/Vietnam_War,400352.0
-1959,1965,"Escambray rebellion
+Cold War in Asia",https://en.wikipedia.org/wiki/Laotian_Civil_War,https://en.wikipedia.org/wiki/Vietnam_War,400352.0,Asia
+110,1959,1965,"Escambray rebellion
 ","Government of
 Cuba
 Supported by:
@@ -1096,26 +1096,26 @@ CIA (1959–1961)
 Dominican Republic
 (1960)[69]
 Partido Auténtico[70]","consolidation of
-the Cuban Revolution",https://en.wikipedia.org/wiki/Escambray_rebellion,https://en.wikipedia.org/wiki/Consolidation_of_the_Cuban_Revolution,77965.0
-1959,1959,Pashtun Revolt in Kandahar,Afghanistan,Pashtun rebels,,https://en.wikipedia.org/wiki/Pashtun_Revolt_in_Kandahar?action=edit&redlink=1,,-1.0
-1959,1959,Upper Yafa disturbances[71],"United Kingdom
+the Cuban Revolution",https://en.wikipedia.org/wiki/Escambray_rebellion,https://en.wikipedia.org/wiki/Consolidation_of_the_Cuban_Revolution,77965.0,Undefined
+111,1959,1959,Pashtun Revolt in Kandahar,Afghanistan,Pashtun rebels,,https://en.wikipedia.org/wiki/Pashtun_Revolt_in_Kandahar?action=edit&redlink=1,,-1.0,Undefined
+112,1959,1959,Upper Yafa disturbances[71],"United Kingdom
 Upper Yafa","Rebels
 Supported by:
-Yemen",,https://en.wikipedia.org/wiki/Upper_Yafa_disturbances?action=edit&redlink=1,,-1.0
-1959,1959,"Cuban invasion of
+Yemen",,https://en.wikipedia.org/wiki/Upper_Yafa_disturbances?action=edit&redlink=1,,-1.0,Undefined
+113,1959,1959,"Cuban invasion of
 Panama[72]","Panama
 United States
 Guatemala","Cuba
 Revolutionary Action
 Movement
 May 22 Youth
-Revolutionary Movement",,https://en.wikipedia.org/wiki/Cuban_invasion_of_Panama,https://en.wikipedia.org/wiki/Cuban_invasion_of_Panama,24279.0
-1959,1959,"1959 Viqueque rebellion
+Revolutionary Movement",,https://en.wikipedia.org/wiki/Cuban_invasion_of_Panama,https://en.wikipedia.org/wiki/Cuban_invasion_of_Panama,24279.0,Undefined
+114,1959,1959,"1959 Viqueque rebellion
 ",Estado Novo,Permesta,"Cold War and the
-decolonization of Asia",https://en.wikipedia.org/wiki/1959_Viqueque_rebellion,https://en.wikipedia.org/wiki/Cold_War,8708.0
-1959,1959,"Cuban invasion of the
-Dominican Republic",Dominican Republic,Cuba,,https://en.wikipedia.org/wiki/Foreign_interventions_by_Cuba#1959_Dominican_Republic_invasion_attempt,https://en.wikipedia.org/wiki/Foreign_interventions_by_Cuba#1959_Dominican_Republic_invasion_attempt,79666.0
-1959,2011,"Basque conflict
+decolonization of Asia",https://en.wikipedia.org/wiki/1959_Viqueque_rebellion,https://en.wikipedia.org/wiki/Cold_War,8708.0,Asia
+115,1959,1959,"Cuban invasion of the
+Dominican Republic",Dominican Republic,Cuba,,https://en.wikipedia.org/wiki/Foreign_interventions_by_Cuba#1959_Dominican_Republic_invasion_attempt,https://en.wikipedia.org/wiki/Foreign_interventions_by_Cuba#1959_Dominican_Republic_invasion_attempt,79666.0,Undefined
+116,1959,2011,"Basque conflict
 ","Spain
 Ertzaintza
 National Police Corps
@@ -1143,8 +1143,8 @@ Anti-Marxist Commandos
 (unknown)
 Falange y Tradición (2009)","European
 separatist movements in the
-Basque Country",https://en.wikipedia.org/wiki/Basque_conflict,https://en.wikipedia.org/wiki/List_of_active_separatist_movements_in_Europe,186042.0
-,,,,"Basque National
+Basque Country",https://en.wikipedia.org/wiki/Basque_conflict,https://en.wikipedia.org/wiki/List_of_active_separatist_movements_in_Europe,186042.0,Europe
+117,,,,,"Basque National
 Liberation Movement:
 Euskadi Ta Askatasuna
 Iparretarrak (1972–
@@ -1159,10 +1159,10 @@ Hordago (1980s)
 Euskal Zuzentasuna (1977–
 1979)
 Supported by:
-Provisional IRA (IRA)",,,,
-Started,Ended,Name of conflict,Belligerents,,,,,
-,,,Victorious party (if applicable),Defeated party (if applicable),,,,
-1960,1965,"Congo Crisis
+Provisional IRA (IRA)",,,,,Undefined
+118,Started,Ended,Name of conflict,Belligerents,,,,,,Undefined
+119,,,,Victorious party (if applicable),Defeated party (if applicable),,,,,Undefined
+120,1960,1965,"Congo Crisis
 ","1960–1963:
 Republic of the Congo
 Supported by:
@@ -1189,12 +1189,12 @@ Supported by:
 Soviet Union
 China
 Cuba","decolonisation
-of Africa and the Cold War",https://en.wikipedia.org/wiki/Congo_Crisis,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,552888.0
-1960,1961,"Bajaur Campaign
+of Africa and the Cold War",https://en.wikipedia.org/wiki/Congo_Crisis,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,552888.0,Africa
+121,1960,1961,"Bajaur Campaign
 ",Pakistan,Afghanistan,"Afghanistan–
 Pakistan border conflict
-and the Cold War",https://en.wikipedia.org/wiki/Bajaur_Campaign,https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_border_skirmishes,54097.0
-1960,1996,"Guatemalan Civil War
+and the Cold War",https://en.wikipedia.org/wiki/Bajaur_Campaign,https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_border_skirmishes,54097.0,Asia
+122,1960,1996,"Guatemalan Civil War
 ","Government of
 Guatemala and
 Guatemalan military
@@ -1220,21 +1220,21 @@ Cuba
 FMLN
 Nicaragua (1979–1990)","Central
 American crisis and Cold
-War",https://en.wikipedia.org/wiki/Guatemalan_Civil_War,https://en.wikipedia.org/wiki/Central_American_crisis,343559.0
-1960,1961,"1960–61 campaign at the
+War",https://en.wikipedia.org/wiki/Guatemalan_Civil_War,https://en.wikipedia.org/wiki/Central_American_crisis,343559.0,North America
+123,1960,1961,"1960–61 campaign at the
 China–Burma border
 ","People's Republic of China
 Union of Burma",Republic of China,"cross-strait
 conflict, the internal
 conflict in Myanmar, and
-the Cold War in Asia",https://en.wikipedia.org/wiki/1960%E2%80%9361_campaign_at_the_China%E2%80%93Burma_border,https://en.wikipedia.org/wiki/1960%E2%80%9361_campaign_at_the_China%E2%80%93Burma_border,33527.0
-1960,1960,"1960 Ethiopian coup d'état
+the Cold War in Asia",https://en.wikipedia.org/wiki/1960%E2%80%9361_campaign_at_the_China%E2%80%93Burma_border,https://en.wikipedia.org/wiki/1960%E2%80%9361_campaign_at_the_China%E2%80%93Burma_border,33527.0,Asia
+124,1960,1960,"1960 Ethiopian coup d'état
 attempt
 ","Emperor Haile Selassie
 loyalists","Council of the Revolution
 Kebur Zabagna","Opposition to
-Haile Selassie",https://en.wikipedia.org/wiki/1960_Ethiopian_coup_d'%C3%A9tat_attempt,https://en.wikipedia.org/wiki/1960_Ethiopian_coup_d'%C3%A9tat_attempt,4702.0
-1961,1974,"Angolan War of
+Haile Selassie",https://en.wikipedia.org/wiki/1960_Ethiopian_coup_d'%C3%A9tat_attempt,https://en.wikipedia.org/wiki/1960_Ethiopian_coup_d'%C3%A9tat_attempt,4702.0,Undefined
+125,1961,1974,"Angolan War of
 Independence
 ","MPLA
 Material support:
@@ -1255,8 +1255,8 @@ South Africa
 Rhodesia","Portuguese
 Colonial War, the
 Decolonization of Africa
-and the Cold War",https://en.wikipedia.org/wiki/Angolan_War_of_Independence,https://en.wikipedia.org/wiki/Angolan_War_of_Independence,241897.0
-,,,"United States[93]
+and the Cold War",https://en.wikipedia.org/wiki/Angolan_War_of_Independence,https://en.wikipedia.org/wiki/Angolan_War_of_Independence,241897.0,Africa
+126,,,,"United States[93]
 China[94][95][96]
 Romania
 Israel
@@ -1265,16 +1265,16 @@ Morocco[97][98][99]
 Brazil[92]
 Zambia[100][101]
 FLEC
-RDL",,,,,
-1961,1961,"Bay of Pigs Invasion
+RDL",,,,,,Undefined
+127,1961,1961,"Bay of Pigs Invasion
 ",Cuba,"United States
 Cuban DRF","Cold War and
 the Consolidation of the
-Cuban Revolution",https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion,https://en.wikipedia.org/wiki/Cold_War,1818269.0
-1961,1962,"French military rebellion in
+Cuban Revolution",https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion,https://en.wikipedia.org/wiki/Cold_War,1818269.0,North America
+128,1961,1962,"French military rebellion in
 Algeria[102][103]
-",France,OAS,Algerian War,https://en.wikipedia.org/wiki/Algerian_War,,1011686.0
-1961,1990,"Nicaraguan Revolution
+",France,OAS,Algerian War,https://en.wikipedia.org/wiki/Algerian_War,,1011686.0,Africa
+129,1961,1990,"Nicaraguan Revolution
 ","FSLN
 EPS
 MAP-ML (1978–1979)
@@ -1335,12 +1335,12 @@ Poland[110]
 Romania[120]
 Portugal[120]","Central
 American crisis and the
-Cold War in Latin America",https://en.wikipedia.org/wiki/Nicaraguan_Revolution,https://en.wikipedia.org/wiki/Central_American_crisis,370314.0
-1961,1961,"Bizerte crisis
+Cold War in Latin America",https://en.wikipedia.org/wiki/Nicaraguan_Revolution,https://en.wikipedia.org/wiki/Central_American_crisis,370314.0,North America
+130,1961,1961,"Bizerte crisis
 ",France,Tunisia,"decolonisation
 of Africa and the spillover
-of the Algerian War",https://en.wikipedia.org/wiki/Bizerte_crisis,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,33842.0
-1961,1991,"Eritrean War of
+of the Algerian War",https://en.wikipedia.org/wiki/Bizerte_crisis,https://en.wikipedia.org/wiki/Decolonisation_of_Africa,33842.0,Africa
+131,1961,1991,"Eritrean War of
 Independence
 Part of Opposition to Haile
 Selassie, the Ethiopian
@@ -1371,8 +1371,8 @@ Soviet Union[145] (1974–
 1990)
 Cuba (1974–1990)
 South Yemen (1974–
-1990)",,https://en.wikipedia.org/wiki/Eritrean_War_of_Independence,https://en.wikipedia.org/wiki/Eritrean_War_of_Independence,276504.0
-,,,"EPLF (since 1973)
+1990)",,https://en.wikipedia.org/wiki/Eritrean_War_of_Independence,https://en.wikipedia.org/wiki/Eritrean_War_of_Independence,276504.0,Africa
+132,,,,"EPLF (since 1973)
 TPLF (since 1975)
 Supported by:
 Libya[135][136]
@@ -1382,8 +1382,8 @@ Syria[127][128]
 Iraq[137]
 Kuwait[138]
 United Arab Emirates[138]","Israel[140]
-North Korea[146]",,,,
-1961,1970,"First Iraqi–Kurdish War
+North Korea[146]",,,,,Undefined
+133,1961,1970,"First Iraqi–Kurdish War
 ","KDP
 Supported by:
 Iran[147]
@@ -1399,48 +1399,48 @@ Egypt (1965)[150]
 After 1968:
 Ba'athist Iraq","Iraqi–Kurdish
 conflict and the Arab–
-Israeli conflict",https://en.wikipedia.org/wiki/First_Iraqi%E2%80%93Kurdish_War,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,84922.0
-1961,1961,Rebellion of the Pilots,"Elements of the Armed
-Forces still loyal to Trujillo",Dominican Air Force,,https://en.wikipedia.org/wiki/Rebellion_of_the_Pilots,,9856.0
-1961,1961,"1961 revolt in Somalia
+Israeli conflict",https://en.wikipedia.org/wiki/First_Iraqi%E2%80%93Kurdish_War,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,84922.0,Asia
+134,1961,1961,Rebellion of the Pilots,"Elements of the Armed
+Forces still loyal to Trujillo",Dominican Air Force,,https://en.wikipedia.org/wiki/Rebellion_of_the_Pilots,,9856.0,Undefined
+135,1961,1961,"1961 revolt in Somalia
 ",Somali Republic,"Pro-Somaliland coup
 plotters","conflicts in the
 Horn of Africa and the
-separatism in Somalia",https://en.wikipedia.org/wiki/1961_revolt_in_Somalia,https://en.wikipedia.org/wiki/Conflicts_in_the_Horn_of_Africa,13885.0
-1961,1961,"Annexation of Goa
+separatism in Somalia",https://en.wikipedia.org/wiki/1961_revolt_in_Somalia,https://en.wikipedia.org/wiki/Conflicts_in_the_Horn_of_Africa,13885.0,Africa
+136,1961,1961,"Annexation of Goa
 ",India,"Portugal
 Portuguese India","decolonisation
-of Asia and the Cold War",https://en.wikipedia.org/wiki/Annexation_of_Goa,https://en.wikipedia.org/wiki/Decolonisation_of_Asia,376987.0
-1961,1962,"Operation Trikora
+of Asia and the Cold War",https://en.wikipedia.org/wiki/Annexation_of_Goa,https://en.wikipedia.org/wiki/Decolonisation_of_Asia,376987.0,Asia
+137,1961,1962,"Operation Trikora
 ","Netherlands
 Dutch New Guinea","Indonesia
 Soviet Union","West New
 Guinea dispute and the
-Cold War in Asia",https://en.wikipedia.org/wiki/Operation_Trikora,https://en.wikipedia.org/wiki/West_New_Guinea_dispute,76531.0
-1962,1964,"Tuareg rebellion (1962–
+Cold War in Asia",https://en.wikipedia.org/wiki/Operation_Trikora,https://en.wikipedia.org/wiki/West_New_Guinea_dispute,76531.0,Asia
+138,1962,1964,"Tuareg rebellion (1962–
 1964)
 ",Mali,"Tuareg tribal and clan
 groups","Tuareg
-rebellions",https://en.wikipedia.org/wiki/Tuareg_rebellion_(1962%E2%80%931964),https://en.wikipedia.org/wiki/Tuareg_rebellion_(1962%E2%80%931964),16544.0
-1962,1962,El Carupanazo,Venezuelan government,Military rebels,,https://en.wikipedia.org/wiki/El_Carupanazo,,10889.0
-1962,1962,El Porteñazo,Venezuelan government,Military rebels,,https://en.wikipedia.org/wiki/El_Porte%C3%B1azo,,44166.0
-1962,1963,"1963 Argentine Navy
+rebellions",https://en.wikipedia.org/wiki/Tuareg_rebellion_(1962%E2%80%931964),https://en.wikipedia.org/wiki/Tuareg_rebellion_(1962%E2%80%931964),16544.0,Undefined
+139,1962,1962,El Carupanazo,Venezuelan government,Military rebels,,https://en.wikipedia.org/wiki/El_Carupanazo,,10889.0,South America
+140,1962,1962,El Porteñazo,Venezuelan government,Military rebels,,https://en.wikipedia.org/wiki/El_Porte%C3%B1azo,,44166.0,South America
+141,1962,1963,"1963 Argentine Navy
 revolt","Azules faction
 (most of the Army and the Air
 Force)","Colorados faction
-(mainly the Navy)",,https://en.wikipedia.org/wiki/1963_Argentine_Navy_revolt,https://en.wikipedia.org/wiki/1963_Argentine_Navy_revolt,18764.0
-1962,1970,North Yemen Civil War,"Yemen Arab Republic
+(mainly the Navy)",,https://en.wikipedia.org/wiki/1963_Argentine_Navy_revolt,https://en.wikipedia.org/wiki/1963_Argentine_Navy_revolt,18764.0,South America
+142,1962,1970,North Yemen Civil War,"Yemen Arab Republic
 Egypt","Kingdom of Yemen
-Saudi Arabia",,https://en.wikipedia.org/wiki/North_Yemen_Civil_War,,94803.0
-1962,Ongoing,"Papua conflict
+Saudi Arabia",,https://en.wikipedia.org/wiki/North_Yemen_Civil_War,,94803.0,Asia
+143,1962,Ongoing,"Papua conflict
 ","Indonesia
 Papua New Guinea[151][152]",Free Papua Movement,"West New
 Guinea dispute and
-Terrorism in Indonesia",https://en.wikipedia.org/wiki/Papua_conflict,https://en.wikipedia.org/wiki/West_New_Guinea_dispute,288413.0
-1962,1962,"Sino-Indian War
+Terrorism in Indonesia",https://en.wikipedia.org/wiki/Papua_conflict,https://en.wikipedia.org/wiki/West_New_Guinea_dispute,288413.0,Asia
+144,1962,1962,"Sino-Indian War
 ",China,India,"Sino-Indian
-border dispute",https://en.wikipedia.org/wiki/Sino-Indian_War,https://en.wikipedia.org/wiki/Sino-Indian_border_dispute,1155926.0
-1962,1990,"Communist insurgency in
+border dispute",https://en.wikipedia.org/wiki/Sino-Indian_War,https://en.wikipedia.org/wiki/Sino-Indian_border_dispute,1155926.0,Asia
+145,1962,1990,"Communist insurgency in
 Sarawak
 ","Anti-communist forces:
 United Kingdom
@@ -1460,8 +1460,8 @@ Malaysia, Indonesia–
 Malaysia confrontation,
 Communist insurgency in
 Malaysia (1968–1989) and
-Cold War in Asia",https://en.wikipedia.org/wiki/Communist_insurgency_in_Sarawak,https://en.wikipedia.org/wiki/Communist_insurgency_in_Sarawak,199881.0
-,,,"New Zealand
+Cold War in Asia",https://en.wikipedia.org/wiki/Communist_insurgency_in_Sarawak,https://en.wikipedia.org/wiki/Communist_insurgency_in_Sarawak,199881.0,Asia
+146,,,,"New Zealand
 United States
 Indonesia (after 1965)
 (Indo-Malay border)","Indonesia (1962–65)
@@ -1478,14 +1478,14 @@ Supported by:
 China[154]
 North Vietnam (until
 1975)
-North Korea[155][156]",,,,
-1962,1962,"Brunei revolt
+North Korea[155][156]",,,,,Undefined
+147,1962,1962,"Brunei revolt
 ","United Kingdom
 Brunei",Brunei People's Party,"beginning of
 Indonesia–Malaysia
 confrontation and
-Formation of Malaysia",https://en.wikipedia.org/wiki/Brunei_revolt,https://en.wikipedia.org/wiki/Indonesia%E2%80%93Malaysia_confrontation,74433.0
-1963,Ongoing,"Katanga insurgency
+Formation of Malaysia",https://en.wikipedia.org/wiki/Brunei_revolt,https://en.wikipedia.org/wiki/Indonesia%E2%80%93Malaysia_confrontation,74433.0,Asia
+148,1963,Ongoing,"Katanga insurgency
 ","Congo-Léopoldville
 (until 1971)
 Zaire (1971–1997)
@@ -1512,10 +1512,10 @@ Mai Mai Yakutumba
 CNPSC","Congo Crisis,
 First and Second Congo
 Wars, and other
-Congolese Civil Wars",https://en.wikipedia.org/wiki/Katanga_insurgency,https://en.wikipedia.org/wiki/Congo_Crisis,55507.0
-1963,1963,"1963 Cuban invasion of
-Venezuela[159]",Venezuela,Cuba,,https://en.wikipedia.org/wiki/1963_Cuban_invasion_of_Venezuela?action=edit&redlink=1,https://en.wikipedia.org/wiki/1963_Cuban_invasion_of_Venezuela?action=edit&redlink=1,-1.0
-1963,1966,"Indonesia–Malaysia
+Congolese Civil Wars",https://en.wikipedia.org/wiki/Katanga_insurgency,https://en.wikipedia.org/wiki/Congo_Crisis,55507.0,Africa
+149,1963,1963,"1963 Cuban invasion of
+Venezuela[159]",Venezuela,Cuba,,https://en.wikipedia.org/wiki/1963_Cuban_invasion_of_Venezuela?action=edit&redlink=1,https://en.wikipedia.org/wiki/1963_Cuban_invasion_of_Venezuela?action=edit&redlink=1,-1.0,Undefined
+150,1963,1966,"Indonesia–Malaysia
 confrontation
 ","The Commonwealth of Nations
 United Kingdom
@@ -1530,8 +1530,8 @@ NKCP[162][163][164][154]
 PGRS[154]
 PRB[165]","formation of
 Malaysia and the Cold War
-in Asia",https://en.wikipedia.org/wiki/Indonesia%E2%80%93Malaysia_confrontation,https://en.wikipedia.org/wiki/Indonesia%E2%80%93Malaysia_confrontation,384762.0
-1963,1970,"Bale revolt
+in Asia",https://en.wikipedia.org/wiki/Indonesia%E2%80%93Malaysia_confrontation,https://en.wikipedia.org/wiki/Indonesia%E2%80%93Malaysia_confrontation,384762.0,Asia
+151,1963,1970,"Bale revolt
 ","Ethiopian Empire
 Supported by (since
 1968):
@@ -1543,16 +1543,16 @@ Somali Republic","Ethiopian–
 Somali conflict, Opposition
 to Haile Selassie and
 Conflicts in the Horn of
-Africa",https://en.wikipedia.org/wiki/Bale_revolt,https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Somali_conflict,12204.0
-1963,1974,"Guinea-Bissau War of
+Africa",https://en.wikipedia.org/wiki/Bale_revolt,https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Somali_conflict,12204.0,Africa
+152,1963,1974,"Guinea-Bissau War of
 Independence
 ","PAIGC
 Guinea (1970 only)
 Cuba",Portugal,"Portuguese
 Colonial War and the Cold
-War",https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence,https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence,102501.0
-,,,,,,,,
-1963,1963,"Ramadan Revolution
+War",https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence,https://en.wikipedia.org/wiki/Guinea-Bissau_War_of_Independence,102501.0,Africa
+153,,,,,,,,,,Undefined
+154,1963,1963,"Ramadan Revolution
 ","Iraqi Ba'ath Party
 Iraqi Armed Forces (Ba'athist
 elements)
@@ -1562,16 +1562,16 @@ United States[166][167]","Iraqi Government
 Iraqi Armed Forces
 Iraqi Communist
 Party[168]","Cold War and
-the Arab Cold War",https://en.wikipedia.org/wiki/Ramadan_Revolution,https://en.wikipedia.org/wiki/Cold_War,103586.0
-1963,1963,"1963 Syrian coup d'état
+the Arab Cold War",https://en.wikipedia.org/wiki/Ramadan_Revolution,https://en.wikipedia.org/wiki/Cold_War,103586.0,Asia
+155,1963,1963,"1963 Syrian coup d'état
 ","Ba'ath Party
 Military Bureau","Second Syrian
 Republic
 National Party
 People's Party
 Muslim Brotherhood
-Arab Liberation Movement",Arab Cold War,https://en.wikipedia.org/wiki/1963_Syrian_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Arab_Cold_War,241618.0
-1963,1976,"Dhofar Rebellion
+Arab Liberation Movement",Arab Cold War,https://en.wikipedia.org/wiki/1963_Syrian_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Arab_Cold_War,241618.0,Asia
+156,1963,1976,"Dhofar Rebellion
 ","Oman[q]
 United Kingdom
 Iran (1973–1976)
@@ -1589,21 +1589,21 @@ China
 Cuba
 North Korea
 Iraq","Cold War and
-the Arab Cold War",https://en.wikipedia.org/wiki/Dhofar_Rebellion,https://en.wikipedia.org/wiki/Cold_War,82787.0
-1963,1963,Ar-Rashid revolt,"Iraqi Government
+the Arab Cold War",https://en.wikipedia.org/wiki/Dhofar_Rebellion,https://en.wikipedia.org/wiki/Cold_War,82787.0,Asia
+157,1963,1963,Ar-Rashid revolt,"Iraqi Government
 Ba'ath Party
 Ba'ath National Guard
 Militia","Iraqi Communist Party
-Iraqi Army",,https://en.wikipedia.org/wiki/Ar-Rashid_revolt,,12318.0
-1963,1963,"Sand War
+Iraqi Army",,https://en.wikipedia.org/wiki/Ar-Rashid_revolt,,12318.0,Asia
+158,1963,1963,"Sand War
 ","Algeria
 Support:
 Egypt[169]
 Cuba[170]","Morocco
 Support:
 France[171]","Arab Cold War
-and the Cold War",https://en.wikipedia.org/wiki/Sand_War,https://en.wikipedia.org/wiki/Arab_Cold_War,160418.0
-1963,1967,"Aden Emergency
+and the Cold War",https://en.wikipedia.org/wiki/Sand_War,https://en.wikipedia.org/wiki/Arab_Cold_War,160418.0,Africa
+159,1963,1967,"Aden Emergency
 ",NLF,"United Kingdom
 Federation of South
 Arabia
@@ -1612,8 +1612,8 @@ FLOSY
 Supported by:
 United Arab Republic","Cold War, the
 Arab Cold War, and the
-decolonization of Asia",https://en.wikipedia.org/wiki/Aden_Emergency,https://en.wikipedia.org/wiki/Cold_War,163735.0
-1963,1967,"Shifta War
+decolonization of Asia",https://en.wikipedia.org/wiki/Aden_Emergency,https://en.wikipedia.org/wiki/Cold_War,163735.0,Asia
+160,1963,1967,"Shifta War
 ","Kenya Colony (until
 Dec. 1963)
 Kenya (from Dec. 1963)
@@ -1626,12 +1626,12 @@ Darod group
 Supported by:
 Somalia
 Soviet Union","Somali–Kenyan
-conflict",https://en.wikipedia.org/wiki/Shifta_War,https://en.wikipedia.org/wiki/Somali%E2%80%93Kenyan_conflict,55661.0
-1963,1963,"November 1963 Iraqi coup
+conflict",https://en.wikipedia.org/wiki/Shifta_War,https://en.wikipedia.org/wiki/Somali%E2%80%93Kenyan_conflict,55661.0,Africa
+161,1963,1963,"November 1963 Iraqi coup
 d'état
 ",Nasserists,Ba'athists,"Cold War and
-the Arab Cold War",https://en.wikipedia.org/wiki/November_1963_Iraqi_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/November_1963_Iraqi_coup_d'%C3%A9tat,39740.0
-1963,1965,"Simba rebellion
+the Arab Cold War",https://en.wikipedia.org/wiki/November_1963_Iraqi_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/November_1963_Iraqi_coup_d'%C3%A9tat,39740.0,Asia
+162,1963,1965,"Simba rebellion
 ","Democratic Republic of
 the Congo
 Belgium
@@ -1647,19 +1647,19 @@ Rwandan exile groups[174]
 Uganda[175]
 Sudan[176]
 Foreign support","Congo Crisis
-and the Cold War",https://en.wikipedia.org/wiki/Simba_rebellion,https://en.wikipedia.org/wiki/Congo_Crisis,171518.0
-,,,,"Soviet Union
+and the Cold War",https://en.wikipedia.org/wiki/Simba_rebellion,https://en.wikipedia.org/wiki/Congo_Crisis,171518.0,Africa
+163,,,,,"Soviet Union
 Cuba
 Tanganyika
 China[176]
 Burundi
 Egypt[176]
-Algeria[176]",,,,
-1964,1964,"Zanzibar Revolution
+Algeria[176]",,,,,Undefined
+164,1964,1964,"Zanzibar Revolution
 ","Revolutionaries
 Afro-Shirazi Party
-Umma Party",Sultanate of Zanzibar,Cold War,https://en.wikipedia.org/wiki/Zanzibar_Revolution,https://en.wikipedia.org/wiki/Cold_War,310774.0
-1964,1964,"1964 Ethiopian–Somali
+Umma Party",Sultanate of Zanzibar,Cold War,https://en.wikipedia.org/wiki/Zanzibar_Revolution,https://en.wikipedia.org/wiki/Cold_War,310774.0,Africa
+165,1964,1964,"1964 Ethiopian–Somali
 Border War
 ","Ethiopia
 Supported by:
@@ -1667,8 +1667,8 @@ United States","Somalia
 Supported by:
 Egypt[177][178]","Ethiopian–
 Somali conflict and the
-Cold War]",https://en.wikipedia.org/wiki/1964_Ethiopian%E2%80%93Somali_Border_War,https://en.wikipedia.org/wiki/1964_Ethiopian%E2%80%93Somali_Border_War,45426.0
-1964,1964,"1964 Brazilian coup d'état
+Cold War]",https://en.wikipedia.org/wiki/1964_Ethiopian%E2%80%93Somali_Border_War,https://en.wikipedia.org/wiki/1964_Ethiopian%E2%80%93Somali_Border_War,45426.0,Africa
+166,1964,1964,"1964 Brazilian coup d'état
 ","Armed Forces (rebel)
 Supported by:
 State governors:
@@ -1687,8 +1687,8 @@ State governors:
 Pernambuco
 Sergipe
 National Union of Students
-Peasant Leagues",Cold War,https://en.wikipedia.org/wiki/1964_Brazilian_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Cold_War,280156.0
-1964,Ongoing,"Colombian conflict
+Peasant Leagues",Cold War,https://en.wikipedia.org/wiki/1964_Brazilian_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Cold_War,280156.0,South America
+167,1964,Ongoing,"Colombian conflict
 ","Colombia
 Supported by:
 Peru
@@ -1736,8 +1736,8 @@ Sinaloa Cartel (1990–)[193]","Cold War
 (1964–1991), the war on
 drugs (1971–present) and
 the war on terror (2001–
-present)[179][180][181][182]",https://en.wikipedia.org/wiki/Colombian_conflict,https://en.wikipedia.org/wiki/Cold_War,531427.0
-,,,,"Tijuana Cartel (1987–)
+present)[179][180][181][182]",https://en.wikipedia.org/wiki/Colombian_conflict,https://en.wikipedia.org/wiki/Cold_War,531427.0,South America
+168,,,,,"Tijuana Cartel (1987–)
 CJNG (2009–)
 Gulf Cartel (1986–)
 Juárez Cartel (1989–)
@@ -1783,8 +1783,8 @@ Shining Path
 (factions)[205][206]
 ETA (1964–2018)
 PIRA (1969–98)
-PKK[207]",,,,
-1964,1979,"Rhodesian Bush War
+PKK[207]",,,,,Undefined
+169,1964,1979,"Rhodesian Bush War
 ","ZANU (ZANLA)[208]
 ZAPU (ZIPRA)
 Mozambique[209]
@@ -1797,8 +1797,8 @@ Portugal
 (1964–1974)[r]
 South Africa
 (from 1967)[211]","Cold War and
-decolonisation of Africa",https://en.wikipedia.org/wiki/Rhodesian_Bush_War,https://en.wikipedia.org/wiki/Cold_War,1074466.0
-1964,1992,"FULRO insurgency
+decolonisation of Africa",https://en.wikipedia.org/wiki/Rhodesian_Bush_War,https://en.wikipedia.org/wiki/Cold_War,1074466.0,Africa
+170,1964,1992,"FULRO insurgency
 Part of the
 Persecution of the
 Montagnard in
@@ -1827,8 +1827,8 @@ Supported by:
 China
 Cambodia
 Khmer Republic (1970–
-1975)",,https://en.wikipedia.org/wiki/FULRO_insurgency,https://en.wikipedia.org/wiki/Persecution_of_the_Montagnard_in_Vietnam,45228.0
-,,"(until 1991)
+1975)",,https://en.wikipedia.org/wiki/FULRO_insurgency,https://en.wikipedia.org/wiki/Persecution_of_the_Montagnard_in_Vietnam,45228.0,Asia
+171,,,"(until 1991)
 insurgency in Laos,
 and the Cold War
 (until 1991)",,"GRUNK
@@ -1842,8 +1842,8 @@ Anti-communist forces:
 South Vietnam (1964–
 1975)
 United States
-(1964–1972)[212]",,https://en.wikipedia.org/wiki/Insurgency_in_Laos,https://en.wikipedia.org/wiki/Cold_War,94999.0
-1964,1974,"Mozambican War of
+(1964–1972)[212]",,https://en.wikipedia.org/wiki/Insurgency_in_Laos,https://en.wikipedia.org/wiki/Cold_War,94999.0,Asia
+172,1964,1974,"Mozambican War of
 Independence
 ","FRELIMO
 COREMO
@@ -1874,8 +1874,8 @@ Malawi[247][248][249]
 Israel[250]","Portuguese
 Colonial War, the
 Decolonisation of Africa,
-and the Cold War",https://en.wikipedia.org/wiki/Mozambican_War_of_Independence,https://en.wikipedia.org/wiki/Mozambican_War_of_Independence,135922.0
-1964,1982,"Mexican Dirty War
+and the Cold War",https://en.wikipedia.org/wiki/Mozambican_War_of_Independence,https://en.wikipedia.org/wiki/Mozambican_War_of_Independence,135922.0,Africa
+173,1964,1982,"Mexican Dirty War
 ","Mexico
 Institutional Revolutionary
 Party
@@ -1902,8 +1902,8 @@ Septiembre
 National Liberation Forces
 Various other social and
 armed movements in the
-country",Cold War,https://en.wikipedia.org/wiki/Mexican_Dirty_War,https://en.wikipedia.org/wiki/Cold_War,149921.0
-1965,1965,"Dominican Civil War
+country",Cold War,https://en.wikipedia.org/wiki/Mexican_Dirty_War,https://en.wikipedia.org/wiki/Cold_War,149921.0,North America
+174,1965,1965,"Dominican Civil War
 ","Loyalist faction
 United States
 IAPF
@@ -1918,20 +1918,20 @@ Party
 Social Christian
 Revolutionary Party
 June 14th Revolutionary
-Movement",Cold War,https://en.wikipedia.org/wiki/Dominican_Civil_War,https://en.wikipedia.org/wiki/Cold_War,204429.0
-1965,1966,"American occupation of
+Movement",Cold War,https://en.wikipedia.org/wiki/Dominican_Civil_War,https://en.wikipedia.org/wiki/Cold_War,204429.0,North America
+175,1965,1966,"American occupation of
 the Dominican Republic
 (1965–66)","United States (pro-
 government state
-intervener)",Constitutionalists,,https://en.wikipedia.org/wiki/American_occupation_of_the_Dominican_Republic_(1965%E2%80%9366),https://en.wikipedia.org/wiki/American_occupation_of_the_Dominican_Republic_(1965%E2%80%9366),2043.0
-,,,"Organization of
-American States (OAS)",,,,,
-1965,1965,"Indo-Pakistani War of
+intervener)",Constitutionalists,,https://en.wikipedia.org/wiki/American_occupation_of_the_Dominican_Republic_(1965%E2%80%9366),https://en.wikipedia.org/wiki/American_occupation_of_the_Dominican_Republic_(1965%E2%80%9366),2043.0,Undefined
+176,,,,"Organization of
+American States (OAS)",,,,,,Undefined
+177,1965,1965,"Indo-Pakistani War of
 1965
 ",India,Pakistan,"Indo-
 Pakistani wars and
-conflicts and Cold War",https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1965,https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1965,297923.0
-1965,1965,"30 September Movement
+conflicts and Cold War",https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1965,https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1965,297923.0,Asia
+178,1965,1965,"30 September Movement
 ","Government of Indonesia
 Indonesian Army
 (Loyalist factions)
@@ -1952,8 +1952,8 @@ the army)
 Supported by:
 China[260]","Cold War in
 Asia, Konfrontasi and the
-transition to the New Order",https://en.wikipedia.org/wiki/30_September_Movement,https://en.wikipedia.org/wiki/Cold_War_in_Asia,294007.0
-1965,1983,"Communist insurgency in
+transition to the New Order",https://en.wikipedia.org/wiki/30_September_Movement,https://en.wikipedia.org/wiki/Cold_War_in_Asia,294007.0,Asia
+179,1965,1983,"Communist insurgency in
 Thailand
 ","Thailand
 Royal Thai Armed Forces
@@ -1998,8 +1998,8 @@ Kampuchea (since 1979)
 People's Republic of
 China (until 1980)
 North Vietnam","Cold War and
-Indochina Wars",https://en.wikipedia.org/wiki/Communist_insurgency_in_Thailand,https://en.wikipedia.org/wiki/Communist_insurgency_in_Thailand,116692.0
-1965,1979,"Chadian Civil War (1965–
+Indochina Wars",https://en.wikipedia.org/wiki/Communist_insurgency_in_Thailand,https://en.wikipedia.org/wiki/Communist_insurgency_in_Thailand,116692.0,Asia
+180,1965,1979,"Chadian Civil War (1965–
 1979)
 ","FROLINAT (from 1966)
 First Liberation Army (until
@@ -2029,16 +2029,16 @@ FAN (1978–79)[268]
 France
 Supported by:
 Egypt
-Israel",Cold War,https://en.wikipedia.org/wiki/Chadian_Civil_War_(1965%E2%80%931979),https://en.wikipedia.org/wiki/Chadian_Civil_War_(1965%E2%80%931979),39427.0
-,,,,,,,,
-1966,1967,Guerrilha do Caparaó,Brazil,Rebels,,https://en.wikipedia.org/wiki/Guerrilha_do_Capara%C3%B3?action=edit&redlink=1,,-1.0
-1966,1977,"Crisis in French
+Israel",Cold War,https://en.wikipedia.org/wiki/Chadian_Civil_War_(1965%E2%80%931979),https://en.wikipedia.org/wiki/Chadian_Civil_War_(1965%E2%80%931979),39427.0,Africa
+181,,,,,,,,,,Undefined
+182,1966,1967,Guerrilha do Caparaó,Brazil,Rebels,,https://en.wikipedia.org/wiki/Guerrilha_do_Capara%C3%B3?action=edit&redlink=1,,-1.0,Undefined
+183,1966,1977,"Crisis in French
 Somaliland[272]",FLCS,"France
-French Somaliland",,https://en.wikipedia.org/wiki/Crisis_in_French_Somaliland?action=edit&redlink=1,https://en.wikipedia.org/wiki/Crisis_in_French_Somaliland?action=edit&redlink=1,-1.0
-1966,1967,Stanleyville mutinies,Congo-Léopoldville,"Armée Nationale
+French Somaliland",,https://en.wikipedia.org/wiki/Crisis_in_French_Somaliland?action=edit&redlink=1,https://en.wikipedia.org/wiki/Crisis_in_French_Somaliland?action=edit&redlink=1,-1.0,Undefined
+184,1966,1967,Stanleyville mutinies,Congo-Léopoldville,"Armée Nationale
 Congolaise (ANC)
-mutineers",,https://en.wikipedia.org/wiki/Stanleyville_mutinies,,32149.0
-1966,1990,"South African Border War
+mutineers",,https://en.wikipedia.org/wiki/Stanleyville_mutinies,,32149.0,Africa
+185,1966,1990,"South African Border War
 ","SWAPO (PLAN)
 MPLA (FAPLA)[273]
 Cuba
@@ -2052,23 +2052,23 @@ TGNU (1985–1989)[278]
 Portugal (until 1974)[279]
 UNITA (from 1975)[280]
 FNLA (1975)[273]","Cold War and
-the decolonisation of Africa",https://en.wikipedia.org/wiki/South_African_Border_War,https://en.wikipedia.org/wiki/Cold_War,441045.0
-1966,1969,"Korean DMZ Conflict
+the decolonisation of Africa",https://en.wikipedia.org/wiki/South_African_Border_War,https://en.wikipedia.org/wiki/Cold_War,441045.0,Africa
+186,1966,1969,"Korean DMZ Conflict
 ","South Korea
 United States",North Korea,"Korean conflict
-and the Cold War",https://en.wikipedia.org/wiki/Korean_DMZ_Conflict,https://en.wikipedia.org/wiki/Korean_conflict,181125.0
-1966,1967,"Ñancahuazú Guerrilla War
+and the Cold War",https://en.wikipedia.org/wiki/Korean_DMZ_Conflict,https://en.wikipedia.org/wiki/Korean_conflict,181125.0,Undefined
+187,1966,1967,"Ñancahuazú Guerrilla War
 ","Bolivia
 United States","ELN
-Cuba",Cold War,https://en.wikipedia.org/wiki/%C3%91ancahuaz%C3%BA_Guerrilla,https://en.wikipedia.org/wiki/Cold_War,87781.0
-1967,1968,"1967 Kurdish revolt in Iran
+Cuba",Cold War,https://en.wikipedia.org/wiki/%C3%91ancahuaz%C3%BA_Guerrilla,https://en.wikipedia.org/wiki/Cold_War,87781.0,South America
+188,1967,1968,"1967 Kurdish revolt in Iran
 ","Imperial State of Iran
 SAVAK","Revolutionary Committee
 leadership:
 Kurdish tribesmen
 KDP-I","Iranian-Kurdish
-conflict",https://en.wikipedia.org/wiki/1967_Kurdish_revolt_in_Iran,https://en.wikipedia.org/wiki/Iranian-Kurdish_conflict,14489.0
-1966,1975,"Araguaia Guerrilla War
+conflict",https://en.wikipedia.org/wiki/1967_Kurdish_revolt_in_Iran,https://en.wikipedia.org/wiki/Iranian-Kurdish_conflict,14489.0,Asia
+189,1966,1975,"Araguaia Guerrilla War
 ","Brazilian military government
 • Brazilian Army
 • Brazilian Air Force
@@ -2078,8 +2078,8 @@ Supported by:
 People's Socialist
 Republic of Albania[203]","armed struggle
 against the Brazilian
-military dictatorship",https://en.wikipedia.org/wiki/Araguaia_Guerrilla_War,https://en.wikipedia.org/wiki/Armed_struggle_against_the_Brazilian_military_dictatorship,45451.0
-1967,1975,"Cambodian Civil War
+military dictatorship",https://en.wikipedia.org/wiki/Araguaia_Guerrilla_War,https://en.wikipedia.org/wiki/Armed_struggle_against_the_Brazilian_military_dictatorship,45451.0,South America
+190,1967,1975,"Cambodian Civil War
 ","Khmer Rouge
 GRUNK (1970–1975)
 FUNK
@@ -2097,15 +2097,15 @@ FULRO","Vietnam
 War, the Indochina
 Wars, the Sino-Soviet
 Split, and the Cold
-War in Asia",https://en.wikipedia.org/wiki/Cambodian_Civil_War,https://en.wikipedia.org/wiki/Vietnam_War,450184.0
-1967,1967,Machurucuto raid,"Venezuelan National
+War in Asia",https://en.wikipedia.org/wiki/Cambodian_Civil_War,https://en.wikipedia.org/wiki/Vietnam_War,450184.0,Asia
+191,1967,1967,Machurucuto raid,"Venezuelan National
 Guard
 Venezuelan Army","Revolutionary Left
 Movement
 Cuban guerrillas
 Supported by:
-Cuba",,https://en.wikipedia.org/wiki/Machurucuto_raid,,15130.0
-1967,Ongoing,"Naxalite–Maoist
+Cuba",,https://en.wikipedia.org/wiki/Machurucuto_raid,,15130.0,Undefined
+192,1967,Ongoing,"Naxalite–Maoist
 insurgency","India[281]
 Indian Armed Forces
 Central Reserve Police
@@ -2132,8 +2132,8 @@ Lal Sena
 CPI(ML) Janashakti (1992–
 2013)
 CPUSI (1997–2005)[289]
-CPI(ML) ND",,https://en.wikipedia.org/wiki/Naxalite%E2%80%93Maoist_insurgency,https://en.wikipedia.org/wiki/Naxalite%E2%80%93Maoist_insurgency,845151.0
-,,,"Bhumi Sena
+CPI(ML) ND",,https://en.wikipedia.org/wiki/Naxalite%E2%80%93Maoist_insurgency,https://en.wikipedia.org/wiki/Naxalite%E2%80%93Maoist_insurgency,845151.0,Asia
+193,,,,"Bhumi Sena
 Lorik Sena","CPI(ML) MM (until
 2012)
 ABNES (until 2002)
@@ -2155,8 +2155,8 @@ PBSP[296] (until 2021)
 PBCP[297] (until 2021)
 CIC (until 1977)
 CCP (Maoist) (until
-1976)[298]",,,,
-1967,1967,"Six-Day War
+1976)[298]",,,,,Undefined
+194,1967,1967,"Six-Day War
 ",Israel,"Egypt
 Syria
 Jordan
@@ -2164,8 +2164,8 @@ Iraq[299]
 Minor involvement:
 Lebanon[300]","Arab–
 Israeli conflict and the
-Cold War",https://en.wikipedia.org/wiki/Six-Day_War,https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict,2551152.0
-1967,1970,"War of Attrition Part of
+Cold War",https://en.wikipedia.org/wiki/Six-Day_War,https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict,2551152.0,Africa
+195,1967,1970,"War of Attrition Part of
 the Arab–Israeli
 conflict and the Cold
 War",Israel,"Egypt
@@ -2174,8 +2174,8 @@ Kuwait[301]
 PLO
 Jordan
 Syria[302]
-Cuba",,https://en.wikipedia.org/wiki/War_of_Attrition,https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict,364289.0
-1967,1970,"Nigerian Civil War
+Cuba",,https://en.wikipedia.org/wiki/War_of_Attrition,https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict,364289.0,Asia
+196,1967,1970,"Nigerian Civil War
 ","Nigeria
 Egypt[s]
 Supported by:
@@ -2195,12 +2195,12 @@ Portugal[311][312]
 Israel[311][312]
 South Africa[311][312]
 Rhodesia[311][312]","Cold War and
-the decolonisation of Africa",https://en.wikipedia.org/wiki/Nigerian_Civil_War,https://en.wikipedia.org/wiki/Cold_War,931277.0
-1967,1967,"Nathu La and Cho La
-clashes",India,China,,https://en.wikipedia.org/wiki/Nathu_La_and_Cho_La_clashes,https://en.wikipedia.org/wiki/Nathu_La_and_Cho_La_clashes,218624.0
-1967,1974,"PGRS/Paraku
-Rebellion[313]",Indonesia,PGRS/Paraku,,https://en.wikipedia.org/wiki/PGRS/Paraku_Rebellion?action=edit&redlink=1,https://en.wikipedia.org/wiki/PGRS/Paraku_Rebellion?action=edit&redlink=1,-1.0
-1968,2019,"Moro conflict
+the decolonisation of Africa",https://en.wikipedia.org/wiki/Nigerian_Civil_War,https://en.wikipedia.org/wiki/Cold_War,931277.0,Africa
+197,1967,1967,"Nathu La and Cho La
+clashes",India,China,,https://en.wikipedia.org/wiki/Nathu_La_and_Cho_La_clashes,https://en.wikipedia.org/wiki/Nathu_La_and_Cho_La_clashes,218624.0,Asia
+198,1967,1974,"PGRS/Paraku
+Rebellion[313]",Indonesia,PGRS/Paraku,,https://en.wikipedia.org/wiki/PGRS/Paraku_Rebellion?action=edit&redlink=1,https://en.wikipedia.org/wiki/PGRS/Paraku_Rebellion?action=edit&redlink=1,-1.0,Undefined
+199,1968,2019,"Moro conflict
 ","Philippines
 Supported by:
 United States (advisors)[314]
@@ -2220,8 +2220,8 @@ NDFP","Cold War, Civil
 conflict in the Philippines,
 war on terror, North
 Borneo dispute and War
-against the Islamic State",https://en.wikipedia.org/wiki/Moro_conflict,https://en.wikipedia.org/wiki/Cold_War,236808.0
-,,,"China[323]
+against the Islamic State",https://en.wikipedia.org/wiki/Moro_conflict,https://en.wikipedia.org/wiki/Cold_War,236808.0,Asia
+200,,,,"China[323]
 International Monitoring
 Team (IMT)
 Brunei
@@ -2240,8 +2240,8 @@ Maute group (2013–
 AKP (2014 – c. 2021)
 KIM (2011–2013)[337]
 Rajah Sulaiman Movement
-(until 2005)[338][339]",,,,
-1968,1989,"Communist insurgency in
+(until 2005)[338][339]",,,,,Undefined
+201,1968,1989,"Communist insurgency in
 Malaysia (1968–1989)
 ","Anti-communist forces:
 Malaysia[340]
@@ -2272,8 +2272,8 @@ China (until 1976)[346][347]
 Soviet Union[346]
 Indonesia (1962–1965)","Cold War in
 Asia and continuation of
-the Malayan Emergency",https://en.wikipedia.org/wiki/Communist_insurgency_in_Malaysia_(1968%E2%80%931989),https://en.wikipedia.org/wiki/Communist_insurgency_in_Malaysia_(1968%E2%80%931989),99362.0
-1968,1968,"Warsaw Pact invasion of
+the Malayan Emergency",https://en.wikipedia.org/wiki/Communist_insurgency_in_Malaysia_(1968%E2%80%931989),https://en.wikipedia.org/wiki/Communist_insurgency_in_Malaysia_(1968%E2%80%931989),99362.0,Asia
+202,1968,1968,"Warsaw Pact invasion of
 Czechoslovakia
 ","Warsaw Pact:
 Soviet Union
@@ -2287,8 +2287,8 @@ Albania
 Romania
 China[348]
 Yugoslavia[349]","Cold War and
-the Prague Spring",https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia,https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia,568620.0
-1960s,1998[u],The Troubles,"Irish republican paramilitaries:
+the Prague Spring",https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia,https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia,568620.0,Europe
+203,1960s,1998[u],The Troubles,"Irish republican paramilitaries:
 Provisional IRA (PIRA)
 Irish National Liberation
 Army (INLA)
@@ -2311,15 +2311,15 @@ Ulster Protestant Volunteers
 British Armed Forces
 Royal Ulster Constabulary
 Irish Defence Forces
-Gardaí",,https://en.wikipedia.org/wiki/The_Troubles,,3557006.0
-1968,1988,"Years of Lead (Italy)
+Gardaí",,https://en.wikipedia.org/wiki/The_Troubles,,3557006.0,Europe
+204,1968,1988,"Years of Lead (Italy)
 ","Italian government
 SISMI
 SISDE","Far-left terrorists:
 Red Brigades[N 1]
 Front Line[N 2]
-October 22 Group[N 3]",Cold War,https://en.wikipedia.org/wiki/Years_of_Lead_(Italy),https://en.wikipedia.org/wiki/Cold_War,627705.0
-,,,"Armed Forces
+October 22 Group[N 3]",Cold War,https://en.wikipedia.org/wiki/Years_of_Lead_(Italy),https://en.wikipedia.org/wiki/Cold_War,627705.0,Europe
+205,,,,"Armed Forces
 Carabinieri
 State Police
 Supported by:
@@ -2349,17 +2349,17 @@ SISMI (factions)[358]
 CIA[359][360][361]
 Greek Junta
 Magliana Gang[362]
-Sicilian Mafia (alleged)",,,,
-1968,1971,"1968–1971 East Pakistan
-communist insurgency",Pakistan,PBSA,,,,
-1969,1969,Rupununi Uprising,"Guyana
+Sicilian Mafia (alleged)",,,,,Undefined
+206,1968,1971,"1968–1971 East Pakistan
+communist insurgency",Pakistan,PBSA,,,,,Undefined
+207,1969,1969,Rupununi Uprising,"Guyana
 Guyana Defence Force","Rupununi rebels
 Support:
-Venezuela (alleged)",,https://en.wikipedia.org/wiki/Rupununi_Uprising,,9488.0
-1969,1969,"Sino-Soviet border conflict
+Venezuela (alleged)",,https://en.wikipedia.org/wiki/Rupununi_Uprising,,9488.0,South America
+208,1969,1969,"Sino-Soviet border conflict
 ",China,Soviet Union,"Cold War and
-the Sino-Soviet split",https://en.wikipedia.org/wiki/Sino-Soviet_border_conflict,https://en.wikipedia.org/wiki/Cold_War,469932.0
-1969,Ongoing,"Communist rebellion in the
+the Sino-Soviet split",https://en.wikipedia.org/wiki/Sino-Soviet_border_conflict,https://en.wikipedia.org/wiki/Cold_War,469932.0,Undefined
+209,1969,Ongoing,"Communist rebellion in the
 Philippines
 ","Philippines
 United States[363]
@@ -2377,15 +2377,15 @@ China (1969–1976)
 Libya (1980s–2011)
 North Korea (Alleged)
 Vietnam (1980s)","Civil conflict in
-the Philippines",https://en.wikipedia.org/wiki/Communist_rebellion_in_the_Philippines,https://en.wikipedia.org/wiki/Communist_rebellion_in_the_Philippines,51359.0
-1969,1969,Football War,El Salvador,Honduras,,https://en.wikipedia.org/wiki/Football_War,,372824.0
-1969,1969,"Al-Wadiah War
+the Philippines",https://en.wikipedia.org/wiki/Communist_rebellion_in_the_Philippines,https://en.wikipedia.org/wiki/Communist_rebellion_in_the_Philippines,51359.0,Undefined
+210,1969,1969,Football War,El Salvador,Honduras,,https://en.wikipedia.org/wiki/Football_War,,372824.0,North America
+211,1969,1969,"Al-Wadiah War
 ","Saudi Arabia
 Supported by:
-Pakistan (air support)",South Yemen,Arab Cold War,https://en.wikipedia.org/wiki/Al-Wadiah_War,https://en.wikipedia.org/wiki/Arab_Cold_War,44381.0
-Started,Ended,Name of conflict,Belligerents,,,,,
-,,,Victorious party (if applicable),Defeated party (if applicable),,,,
-1970,1971,"Reggio revolt
+Pakistan (air support)",South Yemen,Arab Cold War,https://en.wikipedia.org/wiki/Al-Wadiah_War,https://en.wikipedia.org/wiki/Arab_Cold_War,44381.0,Asia
+212,Started,Ended,Name of conflict,Belligerents,,,,,,Undefined
+213,,,,Victorious party (if applicable),Defeated party (if applicable),,,,,Undefined
+214,1970,1971,"Reggio revolt
 ","Government of Italy
 Christian Democracy (National)
 Italian Communist Party
@@ -2395,8 +2395,8 @@ Italian Social Movement
 National Vanguard
 Italian Democratic Socialist Party
 Italian Anarchist Federation
-CISNAL",Years of Lead,https://en.wikipedia.org/wiki/Reggio_revolt,https://en.wikipedia.org/wiki/Years_of_Lead_(Italy),21564.0
-1970,1971,"Black September
+CISNAL",Years of Lead,https://en.wikipedia.org/wiki/Reggio_revolt,https://en.wikipedia.org/wiki/Years_of_Lead_(Italy),21564.0,Undefined
+215,1970,1971,"Black September
 ","Jordan
 Jordanian Armed Forces","PLO
 Fatah
@@ -2411,25 +2411,25 @@ Supported by:
 Organization of Iranian People's
 Fedai Guerrillas (OIPFG)
 People's Mojahedin Organization of
-Iran (MEK)",Arab Cold War,https://en.wikipedia.org/wiki/Black_September,https://en.wikipedia.org/wiki/Arab_Cold_War,758691.0
-1970,1970,"Corrective Movement (Syria)
+Iran (MEK)",Arab Cold War,https://en.wikipedia.org/wiki/Black_September,https://en.wikipedia.org/wiki/Arab_Cold_War,758691.0,Asia
+216,1970,1970,"Corrective Movement (Syria)
 ",Syrian Arab Armed Forces,"Syrian Government
-Ba'ath Party",Arab Cold War,https://en.wikipedia.org/wiki/Corrective_Movement_(Syria),https://en.wikipedia.org/wiki/Arab_Cold_War,86833.0
-1970,1970,"Teoponte Guerrilla
-",Bolivia,ELN (Teoponte),Cold War,https://en.wikipedia.org/wiki/Teoponte_Guerrilla,https://en.wikipedia.org/wiki/Cold_War,10895.0
-1971,1971,"1971 Ugandan coup d'état
+Ba'ath Party",Arab Cold War,https://en.wikipedia.org/wiki/Corrective_Movement_(Syria),https://en.wikipedia.org/wiki/Arab_Cold_War,86833.0,Asia
+217,1970,1970,"Teoponte Guerrilla
+",Bolivia,ELN (Teoponte),Cold War,https://en.wikipedia.org/wiki/Teoponte_Guerrilla,https://en.wikipedia.org/wiki/Cold_War,10895.0,South America
+218,1971,1971,"1971 Ugandan coup d'état
 ","Ugandan putschists
 Rebel military faction
 Rebel police faction
 Supported by:
 Israel[365]","Ugandan government
-Loyal state institutions",Cold War,https://en.wikipedia.org/wiki/1971_Ugandan_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Cold_War,89080.0
-1971,1971,"Bangladesh Liberation War
+Loyal state institutions",Cold War,https://en.wikipedia.org/wiki/1971_Ugandan_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Cold_War,89080.0,Africa
+219,1971,1971,"Bangladesh Liberation War
 ","Bangladesh
 India (3–16 Dec.)",Pakistan,"independence of
 Bangladesh, the Indo-Pakistani
-conflicts, and the Cold War",https://en.wikipedia.org/wiki/Bangladesh_Liberation_War,https://en.wikipedia.org/wiki/Independence_of_Bangladesh,1049856.0
-1971,1971,"1971 JVP insurrection
+conflicts, and the Cold War",https://en.wikipedia.org/wiki/Bangladesh_Liberation_War,https://en.wikipedia.org/wiki/Independence_of_Bangladesh,1049856.0,Asia
+220,1971,1971,"1971 JVP insurrection
 ","Ceylon
 Sri Lankan Coalition (from 15 May)
 SLFP
@@ -2446,20 +2446,20 @@ China (alleged)
 ASBPI[370][371]
 CCP (Maoist) (alleged)
 Diplomatic support:
-South Yemen[372]",Cold War,https://en.wikipedia.org/wiki/1971_JVP_insurrection,https://en.wikipedia.org/wiki/Cold_War,59984.0
-1971,1971,"Seizure of Abu Musa and the Greater
+South Yemen[372]",Cold War,https://en.wikipedia.org/wiki/1971_JVP_insurrection,https://en.wikipedia.org/wiki/Cold_War,59984.0,Undefined
+221,1971,1971,"Seizure of Abu Musa and the Greater
 and Lesser Tunbs
 ",Imperial State of Iran,"Emirate of Sharjah
 Emirate of Ras al-Khaimah","Unification of the United
-Arab Emirates",https://en.wikipedia.org/wiki/Seizure_of_Abu_Musa_and_the_Greater_and_Lesser_Tunbs,https://en.wikipedia.org/wiki/Seizure_of_Abu_Musa_and_the_Greater_and_Lesser_Tunbs,96504.0
-1972,1981,"Eritrean Civil Wars
+Arab Emirates",https://en.wikipedia.org/wiki/Seizure_of_Abu_Musa_and_the_Greater_and_Lesser_Tunbs,https://en.wikipedia.org/wiki/Seizure_of_Abu_Musa_and_the_Greater_and_Lesser_Tunbs,96504.0,Asia
+222,1972,1981,"Eritrean Civil Wars
 ","EPLF
 TPLF",ELF,"Eritrean War of
 Independence, the Ethiopian Civil
-War and conflicts in the Horn of Africa",https://en.wikipedia.org/wiki/Eritrean_Civil_Wars,https://en.wikipedia.org/wiki/Eritrean_War_of_Independence,32003.0
-1972,1975,"1972–1975 Bangladesh insurgency
-",Government of Bangladesh,Socialist insurgents:,Cold War in Asia,https://en.wikipedia.org/wiki/1972%E2%80%931975_Bangladesh_insurgency,https://en.wikipedia.org/wiki/Cold_War_in_Asia,43661.0
-,,,"Awami League/BAKSAL (1972–75)
+War and conflicts in the Horn of Africa",https://en.wikipedia.org/wiki/Eritrean_Civil_Wars,https://en.wikipedia.org/wiki/Eritrean_War_of_Independence,32003.0,Africa
+223,1972,1975,"1972–1975 Bangladesh insurgency
+",Government of Bangladesh,Socialist insurgents:,Cold War in Asia,https://en.wikipedia.org/wiki/1972%E2%80%931975_Bangladesh_insurgency,https://en.wikipedia.org/wiki/Cold_War_in_Asia,43661.0,Asia
+224,,,,"Awami League/BAKSAL (1972–75)
 Chhatra League
 Sramik League
 Military-Supreme Court
@@ -2481,28 +2481,28 @@ Other anti-Mujibist factions
 Trade unionists[w]
 Awami League (factions)
 Military junta of Bangladesh
-(1975)[x]",,,,
-1972,Ongoing,Maoist insurgency in Turkey,Government of Turkey,"TKP/ML
+(1975)[x]",,,,,Undefined
+225,1972,Ongoing,Maoist insurgency in Turkey,Government of Turkey,"TKP/ML
 TİKKO
 MKP
-Maoist Party Centre",,https://en.wikipedia.org/wiki/Maoist_insurgency_in_Turkey,,64033.0
-1972,1972,1972 invasion of Uganda[374],"Uganda
+Maoist Party Centre",,https://en.wikipedia.org/wiki/Maoist_insurgency_in_Turkey,,64033.0,Asia
+226,1972,1972,1972 invasion of Uganda[374],"Uganda
 Libya
 Palestine Liberation Organization
 (PLO)","Ugandan rebels
 People's Army
 UPC supporters
-Tanzania",,https://en.wikipedia.org/wiki/1972_invasion_of_Uganda,,52838.0
-1973,1973,"1973 Samita border skirmish
-Part of Iraq–Kuwait relations",Iraq,Kuwait,,https://en.wikipedia.org/wiki/1973_Samita_border_skirmish,https://en.wikipedia.org/wiki/Iraq%E2%80%93Kuwait_relations,14064.0
-1973,1977,"1970s operation in Balochistan
+Tanzania",,https://en.wikipedia.org/wiki/1972_invasion_of_Uganda,,52838.0,Africa
+227,1973,1973,"1973 Samita border skirmish
+Part of Iraq–Kuwait relations",Iraq,Kuwait,,https://en.wikipedia.org/wiki/1973_Samita_border_skirmish,https://en.wikipedia.org/wiki/Iraq%E2%80%93Kuwait_relations,14064.0,Asia
+228,1973,1977,"1970s operation in Balochistan
 ","Pakistan
 Iran
 Supported by:
 Oman","Baloch separatists
 Pashtun Zalmay[375]","Insurgency in Balochistan
-and the Cold War",https://en.wikipedia.org/wiki/1970s_operation_in_Balochistan,https://en.wikipedia.org/wiki/Insurgency_in_Balochistan,33486.0
-1973,1973,"1973 Chilean coup d'état
+and the Cold War",https://en.wikipedia.org/wiki/1970s_operation_in_Balochistan,https://en.wikipedia.org/wiki/Insurgency_in_Balochistan,33486.0,Asia
+229,1973,1973,"1973 Chilean coup d'état
 ","Chilean Armed Forces
 Chilean Army
 Chilean Navy
@@ -2522,8 +2522,8 @@ Revolutionary Left Movement
 Other working-class militants[383]
 Supported by:
 Cuba","Cold War in South
-America",https://en.wikipedia.org/wiki/1973_Chilean_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Cold_War,522907.0
-1968,1988,"Armed resistance in Chile (1973–
+America",https://en.wikipedia.org/wiki/1973_Chilean_coup_d'%C3%A9tat,https://en.wikipedia.org/wiki/Cold_War,522907.0,Undefined
+230,1968,1988,"Armed resistance in Chile (1973–
 1990)
 ","Junta
 Chilean Armed Forces
@@ -2547,8 +2547,8 @@ MIR-EGP-PL
 GAP (1973)
 Cordones industriales (1973)
 Political support:","Operation Condor and the
-Cold War",https://en.wikipedia.org/wiki/Armed_resistance_in_Chile_(1973%E2%80%931990),https://en.wikipedia.org/wiki/Armed_resistance_in_Chile_(1973%E2%80%931990),37011.0
-,,,"RN
+Cold War",https://en.wikipedia.org/wiki/Armed_resistance_in_Chile_(1973%E2%80%931990),https://en.wikipedia.org/wiki/Armed_resistance_in_Chile_(1973%E2%80%931990),37011.0,South America
+231,,,,"RN
 PN
 AN
 UDI
@@ -2573,8 +2573,8 @@ Soviet Union
 North Korea
 EPR (Argentina)
 Tupamaros (Uruguay)
-ELN (Bolivia)",,,,
-1973,1973,"Yom Kippur War
+ELN (Bolivia)",,,,,Undefined
+232,1973,1973,"Yom Kippur War
 ",Israel,"Egypt
 Syria
 Expeditionary forces
@@ -2588,8 +2588,8 @@ Tunisia
 Morocco[395]
 Cuba
 North Korea[396]","Arab–Israeli conflict
-and the Cold War",https://en.wikipedia.org/wiki/Yom_Kippur_War,https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict,2293855.0
-1973,Ongoing,"Oromo conflict
+and the Cold War",https://en.wikipedia.org/wiki/Yom_Kippur_War,https://en.wikipedia.org/wiki/Arab%E2%80%93Israeli_conflict,2293855.0,Africa
+233,1973,Ongoing,"Oromo conflict
 ","Ethiopia
 Former combatants:
 Ethiopian Empire
@@ -2612,14 +2612,14 @@ Supported by:[aa]
 Eritrea
 (1998–2018)[398]
 Egypt (alleged)[399]","Ethiopian Civil War and
-Ethiopian civil conflict (2018–present)",https://en.wikipedia.org/wiki/Oromo_conflict,https://en.wikipedia.org/wiki/Ethiopian_Civil_War,75755.0
-1974,1974,"Battle of the Paracel Islands
+Ethiopian civil conflict (2018–present)",https://en.wikipedia.org/wiki/Oromo_conflict,https://en.wikipedia.org/wiki/Ethiopian_Civil_War,75755.0,Africa
+234,1974,1974,"Battle of the Paracel Islands
 ","China
 People's Liberation Army Navy of
 China","South Vietnam
-Republic of Vietnam Navy",Vietnam War,https://en.wikipedia.org/wiki/Battle_of_the_Paracel_Islands,https://en.wikipedia.org/wiki/Vietnam_War,89873.0
-1974,1974,Arube uprising,Ugandan government,Putschists,,https://en.wikipedia.org/wiki/Arube_uprising,,23346.0
-1974,1975,"Second Iraqi–Kurdish War
+Republic of Vietnam Navy",Vietnam War,https://en.wikipedia.org/wiki/Battle_of_the_Paracel_Islands,https://en.wikipedia.org/wiki/Vietnam_War,89873.0,Undefined
+235,1974,1974,Arube uprising,Ugandan government,Putschists,,https://en.wikipedia.org/wiki/Arube_uprising,,23346.0,Africa
+236,1974,1975,"Second Iraqi–Kurdish War
 ","Iraq
 Supported by:
 Soviet Union[400]","KDP
@@ -2627,19 +2627,19 @@ Iran
 Supported by:
 Israel[150]
 United States[401]","Iraqi–Kurdish conflict and
-the Cold War",https://en.wikipedia.org/wiki/Second_Iraqi%E2%80%93Kurdish_War,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,97167.0
-1974,1975,"1974–75 Shatt al-Arab conflict
+the Cold War",https://en.wikipedia.org/wiki/Second_Iraqi%E2%80%93Kurdish_War,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,97167.0,Asia
+237,1974,1975,"1974–75 Shatt al-Arab conflict
 ","Iran
 KDP",Iraq,"Arvand River dispute and
-the Second Iraqi–Kurdish War",https://en.wikipedia.org/wiki/1974%E2%80%9375_Shatt_al-Arab_conflict,https://en.wikipedia.org/wiki/Arvand_River_dispute?action=edit&redlink=1,47579.0
-1974,1974,"Turkish invasion of Cyprus
+the Second Iraqi–Kurdish War",https://en.wikipedia.org/wiki/1974%E2%80%9375_Shatt_al-Arab_conflict,https://en.wikipedia.org/wiki/Arvand_River_dispute?action=edit&redlink=1,47579.0,Asia
+238,1974,1974,"Turkish invasion of Cyprus
 ","Turkey
 Turkish Resistance Organisation","Republic of Cyprus
 EOKA B
 Greece","Cold War and Cyprus
-problem",https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus,https://en.wikipedia.org/wiki/Cold_War,708111.0
-,,,,,,,,
-1974,1991,"Ethiopian Civil War
+problem",https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus,https://en.wikipedia.org/wiki/Cold_War,708111.0,Asia
+239,,,,,,,,,,Undefined
+240,1974,1991,"Ethiopian Civil War
 ","EPRDF
 TPLF
 EPDM
@@ -2673,8 +2673,8 @@ SPM
 SNM","Eritrean War of
 Independence, the Ethiopian–Somali
 conflict, the Oromo conflict, the Cold
-War, and the Revolutions of 1989",https://en.wikipedia.org/wiki/Ethiopian_Civil_War,https://en.wikipedia.org/wiki/Eritrean_War_of_Independence,252111.0
-1974,1983,"Dirty War
+War, and the Revolutions of 1989",https://en.wikipedia.org/wiki/Ethiopian_Civil_War,https://en.wikipedia.org/wiki/Eritrean_War_of_Independence,252111.0,Africa
+241,1974,1983,"Dirty War
 ","Argentina
 Argentine Army
 Argentine Navy
@@ -2700,10 +2700,10 @@ FAP
 Resistencia Libertaria
 Supported by:
 Cuba","Cold War and Operation
-Condor",https://en.wikipedia.org/wiki/Dirty_War,https://en.wikipedia.org/wiki/Cold_War,763986.0
-1975,1975,1975 Panjshir Valley uprising,Republic of Afghanistan,Forces loyal to Ahmad Shah Massoud,,https://en.wikipedia.org/wiki/1975_Panjshir_Valley_uprising,,33476.0
-1975,1975,1975 China-India border skirmish,China,India,,https://en.wikipedia.org/wiki/1975_China-India_border_skirmish?action=edit&redlink=1,,-1.0
-1975,Ongoing,"Cabinda War
+Condor",https://en.wikipedia.org/wiki/Dirty_War,https://en.wikipedia.org/wiki/Cold_War,763986.0,South America
+242,1975,1975,1975 Panjshir Valley uprising,Republic of Afghanistan,Forces loyal to Ahmad Shah Massoud,,https://en.wikipedia.org/wiki/1975_Panjshir_Valley_uprising,,33476.0,Asia
+243,1975,1975,1975 China-India border skirmish,China,India,,https://en.wikipedia.org/wiki/1975_China-India_border_skirmish?action=edit&redlink=1,,-1.0,Undefined
+244,1975,Ongoing,"Cabinda War
 ","Angola
 Cuba (until 1991)
 Democratic People's Republic of
@@ -2717,8 +2717,8 @@ Communist Committee of Cabinda
 Republic of Cabinda (1975–1976,
 1999)
 Zaire (1975)","Angolan Civil War (until
-2002)",https://en.wikipedia.org/wiki/Cabinda_War,https://en.wikipedia.org/wiki/Angolan_Civil_War,84953.0
-1975,2002,"Angolan Civil War
+2002)",https://en.wikipedia.org/wiki/Cabinda_War,https://en.wikipedia.org/wiki/Angolan_Civil_War,84953.0,Africa
+245,1975,2002,"Angolan Civil War
 ","People's Republic of
 Angola/Republic of Angola
 MPLA","Democratic People's
@@ -2726,8 +2726,8 @@ Republic of Angola
 UNITA
 FNLA (1975–1976)","aftermath of the Angolan
 War of Independence, and the Cold
-War (until 1991)",https://en.wikipedia.org/wiki/Angolan_Civil_War,https://en.wikipedia.org/wiki/Angolan_War_of_Independence,660552.0
-,,,"Cuba (1975–1989)
+War (until 1991)",https://en.wikipedia.org/wiki/Angolan_Civil_War,https://en.wikipedia.org/wiki/Angolan_War_of_Independence,660552.0,Africa
+246,,,,"Cuba (1975–1989)
 SWAPO (1975–1989) [410]
 ANC (1975–1989) [411][410]
 Executive Outcomes (1993–1995)[412]
@@ -2742,12 +2742,12 @@ North Korea
 (1980s)[note 2]","FNLA (1976–1978) [414]
 South Africa (1975–1989)[418]
 Zaire (1975) [421][414]
-FLEC",,,,
-1975,1979,"PUK insurgency
+FLEC",,,,,Undefined
+247,1975,1979,"PUK insurgency
 ",Iraq,"PUK
 KDP","Iraqi–Kurdish
-conflict",https://en.wikipedia.org/wiki/PUK_insurgency,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,17304.0
-1975,1990[Note 1],"Lebanese Civil War
+conflict",https://en.wikipedia.org/wiki/PUK_insurgency,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,17304.0,Asia
+248,1975,1990[Note 1],"Lebanese Civil War
 ","Lebanese Front
 Kataeb Party
 Lebanese Forces
@@ -2806,8 +2806,8 @@ UK
 France
 Italy","Cold War, Arab Cold War,
 Arab–Israeli conflict, Iran–Israel and
-Iran–Saudi proxy wars",https://en.wikipedia.org/wiki/Lebanese_Civil_War,https://en.wikipedia.org/wiki/Cold_War,1066607.0
-,,,,"Arab Deterrent Force (1976–
+Iran–Saudi proxy wars",https://en.wikipedia.org/wiki/Lebanese_Civil_War,https://en.wikipedia.org/wiki/Cold_War,1066607.0,Asia
+249,,,,,"Arab Deterrent Force (1976–
 1982)[422]
 List
 Saudi Arabia
@@ -2819,8 +2819,8 @@ UAE
 Libya
 (1976 only)
 South Yemen
-(1976–1977)",,,,
-1975,1991,"Western Sahara War
+(1976–1977)",,,,,Undefined
+250,1975,1991,"Western Sahara War
 ","Morocco
 Mauritania (1975–1979)
 Supported by:
@@ -2831,8 +2831,8 @@ Saudi Arabia[423][424][425]","Sahrawi Republic
 Supported by:
 Algeria (1976,[426] aid from
 1976)
-Libya (1976–1984)[427]",Western Sahara conflict,https://en.wikipedia.org/wiki/Western_Sahara_War,https://en.wikipedia.org/wiki/Western_Sahara_conflict,176816.0
-1975,Ongoing,"Insurgency in Laos
+Libya (1976–1984)[427]",Western Sahara conflict,https://en.wikipedia.org/wiki/Western_Sahara_War,https://en.wikipedia.org/wiki/Western_Sahara_conflict,176816.0,Africa
+251,1975,Ongoing,"Insurgency in Laos
 ","Lao PDR
 Lao People's Revolutionary Party
 Supported by:
@@ -2860,8 +2860,8 @@ Party of Democratic Kampuchea
 Rightists:
 United Front for the Liberation of Laos
 Supported by:
-Thailand (early to mid–1980s)",Third Indochina War,https://en.wikipedia.org/wiki/Insurgency_in_Laos,https://en.wikipedia.org/wiki/Third_Indochina_War,94999.0
-1975,1976,"Indonesian invasion of East Timor
+Thailand (early to mid–1980s)",Third Indochina War,https://en.wikipedia.org/wiki/Insurgency_in_Laos,https://en.wikipedia.org/wiki/Third_Indochina_War,94999.0,Asia
+252,1975,1976,"Indonesian invasion of East Timor
 ","Indonesia
 ABRI
 PGET
@@ -2869,10 +2869,10 @@ UDT[432]
 APODETI","East Timor
 FRETILIN (FALINTIL)","Cold War in Asia and the
 decolonisation of Asia (from 28
-November)",https://en.wikipedia.org/wiki/Indonesian_invasion_of_East_Timor,https://en.wikipedia.org/wiki/Cold_War_in_Asia,267280.0
-1976,"Early
-1980s",Rebellion of the Lost,Brazil,Rebels,,https://en.wikipedia.org/wiki/Rebellion_of_the_Lost?action=edit&redlink=1,,-1.0
-1976,1982,"Islamist uprising in Syria
+November)",https://en.wikipedia.org/wiki/Indonesian_invasion_of_East_Timor,https://en.wikipedia.org/wiki/Cold_War_in_Asia,267280.0,Asia
+253,1976,"Early
+1980s",Rebellion of the Lost,Brazil,Rebels,,https://en.wikipedia.org/wiki/Rebellion_of_the_Lost?action=edit&redlink=1,,-1.0,Undefined
+254,1976,1982,"Islamist uprising in Syria
 ","Syria
 Supported by:
 Soviet Union[433][434]","Fighting Vanguard[435][436]
@@ -2883,12 +2883,12 @@ Supported by:
 Ba'athist Iraq (1980–1982)
 Jordan[440][441]
 West Germany[442]","Arab Cold War and
-Assadist–Saddamist conflict",https://en.wikipedia.org/wiki/Islamist_uprising_in_Syria,https://en.wikipedia.org/wiki/Arab_Cold_War,81837.0
-1976,2005,Insurgency in Aceh,"Indonesia
+Assadist–Saddamist conflict",https://en.wikipedia.org/wiki/Islamist_uprising_in_Syria,https://en.wikipedia.org/wiki/Arab_Cold_War,81837.0,Asia
+255,1976,2005,Insurgency in Aceh,"Indonesia
 Indonesian National Armed Forces
-Indonesian National Police",Free Aceh Movement,,https://en.wikipedia.org/wiki/Insurgency_in_Aceh,,119259.0
-,,,,,,,,
-1976,Ongoing,Corsican conflict,"France
+Indonesian National Police",Free Aceh Movement,,https://en.wikipedia.org/wiki/Insurgency_in_Aceh,,119259.0,Asia
+256,,,,,,,,,,Undefined
+257,1976,Ongoing,Corsican conflict,"France
 French Armed Forces (1 barracks on
 Corsica)
 National Gendarmerie
@@ -2920,8 +2920,8 @@ FLNC-5 Maghju 1976 (FLNC-
 1976) (2007–present)
 FLNC-21 Maghju (FLNC-21M)
 (2021–present)
-Other small groups",,https://en.wikipedia.org/wiki/Corsican_conflict,,79618.0
-1968,1980,"Political violence in Turkey (1976–
+Other small groups",,https://en.wikipedia.org/wiki/Corsican_conflict,,79618.0,Europe
+258,1968,1980,"Political violence in Turkey (1976–
 1980)
 ","Nationalist Right-wing groups:
 Grey Wolves (MHP)
@@ -2952,9 +2952,9 @@ Left-wing groups: Workers' Party
 of Turkey
 Unity Party
 Centre-left groups: Republican
-People's Party",Cold War,https://en.wikipedia.org/wiki/Political_violence_in_Turkey_(1976%E2%80%931980),https://en.wikipedia.org/wiki/Political_violence_in_Turkey_(1976%E2%80%931980),64534.0
-1977,1977,1977 Shia uprising in Iraq[445],Ba'athist Iraq,Iraqi rebels,,https://en.wikipedia.org/wiki/1977_Shia_uprising_in_Iraq,,12061.0
-1977,1992,"Mozambican Civil War
+People's Party",Cold War,https://en.wikipedia.org/wiki/Political_violence_in_Turkey_(1976%E2%80%931980),https://en.wikipedia.org/wiki/Political_violence_in_Turkey_(1976%E2%80%931980),64534.0,Asia
+259,1977,1977,1977 Shia uprising in Iraq[445],Ba'athist Iraq,Iraqi rebels,,https://en.wikipedia.org/wiki/1977_Shia_uprising_in_Iraq,,12061.0,Asia
+260,1977,1992,"Mozambican Civil War
 ","Mozambique (People's Republic
 until 1990)
 FRELIMO
@@ -2970,11 +2970,11 @@ UNIPOMO[449]
 FUMO[449]
 Rhodesia (until 1979)[450]","aftermath of the
 Mozambican War of Independence,
-and the Cold War",https://en.wikipedia.org/wiki/Mozambican_Civil_War,https://en.wikipedia.org/wiki/Mozambican_War_of_Independence,185346.0
-,,,"Tanzania
+and the Cold War",https://en.wikipedia.org/wiki/Mozambican_Civil_War,https://en.wikipedia.org/wiki/Mozambican_War_of_Independence,185346.0,Africa
+261,,,,"Tanzania
 Malawi (from 1987)[447]","Ex-Flechas[449]
-South Africa (from 1978)[451]",,,,
-1977,1977,"Shaba I
+South Africa (from 1978)[451]",,,,,Undefined
+262,1977,1977,"Shaba I
 ","Zaire
 Morocco
 Egypt
@@ -2990,18 +2990,18 @@ Angola
 Cuba
 Soviet Union
 East Germany[455]","Shaba Invasions and the
-Cold War",https://en.wikipedia.org/wiki/Shaba_I,https://en.wikipedia.org/wiki/Shaba_Invasions,52174.0
-1977,1978,"Ogaden War
+Cold War",https://en.wikipedia.org/wiki/Shaba_I,https://en.wikipedia.org/wiki/Shaba_Invasions,52174.0,Africa
+263,1977,1978,"Ogaden War
 ","Ethiopia
 Cuba
 Soviet Union[456]
 South Yemen[457]","Somalia
 WSLF","Ethiopian Civil War, the
 Ethiopian–Somali conflict, and the
-Cold War",https://en.wikipedia.org/wiki/Ogaden_War,https://en.wikipedia.org/wiki/Ethiopian_Civil_War,367139.0
-1977,1977,"Egyptian–Libyan War
-",Egypt,Libya,Arab Cold War,https://en.wikipedia.org/wiki/Egyptian%E2%80%93Libyan_War,https://en.wikipedia.org/wiki/Arab_Cold_War,91796.0
-1977,Ongoing,"Chittagong Hill Tracts conflict
+Cold War",https://en.wikipedia.org/wiki/Ogaden_War,https://en.wikipedia.org/wiki/Ethiopian_Civil_War,367139.0,Africa
+264,1977,1977,"Egyptian–Libyan War
+",Egypt,Libya,Arab Cold War,https://en.wikipedia.org/wiki/Egyptian%E2%80%93Libyan_War,https://en.wikipedia.org/wiki/Arab_Cold_War,91796.0,Undefined
+265,1977,Ongoing,"Chittagong Hill Tracts conflict
 ","First phase (1977–1997):
 Bangladesh
 Second phase (2022–present):
@@ -3017,8 +3017,8 @@ PCJSS
 UPDF
 Second phase (2022–present):
 Kuki-Chin National Front","Cold War and Terrorism in
-Bangladesh",https://en.wikipedia.org/wiki/Chittagong_Hill_Tracts_conflict,https://en.wikipedia.org/wiki/Cold_War,73258.0
-1978,1979,"Iranian Revolution
+Bangladesh",https://en.wikipedia.org/wiki/Chittagong_Hill_Tracts_conflict,https://en.wikipedia.org/wiki/Cold_War,73258.0,Asia
+266,1978,1979,"Iranian Revolution
 Part of Constitutionalization attempts
 in Iran and the Cold War","Revolutionary Council
 Islamist Opposition
@@ -3054,9 +3054,9 @@ Imperial Army[ac]
 Imperial Guard
 SAVAK
 Shahrbani
-Gendarmerie",,https://en.wikipedia.org/wiki/Iranian_Revolution,https://en.wikipedia.org/wiki/Constitutionalization_attempts_in_Iran,3104130.0
-,,,Union of Communist Militants,,,,,
-1978,1987,"Chadian–Libyan War
+Gendarmerie",,https://en.wikipedia.org/wiki/Iranian_Revolution,https://en.wikipedia.org/wiki/Constitutionalization_attempts_in_Iran,3104130.0,Asia
+267,,,,Union of Communist Militants,,,,,,Undefined
+268,1978,1987,"Chadian–Libyan War
 ","Anti-Libyan Chadian factions
 FAT (1978–1979)
 FAN (1978–1983)
@@ -3090,25 +3090,25 @@ Supported by:
 Algeria[462]
 East Germany
 Soviet Union","Cold War and the Arab
-Cold War",https://en.wikipedia.org/wiki/Chadian%E2%80%93Libyan_War,https://en.wikipedia.org/wiki/Cold_War,149679.0
-1978,1978,"1978 South Lebanon conflict
+Cold War",https://en.wikipedia.org/wiki/Chadian%E2%80%93Libyan_War,https://en.wikipedia.org/wiki/Cold_War,149679.0,Undefined
+269,1978,1978,"1978 South Lebanon conflict
 ","Israel
 SLA",PLO,"Palestinian insurgency in
 South Lebanon, the Lebanese Civil
 War, and the Israeli–Lebanese
-conflict",https://en.wikipedia.org/wiki/1978_South_Lebanon_conflict,https://en.wikipedia.org/wiki/Palestinian_insurgency_in_South_Lebanon,112816.0
-1978,1978,"Saur Revolution
+conflict",https://en.wikipedia.org/wiki/1978_South_Lebanon_conflict,https://en.wikipedia.org/wiki/Palestinian_insurgency_in_South_Lebanon,112816.0,Undefined
+270,1978,1978,"Saur Revolution
 ","People's Democratic Party of
 Afghanistan",Republic of Afghanistan,"Cold War and the Afghan
-conflict",https://en.wikipedia.org/wiki/Saur_Revolution,https://en.wikipedia.org/wiki/Cold_War,266133.0
-1978,1978,"Shaba II
+conflict",https://en.wikipedia.org/wiki/Saur_Revolution,https://en.wikipedia.org/wiki/Cold_War,266133.0,Asia
+271,1978,1978,"Shaba II
 ","Zaire
 France
 Belgium
 Morocco
 United States",FNLC,"Shaba Invasions and the
-Cold War",https://en.wikipedia.org/wiki/Shaba_II,https://en.wikipedia.org/wiki/Shaba_Invasions,41455.0
-1978,1979,Uganda–Tanzania War,"Tanzania
+Cold War",https://en.wikipedia.org/wiki/Shaba_II,https://en.wikipedia.org/wiki/Shaba_Invasions,41455.0,Africa
+272,1978,1979,Uganda–Tanzania War,"Tanzania
 Uganda National Liberation Front
 Kikosi Maalum
 Front for National Salvation
@@ -3125,8 +3125,8 @@ Palestine Liberation
 Organization
 Supported by:
 Pakistan
-Saudi Arabia",,https://en.wikipedia.org/wiki/Uganda%E2%80%93Tanzania_War,,334514.0
-1978,2025,"Kurdistan Workers' Party insurgency
+Saudi Arabia",,https://en.wikipedia.org/wiki/Uganda%E2%80%93Tanzania_War,,334514.0,Africa
+273,1978,2025,"Kurdistan Workers' Party insurgency
 ","Turkey
 Ministry of National Defense
 General Staff
@@ -3174,14 +3174,14 @@ MLKP
 THKP-C/MLSPB-DC
 TKEP/L
 TKP/ML[481]","Kurdish–Turkish
-conflict",https://en.wikipedia.org/wiki/Kurdistan_Workers'_Party_insurgency,https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict,317752.0
-,,,,"DK (until 2017)[note 3]
+conflict",https://en.wikipedia.org/wiki/Kurdistan_Workers'_Party_insurgency,https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict,317752.0,Asia
+274,,,,,"DK (until 2017)[note 3]
 International Freedom Battalion
 Kurdish Hezbollah (1983–1991;
 1998–
 2002)[482][483][484][485][486][487]
-TAK",,,,
-1978,1989,"Cambodian–Vietnamese War
+TAK",,,,,Undefined
+275,1978,1989,"Cambodian–Vietnamese War
 ","Vietnam
 FUNSK (from 1978)
 Post-invasion:
@@ -3202,8 +3202,8 @@ KPNLF
 FUNCINPEC
 Thailand (border clashes)[488]","Third Indochina
 War, the Cold War in Asia, and
-the Sino-Soviet split",https://en.wikipedia.org/wiki/Cambodian%E2%80%93Vietnamese_War,https://en.wikipedia.org/wiki/Third_Indochina_War,855367.0
-1978,1982,"NDF Rebellion
+the Sino-Soviet split",https://en.wikipedia.org/wiki/Cambodian%E2%80%93Vietnamese_War,https://en.wikipedia.org/wiki/Third_Indochina_War,855367.0,Asia
+276,1978,1982,"NDF Rebellion
 ","North Yemen
 Islamic Front
 Supported by:
@@ -3212,8 +3212,8 @@ United States","NDF
 Supported by:
 South Yemen
 Libya","Cold War and the Arab
-Cold War",https://en.wikipedia.org/wiki/NDF_Rebellion,https://en.wikipedia.org/wiki/Cold_War,31066.0
-1979,1979,"1979 Khuzestan insurgency
+Cold War",https://en.wikipedia.org/wiki/NDF_Rebellion,https://en.wikipedia.org/wiki/Cold_War,31066.0,Asia
+277,1979,1979,"1979 Khuzestan insurgency
 ","Interim Government
 Islamic Republic of Iran (From 6
 November)","DRFLA
@@ -3223,20 +3223,20 @@ AFLA
 Supported by:
 Iraq[489]","Consolidation of the
 Iranian Revolution and Arab
-separatism in Khuzestan",https://en.wikipedia.org/wiki/1979_Khuzestan_insurgency,https://en.wikipedia.org/wiki/Consolidation_of_the_Iranian_Revolution,29154.0
-1979,1979,"Sino-Vietnamese War
+separatism in Khuzestan",https://en.wikipedia.org/wiki/1979_Khuzestan_insurgency,https://en.wikipedia.org/wiki/Consolidation_of_the_Iranian_Revolution,29154.0,Asia
+278,1979,1979,"Sino-Vietnamese War
 ",China,Vietnam,"Third Indochina War, the
 Sino-Soviet split and the Cold War in
-Asia",https://en.wikipedia.org/wiki/Sino-Vietnamese_War,https://en.wikipedia.org/wiki/Third_Indochina_War,823811.0
-1979,1991,"Sino-Vietnamese conflicts (1979–
+Asia",https://en.wikipedia.org/wiki/Sino-Vietnamese_War,https://en.wikipedia.org/wiki/Third_Indochina_War,823811.0,Asia
+279,1979,1991,"Sino-Vietnamese conflicts (1979–
 1991)
 ",China,Vietnam,"Third Indochina War, the
 Sino-Soviet Split and the Cold War in
-Asia",https://en.wikipedia.org/wiki/Sino-Vietnamese_conflicts_(1979%E2%80%931991),https://en.wikipedia.org/wiki/Sino-Vietnamese_conflicts_(1979%E2%80%931991),98275.0
-1979,1979,"Yemenite War of 1979
+Asia",https://en.wikipedia.org/wiki/Sino-Vietnamese_conflicts_(1979%E2%80%931991),https://en.wikipedia.org/wiki/Sino-Vietnamese_conflicts_(1979%E2%80%931991),98275.0,Asia
+280,1979,1979,"Yemenite War of 1979
 ",North Yemen,South Yemen,"Cold War and the Arab
-Cold War",https://en.wikipedia.org/wiki/Yemenite_War_of_1979,https://en.wikipedia.org/wiki/Cold_War,16167.0
-1979,1996,"1979 Kurdish rebellion in Iran
+Cold War",https://en.wikipedia.org/wiki/Yemenite_War_of_1979,https://en.wikipedia.org/wiki/Cold_War,16167.0,Undefined
+281,1979,1996,"1979 Kurdish rebellion in Iran
 Part of Consolidation of the
 Iranian Revolution, Iran–Iraq
 War, and Kurdish separatism in
@@ -3246,20 +3246,20 @@ Komala
 IPFG
 OIPFG (Minority)[490][491]
 Sipay Rizgari
-Supported by: Iraq[492]",,https://en.wikipedia.org/wiki/1979_Kurdish_rebellion_in_Iran,https://en.wikipedia.org/wiki/Consolidation_of_the_Iranian_Revolution,88962.0
-1979,1979,"1979 Herat uprising
+Supported by: Iraq[492]",,https://en.wikipedia.org/wiki/1979_Kurdish_rebellion_in_Iran,https://en.wikipedia.org/wiki/Consolidation_of_the_Iranian_Revolution,88962.0,Asia
+282,1979,1979,"1979 Herat uprising
 ","Afghanistan
 Afghan Army
 Afghan Air Force","Jamiat-e Islami
 Iran[493]","1979 uprisings in
-Afghanistan",https://en.wikipedia.org/wiki/1979_Herat_uprising,https://en.wikipedia.org/wiki/1979_uprisings_in_Afghanistan,58288.0
-1979,1980,Al-Ansar insurgency,Ba'athist Iraq,Shi'ite rebels,,https://en.wikipedia.org/wiki/Al-Ansar_(Iraq),,10688.0
-1979,1980,1979–1980 Shia uprising in Iraq,Iraq,Shiite rebels,,https://en.wikipedia.org/wiki/1979%E2%80%931980_Shia_uprising_in_Iraq,,16358.0
-,,,,,,,,
-1979,1979,Grand Mosque seizure,"Saudi Arabia
+Afghanistan",https://en.wikipedia.org/wiki/1979_Herat_uprising,https://en.wikipedia.org/wiki/1979_uprisings_in_Afghanistan,58288.0,Asia
+283,1979,1980,Al-Ansar insurgency,Ba'athist Iraq,Shi'ite rebels,,https://en.wikipedia.org/wiki/Al-Ansar_(Iraq),,10688.0,Undefined
+284,1979,1980,1979–1980 Shia uprising in Iraq,Iraq,Shiite rebels,,https://en.wikipedia.org/wiki/1979%E2%80%931980_Shia_uprising_in_Iraq,,16358.0,Asia
+285,,,,,,,,,,Undefined
+286,1979,1979,Grand Mosque seizure,"Saudi Arabia
 Supported by:
-France[494][495][496][497]",Ikhwan[498],,https://en.wikipedia.org/wiki/Grand_Mosque_seizure,,518435.0
-1979[ad],1992,"Salvadoran Civil War
+France[494][495][496][497]",Ikhwan[498],,https://en.wikipedia.org/wiki/Grand_Mosque_seizure,,518435.0,Asia
+287,1979[ad],1992,"Salvadoran Civil War
 ","Salvadoran government (Revolutionary
 Government Junta until 1982)
 Paramilitary death squads
@@ -3277,14 +3277,14 @@ Soviet Union
 Cuba
 Ethiopia[510]
 Nicaragua","Central American crisis
-and the Cold War",https://en.wikipedia.org/wiki/Salvadoran_Civil_War,https://en.wikipedia.org/wiki/Central_American_crisis,544213.0
-1979,1989,"Soviet–Afghan War
+and the Cold War",https://en.wikipedia.org/wiki/Salvadoran_Civil_War,https://en.wikipedia.org/wiki/Central_American_crisis,544213.0,North America
+288,1979,1989,"Soviet–Afghan War
 ",Afghan mujahideen,"Soviet Union
 Afghanistan","Cold War and the
-Afghan conflict",https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War,https://en.wikipedia.org/wiki/Cold_War,2038636.0
-Started,Ended,Name of conflict,Belligerents,,,,,
-,,,Victorious party (if applicable),Defeated party (if applicable),,,,
-1980,1980,"1980 Gafsa Uprising
+Afghan conflict",https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War,https://en.wikipedia.org/wiki/Cold_War,2038636.0,Asia
+289,Started,Ended,Name of conflict,Belligerents,,,,,,Undefined
+290,,,,Victorious party (if applicable),Defeated party (if applicable),,,,,Undefined
+291,1980,1980,"1980 Gafsa Uprising
 ","Tunisia
 Supported by:
 United States
@@ -3293,8 +3293,8 @@ France
 Morocco","Arab Nationalist Rebels
 Supported by:
 Libya
-Algeria[512]",Cold War and the Arab Cold War,https://en.wikipedia.org/wiki/1980_Gafsa_Uprising,https://en.wikipedia.org/wiki/Cold_War,10286.0
-1980,2000,"Internal conflict in Peru
+Algeria[512]",Cold War and the Arab Cold War,https://en.wikipedia.org/wiki/1980_Gafsa_Uprising,https://en.wikipedia.org/wiki/Cold_War,10286.0,Africa
+292,1980,2000,"Internal conflict in Peru
 ","Government of Peru
 Supported by:
 Rondas campesinas[note 4]
@@ -3339,8 +3339,8 @@ Soviet Union[526]
 FMLN[527]
 M-19[528]
 FSLN[529][526]","Cold War (1980–1991) and the war on
-drugs (1980–present)",https://en.wikipedia.org/wiki/Internal_conflict_in_Peru,https://en.wikipedia.org/wiki/Cold_War,174378.0
-1980,1980,"Gwangju Uprising
+drugs (1980–present)",https://en.wikipedia.org/wiki/Internal_conflict_in_Peru,https://en.wikipedia.org/wiki/Cold_War,174378.0,South America
+293,1980,1980,"Gwangju Uprising
 ","South Korean Government
 Hanahoe
 DSC
@@ -3349,8 +3349,8 @@ National Police","Gwangju citizenry
 Protesters
 Armed citizens
 Citizens' Settlement Committee
-Students' Settlement Committee",Minjung movement,https://en.wikipedia.org/wiki/Gwangju_Uprising,https://en.wikipedia.org/wiki/Minjung,613818.0
-1980,1980,"Nojeh coup plot
+Students' Settlement Committee",Minjung movement,https://en.wikipedia.org/wiki/Gwangju_Uprising,https://en.wikipedia.org/wiki/Minjung,613818.0,Asia
+294,1980,1980,"Nojeh coup plot
 ","Islamic Republic of Iran
 Government of Islamic Republic of
 Iran
@@ -3363,16 +3363,16 @@ Tudeh Party (alleged)","Azadegan Organization
 Neqab Organisation
 Iran Patriotic Officers (NUPA)
 Supported by:
-Iraq (alleged)",Consolidation of the Iranian Revolution,https://en.wikipedia.org/wiki/Nojeh_coup_plot,https://en.wikipedia.org/wiki/Consolidation_of_the_Iranian_Revolution,48655.0
-,,,,,,,,
-1980,1980,Coconut War,"Vanuatu
+Iraq (alleged)",Consolidation of the Iranian Revolution,https://en.wikipedia.org/wiki/Nojeh_coup_plot,https://en.wikipedia.org/wiki/Consolidation_of_the_Iranian_Revolution,48655.0,Asia
+295,,,,,,,,,,Undefined
+296,1980,1980,Coconut War,"Vanuatu
 Papua New Guinea
 Solomon Islands
 United Kingdom
 France","Nagriamel rebels
 Support:
-Phoenix Foundation",,https://en.wikipedia.org/wiki/Coconut_War,,27156.0
-1980,1988,"Iran–Iraq War
+Phoenix Foundation",,https://en.wikipedia.org/wiki/Coconut_War,,27156.0,Undefined
+297,1980,1988,"Iran–Iraq War
 ","Iran
 KDP
 PUK
@@ -3387,8 +3387,8 @@ PDKI[540]
 Salvation Force[541]
 Arab volunteers[af]","Cold War, the aftermath of the Iranian
 revolution, the Iraqi–Kurdish conflict, and the Iran–
-Saudi Arabia proxy conflict",https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War,https://en.wikipedia.org/wiki/Cold_War,2866433.0
-1980,1986,"Ugandan Bush War
+Saudi Arabia proxy conflict",https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War,https://en.wikipedia.org/wiki/Cold_War,2866433.0,Asia
+298,1980,1986,"Ugandan Bush War
 ","National Resistance
 Movement (NRM)
 PRA
@@ -3412,19 +3412,19 @@ UNRF (I) (from 1985)
 UFM (from 1985)
 Tanzania (until 1985)
 North Korea (1981–1985)
-Zaire (1986, alleged)[555]",Cold War,https://en.wikipedia.org/wiki/Ugandan_Bush_War,https://en.wikipedia.org/wiki/Cold_War,196358.0
-1981,1981,"Paquisha War
-",Peru,Ecuador,Ecuadorian–Peruvian conflicts,https://en.wikipedia.org/wiki/Paquisha_War,https://en.wikipedia.org/wiki/History_of_the_Ecuadorian%E2%80%93Peruvian_territorial_dispute,33296.0
-1981,1981,"1981 Entumbane uprising
+Zaire (1986, alleged)[555]",Cold War,https://en.wikipedia.org/wiki/Ugandan_Bush_War,https://en.wikipedia.org/wiki/Cold_War,196358.0,Africa
+299,1981,1981,"Paquisha War
+",Peru,Ecuador,Ecuadorian–Peruvian conflicts,https://en.wikipedia.org/wiki/Paquisha_War,https://en.wikipedia.org/wiki/History_of_the_Ecuadorian%E2%80%93Peruvian_territorial_dispute,33296.0,South America
+300,1981,1981,"1981 Entumbane uprising
 ",Zimbabwe,"ZIPRA elements
-ZANLA elements",aftermath of the Rhodesian Bush War,https://en.wikipedia.org/wiki/1981_Entumbane_uprising,https://en.wikipedia.org/wiki/Rhodesian_Bush_War,19105.0
-1981,1981,"1981 Gambian coup d'état attempt
+ZANLA elements",aftermath of the Rhodesian Bush War,https://en.wikipedia.org/wiki/1981_Entumbane_uprising,https://en.wikipedia.org/wiki/Rhodesian_Bush_War,19105.0,Africa
+301,1981,1981,"1981 Gambian coup d'état attempt
 ","The Gambia
 Senegal
 Supported by:
 United Kingdom","Gambia Socialist
-Revolutionary Party",Cold War,https://en.wikipedia.org/wiki/1981_Gambian_coup_d'%C3%A9tat_attempt,https://en.wikipedia.org/wiki/Cold_War,4995.0
-1982,Ongoing,Casamance conflict,"Senegal
+Revolutionary Party",Cold War,https://en.wikipedia.org/wiki/1981_Gambian_coup_d'%C3%A9tat_attempt,https://en.wikipedia.org/wiki/Cold_War,4995.0,Undefined
+302,1982,Ongoing,Casamance conflict,"Senegal
 Guinea-Bissau (1998–
 1999,[556] 2021[557])
 Turkey (2021, alleged by
@@ -3437,14 +3437,14 @@ Guinea-Bissau rebels
 Supported by:
 Guinea-Bissau (2000s,
 alleged)[557]
-The Gambia (1994–2017)",,https://en.wikipedia.org/wiki/Casamance_conflict,,82910.0
-1982,1982,"1982 Amol uprising
-",Iran,Union of Iranian Communists,consolidation of the Iranian Revolution,https://en.wikipedia.org/wiki/1982_Amol_uprising,https://en.wikipedia.org/wiki/Consolidation_of_the_Iranian_Revolution,11351.0
-1982,1982,"Falklands War
-",United Kingdom,Argentina,Falkland Islands sovereignty dispute,https://en.wikipedia.org/wiki/Falklands_War,https://en.wikipedia.org/wiki/Falkland_Islands_sovereignty_dispute,2618651.0
-1982,1982,Ndogboyosoi War,All People's Congress (APC),"Sierra Leone People's Party
-(SLPP)",,https://en.wikipedia.org/wiki/Ndogboyosoi_War,,20367.0
-1982,1985,"1982 Lebanon War
+The Gambia (1994–2017)",,https://en.wikipedia.org/wiki/Casamance_conflict,,82910.0,Africa
+303,1982,1982,"1982 Amol uprising
+",Iran,Union of Iranian Communists,consolidation of the Iranian Revolution,https://en.wikipedia.org/wiki/1982_Amol_uprising,https://en.wikipedia.org/wiki/Consolidation_of_the_Iranian_Revolution,11351.0,Asia
+304,1982,1982,"Falklands War
+",United Kingdom,Argentina,Falkland Islands sovereignty dispute,https://en.wikipedia.org/wiki/Falklands_War,https://en.wikipedia.org/wiki/Falkland_Islands_sovereignty_dispute,2618651.0,South America
+305,1982,1982,Ndogboyosoi War,All People's Congress (APC),"Sierra Leone People's Party
+(SLPP)",,https://en.wikipedia.org/wiki/Ndogboyosoi_War,,20367.0,Africa
+306,1982,1985,"1982 Lebanon War
 ","Israel
 Lebanese Forces
 South Lebanon Army","PLO
@@ -3455,13 +3455,13 @@ Front
 Al-Mourabitoun
 PKK[561][562][563]","Palestinian insurgency in South
 Lebanon, the Lebanese Civil War, and the
-Israeli–Lebanese conflict",https://en.wikipedia.org/wiki/1982_Lebanon_War,https://en.wikipedia.org/wiki/Palestinian_insurgency_in_South_Lebanon,563630.0
-1982,1982,"1982 Ethiopian–Somali Border War
+Israeli–Lebanese conflict",https://en.wikipedia.org/wiki/1982_Lebanon_War,https://en.wikipedia.org/wiki/Palestinian_insurgency_in_South_Lebanon,563630.0,Asia
+307,1982,1982,"1982 Ethiopian–Somali Border War
 ",Somalia,"Ethiopia
 SSDF","Ethiopian–Somali conflict and the Somali
-Rebellion",https://en.wikipedia.org/wiki/1982_Ethiopian%E2%80%93Somali_Border_War,https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Somali_conflict,53449.0
-1983,1983,Chadian–Nigerian War,Nigeria,Chad,,https://en.wikipedia.org/wiki/Chadian%E2%80%93Nigerian_War,,16212.0
-1983,2005,"Second Sudanese Civil War
+Rebellion",https://en.wikipedia.org/wiki/1982_Ethiopian%E2%80%93Somali_Border_War,https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Somali_conflict,53449.0,Africa
+308,1983,1983,Chadian–Nigerian War,Nigeria,Chad,,https://en.wikipedia.org/wiki/Chadian%E2%80%93Nigerian_War,,16212.0,Africa
+309,1983,2005,"Second Sudanese Civil War
 ","SPLA
 SPLA-Mainstream[564]
 SPLA-Agar
@@ -3512,25 +3512,25 @@ DR Congo (1998–2003)
 Non-combat aid:
 Iran[587]
 Belarus (from 1996)[588][589]","Sudanese Civil Wars and the South
-Sudanese wars of independence",https://en.wikipedia.org/wiki/Second_Sudanese_Civil_War,https://en.wikipedia.org/wiki/Sudanese_Civil_War,339782.0
-1983,2009,"Sri Lankan Civil War
+Sudanese wars of independence",https://en.wikipedia.org/wiki/Second_Sudanese_Civil_War,https://en.wikipedia.org/wiki/Sudanese_Civil_War,339782.0,Africa
+310,1983,2009,"Sri Lankan Civil War
 ","Sri Lanka
 India (1987–1990)","Liberation Tigers of Tamil
 Eelam
 Other Tamil militant groups","Cold War, spillover into the 1987–1989
-JVP insurrection",https://en.wikipedia.org/wiki/Sri_Lankan_civil_war,https://en.wikipedia.org/wiki/Cold_War,748361.0
-1983,1987,"Eelam War I
+JVP insurrection",https://en.wikipedia.org/wiki/Sri_Lankan_civil_war,https://en.wikipedia.org/wiki/Cold_War,748361.0,Asia
+311,1983,1987,"Eelam War I
 ",Sri Lanka,"Liberation Tigers of Tamil
-Eelam",Sri Lankan Civil War,https://en.wikipedia.org/wiki/Eelam_War_I,https://en.wikipedia.org/wiki/Sri_Lankan_civil_war,22221.0
-1983,1986,"1983–1986 Kurdish rebellions in Iraq
+Eelam",Sri Lankan Civil War,https://en.wikipedia.org/wiki/Eelam_War_I,https://en.wikipedia.org/wiki/Sri_Lankan_civil_war,22221.0,Asia
+312,1983,1986,"1983–1986 Kurdish rebellions in Iraq
 ",Iraq,"KDP
 Supported by:
 Iran
 PUK
 Kurdish mujahideen","Iraqi–Kurdish conflict and the Iran–Iraq
-War",https://en.wikipedia.org/wiki/1983%E2%80%931986_Kurdish_rebellions_in_Iraq,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,22795.0
-,,,,,,,,
-1983,1983,"United States invasion of Grenada
+War",https://en.wikipedia.org/wiki/1983%E2%80%931986_Kurdish_rebellions_in_Iraq,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,22795.0,Undefined
+313,,,,,,,,,,Undefined
+314,1983,1983,"United States invasion of Grenada
 ","United States
 Grenadian Opposition
 Caribbean Peace Force:
@@ -3545,28 +3545,28 @@ Saint Lucia
 Saint Vincent and the
 Grenadines","Grenada (PRG)
 Cuba
-Soviet Union",Cold War,https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada,https://en.wikipedia.org/wiki/Cold_War,933943.0
-1984,2003,"Siachen conflict
-",India,Pakistan,Kashmir conflict,https://en.wikipedia.org/wiki/Siachen_conflict,https://en.wikipedia.org/wiki/Kashmir_conflict,201762.0
-1982,2000,"South Lebanon conflict (1985–2000)
+Soviet Union",Cold War,https://en.wikipedia.org/wiki/United_States_invasion_of_Grenada,https://en.wikipedia.org/wiki/Cold_War,933943.0,Undefined
+315,1984,2003,"Siachen conflict
+",India,Pakistan,Kashmir conflict,https://en.wikipedia.org/wiki/Siachen_conflict,https://en.wikipedia.org/wiki/Kashmir_conflict,201762.0,Asia
+316,1982,2000,"South Lebanon conflict (1985–2000)
 ","Hezbollah
 Amal
 Lebanese Communist Party
 Jammoul
 PFLP–GC","Israel
 South Lebanon Army","Israeli–Lebanese conflict, the Iran–Israel
-proxy conflict, and the Israeli–Palestinian conflict",https://en.wikipedia.org/wiki/South_Lebanon_conflict_(1985%E2%80%932000),https://en.wikipedia.org/wiki/Israeli%E2%80%93Lebanese_conflict,179329.0
-1985,1985,Agacher Strip War,Mali,Burkina Faso,,https://en.wikipedia.org/wiki/Agacher_Strip_War,,36310.0
-1986,1986,"South Yemen Civil War
-",al-Toghmah,al-Zomrah,Arab Cold War,https://en.wikipedia.org/wiki/South_Yemen_Civil_War,https://en.wikipedia.org/wiki/Arab_Cold_War,22790.0
-1986,1986,"1986 United States bombing of Libya
-",United States,Libya,Cold War,https://en.wikipedia.org/wiki/1986_United_States_bombing_of_Libya,https://en.wikipedia.org/wiki/Cold_War,240253.0
-1986,1992,Surinamese Interior War,Surinamese National Army,"Jungle Commando
-Tucayana Amazonas",,https://en.wikipedia.org/wiki/Surinamese_Interior_War,,27786.0
-1986,1987,Ciskei-Transkei conflict,Ciskei,"Transkei
-Ciskei dissidents",,https://en.wikipedia.org/wiki/Ciskei#Ciskei%E2%80%93Transkei_hostilities_and_Operation_Katzen,,89616.0
-1986,1987,Sumdorong Chu standoff,India,China,,https://en.wikipedia.org/wiki/Sumdorong_Chu_standoff,,37084.0
-1987,1989,"1987–1989 JVP insurrection
+proxy conflict, and the Israeli–Palestinian conflict",https://en.wikipedia.org/wiki/South_Lebanon_conflict_(1985%E2%80%932000),https://en.wikipedia.org/wiki/Israeli%E2%80%93Lebanese_conflict,179329.0,Asia
+317,1985,1985,Agacher Strip War,Mali,Burkina Faso,,https://en.wikipedia.org/wiki/Agacher_Strip_War,,36310.0,Africa
+318,1986,1986,"South Yemen Civil War
+",al-Toghmah,al-Zomrah,Arab Cold War,https://en.wikipedia.org/wiki/South_Yemen_Civil_War,https://en.wikipedia.org/wiki/Arab_Cold_War,22790.0,Undefined
+319,1986,1986,"1986 United States bombing of Libya
+",United States,Libya,Cold War,https://en.wikipedia.org/wiki/1986_United_States_bombing_of_Libya,https://en.wikipedia.org/wiki/Cold_War,240253.0,Africa
+320,1986,1992,Surinamese Interior War,Surinamese National Army,"Jungle Commando
+Tucayana Amazonas",,https://en.wikipedia.org/wiki/Surinamese_Interior_War,,27786.0,South America
+321,1986,1987,Ciskei-Transkei conflict,Ciskei,"Transkei
+Ciskei dissidents",,https://en.wikipedia.org/wiki/Ciskei#Ciskei%E2%80%93Transkei_hostilities_and_Operation_Katzen,,89616.0,Africa
+322,1986,1987,Sumdorong Chu standoff,India,China,,https://en.wikipedia.org/wiki/Sumdorong_Chu_standoff,,37084.0,Asia
+323,1987,1989,"1987–1989 JVP insurrection
 ","Sri Lanka
 India
 Pro-government paramilitaries:
@@ -3579,14 +3579,14 @@ Vikalpa Kandayama[590]","Janatha Vimukthi
 Peramuna
 Deshapremi Janatha Viyaparaya
 Patriotic People's Armed
-Troops",Cold War and Sri Lankan Civil War,https://en.wikipedia.org/wiki/1987%E2%80%931989_JVP_insurrection,https://en.wikipedia.org/wiki/Cold_War,87459.0
-1987,1989,War of the Tribes,"Tajammu al-Arabi
+Troops",Cold War and Sri Lankan Civil War,https://en.wikipedia.org/wiki/1987%E2%80%931989_JVP_insurrection,https://en.wikipedia.org/wiki/Cold_War,87459.0,Asia
+324,1987,1989,War of the Tribes,"Tajammu al-Arabi
 Sudan
 Supported by:
 Libya","Fur tribes
 Supported by:
-Chad",,https://en.wikipedia.org/wiki/War_of_the_Tribes,,143.0
-1987,1991,"Singing Revolution
+Chad",,https://en.wikipedia.org/wiki/War_of_the_Tribes,,143.0,Undefined
+325,1987,1991,"Singing Revolution
 ","Estonia
 Popular Front of Estonia
 Estonian Citizens' Committee
@@ -3609,8 +3609,8 @@ Lithuania (pro-Moscow faction)
 Yedinstvo
 Communist Party of Latvia
 (pro-Moscow faction)","Revolutions of 1989 and the Dissolution
-of the Soviet Union",https://en.wikipedia.org/wiki/Singing_Revolution,https://en.wikipedia.org/wiki/Revolutions_of_1989,193015.0
-,,,"Latvia
+of the Soviet Union",https://en.wikipedia.org/wiki/Singing_Revolution,https://en.wikipedia.org/wiki/Revolutions_of_1989,193015.0,Undefined
+326,,,,"Latvia
 Popular Front of Latvia
 Helsinki-86
 Latvian National Independence
@@ -3631,8 +3631,8 @@ Lithuanian Riflemen's Union","International Front of the
 Working People of Latvia
 Communist Party of Estonia
 (pro-Moscow faction)
-Intermovement",,,,
-1987,1993,"First Intifada
+Intermovement",,,,,Undefined
+327,1987,1993,"First Intifada
 ",Israel,"Al-Qiyada al-Muwhhada
 Fatah
 Popular Front for the
@@ -3642,8 +3642,8 @@ Liberation of Palestine
 Palestinian Communist
 Party
 Hamas
-Palestinian Islamic Jihad",Israeli–Palestinian conflict,https://en.wikipedia.org/wiki/First_Intifada,https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict,594675.0
-1987,Ongoing,"Lord's Resistance Army insurgency
+Palestinian Islamic Jihad",Israeli–Palestinian conflict,https://en.wikipedia.org/wiki/First_Intifada,https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict,594675.0,Asia
+328,1987,Ongoing,"Lord's Resistance Army insurgency
 ","Uganda
 Zaire (until 1997)
 DR Congo (from 1997)
@@ -3661,8 +3661,8 @@ United States
 North Korea(until 1990s)","Lord's Resistance Army
 Supported by:
 Sudan (1994–2002)[596]
-Allied Democratic Forces",Cold war (Until 1991),https://en.wikipedia.org/wiki/Lord's_Resistance_Army_insurgency,https://en.wikipedia.org/wiki/Cold_war,167840.0
-1988,1994,"First Nagorno-Karabakh War
+Allied Democratic Forces",Cold war (Until 1991),https://en.wikipedia.org/wiki/Lord's_Resistance_Army_insurgency,https://en.wikipedia.org/wiki/Cold_war,167840.0,Africa
+329,1988,1994,"First Nagorno-Karabakh War
 ","Nagorno-Karabakh[ai]
 Armenia[aj]
 Armenian Revolutionary
@@ -3682,15 +3682,15 @@ UNA-UNSO[608][609][610]
 Slavic mercenaries[599]
 Turkish volunteers[611][612]","Nagorno-Karabakh conflict, the
 dissolution of the Soviet Union, and the Wars in the
-Caucasus",https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,333414.0
-1988,1988,1988 Maldives coup d'état attempt,"India
+Caucasus",https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,333414.0,Asia
+330,1988,1988,1988 Maldives coup d'état attempt,"India
 Maldives","People's Liberation
 Organisation of Tamil Eelam
 Maldivian rebels","Indian
-Intervention in the Sri Lankan civil war",https://en.wikipedia.org/wiki/Indian_intervention_in_the_Sri_Lankan_Civil_War,https://en.wikipedia.org/wiki/1988_Maldives_coup_d'%C3%A9tat_attempt,34422.0
-1988,1998,Bougainville conflict,"Bougainville Interim
-Government (BIG)",Papua New Guinea,,https://en.wikipedia.org/wiki/Bougainville_conflict,,123319.0
-,,,"Bougainville Revolutionary Army
+Intervention in the Sri Lankan civil war",https://en.wikipedia.org/wiki/Indian_intervention_in_the_Sri_Lankan_Civil_War,https://en.wikipedia.org/wiki/1988_Maldives_coup_d'%C3%A9tat_attempt,34422.0,Asia
+331,1988,1998,Bougainville conflict,"Bougainville Interim
+Government (BIG)",Papua New Guinea,,https://en.wikipedia.org/wiki/Bougainville_conflict,,123319.0,Undefined
+332,,,,"Bougainville Revolutionary Army
 (BRA)
 Supported by:
 Solomon Islands
@@ -3698,9 +3698,9 @@ Fiji (alleged)","Buka Liberation Front
 Bougainville Resistance Force
 Supported by:
 Australia
-Indonesia[613]",,,,
-1989,1989,1989 Paraguayan coup d'état,1st Army Corps,Government of Paraguay,,https://en.wikipedia.org/wiki/1989_Paraguayan_coup_d'%C3%A9tat,,31045.0
-1989,1992,"Afghan Civil War (1989–1992)
+Indonesia[613]",,,,,Undefined
+333,1989,1989,1989 Paraguayan coup d'état,1st Army Corps,Government of Paraguay,,https://en.wikipedia.org/wiki/1989_Paraguayan_coup_d'%C3%A9tat,,31045.0,South America
+334,1989,1992,"Afghan Civil War (1989–1992)
 ","Afghan Interim Government[614]
 Jamiat-e Islami
 Hezb-e Islami Gulbuddin (until
@@ -3737,15 +3737,15 @@ Tajikistan
 Turkmenistan
 Uzbekistan
 Russia (until January 1992)","Cold War, Revolutions of 1989,
-Dissolution of the Soviet Union, and Afghan conflict",https://en.wikipedia.org/wiki/Afghan_Civil_War_(1989%E2%80%931992),https://en.wikipedia.org/wiki/Cold_War,173875.0
-1989,1991,Mauritania–Senegal Border War,"Mauritania
+Dissolution of the Soviet Union, and Afghan conflict",https://en.wikipedia.org/wiki/Afghan_Civil_War_(1989%E2%80%931992),https://en.wikipedia.org/wiki/Cold_War,173875.0,Asia
+335,1989,1991,Mauritania–Senegal Border War,"Mauritania
 Supported by:
 Syria
 Iraq","Senegal
-FLAM",,https://en.wikipedia.org/wiki/Mauritania%E2%80%93Senegal_Border_War,,27111.0
-1989,1996,"KDPI insurgency (1989–1996)
-",Iran,KDP-I,Kurdish separatism in Iran,https://en.wikipedia.org/wiki/KDPI_insurgency_(1989%E2%80%931996),https://en.wikipedia.org/wiki/Kurdish_separatism_in_Iran,24553.0
-1989,Ongoing,"Insurgency in Jammu and Kashmir
+FLAM",,https://en.wikipedia.org/wiki/Mauritania%E2%80%93Senegal_Border_War,,27111.0,Africa
+336,1989,1996,"KDPI insurgency (1989–1996)
+",Iran,KDP-I,Kurdish separatism in Iran,https://en.wikipedia.org/wiki/KDPI_insurgency_(1989%E2%80%931996),https://en.wikipedia.org/wiki/Kurdish_separatism_in_Iran,24553.0,Undefined
+337,1989,Ongoing,"Insurgency in Jammu and Kashmir
 ","India
 Indian Armed Forces
 Indian Army
@@ -3777,14 +3777,14 @@ AGH (active until 2022)
 Supported by:
 Pakistan
 D-Company[624]
-Islamic State",Kashmir conflict,https://en.wikipedia.org/wiki/Insurgency_in_Jammu_and_Kashmir,https://en.wikipedia.org/wiki/Kashmir_conflict,454210.0
-,,,,"IS Hind[625]
+Islamic State",Kashmir conflict,https://en.wikipedia.org/wiki/Insurgency_in_Jammu_and_Kashmir,https://en.wikipedia.org/wiki/Kashmir_conflict,454210.0,Asia
+338,,,,,"IS Hind[625]
 ISJK[626]
-(until 2019)",,,,
-1989,1989,1989 Philippine coup d'état attempt,"Philippines
+(until 2019)",,,,,Undefined
+339,1989,1989,1989 Philippine coup d'état attempt,"Philippines
 United States (minor air support)","Reform the Armed Forces
-Movement",,https://en.wikipedia.org/wiki/1989_Philippine_coup_d'%C3%A9tat_attempt,,8990.0
-1989,1989,"Romanian Revolution
+Movement",,https://en.wikipedia.org/wiki/1989_Philippine_coup_d'%C3%A9tat_attempt,,8990.0,Undefined
+340,1989,1989,"Romanian Revolution
 ","Revolutionaries
 Anti-communists
 Communist Party dissidents
@@ -3796,10 +3796,10 @@ Securitate
 Miliția
 Army of the Socialist
 Republic of Romania
-Communist Party loyalists",Revolutions of 1989,https://en.wikipedia.org/wiki/Romanian_Revolution,https://en.wikipedia.org/wiki/Revolutions_of_1989,190981.0
-1989,1990,"United States invasion of Panama
-the war on drugs and Cold War",United States,Panama,,https://en.wikipedia.org/wiki/United_States_invasion_of_Panama,https://en.wikipedia.org/wiki/War_on_drugs,1581091.0
-1989,1997,"First Liberian Civil War
+Communist Party loyalists",Revolutions of 1989,https://en.wikipedia.org/wiki/Romanian_Revolution,https://en.wikipedia.org/wiki/Revolutions_of_1989,190981.0,Europe
+341,1989,1990,"United States invasion of Panama
+the war on drugs and Cold War",United States,Panama,,https://en.wikipedia.org/wiki/United_States_invasion_of_Panama,https://en.wikipedia.org/wiki/War_on_drugs,1581091.0,North America
+342,1989,1997,"First Liberian Civil War
 the Liberian Civil Wars and spillover of the Sierra
 Leone Civil War","Anti-Doe Armed Forces elements
 NPFL
@@ -3826,4 +3826,4 @@ Guinea (from 1990)
 The Gambia (from 1990)
 Sierra Leone (1990–1991)
 UNOMIL (September 22,
-1993 – September 12, 1997)",,https://en.wikipedia.org/wiki/First_Liberian_Civil_War,https://en.wikipedia.org/wiki/Liberian_Civil_War_(disambiguation),314822.0
+1993 – September 12, 1997)",,https://en.wikipedia.org/wiki/First_Liberian_Civil_War,https://en.wikipedia.org/wiki/Liberian_Civil_War_(disambiguation),314822.0,Africa

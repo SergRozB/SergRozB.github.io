@@ -49,7 +49,7 @@ def get_wikipedia_pageviews(article, start, end, project="en.wikipedia.org"):
 
 # PDFList specifies which PDFs to make csvs for
 
-PDFList = ["wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"]
+#PDFList = ["wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"]
 #PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf"]
 #PDFList = ["wars_2003-2019.pdf", "wars_2020-present.pdf"]
 #PDFList = ["wars_1990-2002.pdf"]
@@ -57,8 +57,8 @@ PDFList = ["wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"]
         #"wars_1990-2002.pdf"]
 #PDFList = ["wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", # Current intended ones
            #"wars_1990-2002.pdf"]
-#PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
-           #"wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
+PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
+           "wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
 #PDFList = ["wars_2003-2019.pdf"]
 #PDFList = ["wars_1500-1799.pdf"]
 
@@ -155,9 +155,20 @@ if not use_intermediate_csv:
                                     if matching_links[0]['top'] < matching_links[1]['top']:
                                         war_link = matching_links[0]
                                         wider_conflict_link = matching_links[1]
+                        
                                     else:
                                         war_link = matching_links[1]
                                         wider_conflict_link = matching_links[0]
+                                    
+                                    if war_link == wider_conflict_link:
+                                        # Get the next link up
+                                            for i in range(len(matching_links)):
+                                                i += 2
+                                                if i > (len(matching_links) - 1):
+                                                    break
+                                                if wider_conflict_link != war_link:
+                                                    wider_conflict_link = matching_links[i]
+                                                    break
 
                             war_links.append(war_link.get("uri") if war_link else "")
                             wider_conflict_links.append(wider_conflict_link.get("uri") if wider_conflict_link else "")

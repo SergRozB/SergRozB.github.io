@@ -1,11 +1,11 @@
-Started,Ended,Name of conflict,Belligerents,,Part of,War link,Wider conflict link,Wikipedia pageviews (2025 - 2026)
-,,,Victorious party (if applicable),Defeated party (if applicable),,,,
-2004,2010,"Sinaloa Cartel–Gulf Cartel conflict
+,Started,Ended,Name of conflict,Belligerents,Unnamed: 4,Part of,War link,Wider conflict link,Wikipedia pageviews (2025 - 2026),Continent
+0,,,,Victorious party (if applicable),Defeated party (if applicable),,,,,Undefined
+1,2004,2010,"Sinaloa Cartel–Gulf Cartel conflict
 ","Sinaloa cartel
 Los Negros","Gulf cartel
 Los Zetas","Mexican drug war (from 2006
-to 2010)",,,
-2004,Ongoing,South Thailand insurgency,"Thailand
+to 2010)",,,,Undefined
+2,2004,Ongoing,South Thailand insurgency,"Thailand
 Royal Thai Armed Forces (RTARF)
 Royal Thai Police (RTP)
 Anti-Money Laundering Office (AMLO)
@@ -47,8 +47,8 @@ Mayaki cartel
 Xaysana cartel
 Usman cartel
 Oil smugglers
-Pirates",,https://en.wikipedia.org/wiki/South_Thailand_insurgency,,201686.0
-2004,Ongoing,"Insurgency in Khyber Pakhtunkhwa
+Pirates",,https://en.wikipedia.org/wiki/South_Thailand_insurgency,,201686.0,Asia
+3,2004,Ongoing,"Insurgency in Khyber Pakhtunkhwa
 ","Pakistan
 Pakistan Armed Forces
 Pakistan Army
@@ -103,8 +103,8 @@ Jundallah
 IMU
 Jamaat-ul-Ahrar","war on terror and the
 spillover of the War in Afghanistan
-(2001–2021)",https://en.wikipedia.org/wiki/Insurgency_in_Khyber_Pakhtunkhwa,https://en.wikipedia.org/wiki/War_on_terror,370186.0
-2004,Ongoing,"Iran–PJAK conflict
+(2001–2021)",https://en.wikipedia.org/wiki/Insurgency_in_Khyber_Pakhtunkhwa,https://en.wikipedia.org/wiki/War_on_terror,370186.0,Asia
+4,2004,Ongoing,"Iran–PJAK conflict
 ","Iran
 Supported by:
 Turkey (allegedly, denied by Iran)
@@ -112,8 +112,8 @@ United States (alleged by PJAK,
 since 2009)","Kurdistan Free Life Party
 (PJAK)
 Eastern Kurdistan Units (YRK)
-Women's Defence Forces (HPJ)",Kurdish separatism in Iran,https://en.wikipedia.org/wiki/Iran%E2%80%93PJAK_conflict,https://en.wikipedia.org/wiki/Kurdish_separatism_in_Iran,82916.0
-2003,Ongoing,Conflict in the Niger Delta,"Nigerian government
+Women's Defence Forces (HPJ)",Kurdish separatism in Iran,https://en.wikipedia.org/wiki/Iran%E2%80%93PJAK_conflict,https://en.wikipedia.org/wiki/Kurdish_separatism_in_Iran,82916.0,Asia
+5,2003,Ongoing,Conflict in the Niger Delta,"Nigerian government
 Niger Delta Revolutionary Crusaders
 (since 2019)
 Nigerian Armed Forces
@@ -127,8 +127,8 @@ Niger Delta Greenland Justice
 Mandate
 (2016–present)
 Joint Niger Delta Liberation Force
-(2016–present)",,https://en.wikipedia.org/wiki/Conflict_in_the_Niger_Delta,,89641.0
-,,,"Cross River State
+(2016–present)",,https://en.wikipedia.org/wiki/Conflict_in_the_Niger_Delta,,89641.0,Africa
+6,,,,"Cross River State
 Delta State
 Edo State
 Imo State
@@ -175,8 +175,8 @@ Pirates
 Nigerian mafia
 Black Axe
 The Outlaws
-Eiye",,,,
-2004,Ongoing,"Kivu conflict
+Eiye",,,,,Undefined
+7,2004,Ongoing,"Kivu conflict
 ","Pro-government:
 DR Congo
 Wazalendo (March 2024–)
@@ -227,8 +227,8 @@ RNL
 Mazembe
 Kifuafua
 Simba","aftermath of the Second
-Congo War",https://en.wikipedia.org/wiki/Kivu_conflict,https://en.wikipedia.org/wiki/Second_Congo_War,421321.0
-,,,,"MAC
+Congo War",https://en.wikipedia.org/wiki/Kivu_conflict,https://en.wikipedia.org/wiki/Second_Congo_War,421321.0,Africa
+8,,,,,"MAC
 Raia Mutomboki
 Buhirwa
 Kidjangala
@@ -239,8 +239,8 @@ CNPSC
 Alaise
 CODECO (in Ituri)
 Chini ya Kilima–FPIC (in Ituri)
-Zaïre-FPAC (in Ituri)",,,,
-2004,2014,"Houthi insurgency
+Zaïre-FPAC (in Ituri)",,,,,Undefined
+9,2004,2014,"Houthi insurgency
 ","Houthi Movement
 Yemen (pro-Saleh forces)
 Alleged support by:
@@ -256,8 +256,8 @@ Jordan
 Morocco
 al-Qaeda
 Ansar al-Sharia","Yemeni crisis and the Iran–
-Saudi Arabia proxy conflict",https://en.wikipedia.org/wiki/Houthi_insurgency,https://en.wikipedia.org/wiki/Yemeni_crisis_(2011%E2%80%93present),133649.0
-2004,2007,Central African Bush War,"Central African Republic
+Saudi Arabia proxy conflict",https://en.wikipedia.org/wiki/Houthi_insurgency,https://en.wikipedia.org/wiki/Yemeni_crisis_(2011%E2%80%93present),133649.0,Asia
+10,2004,2007,Central African Bush War,"Central African Republic
 Chad","Rebels:
 Union of Democratic Forces for Unity
 (UFDR)
@@ -274,8 +274,8 @@ Democratic Front of the Central
 African People (FDPC)
 FDC
 GALPC
-FPR",,https://en.wikipedia.org/wiki/Central_African_Bush_War,,18784.0
-2004,Ongoing,"Sistan and Baluchestan insurgency
+FPR",,https://en.wikipedia.org/wiki/Central_African_Bush_War,,18784.0,Undefined
+11,2004,Ongoing,"Sistan and Baluchestan insurgency
 ",Iran,"Current:
 Jaish ul-Adl (2013–present)
 Ansar Al-Furqan (2013–present)
@@ -284,11 +284,11 @@ BLF
 Former:
 Jundallah (2004–2011)
 Harakat Ansar (2012–2013)","larger Insurgency in
-Balochistan",https://en.wikipedia.org/wiki/Sistan_and_Baluchestan_insurgency,https://en.wikipedia.org/wiki/Insurgency_in_Balochistan,70832.0
-Started,Ended,Name of conflict,Belligerents,,,,,
-,,,Victorious party (if applicable),Defeated party (if applicable),,,,
-2005,2005,2005 Bangladesh India border clash,India,Bangladesh,,https://en.wikipedia.org/wiki/Deaths_along_the_Bangladesh%E2%80%93India_border#Cross_border_firing,,50306.0
-2005,Ongoing,Insurgency in Paraguay,"Paraguay
+Balochistan",https://en.wikipedia.org/wiki/Sistan_and_Baluchestan_insurgency,https://en.wikipedia.org/wiki/Insurgency_in_Balochistan,70832.0,Asia
+12,Started,Ended,Name of conflict,Belligerents,,,,,,Undefined
+13,,,,Victorious party (if applicable),Defeated party (if applicable),,,,,Undefined
+14,2005,2005,2005 Bangladesh India border clash,India,Bangladesh,,https://en.wikipedia.org/wiki/Deaths_along_the_Bangladesh%E2%80%93India_border#Cross_border_firing,,50306.0,Undefined
+15,2005,Ongoing,Insurgency in Paraguay,"Paraguay
 Armed forces
 Police
 Joint Task Force (FTC)
@@ -303,8 +303,8 @@ Supported by:
 FARC (until 2016)
 Manuel Rodríguez Patriotic Front (alleged)
 Primeiro Comando da Capital
-Comando Vermelho",,https://en.wikipedia.org/wiki/Insurgency_in_Paraguay,,54003.0
-2005,2010,Chadian Civil War (2005–2010),"Chad
+Comando Vermelho",,https://en.wikipedia.org/wiki/Insurgency_in_Paraguay,,54003.0,Undefined
+16,2005,2010,Chadian Civil War (2005–2010),"Chad
 France
 Libya
 NMRD[g]
@@ -333,11 +333,11 @@ UDC[y]
 MPRD[z]
 Janjaweed
 Alleged support:
-Sudan (until 2010)",,https://en.wikipedia.org/wiki/Chadian_Civil_War_(2005%E2%80%932010),,46206.0
-2005,2008,Mount Elgon insurgency,Kenya Defence Forces,Sabaot Land Defence Force,,https://en.wikipedia.org/wiki/Mount_Elgon_insurgency,,11723.0
-Started,Ended,Name of conflict,Belligerents,,,,,
-,,,Victorious party (if applicable),Defeated party (if applicable),,,,
-2006,Ongoing,"Fatah–Hamas conflict
+Sudan (until 2010)",,https://en.wikipedia.org/wiki/Chadian_Civil_War_(2005%E2%80%932010),,46206.0,Africa
+17,2005,2008,Mount Elgon insurgency,Kenya Defence Forces,Sabaot Land Defence Force,,https://en.wikipedia.org/wiki/Mount_Elgon_insurgency,,11723.0,Africa
+18,Started,Ended,Name of conflict,Belligerents,,,,,,Undefined
+19,,,,Victorious party (if applicable),Defeated party (if applicable),,,,,Undefined
+20,2006,Ongoing,"Fatah–Hamas conflict
 ","Hamas
 Gaza Strip (after June
 2007)
@@ -348,8 +348,8 @@ Al-Aqsa Martyrs' Brigades
 (until 2007)[aa]
 Supported by:
 United States (alleged)
-United Kingdom (covert)",Palestinian internal political violence,https://en.wikipedia.org/wiki/Fatah%E2%80%93Hamas_conflict,https://en.wikipedia.org/wiki/Palestinian_internal_political_violence,217578.0
-2006,2008,"Iraqi civil war (2006–2008)
+United Kingdom (covert)",Palestinian internal political violence,https://en.wikipedia.org/wiki/Fatah%E2%80%93Hamas_conflict,https://en.wikipedia.org/wiki/Palestinian_internal_political_violence,217578.0,Undefined
+21,2006,2008,"Iraqi civil war (2006–2008)
 ","Iraq
 United States
 United Kingdom
@@ -378,8 +378,8 @@ Islamic Army in Iraq
 Ansar al-Sunna
 Naqshbandi Army
 Other militias
-Sunni tribes",Iraq War,https://en.wikipedia.org/wiki/Iraqi_civil_war_(2006%E2%80%932008),https://en.wikipedia.org/wiki/Iraq_War,156698.0
-2006,2013,"Operation Astute
+Sunni tribes",Iraq War,https://en.wikipedia.org/wiki/Iraqi_civil_war_(2006%E2%80%932008),https://en.wikipedia.org/wiki/Iraq_War,156698.0,Asia
+22,2006,2013,"Operation Astute
 ","Australia
 New Zealand
 Malaysia
@@ -387,13 +387,13 @@ Portugal
 East Timor (government
 troops)
 United Nations soldiers","Renegade elements of the
-FDTL",2006 East Timorese crisis,https://en.wikipedia.org/wiki/Operation_Astute,https://en.wikipedia.org/wiki/2006_East_Timorese_crisis,43568.0
-2006,2018,"Bakassi conflict
+FDTL",2006 East Timorese crisis,https://en.wikipedia.org/wiki/Operation_Astute,https://en.wikipedia.org/wiki/2006_East_Timorese_crisis,43568.0,Asia
+23,2006,2018,"Bakassi conflict
 ",Cameroon,"Democratic Republic of Bakassi
 Niger Delta militias
 Pro-Nigerian militias","conflict in the Niger Delta and the piracy in
-the Gulf of Guinea",https://en.wikipedia.org/wiki/Bakassi_conflict,https://en.wikipedia.org/wiki/Conflict_in_the_Niger_Delta,63757.0
-2006,2006,"2006 Lebanon War
+the Gulf of Guinea",https://en.wikipedia.org/wiki/Bakassi_conflict,https://en.wikipedia.org/wiki/Conflict_in_the_Niger_Delta,63757.0,Africa
+24,2006,2006,"2006 Lebanon War
 ",Israel,"Hezbollah
 Allies:
 Amal
@@ -401,13 +401,13 @@ Popular Guard
 PFLP-GC
 Iran (Ynet report)
 ICU (U.N. report)","Israeli–Lebanese conflict, the Iran–Israel
-proxy conflict and the war on terror",https://en.wikipedia.org/wiki/2006_Lebanon_War,https://en.wikipedia.org/wiki/Israeli%E2%80%93Lebanese_conflict,497824.0
-2006,2009,"Eelam War IV
+proxy conflict and the war on terror",https://en.wikipedia.org/wiki/2006_Lebanon_War,https://en.wikipedia.org/wiki/Israeli%E2%80%93Lebanese_conflict,497824.0,Asia
+25,2006,2009,"Eelam War IV
 ","Sri Lanka
 Supported by
 Pakistan","Liberation Tigers of Tamil
-Eelam",Sri Lankan Civil War,https://en.wikipedia.org/wiki/Eelam_War_IV,https://en.wikipedia.org/wiki/Sri_Lankan_civil_war,60287.0
-2006,Ongoing,"Mexican drug war
+Eelam",Sri Lankan Civil War,https://en.wikipedia.org/wiki/Eelam_War_IV,https://en.wikipedia.org/wiki/Sri_Lankan_civil_war,60287.0,Asia
+26,2006,Ongoing,"Mexican drug war
 ","Mexico
 Armed Forces
 National Guard
@@ -441,8 +441,8 @@ United Cartels
 Other cartels:
 LFM
 CSRL
-Juárez Cartel",war on drugs,https://en.wikipedia.org/wiki/Mexican_drug_war,https://en.wikipedia.org/wiki/War_on_drugs,1435003.0
-,,,"Philippines
+Juárez Cartel",war on drugs,https://en.wikipedia.org/wiki/Mexican_drug_war,https://en.wikipedia.org/wiki/War_on_drugs,1435003.0,North America
+27,,,,"Philippines
 National Bureau of
 Investigation
 Non-state armed groups:
@@ -464,8 +464,8 @@ Mexican Narcosystem
 Organized crime in Italy
 Albanian mafia
 Mexican Mafia
-Mara Salvatrucha",,,,
-2006,2009,"War in Somalia (2006–2009)
+Mara Salvatrucha",,,,,Undefined
+28,2006,2009,"War in Somalia (2006–2009)
 ","Invasion:
 Ethiopia
 TFG
@@ -496,8 +496,8 @@ Ras Kamboni Brigades
 Jabhatul Islamiya
 Muaskar Anole
 ICU loyalists","Ethiopian–Somali conflict and the Somali
-Civil War",https://en.wikipedia.org/wiki/War_in_Somalia_(2006%E2%80%932009),https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Somali_conflict,161888.0
-2007,Ongoing,"Operation Juniper Shield
+Civil War",https://en.wikipedia.org/wiki/War_in_Somalia_(2006%E2%80%932009),https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Somali_conflict,161888.0,Undefined
+29,2007,Ongoing,"Operation Juniper Shield
 ","Algeria
 Morocco
 Mauritania
@@ -548,9 +548,9 @@ Sahara
 (2015–present)
 Islamic State – West Africa
 Province","global war on terrorism (Islamist insurgency
-in the Sahel)",https://en.wikipedia.org/wiki/Operation_Juniper_Shield,https://en.wikipedia.org/wiki/War_on_terrorism,88306.0
-,,,,,,,,
-2007,2009,"Tuareg rebellion (2007–2009)
+in the Sahel)",https://en.wikipedia.org/wiki/Operation_Juniper_Shield,https://en.wikipedia.org/wiki/War_on_terrorism,88306.0,Africa
+30,,,,,,,,,,Undefined
+31,2007,2009,"Tuareg rebellion (2007–2009)
 ","Niger
 Mali","In Niger:
 Niger Movement for Justice
@@ -561,20 +561,20 @@ split)
 In Mali:
 ADC
 ATNM (2008 split)","Tuareg rebellions and Operation Juniper
-Shield",https://en.wikipedia.org/wiki/Tuareg_rebellion_(2007%E2%80%932009),https://en.wikipedia.org/wiki/Tuareg_rebellion_(disambiguation),22197.0
-2007,2007,"2007 Lebanon conflict
+Shield",https://en.wikipedia.org/wiki/Tuareg_rebellion_(2007%E2%80%932009),https://en.wikipedia.org/wiki/Tuareg_rebellion_(disambiguation),22197.0,Africa
+32,2007,2007,"2007 Lebanon conflict
 ","Lebanese Armed Forces
 Internal Security Forces
 Supported by:
 United States","Fatah al-Islam
-Jund al-Sham",war on terror,https://en.wikipedia.org/wiki/2007_Lebanon_conflict,https://en.wikipedia.org/wiki/War_on_terror,39199.0
-2007,2007,"Battle of Gaza (2007)
+Jund al-Sham",war on terror,https://en.wikipedia.org/wiki/2007_Lebanon_conflict,https://en.wikipedia.org/wiki/War_on_terror,39199.0,Asia
+33,2007,2007,"Battle of Gaza (2007)
 ",Hamas,"Fatah
 Palestinian Authority
 Supported by:
 United States (alleged by
-Hamas)",Fatah–Hamas conflict,https://en.wikipedia.org/wiki/Battle_of_Gaza_(2007),https://en.wikipedia.org/wiki/Fatah%E2%80%93Hamas_conflict,262219.0
-2007,2015,"Insurgency in Ingushetia
+Hamas)",Fatah–Hamas conflict,https://en.wikipedia.org/wiki/Battle_of_Gaza_(2007),https://en.wikipedia.org/wiki/Fatah%E2%80%93Hamas_conflict,262219.0,Asia
+34,2007,2015,"Insurgency in Ingushetia
 ","Russia
 Ingushetia","Chechen Republic of
 Ichkeria (until October 2007)
@@ -587,8 +587,8 @@ October 2007)
 Ingush opposition (2007–
 2008)
 ad hoc revenge groups","Second Chechen War and North Caucasus
-Insurgency",https://en.wikipedia.org/wiki/Insurgency_in_Ingushetia,https://en.wikipedia.org/wiki/Second_Chechen_War,20357.0
-2008,2008,2008 invasion of Anjouan,"African Union
+Insurgency",https://en.wikipedia.org/wiki/Insurgency_in_Ingushetia,https://en.wikipedia.org/wiki/Second_Chechen_War,20357.0,Europe
+35,2008,2008,2008 invasion of Anjouan,"African Union
 Comoros
 Senegal
 Sudan
@@ -596,37 +596,37 @@ Tanzania
 Supported by:
 France (logistical support)
 Libyan Arab Jamahiriya
-(logistical support)",Anjouan,,https://en.wikipedia.org/wiki/2008_invasion_of_Anjouan,,53915.0
-2008,2008,2008 Lebanon conflict,"March 8 Alliance
+(logistical support)",Anjouan,,https://en.wikipedia.org/wiki/2008_invasion_of_Anjouan,,53915.0,Undefined
+36,2008,2008,2008 Lebanon conflict,"March 8 Alliance
 Hezbollah
 Amal Movement
 LDP
 SSNP
 Arab Democratic Party","March 14 Alliance
 Future Movement
-Progressive Socialist Party",,https://en.wikipedia.org/wiki/2008_Lebanon_conflict,,54558.0
-2008,2008,Djiboutian–Eritrean border conflict,Eritrea,"Djibouti
+Progressive Socialist Party",,https://en.wikipedia.org/wiki/2008_Lebanon_conflict,,54558.0,Undefined
+37,2008,2008,Djiboutian–Eritrean border conflict,Eritrea,"Djibouti
 Supported by:
-France",,https://en.wikipedia.org/wiki/Djiboutian%E2%80%93Eritrean_border_conflict,,30513.0
-2008,2011,2008–2011 Cambodian–Thai border crisis,Cambodia,Thailand,,https://en.wikipedia.org/wiki/2008%E2%80%932011_Cambodian%E2%80%93Thai_border_crisis,,28517.0
-2008,2008,2008 Bangladesh India border clash,Bangladesh,"India
-cattle smuggler",,https://en.wikipedia.org/wiki/Deaths_along_the_Bangladesh%E2%80%93India_border#Cross_border_firing,,50306.0
-2008,2008,"Russo-Georgian War
+France",,https://en.wikipedia.org/wiki/Djiboutian%E2%80%93Eritrean_border_conflict,,30513.0,Africa
+38,2008,2011,2008–2011 Cambodian–Thai border crisis,Cambodia,Thailand,,https://en.wikipedia.org/wiki/2008%E2%80%932011_Cambodian%E2%80%93Thai_border_crisis,,28517.0,Asia
+39,2008,2008,2008 Bangladesh India border clash,Bangladesh,"India
+cattle smuggler",,https://en.wikipedia.org/wiki/Deaths_along_the_Bangladesh%E2%80%93India_border#Cross_border_firing,,50306.0,Undefined
+40,2008,2008,"Russo-Georgian War
 ","Russia
 South Ossetia[note 1]
 Abkhazia[note 2]",Georgia,"post–Cold War era, Abkhazia conflict, the
 Georgian–Ossetian conflict, and the post-Soviet
-conflicts",https://en.wikipedia.org/wiki/Russo-Georgian_War,https://en.wikipedia.org/wiki/Post%E2%80%93Cold_War_era,923080.0
-2008,2008,2008 Kufra conflict,Libya,"Toubou Front for the
-Salvation of Libya",,https://en.wikipedia.org/wiki/2008_Kufra_conflict,,10432.0
-2008,2009,"Gaza War
+conflicts",https://en.wikipedia.org/wiki/Russo-Georgian_War,https://en.wikipedia.org/wiki/Post%E2%80%93Cold_War_era,923080.0,Asia
+41,2008,2008,2008 Kufra conflict,Libya,"Toubou Front for the
+Salvation of Libya",,https://en.wikipedia.org/wiki/2008_Kufra_conflict,,10432.0,Africa
+42,2008,2009,"Gaza War
 ","Israel
 Israel Defense Forces
 Israel Security Agency","Gaza Strip
 Hamas
 Ezzedeen al-Qassam
-Brigades",Gaza–Israel conflict,https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009),https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,334318.0
-,,,,"Popular Front for the
+Brigades",Gaza–Israel conflict,https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009),https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,334318.0,Undefined
+43,,,,,"Popular Front for the
 Liberation of Palestine
 Abu Ali Mustapha
 Brigades
@@ -635,8 +635,8 @@ Palestine
 Al-Quds Brigades
 Al-Aqsa Martyrs' Brigades
 Popular Resistance
-Committees",,,,
-2009,Ongoing,"Somali Civil War (2009–present)
+Committees",,,,,Undefined
+44,2009,Ongoing,"Somali Civil War (2009–present)
 ","Somalia
 Somali Armed Forces
 Regional forces:
@@ -727,8 +727,8 @@ Ethiopia
 United Arab Emirates","Somali Civil War, conflicts in the Horn of
 Africa, the Ethiopian–Somali conflict, war against the
 Islamic State, Operation Enduring Freedom – Horn of
-Africa, and global war on terrorism",https://en.wikipedia.org/wiki/Somali_Civil_War_(2009%E2%80%93present),https://en.wikipedia.org/wiki/Somali_Civil_War,394239.0
-,,,"Sweden
+Africa, and global war on terrorism",https://en.wikipedia.org/wiki/Somali_Civil_War_(2009%E2%80%93present),https://en.wikipedia.org/wiki/Somali_Civil_War,394239.0,Africa
+45,,,,"Sweden
 Thailand
 Turkey
 Uganda
@@ -745,12 +745,12 @@ Puntland Maritime Police
 Force
 Jubaland
 Jubaland Dervish Force
-Raskamboni Movement",,,,,
-2008,Ongoing,"Sudanese nomadic conflicts
+Raskamboni Movement",,,,,,Undefined
+46,2008,Ongoing,"Sudanese nomadic conflicts
 ","Non-Arab tribes (including
 Dinka, Nuer, and Murle tribes)","Baggara Arabs (mainly Rizeigat and
-Messiria tribes)",Sudanese Civil Wars,https://en.wikipedia.org/wiki/Sudanese_nomadic_conflicts,https://en.wikipedia.org/wiki/Sudanese_Civil_War_(disambiguation),47023.0
-2009,2017,"Insurgency in the North Caucasus
+Messiria tribes)",Sudanese Civil Wars,https://en.wikipedia.org/wiki/Sudanese_nomadic_conflicts,https://en.wikipedia.org/wiki/Sudanese_Civil_War_(disambiguation),47023.0,Africa
+47,2009,2017,"Insurgency in the North Caucasus
 ","Russia
 List
 Astrakhan Oblast
@@ -787,10 +787,10 @@ Imam Shamil Battalion (2017)
 Islamic State
 Wilayat al-Qawqaz","Chechen–Russian conflict, post-Soviet
 conflicts and the War against the Islamic State (from
-2014)",https://en.wikipedia.org/wiki/Insurgency_in_the_North_Caucasus,https://en.wikipedia.org/wiki/Chechen%E2%80%93Russian_conflict,153552.0
-2009,2009,2009 Peruvian political crisis,"Government of Peru
-Peruvian National Police",AIDESEP,,https://en.wikipedia.org/wiki/2009_Peruvian_political_crisis,,16940.0
-2009,Ongoing,"Boko Haram insurgency
+2014)",https://en.wikipedia.org/wiki/Insurgency_in_the_North_Caucasus,https://en.wikipedia.org/wiki/Chechen%E2%80%93Russian_conflict,153552.0,Europe
+48,2009,2009,2009 Peruvian political crisis,"Government of Peru
+Peruvian National Police",AIDESEP,,https://en.wikipedia.org/wiki/2009_Peruvian_political_crisis,,16940.0,South America
+49,2009,Ongoing,"Boko Haram insurgency
 ","Nigeria
 Multinational Joint Task
 Force[3][4][5][6]
@@ -834,11 +834,11 @@ present)[ac]
 Shekau faction[49][50]
 Several minor factions[46]","religious violence in Nigeria, the war against
 the Islamic State, the Islamist insurgency in the Sahel,
-and the war on terror[2]",https://en.wikipedia.org/wiki/Boko_Haram_insurgency,https://en.wikipedia.org/wiki/Religious_violence_in_Nigeria,486156.0
-,,,,,,,,
-2009,2009,"2009 Boko Haram uprising
-",Nigerian Government,Boko Haram,Boko Haram insurgency,https://en.wikipedia.org/wiki/2009_Boko_Haram_uprising,https://en.wikipedia.org/wiki/Boko_Haram_insurgency,46866.0
-2009,2026,"South Yemen insurgency
+and the war on terror[2]",https://en.wikipedia.org/wiki/Boko_Haram_insurgency,https://en.wikipedia.org/wiki/Religious_violence_in_Nigeria,486156.0,Africa
+50,,,,,,,,,,Undefined
+51,2009,2009,"2009 Boko Haram uprising
+",Nigerian Government,Boko Haram,Boko Haram insurgency,https://en.wikipedia.org/wiki/2009_Boko_Haram_uprising,https://en.wikipedia.org/wiki/Boko_Haram_insurgency,46866.0,Africa
+52,2009,2026,"South Yemen insurgency
 ","Government
 Yemen Army
 Yemeni Republican
@@ -855,8 +855,8 @@ Southern Resistance
 Security Belt
 Supported by:
 United Arab Emirates","Yemeni Crisis (2011–present) and the
-Yemeni civil war (2014–present)",https://en.wikipedia.org/wiki/South_Yemen_insurgency,https://en.wikipedia.org/wiki/Yemeni_Crisis_(2011%E2%80%93present),46527.0
-2009,2010,"Operation Scorched Earth
+Yemeni civil war (2014–present)",https://en.wikipedia.org/wiki/South_Yemen_insurgency,https://en.wikipedia.org/wiki/Yemeni_Crisis_(2011%E2%80%93present),46527.0,Asia
+53,2009,2010,"Operation Scorched Earth
 ","Yemen
 Hashed tribesmen
 Saudi Arabia
@@ -867,17 +867,17 @@ Alleged support:
 Iran
 Quds Force
 Hezbollah","Houthi insurgency in Yemen and Iran–Saudi
-Arabia proxy conflict",https://en.wikipedia.org/wiki/Operation_Scorched_Earth,https://en.wikipedia.org/wiki/Houthi_insurgency_in_Yemen,26458.0
-2009,2009,Dongo conflict,"Democratic Republic of
+Arabia proxy conflict",https://en.wikipedia.org/wiki/Operation_Scorched_Earth,https://en.wikipedia.org/wiki/Houthi_insurgency_in_Yemen,26458.0,Asia
+54,2009,2009,Dongo conflict,"Democratic Republic of
 the Congo
 Supported by:
 MONUC
 Rwanda (alleged)","Lobala rebels
 Possibly:
-Resistance Patriots of Dongo",,https://en.wikipedia.org/wiki/Dongo_conflict,,17829.0
-Started,Ended,Name of conflict,Belligerents,,,,,
-,,,Victorious party (if applicable),Defeat,,,,
-2010,2010,"2010 South Kyrgyzstan ethnic clashes
+Resistance Patriots of Dongo",,https://en.wikipedia.org/wiki/Dongo_conflict,,17829.0,Africa
+55,Started,Ended,Name of conflict,Belligerents,,,,,,Undefined
+56,,,,Victorious party (if applicable),Defeat,,,,,Undefined
+57,2010,2010,"2010 South Kyrgyzstan ethnic clashes
 ","Kyrgyz provisional
 government
 Supported by:
@@ -905,8 +905,8 @@ Uzbekista
 Sokh U
 Sogme
 U
-involv.)2[66",Kyrgyz Revolution of 2010,https://en.wikipedia.org/wiki/2010_South_Kyrgyzstan_ethnic_clashes,https://en.wikipedia.org/wiki/Kyrgyz_Revolution_of_2010,41544.0
-2010,2010,"2010 Kingston unrest
+involv.)2[66",Kyrgyz Revolution of 2010,https://en.wikipedia.org/wiki/2010_South_Kyrgyzstan_ethnic_clashes,https://en.wikipedia.org/wiki/Kyrgyz_Revolution_of_2010,41544.0,Asia
+58,2010,2010,"2010 Kingston unrest
 ","Jamaica
 Jamaica Constabulary
 Force
@@ -916,8 +916,8 @@ United States:
 DEA[68]
 Department of Homeland
 Security",Shower P,"Jamaican political conflict
-in the war on drugs",https://en.wikipedia.org/wiki/2010_Kingston_unrest,https://en.wikipedia.org/wiki/Jamaican_political_conflict,22649.0
-2010,2015,Insurgency in Gorno-Badakhshan (2010–2015),"Tajikistan
+in the war on drugs",https://en.wikipedia.org/wiki/2010_Kingston_unrest,https://en.wikipedia.org/wiki/Jamaican_political_conflict,22649.0,North America
+59,2010,2015,Insurgency in Gorno-Badakhshan (2010–2015),"Tajikistan
 Armed Forces of
 Tajikistan","Unite
 Isla
@@ -925,8 +925,8 @@ Uzbekis
 Isla
 Tajikista
 Lal
-Pa",,https://en.wikipedia.org/wiki/Insurgency_in_Gorno-Badakhshan_(2010%E2%80%932015),,20407.0
-2010,2011,"Second Ivorian Civil War
+Pa",,https://en.wikipedia.org/wiki/Insurgency_in_Gorno-Badakhshan_(2010%E2%80%932015),,20407.0,Asia
+60,2010,2011,"Second Ivorian Civil War
 ","FNCI
 Liberian mercenaries[69]
 RDR
@@ -935,8 +935,8 @@ France[70]
 Ukraine[71]","Milita
 Liber
 COJE
-FPI",Ivorian Civil Wars,https://en.wikipedia.org/wiki/Second_Ivorian_Civil_War,https://en.wikipedia.org/wiki/Ivorian_Civil_War_(disambiguation),90016.0
-2011,Ongoing,"Nigerian bandit conflict
+FPI",Ivorian Civil Wars,https://en.wikipedia.org/wiki/Second_Ivorian_Civil_War,https://en.wikipedia.org/wiki/Ivorian_Civil_War_(disambiguation),90016.0,Africa
+61,2011,Ongoing,"Nigerian bandit conflict
 ","Nigeria
 Nigeria Police Force
 Nigerian Armed Forces
@@ -955,8 +955,8 @@ ban
 Ada
 grou
 Bell
-Dan",Herder–farmer conflicts in Nigeria,https://en.wikipedia.org/wiki/Nigerian_bandit_conflict,https://en.wikipedia.org/wiki/Herder%E2%80%93farmer_conflicts_in_Nigeria,139094.0
-,,,,"Kac
+Dan",Herder–farmer conflicts in Nigeria,https://en.wikipedia.org/wiki/Nigerian_bandit_conflict,https://en.wikipedia.org/wiki/Herder%E2%80%93farmer_conflicts_in_Nigeria,139094.0,Africa
+62,,,,,"Kac
 Kac
 ban
 Islamist
@@ -964,8 +964,8 @@ Islami
 ISWAP
 Boko
 Ansa
-Lakurawa",,,,
-2011,2023,"Sinai insurgency
+Lakurawa",,,,,Undefined
+63,2011,2023,"Sinai insurgency
 ","Egypt
 Central Security Forces
 Egyptian Ministry of the
@@ -999,16 +999,16 @@ Islam
 Wilayat
 Mujahid
 (until 20","terrorism in Egypt, the Egyptian Crisis, and the Arab
-Winter",https://en.wikipedia.org/wiki/Sinai_insurgency,https://en.wikipedia.org/wiki/Timeline_of_terrorism_in_Egypt_(2013%E2%80%93present),171090.0
-2011,Ongoing,"Insurgency in Bahrain
+Winter",https://en.wikipedia.org/wiki/Sinai_insurgency,https://en.wikipedia.org/wiki/Timeline_of_terrorism_in_Egypt_(2013%E2%80%93present),171090.0,Africa
+64,2011,Ongoing,"Insurgency in Bahrain
 ","Bahrain
 Supported by:
 Saudi Arabia
 United Arab Emirates","Bahr
 Supporte
 Iran","2011 Bahraini uprising and the Iran–Saudi Arabia
-proxy conflict",https://en.wikipedia.org/wiki/Insurgency_in_Bahrain,https://en.wikipedia.org/wiki/2011_Bahraini_uprising,36193.0
-2011,2011,"Libyan civil war (2011)
+proxy conflict",https://en.wikipedia.org/wiki/Insurgency_in_Bahrain,https://en.wikipedia.org/wiki/2011_Bahraini_uprising,36193.0,Asia
+65,2011,2011,"Libyan civil war (2011)
 ","Anti-Gaddafi forces
 Qatar
 NATO
@@ -1037,10 +1037,10 @@ United Arab Emirates[92]
 Minor border clashes:
 Tunisia
 Tunisian Army
-Tunisian Police",Libya,Arab Spring and the Libyan Crisis since 2011,https://en.wikipedia.org/wiki/Libyan_civil_war_(2011),https://en.wikipedia.org/wiki/Arab_Spring,379374.0
-,,,"Supported by:
-Egypt[93][94]",,,,,
-2011,2024,Syrian civil war,"Ba'athist Syria
+Tunisian Police",Libya,Arab Spring and the Libyan Crisis since 2011,https://en.wikipedia.org/wiki/Libyan_civil_war_(2011),https://en.wikipedia.org/wiki/Arab_Spring,379374.0,Africa
+66,,,,"Supported by:
+Egypt[93][94]",,,,,,Undefined
+67,2011,2024,Syrian civil war,"Ba'athist Syria
 Hezbollah
 Iran
 Russia (2015–present)
@@ -1088,15 +1088,15 @@ Bahrai
 Denma
 Morocc
 Qatar (
-Canad",,https://en.wikipedia.org/wiki/Syrian_civil_war,,3749348.0
-2011,2020,"Sudanese conflict in South Kordofan and Blue Nile
+Canad",,https://en.wikipedia.org/wiki/Syrian_civil_war,,3749348.0,Asia
+68,2011,2020,"Sudanese conflict in South Kordofan and Blue Nile
 ",Sudan,"SRF
 JEM
 SP
 SL
 Alleged s
-Ethio",Sudanese Civil Wars,https://en.wikipedia.org/wiki/Sudanese_conflict_in_South_Kordofan_and_Blue_Nile,https://en.wikipedia.org/wiki/Sudanese_Civil_War_(disambiguation),60047.0
-2011,2017,"Syrian civil war spillover in Lebanon
+Ethio",Sudanese Civil Wars,https://en.wikipedia.org/wiki/Sudanese_conflict_in_South_Kordofan_and_Blue_Nile,https://en.wikipedia.org/wiki/Sudanese_Civil_War_(disambiguation),60047.0,Africa
+69,2011,2017,"Syrian civil war spillover in Lebanon
 ","Lebanon
 Lebanese Armed Forces
 Internal Security Forces
@@ -1108,8 +1108,8 @@ Fre
 Sara
 Isla
 Fut","Arab Winter, the Spillover of the Syrian Civil War and
-the Iran–Saudi Arabia proxy conflict",https://en.wikipedia.org/wiki/Syrian_civil_war_spillover_in_Lebanon,https://en.wikipedia.org/wiki/Arab_Winter,61483.0
-,,,"Cyprus[100]
+the Iran–Saudi Arabia proxy conflict",https://en.wikipedia.org/wiki/Syrian_civil_war_spillover_in_Lebanon,https://en.wikipedia.org/wiki/Arab_Winter,61483.0,Asia
+70,,,,"Cyprus[100]
 Czech Republic[101]
 Egypt[102]
 France[103]
@@ -1169,17 +1169,17 @@ Islam
 (from 201
 Mili
 Fre
-Brigade",,,,
-2011,Ongoing,"Ethnic violence in South Sudan
-",Various tribes,Various trib,Sudanese nomadic conflicts,https://en.wikipedia.org/wiki/Ethnic_violence_in_South_Sudan,https://en.wikipedia.org/wiki/Sudanese_nomadic_conflicts,80623.0
-2011,2012,"Operation Linda Nchi
+Brigade",,,,,Undefined
+71,2011,Ongoing,"Ethnic violence in South Sudan
+",Various tribes,Various trib,Sudanese nomadic conflicts,https://en.wikipedia.org/wiki/Ethnic_violence_in_South_Sudan,https://en.wikipedia.org/wiki/Sudanese_nomadic_conflicts,80623.0,Undefined
+72,2011,2012,"Operation Linda Nchi
 ","Kenya
 TFG
 Raskamboni Front[147]
 ASWJ[148]
 Azania",Al-Sha,"Somali Civil War (2009–present) and the Somali–
-Kenyan conflict",https://en.wikipedia.org/wiki/Operation_Linda_Nchi,https://en.wikipedia.org/wiki/Somali_Civil_War_(2009%E2%80%93present),44986.0
-2011,2014,"Factional violence in Libya (2011–2014)
+Kenyan conflict",https://en.wikipedia.org/wiki/Operation_Linda_Nchi,https://en.wikipedia.org/wiki/Somali_Civil_War_(2009%E2%80%93present),44986.0,Undefined
+73,2011,2014,"Factional violence in Libya (2011–2014)
 ","Libyan National Army
 Special Forces (Saiqa
 brigade)
@@ -1202,10 +1202,10 @@ Al-A
 S
 Benghaz
 Revolutio","Libyan Crisis (2011–present) (aftermath of the First
-Libyan Civil War)",https://en.wikipedia.org/wiki/Factional_violence_in_Libya_(2011%E2%80%932014),https://en.wikipedia.org/wiki/Libyan_Crisis_(2011%E2%80%93present),31184.0
-,,,,"Ansar A
-Libya S",,,,
-2011,2013,"Iraqi insurgency (2011–2013)
+Libyan Civil War)",https://en.wikipedia.org/wiki/Factional_violence_in_Libya_(2011%E2%80%932014),https://en.wikipedia.org/wiki/Libyan_Crisis_(2011%E2%80%93present),31184.0,Africa
+74,,,,,"Ansar A
+Libya S",,,,,Undefined
+75,2011,2013,"Iraqi insurgency (2011–2013)
 ","Iraqi Government
 Security forces
 Private security contractors
@@ -1220,8 +1220,8 @@ United States","Islam
 since Ap
 Islam
 Naqs
-Other Su",Iraqi conflict (2003–present),https://en.wikipedia.org/wiki/Iraqi_insurgency_(2011%E2%80%932013),https://en.wikipedia.org/wiki/Iraqi_conflict_(2003%E2%80%93present),87356.0
-2012[ad],Ongoing,"War in the Sahel
+Other Su",Iraqi conflict (2003–present),https://en.wikipedia.org/wiki/Iraqi_insurgency_(2011%E2%80%932013),https://en.wikipedia.org/wiki/Iraqi_conflict_(2003%E2%80%93present),87356.0,Asia
+76,2012[ad],Ongoing,"War in the Sahel
 ","Alliance of Sahel States
 Mali
 Niger
@@ -1272,8 +1272,8 @@ GATI
 (2023–20
 Patriotic Lib
 2024)[176]","war on terror, spillover of the Insurgency in the
-Maghreb (2002–present) and the War against the Islamic State",https://en.wikipedia.org/wiki/War_in_the_Sahel,https://en.wikipedia.org/wiki/War_on_terror,235245.0
-2012,Ongoing,"Mali War
+Maghreb (2002–present) and the War against the Islamic State",https://en.wikipedia.org/wiki/War_in_the_Sahel,https://en.wikipedia.org/wiki/War_on_terror,235245.0,Africa
+77,2012,Ongoing,"Mali War
 ","Mali
 Russia (2021–)
 Africa Corps[177]
@@ -1318,8 +1318,8 @@ M
 (2012–1
 Islamic
 Sah","Islamist insurgency in the Sahel and the war on
-terror",https://en.wikipedia.org/wiki/Mali_War,https://en.wikipedia.org/wiki/Islamist_insurgency_in_the_Sahel,785056.0
-,,,"MINUSMA (2013–23)[al]
+terror",https://en.wikipedia.org/wiki/Mali_War,https://en.wikipedia.org/wiki/Islamist_insurgency_in_the_Sahel,785056.0,Africa
+78,,,,"MINUSMA (2013–23)[al]
 Supported by:
 EUTM Mali (2013–23)
 Others
@@ -1363,11 +1363,11 @@ Wagner Group (2021–
 CSP-DPA (2021–23)
 Coordination of Azawad
 Movements
-Platform",,,,,
-2012,2012,Heglig Crisis,Sudan,"South
+Platform",,,,,,Undefined
+79,2012,2012,Heglig Crisis,Sudan,"South
 JEM[232
-SPLM-",,https://en.wikipedia.org/wiki/Heglig_Crisis,,38460.0
-2012,2013,"M23 rebellion
+SPLM-",,https://en.wikipedia.org/wiki/Heglig_Crisis,,38460.0,Africa
+80,2012,2013,"M23 rebellion
 ","Democratic Republic of the
 Congo
 MONUSCO
@@ -1378,23 +1378,23 @@ Tanzania
 Malawi[233]","March
 Alleged su
 Ugand
-Rwand",Kivu conflict,https://en.wikipedia.org/wiki/M23_rebellion_(2012%E2%80%932013),https://en.wikipedia.org/wiki/Kivu_conflict,86185.0
-2012,2012,"2012 Abyan offensive
+Rwand",Kivu conflict,https://en.wikipedia.org/wiki/M23_rebellion_(2012%E2%80%932013),https://en.wikipedia.org/wiki/Kivu_conflict,86185.0,Africa
+81,2012,2012,"2012 Abyan offensive
 ","Yemen
 Supported by:
 United States
 Saudi Arabia[235]","Al-Qae
-Ansar",Yemeni Crisis (2011-present),https://en.wikipedia.org/wiki/2012_Abyan_offensive,https://en.wikipedia.org/wiki/Yemeni_Crisis_(2011-present),7048.0
-2012,2012,Baragoi clashes,Samburu tribe,Turkana tri,,https://en.wikipedia.org/wiki/Baragoi_clashes,,8242.0
-2012,Ongoing,Central African Republic Civil War,"Central African Republic
+Ansar",Yemeni Crisis (2011-present),https://en.wikipedia.org/wiki/2012_Abyan_offensive,https://en.wikipedia.org/wiki/Yemeni_Crisis_(2011-present),7048.0,Undefined
+82,2012,2012,Baragoi clashes,Samburu tribe,Turkana tri,,https://en.wikipedia.org/wiki/Baragoi_clashes,,8242.0,Africa
+83,2012,Ongoing,Central African Republic Civil War,"Central African Republic
 Central African Armed
 Forces
 MINUSCA (since 2014)
 Rwanda (since 2020)[236]","Coalit
 (since 202
 Ant
-3R",,https://en.wikipedia.org/wiki/Central_African_Republic_Civil_War,,372851.0
-,,,"Russia (since 2018)[236]
+3R",,https://en.wikipedia.org/wiki/Central_African_Republic_Civil_War,,372851.0,Undefined
+84,,,,"Russia (since 2018)[236]
 Wagner Group[237]
 Russian Imperial
 Movement[238]
@@ -1446,8 +1446,8 @@ FPR
 RJ (20
 MNLC
 MLCJ
-RPRC",,,,
-2013,2013,"Lahad Datu standoff
+RPRC",,,,,Undefined
+85,2013,2013,"Lahad Datu standoff
 ","Malaysia
 Sabahan local
 villagers[246][247][248]
@@ -1459,16 +1459,16 @@ combativ
 Supporte
 Mor
 Front (Mi","North Borneo dispute and cross border attacks in
-Sabah",https://en.wikipedia.org/wiki/2013_Lahad_Datu_standoff,https://en.wikipedia.org/wiki/North_Borneo_dispute,170003.0
-2013,2018,"Batwa–Luba clashes
+Sabah",https://en.wikipedia.org/wiki/2013_Lahad_Datu_standoff,https://en.wikipedia.org/wiki/North_Borneo_dispute,170003.0,Asia
+86,2013,2018,"Batwa–Luba clashes
 ","Pygmy batwa militias
 ""Perci""[251]","Luba militia
-""Eleme",Katanga insurgency,https://en.wikipedia.org/wiki/Batwa%E2%80%93Luba_clashes,https://en.wikipedia.org/wiki/Katanga_insurgency,11164.0
-2013,2021,RENAMO insurgency (2013–2021),Mozambique,"RENA
-RENAMO M",,https://en.wikipedia.org/wiki/RENAMO_insurgency_(2013%E2%80%932021),,20755.0
-2013,2013,"Zamboanga City crisis
-",Philippines,Bang,Moro conflict,https://en.wikipedia.org/wiki/Zamboanga_City_crisis,https://en.wikipedia.org/wiki/Moro_conflict,74139.0
-2013,2020,"South Sudanese Civil War
+""Eleme",Katanga insurgency,https://en.wikipedia.org/wiki/Batwa%E2%80%93Luba_clashes,https://en.wikipedia.org/wiki/Katanga_insurgency,11164.0,Undefined
+87,2013,2021,RENAMO insurgency (2013–2021),Mozambique,"RENA
+RENAMO M",,https://en.wikipedia.org/wiki/RENAMO_insurgency_(2013%E2%80%932021),,20755.0,Africa
+88,2013,2013,"Zamboanga City crisis
+",Philippines,Bang,Moro conflict,https://en.wikipedia.org/wiki/Zamboanga_City_crisis,https://en.wikipedia.org/wiki/Moro_conflict,74139.0,Undefined
+89,2013,2020,"South Sudanese Civil War
 ","South Sudan
 SPLA
 Air Force
@@ -1499,14 +1499,14 @@ South
 Army[274]
 NAS
 Arrow Bo
-Wau",Ethnic violence in South Sudan[252],https://en.wikipedia.org/wiki/South_Sudanese_Civil_War,https://en.wikipedia.org/wiki/Ethnic_violence_in_South_Sudan,429609.0
-,,,,"SSOA
+Wau",Ethnic violence in South Sudan[252],https://en.wikipedia.org/wiki/South_Sudanese_Civil_War,https://en.wikipedia.org/wiki/Ethnic_violence_in_South_Sudan,429609.0,Africa
+90,,,,,"SSOA
 SSO
 2020)
 Supporte
 Suda
-claim)[277]",,,,
-2013,2017,"War in Iraq (2013–2017)
+claim)[277]",,,,,Undefined
+91,2013,2017,"War in Iraq (2013–2017)
 ","Central government of
 Iraq[278]
 Iraqi Armed Forces
@@ -1565,8 +1565,8 @@ Isl
 2014)
 1920 R
 2015)[2","Iraqi conflict, spillover of the Syrian civil war, War
-against the Islamic State, and the war on terror",https://en.wikipedia.org/wiki/War_in_Iraq_(2013%E2%80%932017),https://en.wikipedia.org/wiki/Iraqi_conflict,358520.0
-2014,Ongoing,"Russo-Ukrainian War (outline)
+against the Islamic State, and the war on terror",https://en.wikipedia.org/wiki/War_in_Iraq_(2013%E2%80%932017),https://en.wikipedia.org/wiki/Iraqi_conflict,358520.0,Asia
+92,2014,Ongoing,"Russo-Ukrainian War (outline)
 ","Russia
 Donetsk PR[aq]
 Luhansk PR[aq]
@@ -1578,9 +1578,9 @@ military suppliers","Ukrai
 Supplied
 For coun
 Ukraine s
-aid to Uk",conflicts in territory of the former Soviet Union,https://en.wikipedia.org/wiki/Outline_of_the_Russo-Ukrainian_War,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,216780.0
-2014,2014,2014 Aswan tribal clashes,Arabic Al-Halayel clan,Nubian Al-D,,https://en.wikipedia.org/wiki/2014_Aswan_tribal_clashes,,4305.0
-2014,2020,"Libyan civil war (2014–2020)
+aid to Uk",conflicts in territory of the former Soviet Union,https://en.wikipedia.org/wiki/Outline_of_the_Russo-Ukrainian_War,https://en.wikipedia.org/wiki/Russo-Ukrainian_War,216780.0,Undefined
+93,2014,2014,2014 Aswan tribal clashes,Arabic Al-Halayel clan,Nubian Al-D,,https://en.wikipedia.org/wiki/2014_Aswan_tribal_clashes,,4305.0,Africa
+94,2014,2020,"Libyan civil war (2014–2020)
 ","House of
 Representatives (Tobruk-
 based)[295][296]
@@ -1599,8 +1599,8 @@ Lib
 (GNA–a
 Others:","Arab Winter, the Libyan Crisis, the Iran–Saudi Arabia
 proxy conflict, the war on terror, and the Qatar–Saudi Arabia
-diplomatic conflict",https://en.wikipedia.org/wiki/Libyan_civil_war_(2014%E2%80%932020),https://en.wikipedia.org/wiki/Arab_Winter,397942.0
-,,,"Others:
+diplomatic conflict",https://en.wikipedia.org/wiki/Libyan_civil_war_(2014%E2%80%932020),https://en.wikipedia.org/wiki/Arab_Winter,397942.0,Undefined
+95,,,,"Others:
 Zintan brigades[299]
 JEM[300] (from 2016)
 SLM/A-Minnawi[301][302]
@@ -1699,13 +1699,13 @@ Ansar
 Libya Shiel
 (2014–16)
 Rafallah al-
-Others:",,,,
-,,,,"Bengh
+Others:",,,,,Undefined
+96,,,,,"Bengh
 Brigades[39
 Ajdabiy
 Council (20
-Derna",,,,
-2014,Ongoing,"War against the Islamic State
+Derna",,,,,Undefined
+97,2014,Ongoing,"War against the Islamic State
 ","In multiple regions:
 CJTF–OIR
 IMCTC
@@ -1774,8 +1774,8 @@ in Iraq (2013–2017), the Syrian civil war and its spillover, the
 Sinai insurgency, the Boko Haram insurgency, the insurgency in
 the North Caucasus, the Moro conflict, the insurgency in Cabo
 Delgado, the Islamic State insurgency in Puntland the Sahel
-War and the Salafi-jihadist insurgency in the Gaza Strip",https://en.wikipedia.org/wiki/War_against_the_Islamic_State,https://en.wikipedia.org/wiki/War_on_terror,499572.0
-2014,2014,"2014 Gaza War
+War and the Salafi-jihadist insurgency in the Gaza Strip",https://en.wikipedia.org/wiki/War_against_the_Islamic_State,https://en.wikipedia.org/wiki/War_on_terror,499572.0,Asia
+98,2014,2014,"2014 Gaza War
 ",Israel,"Gaza S
 Ha
 Pa
@@ -1787,8 +1787,8 @@ Po
 Commit
 Ab
 Jaysh
-Al-A",Gaza–Israel conflict,https://en.wikipedia.org/wiki/2014_Gaza_War,https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,362307.0
-2014,Ongoing,"Yemeni civil war (2014–present)
+Al-A",Gaza–Israel conflict,https://en.wikipedia.org/wiki/2014_Gaza_War,https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,362307.0,Asia
+99,2014,Ongoing,"Yemeni civil war (2014–present)
 ","Supreme Political Council
 (formerly SRC)
 Houthis
@@ -1806,8 +1806,8 @@ STC (2
 present
 Nation
 present","Yemeni crisis, the Arab Winter, the war on terror, and
-the Iran–Saudi Arabia proxy conflict",https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present),https://en.wikipedia.org/wiki/Yemeni_crisis,1565185.0
-,,,,"Gia
+the Iran–Saudi Arabia proxy conflict",https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present),https://en.wikipedia.org/wiki/Yemeni_crisis,1565185.0,Asia
+100,,,,,"Gia
 Ha
 Alliance
 Al-I
@@ -1838,16 +1838,16 @@ council[
 Dhi Na
 Al-Ham
 Islamic
-Ye",,,,
-2014,2015,"Houthi takeover in Yemen
+Ye",,,,,Undefined
+101,2014,2015,"Houthi takeover in Yemen
 ","Houthis
 Saleh Security forces
 Republican Guard","Cabine
 Secu
 Al-Is
 Unite
-Saud",Yemeni civil war (2014–present),https://en.wikipedia.org/wiki/Houthi_takeover_in_Yemen,https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present),117687.0
-2015,Ongoing,"Islamic State–Taliban conflict
+Saud",Yemeni civil war (2014–present),https://en.wikipedia.org/wiki/Houthi_takeover_in_Yemen,https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present),117687.0,Undefined
+102,2015,Ongoing,"Islamic State–Taliban conflict
 ","Afghanistan
 Taliban
 Haqqani network[449]
@@ -1863,8 +1863,8 @@ Mullah
 Fidai M
 Islamic
 (pro-IS factio","Afghan conflict, war on terror, and al-Qaeda–Islamic
-State conflict",https://en.wikipedia.org/wiki/Islamic_State%E2%80%93Taliban_conflict,https://en.wikipedia.org/wiki/Afghan_conflict,207869.0
-2015,2022,"Islamic State insurgency in Tunisia
+State conflict",https://en.wikipedia.org/wiki/Islamic_State%E2%80%93Taliban_conflict,https://en.wikipedia.org/wiki/Afghan_conflict,207869.0,Asia
+103,2015,2022,"Islamic State insurgency in Tunisia
 ","Tunisia
 Tunisian National Guard
 Tunisian Army
@@ -1876,8 +1876,8 @@ Islamic
 Uqba ib
 Ansar a
 (only in","spillover of the Second Libyan Civil War,
-the Arab Winter, war on terror and War against the Islamic State",https://en.wikipedia.org/wiki/Islamic_State_insurgency_in_Tunisia,https://en.wikipedia.org/wiki/Libyan_civil_war_(2014%E2%80%932020),30929.0
-2015,2025,"Kurdish–Turkish conflict (2015–2025)
+the Arab Winter, war on terror and War against the Islamic State",https://en.wikipedia.org/wiki/Islamic_State_insurgency_in_Tunisia,https://en.wikipedia.org/wiki/Libyan_civil_war_(2014%E2%80%932020),30929.0,Undefined
+104,2015,2025,"Kurdish–Turkish conflict (2015–2025)
 ",Turkey,"Kurdis
 (KCK)
 PK
@@ -1885,16 +1885,16 @@ SD
 PF
 HBDH
 Kurdis","Kurdistan Workers' Party insurgency, Kurdish–
-Turkish conflict and the Spillover of the Syrian civil war",https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict,https://en.wikipedia.org/wiki/Kurdistan_Workers'_Party_insurgency,227098.0
-2016,Ongoing,"2016 Niger Delta conflict
+Turkish conflict and the Spillover of the Syrian civil war",https://en.wikipedia.org/wiki/Kurdish%E2%80%93Turkish_conflict,https://en.wikipedia.org/wiki/Kurdistan_Workers'_Party_insurgency,227098.0,Asia
+105,2016,Ongoing,"2016 Niger Delta conflict
 ","Nigeria
 Niger Delta Revolutionary
 Crusaders (since 2019)[457]
 Nigerian Armed Forces","Niger Delta
 Militant or
 Adaka Boro
-Asawana D",conflict in the Niger Delta,https://en.wikipedia.org/wiki/2016_Niger_Delta_conflict,https://en.wikipedia.org/wiki/Conflict_in_the_Niger_Delta,18928.0
-,,,"Involved states
+Asawana D",conflict in the Niger Delta,https://en.wikipedia.org/wiki/2016_Niger_Delta_conflict,https://en.wikipedia.org/wiki/Conflict_in_the_Niger_Delta,18928.0,Africa
+106,,,,"Involved states
 Abia State
 Akwa Ibom State
 Bayelsa State
@@ -1916,12 +1916,12 @@ Egbesu Bo
 Egbesu Re
 Egbesu Mig
 Ind
-Biafra[459",,,,
-2016,2016,"2016 Nagorno-Karabakh conflict
+Biafra[459",,,,,Undefined
+107,2016,2016,"2016 Nagorno-Karabakh conflict
 ","Artsakh
-Armenia",Azerb,Nagorno-Karabakh conflict,https://en.wikipedia.org/wiki/2016_Nagorno-Karabakh_conflict,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,55419.0
-2016,2017,Pool War,Republic of the Congo,Ninja mili,,https://en.wikipedia.org/wiki/Pool_War,,24593.0
-2016,Ongoing,"Philippine drug war
+Armenia",Azerb,Nagorno-Karabakh conflict,https://en.wikipedia.org/wiki/2016_Nagorno-Karabakh_conflict,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,55419.0,Asia
+108,2016,2017,Pool War,Republic of the Congo,Ninja mili,,https://en.wikipedia.org/wiki/Pool_War,,24593.0,Africa
+109,2016,Ongoing,"Philippine drug war
 ","Philippine
 government
 Philippine National Police
@@ -1972,15 +1972,15 @@ engaged
 Suspecte","Civil conflict in the Philippines, Cross border attacks
 in Sabah, spillovers of the Colombian Conflict and Mexican
 drug war and of the Insurgency in south Thailand and War
-against Islamic State",https://en.wikipedia.org/wiki/Philippine_drug_war,https://en.wikipedia.org/wiki/Civil_conflict_in_the_Philippines,451505.0
-2016,2019,Kamwina Nsapu rebellion,"DR Congo
+against Islamic State",https://en.wikipedia.org/wiki/Philippine_drug_war,https://en.wikipedia.org/wiki/Civil_conflict_in_the_Philippines,451505.0,Asia
+110,2016,2019,Kamwina Nsapu rebellion,"DR Congo
 Allied militias:
 Bana Mura[476]
 Ecurie Mbembe[477]
 Smaller pro-government
 groups","Kamw
-Various",,https://en.wikipedia.org/wiki/Kamwina_Nsapu_rebellion,,32014.0
-2016,Ongoing,"Conflict in Rakhine State
+Various",,https://en.wikipedia.org/wiki/Kamwina_Nsapu_rebellion,,32014.0,Africa
+111,2016,Ongoing,"Conflict in Rakhine State
 ","Myanmar
 Allied groups:
 Arakan Liberation Army","Arakan
@@ -1990,11 +1990,11 @@ People
 (Magway)
 Araka
 Army
-Rohing",Myanmar civil war and Rohingya conflict,https://en.wikipedia.org/wiki/Conflict_in_Rakhine_State_(2016%E2%80%93present),https://en.wikipedia.org/wiki/Myanmar_conflict,63471.0
-,,,,"Rohingya I
-Arakan R",,,,
-2016,2016,Kasese clashes,Uganda,Rwenz,,https://en.wikipedia.org/wiki/Kasese_clashes,,13054.0
-2016,Ongoing,Insurgency in Chad (2016–present),"Chad
+Rohing",Myanmar civil war and Rohingya conflict,https://en.wikipedia.org/wiki/Conflict_in_Rakhine_State_(2016%E2%80%93present),https://en.wikipedia.org/wiki/Myanmar_conflict,63471.0,Asia
+112,,,,,"Rohingya I
+Arakan R",,,,,Undefined
+113,2016,2016,Kasese clashes,Uganda,Rwenz,,https://en.wikipedia.org/wiki/Kasese_clashes,,13054.0,Africa
+114,2016,Ongoing,Insurgency in Chad (2016–present),"Chad
 France (until 2025)
 Central African
 Republic (2023)
@@ -2009,20 +2009,20 @@ FPR
 MRST[482
 RPJET
 (At leas
-overall)",,https://en.wikipedia.org/wiki/Insurgency_in_Chad_(2016%E2%80%93present),,46502.0
-2017,2017,"2017 Afghanistan–Pakistan border skirmish
-",Pakistan,Afghan,Afghanistan–Pakistan skirmishes,https://en.wikipedia.org/wiki/2017_Afghanistan%E2%80%93Pakistan_border_skirmish,https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_skirmishes,8639.0
-2017,2020,"2017–2020 Qatif unrest
+overall)",,https://en.wikipedia.org/wiki/Insurgency_in_Chad_(2016%E2%80%93present),,46502.0,Africa
+115,2017,2017,"2017 Afghanistan–Pakistan border skirmish
+",Pakistan,Afghan,Afghanistan–Pakistan skirmishes,https://en.wikipedia.org/wiki/2017_Afghanistan%E2%80%93Pakistan_border_skirmish,https://en.wikipedia.org/wiki/Afghanistan%E2%80%93Pakistan_skirmishes,8639.0,Asia
+116,2017,2020,"2017–2020 Qatif unrest
 ",Saudi Arabia,"Hezbollah A
 Other Shia
 Supported
 Saraya al-M
-Bahrai",Qatif conflict,https://en.wikipedia.org/wiki/2017%E2%80%932020_Qatif_unrest,https://en.wikipedia.org/wiki/Qatif_conflict,20201.0
-2017,2017,"Siege of Marawi
-",Philippines,Islamic,Moro conflict and the war against the Islamic State,https://en.wikipedia.org/wiki/Siege_of_Marawi,https://en.wikipedia.org/wiki/Moro_conflict,439062.0
-2017,Ongoing,"Anglophone Crisis
-",Cameroon,Ambaz,Anglophone problem,https://en.wikipedia.org/wiki/Anglophone_Crisis,https://en.wikipedia.org/wiki/Anglophone_problem,350799.0
-2017,Ongoing,"Insurgency in Cabo Delgado
+Bahrai",Qatif conflict,https://en.wikipedia.org/wiki/2017%E2%80%932020_Qatif_unrest,https://en.wikipedia.org/wiki/Qatif_conflict,20201.0,Undefined
+117,2017,2017,"Siege of Marawi
+",Philippines,Islamic,Moro conflict and the war against the Islamic State,https://en.wikipedia.org/wiki/Siege_of_Marawi,https://en.wikipedia.org/wiki/Moro_conflict,439062.0,Undefined
+118,2017,Ongoing,"Anglophone Crisis
+",Cameroon,Ambaz,Anglophone problem,https://en.wikipedia.org/wiki/Anglophone_Crisis,https://en.wikipedia.org/wiki/Anglophone_problem,350799.0,Africa
+119,2017,Ongoing,"Insurgency in Cabo Delgado
 ","Mozambique
 Rwanda
 (from 2021)[484]
@@ -2046,15 +2046,15 @@ Frontier Services Group
 Wagner Group","Ansa
 Islami
 Bandits[4","war against the Islamic State, Islamic terrorism in
-Africa and the war on terror",https://en.wikipedia.org/wiki/Insurgency_in_Cabo_Delgado,https://en.wikipedia.org/wiki/War_against_the_Islamic_State,209116.0
-2017,2017,"2017 Iraqi–Kurdish conflict
+Africa and the war on terror",https://en.wikipedia.org/wiki/Insurgency_in_Cabo_Delgado,https://en.wikipedia.org/wiki/War_against_the_Islamic_State,209116.0,Africa
+120,2017,2017,"2017 Iraqi–Kurdish conflict
 ","Iraq
 Supported by:
 Iran[486]","Kurdis
 PKK[48
 PDKI[4
-White",Iraqi–Kurdish conflict,https://en.wikipedia.org/wiki/2017_Iraqi%E2%80%93Kurdish_conflict,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,81056.0
-2017,Ongoing,"Islamic State insurgency in Iraq (2017–present)
+White",Iraqi–Kurdish conflict,https://en.wikipedia.org/wiki/2017_Iraqi%E2%80%93Kurdish_conflict,https://en.wikipedia.org/wiki/Iraqi%E2%80%93Kurdish_conflict,81056.0,Asia
+121,2017,Ongoing,"Islamic State insurgency in Iraq (2017–present)
 ","Iraq
 Iraqi Federal Police
 Iraqi Armed Forces
@@ -2067,8 +2067,8 @@ Pro-Government Tribes
 Islamic Resistance in Iraq
 Supported by:
 Iran","Islami
-White",Iraqi conflict and war against the Islamic State,https://en.wikipedia.org/wiki/Islamic_State_insurgency_in_Iraq_(2017%E2%80%93present),https://en.wikipedia.org/wiki/Iraqi_conflict,155441.0
-,,,"Rojava (cross-border
+White",Iraqi conflict and war against the Islamic State,https://en.wikipedia.org/wiki/Islamic_State_insurgency_in_Iraq_(2017%E2%80%93present),https://en.wikipedia.org/wiki/Iraqi_conflict,155441.0,Asia
+122,,,,"Rojava (cross-border
 cooperation since May
 2018)[491]
 Supported by:
@@ -2079,8 +2079,8 @@ France
 Kurdistan Region
 Peshmerga
 Supported by:
-Netherlands[492]",,,,,
-2018,Ongoing,"War on drugs in Ecuador
+Netherlands[492]",,,,,,Undefined
+123,2018,Ongoing,"War on drugs in Ecuador
 ","Government of
 Ecuador
 National Police of Ecuador
@@ -2111,8 +2111,8 @@ FARC–
 FARC d
 ELN
 La Emp
-Other gro",war on drugs,https://en.wikipedia.org/wiki/War_on_drugs_in_Ecuador,https://en.wikipedia.org/wiki/War_on_drugs,39434.0
-2018,Ongoing,"Catatumbo campaign
+Other gro",war on drugs,https://en.wikipedia.org/wiki/War_on_drugs_in_Ecuador,https://en.wikipedia.org/wiki/War_on_drugs,39434.0,South America
+124,2018,Ongoing,"Catatumbo campaign
 ","Colombia
 2nd Division","Pop
 (EPL)
@@ -2121,21 +2121,21 @@ Nati
 Nororie
 Los Rast
 FARC dis","Colombian conflict (1964–present), the war on drugs
-(1993–present), and the Crisis in Venezuela (2010–present)",https://en.wikipedia.org/wiki/Catatumbo_campaign,https://en.wikipedia.org/wiki/Colombian_conflict,93350.0
-2018,2018,"2018 Armenian–Azerbaijani clashes
-",Azerbaijan,Arme,Nagorno-Karabakh conflict,https://en.wikipedia.org/wiki/2018_Armenian%E2%80%93Azerbaijani_clashes,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,10492.0
-2018,Ongoing,"OLA insurgency
+(1993–present), and the Crisis in Venezuela (2010–present)",https://en.wikipedia.org/wiki/Catatumbo_campaign,https://en.wikipedia.org/wiki/Colombian_conflict,93350.0,South America
+125,2018,2018,"2018 Armenian–Azerbaijani clashes
+",Azerbaijan,Arme,Nagorno-Karabakh conflict,https://en.wikipedia.org/wiki/2018_Armenian%E2%80%93Azerbaijani_clashes,https://en.wikipedia.org/wiki/Nagorno-Karabakh_conflict,10492.0,Asia
+126,2018,Ongoing,"OLA insurgency
 ","Ethiopia
 Oromia",OLA,"Oromo conflict and Ethiopian civil conflict (2018–
-present)",https://en.wikipedia.org/wiki/OLA_insurgency,https://en.wikipedia.org/wiki/Oromo_conflict,44337.0
-2018,2018,"November 2018 Gaza–Israel clashes
+present)",https://en.wikipedia.org/wiki/OLA_insurgency,https://en.wikipedia.org/wiki/Oromo_conflict,44337.0,Africa
+127,2018,2018,"November 2018 Gaza–Israel clashes
 ",Israel,"Gaza
 Ha
 Islamic
 PFLP
 al-Aqsa
-PRC",Gaza–Israel conflict,https://en.wikipedia.org/wiki/November_2018_Gaza%E2%80%93Israel_clashes,https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,21512.0
-2019,2019,"2019 India–Pakistan border skirmishes
+PRC",Gaza–Israel conflict,https://en.wikipedia.org/wiki/November_2018_Gaza%E2%80%93Israel_clashes,https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,21512.0,Asia
+128,2019,2019,"2019 India–Pakistan border skirmishes
 ","India
 Indian Army
 Indian Air Force
@@ -2144,14 +2144,14 @@ CRPF","Jaish-
 Pakis
 Pa
 Pa
-Pa",Indo−Pakistani conflicts and the Kashmir conflict,https://en.wikipedia.org/wiki/2019_India%E2%80%93Pakistan_border_skirmishes,https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts,234344.0
-,,,,,,,,
-2019,2019,"May 2019 Gaza–Israel clashes
+Pa",Indo−Pakistani conflicts and the Kashmir conflict,https://en.wikipedia.org/wiki/2019_India%E2%80%93Pakistan_border_skirmishes,https://en.wikipedia.org/wiki/Indo-Pakistani_wars_and_conflicts,234344.0,Asia
+129,,,,,,,,,,Undefined
+130,2019,2019,"May 2019 Gaza–Israel clashes
 ",Israel,"Gaza
 Ha
 Pa
-Nat",Gaza–Israel conflict,https://en.wikipedia.org/wiki/May_2019_Gaza%E2%80%93Israel_clashes,https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,13638.0
-2019,2022,"Benishangul-Gumuz conflict
+Nat",Gaza–Israel conflict,https://en.wikipedia.org/wiki/May_2019_Gaza%E2%80%93Israel_clashes,https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,13638.0,Asia
+131,2019,2022,"Benishangul-Gumuz conflict
 ","Ethiopia
 ENDF
 Benishangul-Gumuz
@@ -2168,6 +2168,6 @@ Support:
 Suda
 only)[496]
 E
-Ethiopia)",Ethiopian civil conflict (2018–present),https://en.wikipedia.org/wiki/Benishangul-Gumuz_conflict,https://en.wikipedia.org/wiki/Ethiopian_civil_conflict_(2018%E2%80%93present),19691.0
-2019,2019,"November 2019 Gaza–Israel clashes
-",Israel,Pales,Gaza–Israel conflict,https://en.wikipedia.org/wiki/November_2019_Gaza%E2%80%93Israel_clashes,https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,13700.0
+Ethiopia)",Ethiopian civil conflict (2018–present),https://en.wikipedia.org/wiki/Benishangul-Gumuz_conflict,https://en.wikipedia.org/wiki/Ethiopian_civil_conflict_(2018%E2%80%93present),19691.0,Africa
+132,2019,2019,"November 2019 Gaza–Israel clashes
+",Israel,Pales,Gaza–Israel conflict,https://en.wikipedia.org/wiki/November_2019_Gaza%E2%80%93Israel_clashes,https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_conflict,13700.0,Asia

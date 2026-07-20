@@ -1,17 +1,17 @@
-Start,Finish,Name of conflict,Belligerents,,Part of,War link,Wider conflict link,Wikipedia pageviews (2025 - 2026)
-,,,"Victorious party (if
+,Start,Finish,Name of conflict,Belligerents,Unnamed: 4,Part of,War link,Wider conflict link,Wikipedia pageviews (2025 - 2026),Continent
+0,,,,"Victorious party (if
 applicable)","Defeated party (if
-applicable)",,,,
-1500,1500,Bruneian–Tundun War,Bruneian Empire,Tondo,,,,
-1500,1503,"Second Muscovite–Lithuanian
+applicable)",,,,,Undefined
+1,1500,1500,Bruneian–Tundun War,Bruneian Empire,Tondo,,,,,Undefined
+2,1500,1503,"Second Muscovite–Lithuanian
 War
 Muscovite–Lithuanian Wars","Grand Principality of
 Moscow","Grand Duchy of
-Lithuania",,https://en.wikipedia.org/wiki/Second_Muscovite%E2%80%93Lithuanian_War,https://en.wikipedia.org/wiki/Second_Muscovite%E2%80%93Lithuanian_War,2315.0
-1500,1500,Battle of Hemmingstedt,Peasantry of Dithmarschen,"Kalmar Union
-Denmark",,https://en.wikipedia.org/wiki/Battle_of_Hemmingstedt,,55628.0
-1501,1502,Azov War (1501–1502),Kabardia,Crimean Khanate,,https://en.wikipedia.org/wiki/Azov_War_(1501%E2%80%931502),,5019.0
-1501,1512,"Dano-Swedish War (1501–
+Lithuania",,https://en.wikipedia.org/wiki/Second_Muscovite%E2%80%93Lithuanian_War,https://en.wikipedia.org/wiki/Second_Muscovite%E2%80%93Lithuanian_War,2315.0,Undefined
+3,1500,1500,Battle of Hemmingstedt,Peasantry of Dithmarschen,"Kalmar Union
+Denmark",,https://en.wikipedia.org/wiki/Battle_of_Hemmingstedt,,55628.0,Undefined
+4,1501,1502,Azov War (1501–1502),Kabardia,Crimean Khanate,,https://en.wikipedia.org/wiki/Azov_War_(1501%E2%80%931502),,5019.0,Undefined
+5,1501,1512,"Dano-Swedish War (1501–
 1512)
 ","Sweden
 Free City of Lübeck
@@ -19,30 +19,30 @@ Free City of Lübeck
 Norwegian rebels (to 1504)","Kalmar Union
 Denmark
 Norway","Dano-
-Swedish Wars",https://en.wikipedia.org/wiki/Dano-Swedish_War_(1501%E2%80%931512),https://en.wikipedia.org/wiki/Dano-Swedish_War_(1501%E2%80%931512),14191.0
-1502,1510,Persian–Uzbek wars,"Persian Empire
-Timurid Empire",Shaybanid dynasty,,https://en.wikipedia.org/wiki/Persian%E2%80%93Uzbek_wars,,27119.0
-1502,1543,Guelders Wars,Holy Roman Empire,Duchy of Guelders,,https://en.wikipedia.org/wiki/Guelders_Wars,,21599.0
-1503,1505,"War of the Succession of
+Swedish Wars",https://en.wikipedia.org/wiki/Dano-Swedish_War_(1501%E2%80%931512),https://en.wikipedia.org/wiki/Dano-Swedish_War_(1501%E2%80%931512),14191.0,Europe
+6,1502,1510,Persian–Uzbek wars,"Persian Empire
+Timurid Empire",Shaybanid dynasty,,https://en.wikipedia.org/wiki/Persian%E2%80%93Uzbek_wars,,27119.0,Asia
+7,1502,1543,Guelders Wars,Holy Roman Empire,Duchy of Guelders,,https://en.wikipedia.org/wiki/Guelders_Wars,,21599.0,Europe
+8,1503,1505,"War of the Succession of
 Landshut",Duchy of Bavaria-Munich,"Duchy of Bavaria-
 Landshut
-Electorate of the Palatinate",,https://en.wikipedia.org/wiki/War_of_the_Succession_of_Landshut,https://en.wikipedia.org/wiki/War_of_the_Succession_of_Landshut,15393.0
-1505,1517,"Portuguese–Mamluk naval
+Electorate of the Palatinate",,https://en.wikipedia.org/wiki/War_of_the_Succession_of_Landshut,https://en.wikipedia.org/wiki/War_of_the_Succession_of_Landshut,15393.0,Europe
+9,1505,1517,"Portuguese–Mamluk naval
 war",Portugal,"Mamluk Sultanate
-Ottoman Empire",,https://en.wikipedia.org/wiki/Portuguese%E2%80%93Mamluk_naval_war,https://en.wikipedia.org/wiki/Portuguese%E2%80%93Mamluk_naval_war,7155.0
-1505,1517,"Ottoman–Persian War (1505–
-1517)",Ottoman Empire,Safavid Iran,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1505%E2%80%931517),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1505%E2%80%931517),25476.0
-1505,1506,"Austrian-Hungarian War
-(1505-1506)",Holy Roman Empire,Kingdom of Hungary,,https://en.wikipedia.org/wiki/Austrian-Hungarian_War_(1505-1506)?action=edit&redlink=1,https://en.wikipedia.org/wiki/Austrian-Hungarian_War_(1505-1506)?action=edit&redlink=1,-1.0
-1507,1508,"Third Muscovite–Lithuanian
+Ottoman Empire",,https://en.wikipedia.org/wiki/Portuguese%E2%80%93Mamluk_naval_war,https://en.wikipedia.org/wiki/Portuguese%E2%80%93Mamluk_naval_war,7155.0,Undefined
+10,1505,1517,"Ottoman–Persian War (1505–
+1517)",Ottoman Empire,Safavid Iran,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1505%E2%80%931517),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1505%E2%80%931517),25476.0,Asia
+11,1505,1506,"Austrian-Hungarian War
+(1505-1506)",Holy Roman Empire,Kingdom of Hungary,,https://en.wikipedia.org/wiki/Austrian-Hungarian_War_(1505-1506)?action=edit&redlink=1,https://en.wikipedia.org/wiki/Austrian-Hungarian_War_(1505-1506)?action=edit&redlink=1,-1.0,Undefined
+12,1507,1508,"Third Muscovite–Lithuanian
 War
 Muscovite–Lithuanian Wars","Grand Duchy of
 Lithuania
 Kingdom of Poland","Grand Principality of
 Moscow
 Lithuanian rebels led by
-Michael Glinski",,https://en.wikipedia.org/wiki/Third_Muscovite%E2%80%93Lithuanian_War,https://en.wikipedia.org/wiki/Third_Muscovite%E2%80%93Lithuanian_War,1130.0
-1508,1516,"War of the League of Cambrai
+Michael Glinski",,https://en.wikipedia.org/wiki/Third_Muscovite%E2%80%93Lithuanian_War,https://en.wikipedia.org/wiki/Third_Muscovite%E2%80%93Lithuanian_War,1130.0,Undefined
+13,1508,1516,"War of the League of Cambrai
 ","1508–10:
 France
 Papal States
@@ -71,14 +71,14 @@ Swiss mercenaries
 1513–16:
 Papal States
 Spain","Italian Wars and
-Anglo-French War (1512–14)",https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai,https://en.wikipedia.org/wiki/Italian_Wars,187439.0
-,,,,"Holy Roman Empire
+Anglo-French War (1512–14)",https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai,https://en.wikipedia.org/wiki/Italian_Wars,187439.0,Europe
+14,,,,,"Holy Roman Empire
 England
 Duchy of Milan
-Swiss mercenaries",,,,
-1509,1509,"Second Invasion of the
-Kazakh Khanate (1509)",Kazakh Khanate,Khanate of Bukhara,,https://en.wikipedia.org/wiki/Second_Invasion_of_the_Kazakh_Khanate_(1509),https://en.wikipedia.org/wiki/Second_Invasion_of_the_Kazakh_Khanate_(1509),1874.0
-1509,1509,"Battle of Diu
+Swiss mercenaries",,,,,Undefined
+15,1509,1509,"Second Invasion of the
+Kazakh Khanate (1509)",Kazakh Khanate,Khanate of Bukhara,,https://en.wikipedia.org/wiki/Second_Invasion_of_the_Kazakh_Khanate_(1509),https://en.wikipedia.org/wiki/Second_Invasion_of_the_Kazakh_Khanate_(1509),1874.0,Undefined
+16,1509,1509,"Battle of Diu
 ",Portuguese Empire,"Gujarat Sultanate
 Mamlûk Sultanate
 Kozhikode Zamorin Raja
@@ -88,106 +88,106 @@ Republic of Ragusa","Portuguese battles
 in Indian Ocean, Portuguese–
 Mamluk naval war and
 Ottoman–Portuguese
-confrontations",https://en.wikipedia.org/wiki/Battle_of_Diu,https://en.wikipedia.org/wiki/Portuguese%E2%80%93Mamluk_naval_war,81164.0
-1509,1512,Ottoman Civil War,"Forces of Selim I
+confrontations",https://en.wikipedia.org/wiki/Battle_of_Diu,https://en.wikipedia.org/wiki/Portuguese%E2%80%93Mamluk_naval_war,81164.0,Asia
+17,1509,1512,Ottoman Civil War,"Forces of Selim I
 Forces of Bayezid II
-Janissaries",Forces of Ahmed,,https://en.wikipedia.org/wiki/Ottoman_Civil_War_(1509%E2%80%9313),,3283.0
-1510,1510,Prince of Anhua rebellion,Ming dynasty,Prince of Anhua,,https://en.wikipedia.org/wiki/Prince_of_Anhua_rebellion,,16125.0
-1510,1514,Hvar rebellion,Republic of Venice,Hvar rebels,,https://en.wikipedia.org/wiki/Hvar_rebellion,,6677.0
-1510,1510,"Portuguese conquest of Goa
+Janissaries",Forces of Ahmed,,https://en.wikipedia.org/wiki/Ottoman_Civil_War_(1509%E2%80%9313),,3283.0,Undefined
+18,1510,1510,Prince of Anhua rebellion,Ming dynasty,Prince of Anhua,,https://en.wikipedia.org/wiki/Prince_of_Anhua_rebellion,,16125.0,Asia
+19,1510,1514,Hvar rebellion,Republic of Venice,Hvar rebels,,https://en.wikipedia.org/wiki/Hvar_rebellion,,6677.0,Undefined
+20,1510,1510,"Portuguese conquest of Goa
 Ottoman–Portuguese
 confrontations",Portugal,"Bijapur Sultanate
-Ottoman Empire",,https://en.wikipedia.org/wiki/Portuguese_conquest_of_Goa,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_confrontations,74659.0
-1511,1511,Friulian revolt of 1511,Friulian nobility,Friulian peasants,,https://en.wikipedia.org/wiki/Friulian_revolt_of_1511,,5009.0
-1511,1511,Şahkulu rebellion,Ottoman Empire,Shia Rebels,,https://en.wikipedia.org/wiki/%C5%9Eahkulu_rebellion,,26864.0
-1511,1529,"Spanish–Taíno War of San
-Juan–Borikén",Castile,Taínos,,https://en.wikipedia.org/wiki/Spanish%E2%80%93Ta%C3%ADno_War_of_San_Juan%E2%80%93Borik%C3%A9n,https://en.wikipedia.org/wiki/Spanish%E2%80%93Ta%C3%ADno_War_of_San_Juan%E2%80%93Borik%C3%A9n,21662.0
-1511,1641,Malayan–Portuguese war,Portugal,"Malacca Sultanate
+Ottoman Empire",,https://en.wikipedia.org/wiki/Portuguese_conquest_of_Goa,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_confrontations,74659.0,Undefined
+21,1511,1511,Friulian revolt of 1511,Friulian nobility,Friulian peasants,,https://en.wikipedia.org/wiki/Friulian_revolt_of_1511,,5009.0,Undefined
+22,1511,1511,Şahkulu rebellion,Ottoman Empire,Shia Rebels,,https://en.wikipedia.org/wiki/%C5%9Eahkulu_rebellion,,26864.0,Asia
+23,1511,1529,"Spanish–Taíno War of San
+Juan–Borikén",Castile,Taínos,,https://en.wikipedia.org/wiki/Spanish%E2%80%93Ta%C3%ADno_War_of_San_Juan%E2%80%93Borik%C3%A9n,https://en.wikipedia.org/wiki/Spanish%E2%80%93Ta%C3%ADno_War_of_San_Juan%E2%80%93Borik%C3%A9n,21662.0,Undefined
+24,1511,1641,Malayan–Portuguese war,Portugal,"Malacca Sultanate
 Ming dynasty
 Dutch East India
 Company
-Johor Sultanate",,https://en.wikipedia.org/wiki/Malayan%E2%80%93Portuguese_war,,2429.0
-1512,1516,"Bengal Sultanate–Kingdom of
-Mrauk U War",Bengal Sultanate,Kingdom of Mrauk U,,https://en.wikipedia.org/wiki/Bengal_Sultanate%E2%80%93Kingdom_of_Mrauk_U_War_of_1512%E2%80%931516,https://en.wikipedia.org/wiki/Bengal_Sultanate%E2%80%93Kingdom_of_Mrauk_U_War_of_1512%E2%80%931516,6633.0
-1512,1522,"Fourth Muscovite–Lithuanian
+Johor Sultanate",,https://en.wikipedia.org/wiki/Malayan%E2%80%93Portuguese_war,,2429.0,Undefined
+25,1512,1516,"Bengal Sultanate–Kingdom of
+Mrauk U War",Bengal Sultanate,Kingdom of Mrauk U,,https://en.wikipedia.org/wiki/Bengal_Sultanate%E2%80%93Kingdom_of_Mrauk_U_War_of_1512%E2%80%931516,https://en.wikipedia.org/wiki/Bengal_Sultanate%E2%80%93Kingdom_of_Mrauk_U_War_of_1512%E2%80%931516,6633.0,Undefined
+26,1512,1522,"Fourth Muscovite–Lithuanian
 War
 Muscovite–Lithuanian Wars","Grand Principality of
 Moscow
 Livonian Order","Grand Duchy of
 Lithuania
 Kingdom of Poland
-Crimean Tatars",,https://en.wikipedia.org/wiki/Fourth_Muscovite%E2%80%93Lithuanian_War,https://en.wikipedia.org/wiki/Fourth_Muscovite%E2%80%93Lithuanian_War,831.0
-1512,1521,"Spanish conquest of Iberian
+Crimean Tatars",,https://en.wikipedia.org/wiki/Fourth_Muscovite%E2%80%93Lithuanian_War,https://en.wikipedia.org/wiki/Fourth_Muscovite%E2%80%93Lithuanian_War,831.0,Undefined
+27,1512,1521,"Spanish conquest of Iberian
 Navarre","Crown of Castile
-Crown of Aragon",Kingdom of Navarre,,https://en.wikipedia.org/wiki/Spanish_conquest_of_Iberian_Navarre,https://en.wikipedia.org/wiki/Spanish_conquest_of_Iberian_Navarre,55777.0
-1514,1514,Poor Conrad Rebellion,Duchy of Württemberg,Württemberg peasants,,https://en.wikipedia.org/wiki/Poor_Conrad,,9572.0
-1514,1514,György Dózsa Rebellion,Kingdom of Hungary,Hungarian peasants,,https://en.wikipedia.org/wiki/Gy%C3%B6rgy_D%C3%B3zsa,,154281.0
-1514,1514,Battle of Chaldiran,Ottoman Empire,Safavid Empire,,https://en.wikipedia.org/wiki/Battle_of_Chaldiran,,173911.0
-1515,1515,"Slovene Peasant Revolt of
-1515",Holy Roman Empire,Slovene rebels,,https://en.wikipedia.org/wiki/Slovene_Peasant_Revolt_of_1515,https://en.wikipedia.org/wiki/Slovene_Peasant_Revolt_of_1515,1776.0
-1515,1523,Arumer Zwarte Hoop,Habsburg Netherlands,Frisian peasants,,https://en.wikipedia.org/wiki/Arumer_Zwarte_Hoop,,14211.0
-1516,1516,Algiers expedition (1516),Ottoman Empire,Castile,,https://en.wikipedia.org/wiki/Algiers_expedition_(1516),,8997.0
-1516,1517,"Ottoman–Mamluk War (1516–
+Crown of Aragon",Kingdom of Navarre,,https://en.wikipedia.org/wiki/Spanish_conquest_of_Iberian_Navarre,https://en.wikipedia.org/wiki/Spanish_conquest_of_Iberian_Navarre,55777.0,Undefined
+28,1514,1514,Poor Conrad Rebellion,Duchy of Württemberg,Württemberg peasants,,https://en.wikipedia.org/wiki/Poor_Conrad,,9572.0,Europe
+29,1514,1514,György Dózsa Rebellion,Kingdom of Hungary,Hungarian peasants,,https://en.wikipedia.org/wiki/Gy%C3%B6rgy_D%C3%B3zsa,,154281.0,Europe
+30,1514,1514,Battle of Chaldiran,Ottoman Empire,Safavid Empire,,https://en.wikipedia.org/wiki/Battle_of_Chaldiran,,173911.0,Undefined
+31,1515,1515,"Slovene Peasant Revolt of
+1515",Holy Roman Empire,Slovene rebels,,https://en.wikipedia.org/wiki/Slovene_Peasant_Revolt_of_1515,https://en.wikipedia.org/wiki/Slovene_Peasant_Revolt_of_1515,1776.0,Undefined
+32,1515,1523,Arumer Zwarte Hoop,Habsburg Netherlands,Frisian peasants,,https://en.wikipedia.org/wiki/Arumer_Zwarte_Hoop,,14211.0,Europe
+33,1516,1516,Algiers expedition (1516),Ottoman Empire,Castile,,https://en.wikipedia.org/wiki/Algiers_expedition_(1516),,8997.0,Undefined
+34,1516,1517,"Ottoman–Mamluk War (1516–
 17)
 ",Ottoman Empire,Mamluk Sultanate,"Ottoman–Mamluk
-wars",https://en.wikipedia.org/wiki/Ottoman%E2%80%93Mamluk_War_(1516%E2%80%9317),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Mamluk_War_(1516%E2%80%9317),21098.0
-,,,,,,,,
-1516,1516,,"Tenochtitlan
+wars",https://en.wikipedia.org/wiki/Ottoman%E2%80%93Mamluk_War_(1516%E2%80%9317),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Mamluk_War_(1516%E2%80%9317),21098.0,Asia
+35,,,,,,,,,,Undefined
+36,1516,1516,,"Tenochtitlan
 Partisans of Cacamatzin","Tlaxcala
-Partisans of Ixtlilxochitl II",,,,
-1516,1521,Trần Cao rebellion,Lê dynasty,Trần Cao rebels,,https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Cao_rebellion,,3144.0
-1518,1658,Sinhalese–Portuguese War,Portuguese Empire,"Kingdom of Sitawaka
-Kingdom of Kandy",,https://en.wikipedia.org/wiki/Sinhalese%E2%80%93Portuguese_War,,13136.0
-1519,1519,Prince of Ning rebellion,Ming dynasty,Prince of Ning,,https://en.wikipedia.org/wiki/Prince_of_Ning_rebellion,,33521.0
-1519,1521,"Polish–Teutonic War (1519–
+Partisans of Ixtlilxochitl II",,,,,Undefined
+37,1516,1521,Trần Cao rebellion,Lê dynasty,Trần Cao rebels,,https://en.wikipedia.org/wiki/Tr%E1%BA%A7n_Cao_rebellion,,3144.0,Asia
+38,1518,1658,Sinhalese–Portuguese War,Portuguese Empire,"Kingdom of Sitawaka
+Kingdom of Kandy",,https://en.wikipedia.org/wiki/Sinhalese%E2%80%93Portuguese_War,,13136.0,Undefined
+39,1519,1519,Prince of Ning rebellion,Ming dynasty,Prince of Ning,,https://en.wikipedia.org/wiki/Prince_of_Ning_rebellion,,33521.0,Asia
+40,1519,1521,"Polish–Teutonic War (1519–
 1521)
-Polish–Teutonic wars",Kingdom of Poland,Teutonic Knights,,https://en.wikipedia.org/wiki/Polish%E2%80%93Teutonic_War_(1519%E2%80%931521),https://en.wikipedia.org/wiki/Polish%E2%80%93Teutonic_War_(1519%E2%80%931521),18957.0
-1519,1521,"Spanish conquest of the Aztec
+Polish–Teutonic wars",Kingdom of Poland,Teutonic Knights,,https://en.wikipedia.org/wiki/Polish%E2%80%93Teutonic_War_(1519%E2%80%931521),https://en.wikipedia.org/wiki/Polish%E2%80%93Teutonic_War_(1519%E2%80%931521),18957.0,Undefined
+41,1519,1521,"Spanish conquest of the Aztec
 Empire","Spanish Empire
-Tlaxcala",Aztec Triple Alliance,,https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire,https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire,701921.0
-1519,1523,Revolt of the Brotherhoods,Royalists of Aragon,Agermanats rebels,,https://en.wikipedia.org/wiki/Revolt_of_the_Brotherhoods,,17519.0
-1519,1523,Hildesheim Diocesan Feud,"Bishopric of Hildesheim
+Tlaxcala",Aztec Triple Alliance,,https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire,https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire,701921.0,North America
+42,1519,1523,Revolt of the Brotherhoods,Royalists of Aragon,Agermanats rebels,,https://en.wikipedia.org/wiki/Revolt_of_the_Brotherhoods,,17519.0,Europe
+43,1519,1523,Hildesheim Diocesan Feud,"Bishopric of Hildesheim
 County of Schaumburg
 County of Diepholz
 County of Hoya","Principality of Brunswick-
 Wolfenbüttel
-Principality of Calenberg",,https://en.wikipedia.org/wiki/Hildesheim_Diocesan_Feud,,8139.0
-1519,1659,Celali rebellions,Ottoman Empire,Alevi peasants,,https://en.wikipedia.org/wiki/Celali_rebellions,,43759.0
-1520,1521,Revolt of the Comuneros,Royalist Castilians,Comuneros rebels,,https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros,,60968.0
-1521,1521,First Battle of Tamão,Ming dynasty,Portuguese Empire,,https://en.wikipedia.org/wiki/First_Battle_of_Tam%C3%A3o,,1852.0
-1521,1523,"Swedish War of Liberation
+Principality of Calenberg",,https://en.wikipedia.org/wiki/Hildesheim_Diocesan_Feud,,8139.0,Undefined
+44,1519,1659,Celali rebellions,Ottoman Empire,Alevi peasants,,https://en.wikipedia.org/wiki/Celali_rebellions,,43759.0,Asia
+45,1520,1521,Revolt of the Comuneros,Royalist Castilians,Comuneros rebels,,https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros,,60968.0,Europe
+46,1521,1521,First Battle of Tamão,Ming dynasty,Portuguese Empire,,https://en.wikipedia.org/wiki/First_Battle_of_Tam%C3%A3o,,1852.0,Undefined
+47,1521,1523,"Swedish War of Liberation
 ","Sweden
 Free City of Lübeck
 (from 1522)","Denmark
 Kalmar Union","Swedish War of
-Secession",https://en.wikipedia.org/wiki/Swedish_War_of_Liberation,https://en.wikipedia.org/wiki/Swedish_War_of_Secession,67624.0
-1521,1526,"Italian War of 1521–1526
+Secession",https://en.wikipedia.org/wiki/Swedish_War_of_Liberation,https://en.wikipedia.org/wiki/Swedish_War_of_Secession,67624.0,Europe
+48,1521,1526,"Italian War of 1521–1526
 ","Empire of Charles V:
 Spain
 Holy Roman Empire
 Kingdom of
 England
 Papal States","France
-Republic of Venice",Italian Wars,https://en.wikipedia.org/wiki/Italian_War_of_1521%E2%80%931526,https://en.wikipedia.org/wiki/Italian_Wars,81591.0
-1521,1532,Musso War,Three Leagues,Duchy of Milan,,https://en.wikipedia.org/wiki/Musso_War,,6020.0
-1522,1538,"First Civil War (Kazakh
+Republic of Venice",Italian Wars,https://en.wikipedia.org/wiki/Italian_War_of_1521%E2%80%931526,https://en.wikipedia.org/wiki/Italian_Wars,81591.0,Europe
+49,1521,1532,Musso War,Three Leagues,Duchy of Milan,,https://en.wikipedia.org/wiki/Musso_War,,6020.0,Undefined
+50,1522,1538,"First Civil War (Kazakh
 Khanate)","Tugim Khan (Until 1538)
 Supported by:
-Khak-Nazar",Buydash Khan,,https://en.wikipedia.org/wiki/First_Civil_War_(Kazakh_Khanate),https://en.wikipedia.org/wiki/First_Civil_War_(Kazakh_Khanate),1648.0
-1522,1523,Knights' War,Holy Roman Empire,"Brotherly Convention’ of
-Knights",,https://en.wikipedia.org/wiki/Knights'_War,,42051.0
-1522,1522,Second Battle of Tamão,Ming dynasty,Portuguese Empire,,https://en.wikipedia.org/wiki/Second_Battle_of_Tam%C3%A3o,,1574.0
-1522,1522,Siege of Rhodes (1522),Ottoman Empire,"Knights Hospitaller
-Republic of Venice",,https://en.wikipedia.org/wiki/Siege_of_Rhodes_(1522),,102938.0
-1523,1523,Franconian War,Swabian League,Robber Barons,,https://en.wikipedia.org/wiki/Franconian_War,,5726.0
-1524,1525,German Peasants' War,Swabian League,"German Peasant
-Army",,https://en.wikipedia.org/wiki/German_Peasants'_War,,337002.0
-1524,1533,Dalecarlian rebellions,Sweden,Dalarna peasants,,https://en.wikipedia.org/wiki/Dalecarlian_rebellions,,6068.0
-,,,,,,,,
-1524,1528,Arghun–Langah War,Sindh Sultanate,Multan Sultanate,,https://en.wikipedia.org/wiki/Arghun%E2%80%93Langah_War,,2700.0
-1525,1525,Bakhchisarai War (1525),Kabardia,Crimean Khanate,,https://en.wikipedia.org/wiki/Bakhchisarai_War_(1525),,4544.0
-1525,1525,Amicable Grant,Kingdom of England,English Rebels,,https://en.wikipedia.org/wiki/Amicable_Grant,,12959.0
-1526,1530,"War of the League of Cognac
+Khak-Nazar",Buydash Khan,,https://en.wikipedia.org/wiki/First_Civil_War_(Kazakh_Khanate),https://en.wikipedia.org/wiki/First_Civil_War_(Kazakh_Khanate),1648.0,Undefined
+51,1522,1523,Knights' War,Holy Roman Empire,"Brotherly Convention’ of
+Knights",,https://en.wikipedia.org/wiki/Knights'_War,,42051.0,Europe
+52,1522,1522,Second Battle of Tamão,Ming dynasty,Portuguese Empire,,https://en.wikipedia.org/wiki/Second_Battle_of_Tam%C3%A3o,,1574.0,Undefined
+53,1522,1522,Siege of Rhodes (1522),Ottoman Empire,"Knights Hospitaller
+Republic of Venice",,https://en.wikipedia.org/wiki/Siege_of_Rhodes_(1522),,102938.0,Undefined
+54,1523,1523,Franconian War,Swabian League,Robber Barons,,https://en.wikipedia.org/wiki/Franconian_War,,5726.0,Undefined
+55,1524,1525,German Peasants' War,Swabian League,"German Peasant
+Army",,https://en.wikipedia.org/wiki/German_Peasants'_War,,337002.0,Europe
+56,1524,1533,Dalecarlian rebellions,Sweden,Dalarna peasants,,https://en.wikipedia.org/wiki/Dalecarlian_rebellions,,6068.0,Undefined
+57,,,,,,,,,,Undefined
+58,1524,1528,Arghun–Langah War,Sindh Sultanate,Multan Sultanate,,https://en.wikipedia.org/wiki/Arghun%E2%80%93Langah_War,,2700.0,Undefined
+59,1525,1525,Bakhchisarai War (1525),Kabardia,Crimean Khanate,,https://en.wikipedia.org/wiki/Bakhchisarai_War_(1525),,4544.0,Undefined
+60,1525,1525,Amicable Grant,Kingdom of England,English Rebels,,https://en.wikipedia.org/wiki/Amicable_Grant,,12959.0,Undefined
+61,1526,1530,"War of the League of Cognac
 ","Empire of Charles V:
 Spain
 Holy Roman Empire
@@ -196,15 +196,15 @@ Papal States
 Republic of Venice
 Republic of Florence
 Kingdom of England
-Duchy of Milan",Italian Wars,https://en.wikipedia.org/wiki/War_of_the_League_of_Cognac,https://en.wikipedia.org/wiki/Italian_Wars,96585.0
-1526,1526,Battle of Mohács,Ottoman Empire,"Kingdom of Hungary
+Duchy of Milan",Italian Wars,https://en.wikipedia.org/wiki/War_of_the_League_of_Cognac,https://en.wikipedia.org/wiki/Italian_Wars,96585.0,Europe
+62,1526,1526,Battle of Mohács,Ottoman Empire,"Kingdom of Hungary
 Kingdom of Bohemia
 Holy Roman Empire
 Duchy of Bavaria
 Papal States
-Kingdom of Poland",,https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs,,342248.0
-1527,1697,Spanish conquest of Yucatán,Spanish Empire,Maya,,https://en.wikipedia.org/wiki/Spanish_conquest_of_Yucat%C3%A1n,,56707.0
-1527,1528,"Hungarian campaign of 1527–
+Kingdom of Poland",,https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs,,342248.0,Europe
+63,1527,1697,Spanish conquest of Yucatán,Spanish Empire,Maya,,https://en.wikipedia.org/wiki/Spanish_conquest_of_Yucat%C3%A1n,,56707.0,North America
+64,1527,1528,"Hungarian campaign of 1527–
 1528
 ","Archduchy of Austria
 Holy Roman Empire
@@ -218,17 +218,17 @@ Voivodian Serbs","Ottoman Empire
 Moldavia
 John Szapolyai's
 Hungarian kingdom","Ottoman–Habsburg
-wars",https://en.wikipedia.org/wiki/Hungarian_campaign_of_1527%E2%80%931528,https://en.wikipedia.org/wiki/Hungarian_campaign_of_1527%E2%80%931528,14435.0
-1529,1543,Ethiopian–Adal War,"Ethiopian Empire
+wars",https://en.wikipedia.org/wiki/Hungarian_campaign_of_1527%E2%80%931528,https://en.wikipedia.org/wiki/Hungarian_campaign_of_1527%E2%80%931528,14435.0,Europe
+65,1529,1543,Ethiopian–Adal War,"Ethiopian Empire
 Portuguese Empire","Adal Sultanate
-Ottoman Empire",,https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Adal_War,,82734.0
-1529,1529,Westrogothian rebellion,Sweden,Swedish Catholics,,https://en.wikipedia.org/wiki/Westrogothian_rebellion,,2367.0
-1529,1529,First War of Kappel,"Protestants:
+Ottoman Empire",,https://en.wikipedia.org/wiki/Ethiopian%E2%80%93Adal_War,,82734.0,Africa
+66,1529,1529,Westrogothian rebellion,Sweden,Swedish Catholics,,https://en.wikipedia.org/wiki/Westrogothian_rebellion,,2367.0,Undefined
+67,1529,1529,First War of Kappel,"Protestants:
 Zürich","Catholics:
 Uri
 Schwyz
-Zug",,https://en.wikipedia.org/wiki/First_War_of_Kappel,,13803.0
-1529,1529,"Suleiman I's campaign of
+Zug",,https://en.wikipedia.org/wiki/First_War_of_Kappel,,13803.0,Europe
+68,1529,1529,"Suleiman I's campaign of
 1529","Ottoman Empire
 Moldavia
 John Szapolyai's Hungarian
@@ -239,44 +239,44 @@ Kingdom of Bohemia
 Papal States
 Kingdom of Croatia
 Ferdinand's Hungarian
-kingdom",,https://en.wikipedia.org/wiki/Suleiman_I's_campaign_of_1529,https://en.wikipedia.org/wiki/Suleiman_I's_campaign_of_1529,8077.0
-1529,1529,Siege of Vienna,"Holy Roman Empire
+kingdom",,https://en.wikipedia.org/wiki/Suleiman_I's_campaign_of_1529,https://en.wikipedia.org/wiki/Suleiman_I's_campaign_of_1529,8077.0,Undefined
+69,1529,1529,Siege of Vienna,"Holy Roman Empire
 Kingdom of Bohemia
 Electorate of the
 Palatinate
 Spain","Ottoman Empire
-Moldavia",,https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529),,239801.0
-1529,1532,Inca Civil War,"Inca Empire under
+Moldavia",,https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529),,239801.0,Undefined
+70,1529,1532,Inca Civil War,"Inca Empire under
 Atahualpa","Inca Empire under Huáscar
-Tumebamba",,https://en.wikipedia.org/wiki/Inca_Civil_War,,58947.0
-1530,1552,"Little War in Hungary
+Tumebamba",,https://en.wikipedia.org/wiki/Inca_Civil_War,,58947.0,South America
+71,1530,1552,"Little War in Hungary
 ","Archduchy of Austria
 Holy Roman Empire
 Spain","Ottoman Empire
 Moldavia
 John Szapolyai's Hungarian","Ottoman–Habsburg
-wars",https://en.wikipedia.org/wiki/Little_War_in_Hungary,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars,14800.0
-,,,"Papal States
+wars",https://en.wikipedia.org/wiki/Little_War_in_Hungary,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars,14800.0,Undefined
+72,,,,"Papal States
 Kingdom of Bohemia
 Kingdom of Croatia
 Ferdinand's Hungarian
 kingdom[2]","kingdom
 Wallachia
 Serbian Despotate
-France[3][4][5]",,,,
-1531,1531,Second War of Kappel,"Catholics:
+France[3][4][5]",,,,,Undefined
+73,1531,1531,Second War of Kappel,"Catholics:
 Uri
 Schwyz
 Zug","Protestants:
-Zürich",,https://en.wikipedia.org/wiki/Second_War_of_Kappel,,24562.0
-1532,1572,"Spanish conquest of the Inca
+Zürich",,https://en.wikipedia.org/wiki/Second_War_of_Kappel,,24562.0,Europe
+74,1532,1572,"Spanish conquest of the Inca
 Empire",Spanish Empire,"Inca Empire
-Neo-Inca State",,https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire,https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire,327212.0
-1532,1555,"Ottoman–Safavid War (1532–
+Neo-Inca State",,https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire,https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire,327212.0,South America
+75,1532,1555,"Ottoman–Safavid War (1532–
 1555)
 ",Ottoman Empire,Safavid Empire,"Ottoman–Persian
-wars",https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1532%E2%80%931555),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1532%E2%80%931555),60022.0
-1533,1929,"Yaqui Wars
+wars",https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1532%E2%80%931555),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1532%E2%80%931555),60022.0,Asia
+76,1533,1929,"Yaqui Wars
 ","Crown of Castile (1533–
 1716)
 Spain (1716–1821)
@@ -289,11 +289,11 @@ Mayo
 Opata
 Pima","Mexican Indian
 Wars and the American Indian
-Wars",https://en.wikipedia.org/wiki/Yaqui_Wars,https://en.wikipedia.org/wiki/Mexican_Indian_Wars,56727.0
-1533,1677,Lê–Mạc War,Revival Lê dynasty,Mạc dynasty,,https://en.wikipedia.org/wiki/L%C3%AA%E2%80%93M%E1%BA%A1c_War,,9275.0
-1534,1534,Silken Thomas rebellion,Kingdom of England,Irish rebels,,https://en.wikipedia.org/wiki/Silken_Thomas_rebellion,,957.0
-1534,1535,Münster rebellion,Prince-Bishopric of Münster,Anabaptists,,https://en.wikipedia.org/wiki/M%C3%BCnster_rebellion,,202076.0
-1534,1536,Count's Feud,"Christian III
+Wars",https://en.wikipedia.org/wiki/Yaqui_Wars,https://en.wikipedia.org/wiki/Mexican_Indian_Wars,56727.0,North America
+77,1533,1677,Lê–Mạc War,Revival Lê dynasty,Mạc dynasty,,https://en.wikipedia.org/wiki/L%C3%AA%E2%80%93M%E1%BA%A1c_War,,9275.0,Asia
+78,1534,1534,Silken Thomas rebellion,Kingdom of England,Irish rebels,,https://en.wikipedia.org/wiki/Silken_Thomas_rebellion,,957.0,Undefined
+79,1534,1535,Münster rebellion,Prince-Bishopric of Münster,Anabaptists,,https://en.wikipedia.org/wiki/M%C3%BCnster_rebellion,,202076.0,Undefined
+80,1534,1536,Count's Feud,"Christian III
 Duchy of Schleswig
 Holstein
 Sweden
@@ -304,26 +304,26 @@ Free City of Lübeck
 Scania
 Malmö
 Copenhagen
-Zealand",,https://en.wikipedia.org/wiki/Count's_Feud,,29332.0
-1534,1537,"Fifth Muscovite–Lithuanian
+Zealand",,https://en.wikipedia.org/wiki/Count's_Feud,,29332.0,Europe
+81,1534,1537,"Fifth Muscovite–Lithuanian
 War
 ","Grand Duchy of
 Lithuania
 Kingdom of Poland
 Crimean Tatars","Grand Principality of
 Moscow","Muscovite–
-Lithuanian Wars",https://en.wikipedia.org/wiki/Fifth_Muscovite%E2%80%93Lithuanian_War,https://en.wikipedia.org/wiki/Fifth_Muscovite%E2%80%93Lithuanian_War,724.0
-1534,1541,Toungoo–Hanthawaddy War,Toungoo dynasty,Hanthawaddy kingdom,,https://en.wikipedia.org/wiki/Toungoo%E2%80%93Hanthawaddy_War,,7422.0
-1534,1536,Iguape War,Captaincies of Brazil,"Spanish colonists
-Guaraní",,https://en.wikipedia.org/wiki/Iguape_War,,7721.0
-1536,1537,Pilgrimage of Grace,Kingdom of England,English Roman Catholics,,https://en.wikipedia.org/wiki/Pilgrimage_of_Grace,,185197.0
-1536,1536,Möre uprising,Sweden,Möre Peasantry,,https://en.wikipedia.org/wiki/M%C3%B6re_uprising_(1536),,855.0
-1536,1538,Italian War of 1536–1538,"France
+Lithuanian Wars",https://en.wikipedia.org/wiki/Fifth_Muscovite%E2%80%93Lithuanian_War,https://en.wikipedia.org/wiki/Fifth_Muscovite%E2%80%93Lithuanian_War,724.0,Undefined
+82,1534,1541,Toungoo–Hanthawaddy War,Toungoo dynasty,Hanthawaddy kingdom,,https://en.wikipedia.org/wiki/Toungoo%E2%80%93Hanthawaddy_War,,7422.0,Asia
+83,1534,1536,Iguape War,Captaincies of Brazil,"Spanish colonists
+Guaraní",,https://en.wikipedia.org/wiki/Iguape_War,,7721.0,South America
+84,1536,1537,Pilgrimage of Grace,Kingdom of England,English Roman Catholics,,https://en.wikipedia.org/wiki/Pilgrimage_of_Grace,,185197.0,Europe
+85,1536,1536,Möre uprising,Sweden,Möre Peasantry,,https://en.wikipedia.org/wiki/M%C3%B6re_uprising_(1536),,855.0,Undefined
+86,1536,1538,Italian War of 1536–1538,"France
 Ottoman Empire","Holy Roman Empire
-Spain",,https://en.wikipedia.org/wiki/Italian_War_of_1536%E2%80%931538,,32352.0
-1537,1537,Bigod's rebellion,Kingdom of England,English Roman Catholics,,https://en.wikipedia.org/wiki/Bigod's_rebellion,,26167.0
-,,,,,,,,
-1537,1540,"Ottoman–Venetian War
+Spain",,https://en.wikipedia.org/wiki/Italian_War_of_1536%E2%80%931538,,32352.0,Undefined
+87,1537,1537,Bigod's rebellion,Kingdom of England,English Roman Catholics,,https://en.wikipedia.org/wiki/Bigod's_rebellion,,26167.0,Undefined
+88,,,,,,,,,,Undefined
+89,1537,1540,"Ottoman–Venetian War
 (1537–1540)","Ottoman Empire
 France (until 1538)
 Regency of Algiers","Holy League:
@@ -333,31 +333,31 @@ Kingdom of Naples
 Kingdom of Sicily
 Republic of Genoa
 Papal States
-Knights of Malta",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1537%E2%80%931540),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1537%E2%80%931540),33374.0
-1537,1548,,"Governorate of New
+Knights of Malta",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1537%E2%80%931540),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1537%E2%80%931540),33374.0,Africa
+90,1537,1548,,"Governorate of New
 Castile
 Viceroyalty of Peru","Governorate of New
-Toledo",,,,
-1538,1538,"Yemeni Expedition of 1538
+Toledo",,,,,Undefined
+91,1538,1538,"Yemeni Expedition of 1538
 ",Ottoman Empire,Zaidis,"Yemeni–
-Ottoman conflicts",https://en.wikipedia.org/wiki/Yemeni_Expedition_of_1538,https://en.wikipedia.org/wiki/Yemeni%E2%80%93Ottoman_conflicts,689.0
-1538,1545,Toungoo–Ava War,Toungoo dynasty,"Ava Kingdom
+Ottoman conflicts",https://en.wikipedia.org/wiki/Yemeni_Expedition_of_1538,https://en.wikipedia.org/wiki/Yemeni%E2%80%93Ottoman_conflicts,689.0,Undefined
+92,1538,1545,Toungoo–Ava War,Toungoo dynasty,"Ava Kingdom
 Confederation of Shan
 States
 Mrauk-U Kingdom
-Prome Kingdom",,https://en.wikipedia.org/wiki/Toungoo%E2%80%93Ava_War,,5863.0
-1538,1560,"Ottoman–Portuguese conflicts
+Prome Kingdom",,https://en.wikipedia.org/wiki/Toungoo%E2%80%93Ava_War,,5863.0,Asia
+93,1538,1560,"Ottoman–Portuguese conflicts
 (1538–1559)","Portuguese Empire
 Ethiopian Empire","Ottoman Empire
 Adal Sultanate
 Ajuran Sultanate
-Gujarat Sultanate",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1538%E2%80%931559),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1538%E2%80%931559),6278.0
-1539,1540,Revolt of Ghent (1539–1540),Holy Roman Empire,Ghent,,https://en.wikipedia.org/wiki/Revolt_of_Ghent_(1539%E2%80%931540),,9146.0
-1540,1540,,Denmark–Norway,Norwegian peasants,,,,
-1540,1542,Mixtón War,Spanish Empire,Caxcans,,https://en.wikipedia.org/wiki/Mixt%C3%B3n_War,,32019.0
-1540,1567,Jiajing wokou raids,Ming dynasty,Wokou,,https://en.wikipedia.org/wiki/Jiajing_wokou_raids,,40011.0
-1542,1543,Dacke War,Sweden,Småland peasants,,https://en.wikipedia.org/wiki/Dacke_War,,18891.0
-1542,1546,"Italian War of 1542–1546
+Gujarat Sultanate",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1538%E2%80%931559),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1538%E2%80%931559),6278.0,Undefined
+94,1539,1540,Revolt of Ghent (1539–1540),Holy Roman Empire,Ghent,,https://en.wikipedia.org/wiki/Revolt_of_Ghent_(1539%E2%80%931540),,9146.0,Undefined
+95,1540,1540,,Denmark–Norway,Norwegian peasants,,,,,Undefined
+96,1540,1542,Mixtón War,Spanish Empire,Caxcans,,https://en.wikipedia.org/wiki/Mixt%C3%B3n_War,,32019.0,North America
+97,1540,1567,Jiajing wokou raids,Ming dynasty,Wokou,,https://en.wikipedia.org/wiki/Jiajing_wokou_raids,,40011.0,Asia
+98,1542,1543,Dacke War,Sweden,Småland peasants,,https://en.wikipedia.org/wiki/Dacke_War,,18891.0,Europe
+99,1542,1546,"Italian War of 1542–1546
 ","France
 Ottoman Empire
 Jülich-Cleves-Berg","Empire of Charles V:
@@ -366,17 +366,17 @@ Holy Roman Empire
 Kingdom of
 England
 Saxony
-Brandenburg",Italian Wars,https://en.wikipedia.org/wiki/Italian_War_of_1542%E2%80%931546,https://en.wikipedia.org/wiki/Italian_Wars,55425.0
-1542,1551,"Rough Wooing
+Brandenburg",Italian Wars,https://en.wikipedia.org/wiki/Italian_War_of_1542%E2%80%931546,https://en.wikipedia.org/wiki/Italian_Wars,55425.0,Europe
+100,1542,1551,"Rough Wooing
 ","Kingdom of Scotland
 Kingdom of France",Kingdom of England,"Anglo-Scottish
-Wars",https://en.wikipedia.org/wiki/Rough_Wooing,https://en.wikipedia.org/wiki/Anglo-Scottish_Wars,173551.0
-1543,1568,Koch–Ahom conflicts,Kamata Kingdom,Ahom kingdom,,https://en.wikipedia.org/wiki/Koch%E2%80%93Ahom_conflicts,,7676.0
-1545,1547,Toungoo–Mrauk-U War,Kingdom of Mrauk U,Toungoo dynasty,,https://en.wikipedia.org/wiki/Toungoo%E2%80%93Mrauk-U_War,,4785.0
-1546,1547,Schmalkaldic War,"Empire of Charles V:
+Wars",https://en.wikipedia.org/wiki/Rough_Wooing,https://en.wikipedia.org/wiki/Anglo-Scottish_Wars,173551.0,Europe
+101,1543,1568,Koch–Ahom conflicts,Kamata Kingdom,Ahom kingdom,,https://en.wikipedia.org/wiki/Koch%E2%80%93Ahom_conflicts,,7676.0,Undefined
+102,1545,1547,Toungoo–Mrauk-U War,Kingdom of Mrauk U,Toungoo dynasty,,https://en.wikipedia.org/wiki/Toungoo%E2%80%93Mrauk-U_War,,4785.0,Undefined
+103,1546,1547,Schmalkaldic War,"Empire of Charles V:
 Spain
-Holy Roman Empire",Schmalkaldic League:,,https://en.wikipedia.org/wiki/Schmalkaldic_War,,75823.0
-,,,"Duchy of Saxony
+Holy Roman Empire",Schmalkaldic League:,,https://en.wikipedia.org/wiki/Schmalkaldic_War,,75823.0,Europe
+104,,,,"Duchy of Saxony
 Kingdom of Hungary
 Kingdom of Bohemia
 and other Lands of the
@@ -389,29 +389,29 @@ Bremen
 Free City of Lübeck
 Brunswick-Lüneburg
 Other German
-territories",,,,
-1547,1549,"Burmese–Siamese War
-(1547–1549)",Ayutthaya Kingdom,Toungoo dynasty,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1547%E2%80%931549),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1547%E2%80%931549),21075.0
-1548,1549,Revolt of the Pitauds,France,Tax Resisters,,https://en.wikipedia.org/wiki/Revolt_of_the_Pitauds,,5800.0
-1549,1549,Prayer Book Rebellion,Kingdom of England,Catholic rebels,,https://en.wikipedia.org/wiki/Prayer_Book_Rebellion,,74765.0
-1549,1549,"Buckinghamshire and
-Oxfordshire rising of 1549",Kingdom of England,English rebels,,https://en.wikipedia.org/wiki/Buckinghamshire_and_Oxfordshire_rising_of_1549,https://en.wikipedia.org/wiki/Buckinghamshire_and_Oxfordshire_rising_of_1549,4118.0
-1549,1549,Kett's Rebellion,Kingdom of England,English peasants,,https://en.wikipedia.org/wiki/Kett's_Rebellion,,90012.0
-1550,1590,Chichimeca War,Chichimeca,Spanish Empire,,https://en.wikipedia.org/wiki/Chichimeca_War,,58008.0
-1551,1556,Temryuk War,"Kabardia
+territories",,,,,Undefined
+105,1547,1549,"Burmese–Siamese War
+(1547–1549)",Ayutthaya Kingdom,Toungoo dynasty,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1547%E2%80%931549),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1547%E2%80%931549),21075.0,Asia
+106,1548,1549,Revolt of the Pitauds,France,Tax Resisters,,https://en.wikipedia.org/wiki/Revolt_of_the_Pitauds,,5800.0,Undefined
+107,1549,1549,Prayer Book Rebellion,Kingdom of England,Catholic rebels,,https://en.wikipedia.org/wiki/Prayer_Book_Rebellion,,74765.0,Europe
+108,1549,1549,"Buckinghamshire and
+Oxfordshire rising of 1549",Kingdom of England,English rebels,,https://en.wikipedia.org/wiki/Buckinghamshire_and_Oxfordshire_rising_of_1549,https://en.wikipedia.org/wiki/Buckinghamshire_and_Oxfordshire_rising_of_1549,4118.0,Undefined
+109,1549,1549,Kett's Rebellion,Kingdom of England,English peasants,,https://en.wikipedia.org/wiki/Kett's_Rebellion,,90012.0,Europe
+110,1550,1590,Chichimeca War,Chichimeca,Spanish Empire,,https://en.wikipedia.org/wiki/Chichimeca_War,,58008.0,North America
+111,1551,1556,Temryuk War,"Kabardia
 Bzhedug
-Principality of Hatuqay",Crimean Khanate,,https://en.wikipedia.org/wiki/Temryuk_War,,5054.0
-1551,1553,"Lappvesi Peasant Revolt
+Principality of Hatuqay",Crimean Khanate,,https://en.wikipedia.org/wiki/Temryuk_War,,5054.0,Undefined
+112,1551,1553,"Lappvesi Peasant Revolt
 (1551–1553)",Sweden,"Finnish Peasants
-Karelians",,https://en.wikipedia.org/wiki/Lappvesi_Peasant_Revolt_(1551%E2%80%931553),https://en.wikipedia.org/wiki/Lappvesi_Peasant_Revolt_(1551%E2%80%931553),1237.0
-1551,1559,Italian War of 1551–1559,"Spanish Empire
+Karelians",,https://en.wikipedia.org/wiki/Lappvesi_Peasant_Revolt_(1551%E2%80%931553),https://en.wikipedia.org/wiki/Lappvesi_Peasant_Revolt_(1551%E2%80%931553),1237.0,Undefined
+113,1551,1559,Italian War of 1551–1559,"Spanish Empire
 Holy Roman Empire
 Kingdom of England
 Republic of Florence
 Duchy of Savoy","Kingdom of France
 Republic of Siena
-Ottoman Empire",,https://en.wikipedia.org/wiki/Italian_War_of_1551%E2%80%931559,,83818.0
-1552,1555,Second Margrave War,"Margravate of Brandenburg-
+Ottoman Empire",,https://en.wikipedia.org/wiki/Italian_War_of_1551%E2%80%931559,,83818.0,Africa
+114,1552,1555,Second Margrave War,"Margravate of Brandenburg-
 Kulmbach","Imperial City of Nuremberg
 Prince-Bishopric of Bamberg
 Imperial City Schweinfurt
@@ -423,35 +423,35 @@ Electorate of Saxony
 Duchy of Brunswick-
 Lüneburg
 Kingdom of Bohemia
-Margravate of Meissen",,https://en.wikipedia.org/wiki/Second_Margrave_War,,7556.0
-1552,1552,Tuggurt Expedition,"Regency of Algiers
-Kingdom of Beni Abbas",Sultanate of Tuggurt,,https://en.wikipedia.org/wiki/Tuggurt_Expedition_(1552),,4069.0
-1552,1552,Siege of Kazan,"Tsardom of Russia
+Margravate of Meissen",,https://en.wikipedia.org/wiki/Second_Margrave_War,,7556.0,Europe
+115,1552,1552,Tuggurt Expedition,"Regency of Algiers
+Kingdom of Beni Abbas",Sultanate of Tuggurt,,https://en.wikipedia.org/wiki/Tuggurt_Expedition_(1552),,4069.0,Undefined
+116,1552,1552,Siege of Kazan,"Tsardom of Russia
 Qasim Khanate
 Taw yağı","Kazan Khanate
 Cheremis and Ar warriors
-Nogay cavalry",,https://en.wikipedia.org/wiki/Siege_of_Kazan,,70637.0
-1552,1556,Kazan rebellion of 1552–1556,"Tsardom of Russia
+Nogay cavalry",,https://en.wikipedia.org/wiki/Siege_of_Kazan,,70637.0,Undefined
+117,1552,1556,Kazan rebellion of 1552–1556,"Tsardom of Russia
 Hill Cheremisa","People of Kazan
 Chyuvasha
 Meadow Cheremisa
-Hill Cheremisa",,https://en.wikipedia.org/wiki/Kazan_rebellion_of_1552%E2%80%931556,,2503.0
-,,,,"Ar people
-Nogai Horde",,,,
-1554,1554,Wyatt's rebellion,Kingdom of England,Rebels under Thomas Wyatt,,https://en.wikipedia.org/wiki/Wyatt's_rebellion,,97528.0
-1554,1557,"Russo-Swedish War (1554–
-1557)",Tsardom of Russia,Sweden,,https://en.wikipedia.org/wiki/Russo-Swedish_War_(1554%E2%80%931557),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1554%E2%80%931557),20472.0
-1555,1558,Saukrieg,Party of Hans von Carlowitz,Party of John IX of Haugwitz,,https://en.wikipedia.org/wiki/Saukrieg,,3079.0
-1555,1567,France Antarctique,"Portuguese Empire
+Hill Cheremisa",,https://en.wikipedia.org/wiki/Kazan_rebellion_of_1552%E2%80%931556,,2503.0,Undefined
+118,,,,,"Ar people
+Nogai Horde",,,,,Undefined
+119,1554,1554,Wyatt's rebellion,Kingdom of England,Rebels under Thomas Wyatt,,https://en.wikipedia.org/wiki/Wyatt's_rebellion,,97528.0,Europe
+120,1554,1557,"Russo-Swedish War (1554–
+1557)",Tsardom of Russia,Sweden,,https://en.wikipedia.org/wiki/Russo-Swedish_War_(1554%E2%80%931557),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1554%E2%80%931557),20472.0,Undefined
+121,1555,1558,Saukrieg,Party of Hans von Carlowitz,Party of John IX of Haugwitz,,https://en.wikipedia.org/wiki/Saukrieg,,3079.0,Undefined
+122,1555,1567,France Antarctique,"Portuguese Empire
 Tamoio People","France
-Tupinambá People",,https://en.wikipedia.org/wiki/France_Antarctique,,63187.0
-1557,1589,Ottoman conquest of Habesh,Ottoman Empire,Habesh,,https://en.wikipedia.org/wiki/Ottoman_conquest_of_Habesh,,7517.0
-1558,1566,"Ottoman–Portuguese conflicts
+Tupinambá People",,https://en.wikipedia.org/wiki/France_Antarctique,,63187.0,South America
+123,1557,1589,Ottoman conquest of Habesh,Ottoman Empire,Habesh,,https://en.wikipedia.org/wiki/Ottoman_conquest_of_Habesh,,7517.0,Africa
+124,1558,1566,"Ottoman–Portuguese conflicts
 (1538–1559)",Portuguese Empire,"Ottoman Empire
 Egypt
-Barbary States",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1538%E2%80%931559),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1538%E2%80%931559),6278.0
-1558,1567,Shane O'Neill's rebellion,Kingdom of England,Irish Rebels,,https://en.wikipedia.org/wiki/Shane_O'Neill's_rebellion,,738.0
-1558,1583,Livonian War,"Livonian Confederation
+Barbary States",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1538%E2%80%931559),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1538%E2%80%931559),6278.0,Undefined
+125,1558,1567,Shane O'Neill's rebellion,Kingdom of England,Irish Rebels,,https://en.wikipedia.org/wiki/Shane_O'Neill's_rebellion,,738.0,Undefined
+126,1558,1583,Livonian War,"Livonian Confederation
 Polish–Lithuanian
 Commonwealth
 (before 1569 the Polish–
@@ -461,62 +461,62 @@ Sweden
 Zaporozhian Cossacks
 Principality of
 Transylvania (after 1577)[6]","Tsardom of Russia
-Kingdom of Livonia",,https://en.wikipedia.org/wiki/Livonian_War,,175893.0
-1559,1559,"Crimean-Circassian War
-(1569)",Kabardia,Crimean Khanate,,https://en.wikipedia.org/wiki/Crimean-Circassian_War_(1569),https://en.wikipedia.org/wiki/Crimean-Circassian_War_(1569),745.0
-1560,1621,"Portuguese conquest of the
-Jaffna kingdom",Kingdom of Portugal,Jaffna Kingdom,,https://en.wikipedia.org/wiki/Portuguese_conquest_of_the_Jaffna_kingdom,https://en.wikipedia.org/wiki/Portuguese_conquest_of_the_Jaffna_kingdom,13906.0
-1562,1598,French Wars of Religion,Politiques,"Protestants:
+Kingdom of Livonia",,https://en.wikipedia.org/wiki/Livonian_War,,175893.0,Europe
+127,1559,1559,"Crimean-Circassian War
+(1569)",Kabardia,Crimean Khanate,,https://en.wikipedia.org/wiki/Crimean-Circassian_War_(1569),https://en.wikipedia.org/wiki/Crimean-Circassian_War_(1569),745.0,Undefined
+128,1560,1621,"Portuguese conquest of the
+Jaffna kingdom",Kingdom of Portugal,Jaffna Kingdom,,https://en.wikipedia.org/wiki/Portuguese_conquest_of_the_Jaffna_kingdom,https://en.wikipedia.org/wiki/Portuguese_conquest_of_the_Jaffna_kingdom,13906.0,Asia
+129,1562,1598,French Wars of Religion,Politiques,"Protestants:
 Huguenots
 England
 Catholics:
 Catholic League
 Spain
-Duchy of Savoy",,https://en.wikipedia.org/wiki/French_Wars_of_Religion,,408910.0
-1563,1564,"Burmese–Siamese War
-(1563–1564)",Toungoo dynasty,Ayutthaya Kingdom,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1563%E2%80%931564),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1563%E2%80%931564),13643.0
-1563,1570,Northern Seven Years' War,Sweden,"Denmark–Norway
+Duchy of Savoy",,https://en.wikipedia.org/wiki/French_Wars_of_Religion,,408910.0,Europe
+130,1563,1564,"Burmese–Siamese War
+(1563–1564)",Toungoo dynasty,Ayutthaya Kingdom,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1563%E2%80%931564),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1563%E2%80%931564),13643.0,Asia
+131,1563,1570,Northern Seven Years' War,Sweden,"Denmark–Norway
 Free City of Lübeck
-Poland–Lithuania",,https://en.wikipedia.org/wiki/Northern_Seven_Years'_War,,47856.0
-1564,1565,Mariovo and Prilep rebellion,Ottoman Empire,Christian rebels,,https://en.wikipedia.org/wiki/Mariovo_and_Prilep_rebellion,,4796.0
-1564,1567,Mughal conquest of Garha,Mughal Empire,Garha Kingdom,,https://en.wikipedia.org/wiki/Mughal_conquest_of_Garha,,14820.0
-1567,1872,"Philippine revolts against
+Poland–Lithuania",,https://en.wikipedia.org/wiki/Northern_Seven_Years'_War,,47856.0,Europe
+132,1564,1565,Mariovo and Prilep rebellion,Ottoman Empire,Christian rebels,,https://en.wikipedia.org/wiki/Mariovo_and_Prilep_rebellion,,4796.0,Undefined
+133,1564,1567,Mughal conquest of Garha,Mughal Empire,Garha Kingdom,,https://en.wikipedia.org/wiki/Mughal_conquest_of_Garha,,14820.0,Asia
+134,1567,1872,"Philippine revolts against
 Spain","Spain
 Filipino Loyalists","Dagohoy rebel group
 other Filipino rebel groups
-British supporters",,https://en.wikipedia.org/wiki/Philippine_revolts_against_Spain,https://en.wikipedia.org/wiki/Philippine_revolts_against_Spain,82967.0
-,,,,,,,,
-1568,1570,"Burmese–Siamese War
+British supporters",,https://en.wikipedia.org/wiki/Philippine_revolts_against_Spain,https://en.wikipedia.org/wiki/Philippine_revolts_against_Spain,82967.0,Undefined
+135,,,,,,,,,,Undefined
+136,1568,1570,"Burmese–Siamese War
 (1568–1569)","Toungoo dynasty
 Burmese-controlled Thai
 states","Siam
-Lan Xang",,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1568%E2%80%931569),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1568%E2%80%931569),14809.0
-1568,1571,"Rebellion of the Alpujarras
-(Morisco Revolt)",Spain,Moriscos,,https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1568%E2%80%9371),https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1568%E2%80%9371),8347.0
-1568,1573,Marian civil war,King's Men,Queen's Men,,https://en.wikipedia.org/wiki/Marian_civil_war,,26844.0
-1568,1648,Eighty Years' War,"United Provinces
+Lan Xang",,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1568%E2%80%931569),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1568%E2%80%931569),14809.0,Asia
+137,1568,1571,"Rebellion of the Alpujarras
+(Morisco Revolt)",Spain,Moriscos,,https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1568%E2%80%9371),https://en.wikipedia.org/wiki/Rebellion_of_the_Alpujarras_(1568%E2%80%9371),8347.0,Undefined
+138,1568,1573,Marian civil war,King's Men,Queen's Men,,https://en.wikipedia.org/wiki/Marian_civil_war,,26844.0,Undefined
+139,1568,1648,Eighty Years' War,"United Provinces
 England
 German Protestants
 Huguenots
 France","Spanish Empire
-Holy Roman Empire",,https://en.wikipedia.org/wiki/Eighty_Years'_War,,711533.0
-1569,1573,First Desmond Rebellion,"Kingdom of England
+Holy Roman Empire",,https://en.wikipedia.org/wiki/Eighty_Years'_War,,711533.0,North America
+140,1569,1573,First Desmond Rebellion,"Kingdom of England
 Kingdom of Ireland
 allied Irish clans","FitzGeralds of Desmond
-allied Irish clans",,https://en.wikipedia.org/wiki/First_Desmond_Rebellion,,3885.0
-1569,1570,Rising of the North,"Elizabeth I of England
+allied Irish clans",,https://en.wikipedia.org/wiki/First_Desmond_Rebellion,,3885.0,Europe
+141,1569,1570,Rising of the North,"Elizabeth I of England
 English and Welsh
 Protestants
 Scottish Protestants","Partisans of Mary,
 Queen of Scots
 English and Welsh
-Catholics",,https://en.wikipedia.org/wiki/Rising_of_the_North,,65362.0
-1570,1574,"War of the League of the
+Catholics",,https://en.wikipedia.org/wiki/Rising_of_the_North,,65362.0,Europe
+142,1570,1574,"War of the League of the
 Indies",Portuguese Empire,"Sultanate of Bijapur
 Ahmadnagar Sultanate
 Zamorin of Calicut
-Aceh Sultanate",,https://en.wikipedia.org/wiki/War_of_the_League_of_the_Indies,https://en.wikipedia.org/wiki/War_of_the_League_of_the_Indies,18985.0
-1570,1573,"Ottoman–Venetian War
+Aceh Sultanate",,https://en.wikipedia.org/wiki/War_of_the_League_of_the_Indies,https://en.wikipedia.org/wiki/War_of_the_League_of_the_Indies,18985.0,Asia
+143,1570,1573,"Ottoman–Venetian War
 (1570–1573)",Ottoman Empire,"Holy League:
 Republic of Venice
 Spain
@@ -528,59 +528,59 @@ Grand Duchy of
 Tuscany
 Duchy of Urbino
 Duchy of Savoy
-Knights of Malta",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1570%E2%80%931573),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1570%E2%80%931573),92441.0
-1570,1580,Ishiyama Hongan-ji War,Oda clan,"Ikkō-ikki
+Knights of Malta",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1570%E2%80%931573),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1570%E2%80%931573),92441.0,Asia
+144,1570,1580,Ishiyama Hongan-ji War,Oda clan,"Ikkō-ikki
 Saika Ikki Ashikaga
 Yoshiaki (after 1573)
 Mōri clan
 Iga–Kōka alliance
-(1573)",,https://en.wikipedia.org/wiki/Ishiyama_Hongan-ji_War,,26907.0
-1570,1570,,Oda clan,"Rokkaku clan
-Iga–Kōka alliance",,,,
-1571,1571,Russo-Crimean War (1571),Crimean Khanate,Tsardom of Russia,,https://en.wikipedia.org/wiki/Russo-Crimean_War_(1571),,4735.0
-1572,1576,Mughal invasion of Bengal,Mughal Empire,Bengal Sultanate,,https://en.wikipedia.org/wiki/Mughal_invasion_of_Bengal,,7746.0
-1573,1573,"Croatian–Slovene Peasant
+(1573)",,https://en.wikipedia.org/wiki/Ishiyama_Hongan-ji_War,,26907.0,Asia
+145,1570,1570,,Oda clan,"Rokkaku clan
+Iga–Kōka alliance",,,,,Undefined
+146,1571,1571,Russo-Crimean War (1571),Crimean Khanate,Tsardom of Russia,,https://en.wikipedia.org/wiki/Russo-Crimean_War_(1571),,4735.0,Undefined
+147,1572,1576,Mughal invasion of Bengal,Mughal Empire,Bengal Sultanate,,https://en.wikipedia.org/wiki/Mughal_invasion_of_Bengal,,7746.0,Undefined
+148,1573,1573,"Croatian–Slovene Peasant
 Revolt",Holy Roman Empire,"Croatian peasants
-Slovene peasants",,https://en.wikipedia.org/wiki/Croatian%E2%80%93Slovene_Peasant_Revolt,https://en.wikipedia.org/wiki/Croatian%E2%80%93Slovene_Peasant_Revolt,18733.0
-,,,,,,,,
-1572,1573,Revolt of Ashikaga Yoshiaki,Oda clan,"Ashikaga Yoshiaki
+Slovene peasants",,https://en.wikipedia.org/wiki/Croatian%E2%80%93Slovene_Peasant_Revolt,https://en.wikipedia.org/wiki/Croatian%E2%80%93Slovene_Peasant_Revolt,18733.0,Europe
+149,,,,,,,,,,Undefined
+150,1572,1573,Revolt of Ashikaga Yoshiaki,Oda clan,"Ashikaga Yoshiaki
 Rokkaku clan
-Iga–Kōka alliance",,https://en.wikipedia.org/wiki/Revolt_of_Ashikaga_Yoshiaki,,12022.0
-1575,1577,Danzig rebellion,"Polish–Lithuanian
+Iga–Kōka alliance",,https://en.wikipedia.org/wiki/Revolt_of_Ashikaga_Yoshiaki,,12022.0,Undefined
+151,1575,1577,Danzig rebellion,"Polish–Lithuanian
 Commonwealth
 Principality of
-Transylvania",Danzig,,https://en.wikipedia.org/wiki/Danzig_rebellion,,13126.0
-1578,1578,Castilian War,Bruneian Empire,Spanish Empire,,https://en.wikipedia.org/wiki/Castilian_War,,65142.0
-1578,1578,"Battle of Alcácer Quibir (also
+Transylvania",Danzig,,https://en.wikipedia.org/wiki/Danzig_rebellion,,13126.0,Undefined
+152,1578,1578,Castilian War,Bruneian Empire,Spanish Empire,,https://en.wikipedia.org/wiki/Castilian_War,,65142.0,Asia
+153,1578,1578,"Battle of Alcácer Quibir (also
 known as ""Battle of Three
 Kings"" or ""The Battle of
 Alcazar"")",Marinid Sultanate,"Kingdom of Portugal
 Thomas Stukley
 Abu Abdallah
-Mohammed II Saadi",,https://en.wikipedia.org/wiki/Battle_of_Alc%C3%A1cer_Quibir,https://en.wikipedia.org/wiki/The_Battle_of_Alcazar,133490.0
-1578,1590,"Ottoman–Safavid War (1578–
+Mohammed II Saadi",,https://en.wikipedia.org/wiki/Battle_of_Alc%C3%A1cer_Quibir,https://en.wikipedia.org/wiki/The_Battle_of_Alcazar,133490.0,Africa
+154,1578,1590,"Ottoman–Safavid War (1578–
 1590)",Ottoman Empire,"Safavid Empire
-Kingdom of Kartli",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1578%E2%80%931590),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1578%E2%80%931590),50314.0
-1579,1581,Tenshō Iga War,Oda clan,Iga ikki,,https://en.wikipedia.org/wiki/Tensh%C5%8D_Iga_War,,47671.0
-1579,1583,Second Desmond Rebellion,"Kingdom of England
+Kingdom of Kartli",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1578%E2%80%931590),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1578%E2%80%931590),50314.0,Asia
+155,1579,1581,Tenshō Iga War,Oda clan,Iga ikki,,https://en.wikipedia.org/wiki/Tensh%C5%8D_Iga_War,,47671.0,Asia
+156,1579,1583,Second Desmond Rebellion,"Kingdom of England
 Kingdom of Ireland
 allied Irish clans","FitzGeralds of Desmond
 Spain
 Papal States
-allied Irish clans",,https://en.wikipedia.org/wiki/Second_Desmond_Rebellion,,29898.0
-1580,1583,"War of the Portuguese
+allied Irish clans",,https://en.wikipedia.org/wiki/Second_Desmond_Rebellion,,29898.0,Europe
+157,1580,1583,"War of the Portuguese
 Succession","Spanish Empire
 Portugal loyal to Philip","Portugal loyal to
 António, Prior of Crato
 France
 England
-United Provinces",,https://en.wikipedia.org/wiki/War_of_the_Portuguese_Succession,https://en.wikipedia.org/wiki/War_of_the_Portuguese_Succession,51594.0
-1581,1585,"Conquest of the Khanate of
-Sibir",Tsardom of Russia,Khanate of Sibir,,https://en.wikipedia.org/wiki/Conquest_of_the_Khanate_of_Sibir,https://en.wikipedia.org/wiki/Conquest_of_the_Khanate_of_Sibir,24284.0
-1582,1582,Honnō-ji Incident,"Oda forces under Akechi
+United Provinces",,https://en.wikipedia.org/wiki/War_of_the_Portuguese_Succession,https://en.wikipedia.org/wiki/War_of_the_Portuguese_Succession,51594.0,Europe
+158,1581,1585,"Conquest of the Khanate of
+Sibir",Tsardom of Russia,Khanate of Sibir,,https://en.wikipedia.org/wiki/Conquest_of_the_Khanate_of_Sibir,https://en.wikipedia.org/wiki/Conquest_of_the_Khanate_of_Sibir,24284.0,Undefined
+159,1582,1582,Honnō-ji Incident,"Oda forces under Akechi
 Mitsuhide's command","Oda Nobunaga, Oda
-Nobutada and their servants",,https://en.wikipedia.org/wiki/Honn%C5%8D-ji_Incident,,268922.0
-1583,1588,Cologne War,"Ernest of Bavaria Prince-
+Nobutada and their servants",,https://en.wikipedia.org/wiki/Honn%C5%8D-ji_Incident,,268922.0,Asia
+160,1583,1588,Cologne War,"Ernest of Bavaria Prince-
 Elector, Cologne, 1583–
 1612
 House of Wittelsbach
@@ -601,33 +601,33 @@ House of Palatinate-
 Zweibrücken
 House of Nassau
 House of Solms-
-Braunfels and others",,https://en.wikipedia.org/wiki/Cologne_War,,56239.0
-1584,1593,"Burmese–Siamese War
-(1584–1593)",Siam,Burma,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1584%E2%80%931593),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1584%E2%80%931593),17815.0
-1585,1604,"Anglo-Spanish War (1585–
+Braunfels and others",,https://en.wikipedia.org/wiki/Cologne_War,,56239.0,Europe
+161,1584,1593,"Burmese–Siamese War
+(1584–1593)",Siam,Burma,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1584%E2%80%931593),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1584%E2%80%931593),17815.0,Asia
+162,1585,1604,"Anglo-Spanish War (1585–
 1604)",Spanish Empire,"Kingdom of England
 United Provinces
 Portuguese loyal to
-Prior of Crato",,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585%E2%80%931604),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585%E2%80%931604),243526.0
-1585,1589,Mughal conquest of Kashmir,Mughal Empire,Kashmir Sultanate,,https://en.wikipedia.org/wiki/Mughal_conquest_of_Kashmir,,14651.0
-,,,,,,,,
-1586,1589,"Ottoman–Portuguese conflicts
+Prior of Crato",,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585%E2%80%931604),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585%E2%80%931604),243526.0,North America
+163,1585,1589,Mughal conquest of Kashmir,Mughal Empire,Kashmir Sultanate,,https://en.wikipedia.org/wiki/Mughal_conquest_of_Kashmir,,14651.0,Asia
+164,,,,,,,,,,Undefined
+165,1586,1589,"Ottoman–Portuguese conflicts
 (1586–1589)",Portuguese Empire,"Ottoman Empire
-Ajuran Sultanate",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1586%E2%80%931589),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1586%E2%80%931589),16583.0
-1587,1588,"War of the Polish Succession
+Ajuran Sultanate",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1586%E2%80%931589),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Portuguese_conflicts_(1586%E2%80%931589),16583.0,Africa
+166,1587,1588,"War of the Polish Succession
 (1587–88)","Faction of Sigismund III
-Vasa",Faction of Maximilian III,,https://en.wikipedia.org/wiki/War_of_the_Polish_Succession_(1587%E2%80%9388),https://en.wikipedia.org/wiki/War_of_the_Polish_Succession_(1587%E2%80%9388),3833.0
-1589,1589,Beylerbeyi event,Ottoman Empire,Janissaries,,https://en.wikipedia.org/wiki/Beylerbeyi_event,,7806.0
-1590,1595,"Russo-Swedish War (1590–
-1595)",Tsardom of Russia,Sweden,,https://en.wikipedia.org/wiki/Russo-Swedish_War_(1590%E2%80%931595),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1590%E2%80%931595),16038.0
-1591,1591,"Portuguese invasion of Jaffna
-kingdom (1591)",Portuguese Empire,Jaffna Kingdom,,https://en.wikipedia.org/wiki/Portuguese_invasion_of_Jaffna_kingdom_(1591),https://en.wikipedia.org/wiki/Portuguese_invasion_of_Jaffna_kingdom_(1591),2265.0
-1591,1593,Kosiński uprising,"Polish–Lithuanian
-Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Kosi%C5%84ski_uprising,,10040.0
-1591,1594,Rappenkrieg (Basel),Prince-Bishopric of Basel,Swiss peasants,,https://en.wikipedia.org/wiki/Rappenkrieg_(Basel),,4445.0
-1591,1594,"Siamese–Cambodian War
-(1591–1594)",Kingdom of Ayutthaya,Kingdom of Cambodia,,https://en.wikipedia.org/wiki/Siamese%E2%80%93Cambodian_War_(1591%E2%80%931594),https://en.wikipedia.org/wiki/Siamese%E2%80%93Cambodian_War_(1591%E2%80%931594),28662.0
-1591,1606,Long Turkish War,"Archduchy of Austria
+Vasa",Faction of Maximilian III,,https://en.wikipedia.org/wiki/War_of_the_Polish_Succession_(1587%E2%80%9388),https://en.wikipedia.org/wiki/War_of_the_Polish_Succession_(1587%E2%80%9388),3833.0,Europe
+167,1589,1589,Beylerbeyi event,Ottoman Empire,Janissaries,,https://en.wikipedia.org/wiki/Beylerbeyi_event,,7806.0,Asia
+168,1590,1595,"Russo-Swedish War (1590–
+1595)",Tsardom of Russia,Sweden,,https://en.wikipedia.org/wiki/Russo-Swedish_War_(1590%E2%80%931595),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1590%E2%80%931595),16038.0,Undefined
+169,1591,1591,"Portuguese invasion of Jaffna
+kingdom (1591)",Portuguese Empire,Jaffna Kingdom,,https://en.wikipedia.org/wiki/Portuguese_invasion_of_Jaffna_kingdom_(1591),https://en.wikipedia.org/wiki/Portuguese_invasion_of_Jaffna_kingdom_(1591),2265.0,Undefined
+170,1591,1593,Kosiński uprising,"Polish–Lithuanian
+Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Kosi%C5%84ski_uprising,,10040.0,Undefined
+171,1591,1594,Rappenkrieg (Basel),Prince-Bishopric of Basel,Swiss peasants,,https://en.wikipedia.org/wiki/Rappenkrieg_(Basel),,4445.0,Undefined
+172,1591,1594,"Siamese–Cambodian War
+(1591–1594)",Kingdom of Ayutthaya,Kingdom of Cambodia,,https://en.wikipedia.org/wiki/Siamese%E2%80%93Cambodian_War_(1591%E2%80%931594),https://en.wikipedia.org/wiki/Siamese%E2%80%93Cambodian_War_(1591%E2%80%931594),28662.0,Asia
+173,1591,1606,Long Turkish War,"Archduchy of Austria
 Holy Roman Empire
 Habsburg Kingdom of
 Hungary[7]
@@ -651,52 +651,52 @@ Duchy of Ferrara
 Duchy of Mantua
 Duchy of Savoy","Ottoman Empire
 Crimean Khanate
-Nogai Khanate",,https://en.wikipedia.org/wiki/Long_Turkish_War,,150444.0
-1592,1598,Japanese invasions of Korea,"Ming dynasty
-Joseon dynasty",Toyotomi Japan,,https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_(1592%E2%80%931598),,148256.0
-1592,1604,Strasbourg Bishops' War,"Duchy of Württemberg
+Nogai Khanate",,https://en.wikipedia.org/wiki/Long_Turkish_War,,150444.0,Europe
+174,1592,1598,Japanese invasions of Korea,"Ming dynasty
+Joseon dynasty",Toyotomi Japan,,https://en.wikipedia.org/wiki/Japanese_invasions_of_Korea_(1592%E2%80%931598),,148256.0,Undefined
+175,1592,1604,Strasbourg Bishops' War,"Duchy of Württemberg
 House of Ascania
-Margraviate of Brandenburg",House of Lorraine,,https://en.wikipedia.org/wiki/Strasbourg_Bishops'_War,,7802.0
-1593,1597,Cambodian–Spanish War,Cambodia,Spanish Empire,,https://en.wikipedia.org/wiki/Cambodian%E2%80%93Spanish_War,,40027.0
-1593,1617,Moldavian Magnate Wars,,,,https://en.wikipedia.org/wiki/Moldavian_Magnate_Wars,,29338.0
-1594,1596,Nalyvaiko Uprising,"Polish–Lithuanian
-Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Nalyvaiko_Uprising,,11709.0
-1594,1605,"Burmese–Siamese War
-(1593–1600)",Ayutthaya Kingdom,Toungoo dynasty,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1593%E2%80%931600),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1593%E2%80%931600),11457.0
-1594,1603,Nine Years' War (Ireland),"Kingdom of England
+Margraviate of Brandenburg",House of Lorraine,,https://en.wikipedia.org/wiki/Strasbourg_Bishops'_War,,7802.0,Undefined
+176,1593,1597,Cambodian–Spanish War,Cambodia,Spanish Empire,,https://en.wikipedia.org/wiki/Cambodian%E2%80%93Spanish_War,,40027.0,Asia
+177,1593,1617,Moldavian Magnate Wars,,,,https://en.wikipedia.org/wiki/Moldavian_Magnate_Wars,,29338.0,Europe
+178,1594,1596,Nalyvaiko Uprising,"Polish–Lithuanian
+Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Nalyvaiko_Uprising,,11709.0,Undefined
+179,1594,1605,"Burmese–Siamese War
+(1593–1600)",Ayutthaya Kingdom,Toungoo dynasty,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1593%E2%80%931600),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1593%E2%80%931600),11457.0,Asia
+180,1594,1603,Nine Years' War (Ireland),"Kingdom of England
 and its government in
 Ireland","Alliance of Irish clans
 Supported by:
 Spain
-Scottish Gaelic mercenaries",,https://en.wikipedia.org/wiki/Nine_Years'_War_(Ireland),,187688.0
-,,,,,,,,
-1596,1596,Himara Revolt,Ottoman Empire,Himariote rebels,,https://en.wikipedia.org/wiki/Himara_Revolt,,2717.0
-1598,1663,Dutch–Portuguese War,Portugal,"Dutch Republic
+Scottish Gaelic mercenaries",,https://en.wikipedia.org/wiki/Nine_Years'_War_(Ireland),,187688.0,Europe
+181,,,,,,,,,,Undefined
+182,1596,1596,Himara Revolt,Ottoman Empire,Himariote rebels,,https://en.wikipedia.org/wiki/Himara_Revolt,,2717.0,Undefined
+183,1598,1663,Dutch–Portuguese War,Portugal,"Dutch Republic
 Dutch West India
 Company
 Dutch East India
-Company",,https://en.wikipedia.org/wiki/Dutch%E2%80%93Portuguese_War,,152928.0
-Start,Finish,Name of conflict,Belligerents,,,,,
-,,,"Victorious party (if
+Company",,https://en.wikipedia.org/wiki/Dutch%E2%80%93Portuguese_War,,152928.0,Africa
+184,Start,Finish,Name of conflict,Belligerents,,,,,,Undefined
+185,,,,"Victorious party (if
 applicable)","Defeated party (if
-applicable)",,,,
-1600,1600,Battle of Sekigahara,"Eastern Army: forces
+applicable)",,,,,Undefined
+186,1600,1600,Battle of Sekigahara,"Eastern Army: forces
 loyal to Tokugawa Ieyasu","Western Army: forces loyal
-to Ishida Mitsunari",,https://en.wikipedia.org/wiki/Battle_of_Sekigahara,,672562.0
-1600,1601,Thessaly rebellion (1600),Ottoman Empire,Greek peasants,,https://en.wikipedia.org/wiki/Thessaly_rebellion_(1600),,5033.0
-1600,1601,"Franco-Savoyard War
-(1600–1601)",Kingdom of France,Duchy of Savoy,,https://en.wikipedia.org/wiki/Franco-Savoyard_War_(1600%E2%80%931601),https://en.wikipedia.org/wiki/Franco-Savoyard_War_(1600%E2%80%931601),9091.0
-1600,1866,Navajo Wars,"Crown of Castile
+to Ishida Mitsunari",,https://en.wikipedia.org/wiki/Battle_of_Sekigahara,,672562.0,Asia
+187,1600,1601,Thessaly rebellion (1600),Ottoman Empire,Greek peasants,,https://en.wikipedia.org/wiki/Thessaly_rebellion_(1600),,5033.0,Undefined
+188,1600,1601,"Franco-Savoyard War
+(1600–1601)",Kingdom of France,Duchy of Savoy,,https://en.wikipedia.org/wiki/Franco-Savoyard_War_(1600%E2%80%931601),https://en.wikipedia.org/wiki/Franco-Savoyard_War_(1600%E2%80%931601),9091.0,Undefined
+189,1600,1866,Navajo Wars,"Crown of Castile
 Spain
 Mexico
-United States",Navajo,,https://en.wikipedia.org/wiki/Navajo_Wars,,39037.0
-1600,1611,"Polish–Swedish War (1600–
+United States",Navajo,,https://en.wikipedia.org/wiki/Navajo_Wars,,39037.0,North America
+190,1600,1611,"Polish–Swedish War (1600–
 1611)","Polish–Lithuanian
-Commonwealth",Sweden,,https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1600%E2%80%931611),https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1600%E2%80%931611),39924.0
-1601,1607,Acaxee Rebellion,Spain,"Acaxee
+Commonwealth",Sweden,,https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1600%E2%80%931611),https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1600%E2%80%931611),39924.0,Undefined
+191,1601,1607,Acaxee Rebellion,Spain,"Acaxee
 Tepehuanos
-Xiximes",,https://en.wikipedia.org/wiki/Acaxee_Rebellion,,13250.0
-1602,1663,Dutch–Portuguese War,"Kingdom of Portugal
+Xiximes",,https://en.wikipedia.org/wiki/Acaxee_Rebellion,,13250.0,North America
+192,1602,1663,Dutch–Portuguese War,"Kingdom of Portugal
 Supported by:
 Crown of Castile
 (until 1640)
@@ -710,10 +710,10 @@ Kingdom of Kandy
 Kingdom of Kongo
 Kingdom of Ndongo-Matamba
 Rio Grande Tupis
-Nhandui Tarairiu Tribe",,https://en.wikipedia.org/wiki/Dutch%E2%80%93Portuguese_War,,152928.0
-1603,1618,"Ottoman–Safavid War
-(1603–1618)",Safavid Empire,Ottoman Empire,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1603%E2%80%931618),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1603%E2%80%931618),13150.0
-1604,1606,Bocskai uprising,"Holy Roman Empire
+Nhandui Tarairiu Tribe",,https://en.wikipedia.org/wiki/Dutch%E2%80%93Portuguese_War,,152928.0,Africa
+193,1603,1618,"Ottoman–Safavid War
+(1603–1618)",Safavid Empire,Ottoman Empire,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1603%E2%80%931618),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1603%E2%80%931618),13150.0,Undefined
+194,1604,1606,Bocskai uprising,"Holy Roman Empire
 Crown of Bohemia
 Austria
 Royalists
@@ -729,17 +729,17 @@ supporters and minorities
 Transylvania
 Moldavia
 Ottoman Empire
-Crimean Khanate",,https://en.wikipedia.org/wiki/Bocskai_uprising,,20319.0
-1606,1607,Bolotnikov rebellion,Tsardom of Russia,Russian peasants,,https://en.wikipedia.org/wiki/Bolotnikov_rebellion,,1517.0
-1606,1608,Zebrzydowski rebellion,"Polish–Lithuanian
-Commonwealth",Polish Nobility,,https://en.wikipedia.org/wiki/Zebrzydowski_rebellion,,9597.0
-1609,1621,"Dutch conquest of the Banda
+Crimean Khanate",,https://en.wikipedia.org/wiki/Bocskai_uprising,,20319.0,Europe
+195,1606,1607,Bolotnikov rebellion,Tsardom of Russia,Russian peasants,,https://en.wikipedia.org/wiki/Bolotnikov_rebellion,,1517.0,Undefined
+196,1606,1608,Zebrzydowski rebellion,"Polish–Lithuanian
+Commonwealth",Polish Nobility,,https://en.wikipedia.org/wiki/Zebrzydowski_rebellion,,9597.0,Undefined
+197,1609,1621,"Dutch conquest of the Banda
 Islands","Dutch East India
 Company","Bandanese fighters
-Supported by:[8]",,https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands,https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands,75081.0
-,,,"Supported by:
-Japanese mercenaries",East India Company,,,,
-1609,1614,War of the Jülich Succession,"Supporting Wolfgang
+Supported by:[8]",,https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands,https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands,75081.0,Asia
+198,,,,"Supported by:
+Japanese mercenaries",East India Company,,,,,Undefined
+199,1609,1614,War of the Jülich Succession,"Supporting Wolfgang
 William:
 Spain
 Palatinate-Neuburg
@@ -754,11 +754,11 @@ Protestant Union","Supporting Emperor
 Rudolph:
 Holy Roman Empire
 Principality of Strasbourg
-Prince-Bishopric of Liège",,https://en.wikipedia.org/wiki/War_of_the_J%C3%BClich_Succession,,66482.0
-1609,1618,"Polish–Russian War (1609–
+Prince-Bishopric of Liège",,https://en.wikipedia.org/wiki/War_of_the_J%C3%BClich_Succession,,66482.0,Undefined
+200,1609,1618,"Polish–Russian War (1609–
 1618)","Polish–Lithuanian
-Commonwealth",Tsardom of Russia,,https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_(1609%E2%80%931618),https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_(1609%E2%80%931618),92930.0
-1609,1701,Beaver Wars,"Iroquois
+Commonwealth",Tsardom of Russia,,https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_(1609%E2%80%931618),https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_(1609%E2%80%931618),92930.0,Undefined
+201,1609,1701,Beaver Wars,"Iroquois
 England
 Supported by:
 Dutch Republic","Algonquian
@@ -773,44 +773,44 @@ Wenro
 Mahican
 Innu
 Abenaki
-France",,https://en.wikipedia.org/wiki/Beaver_Wars,,284416.0
-1609,1609,Invasion of Ryukyu,Satsuma Domain,Ryūkyū Kingdom,,https://en.wikipedia.org/wiki/Invasion_of_Ryukyu,,53331.0
-1610,1614,First Anglo-Powhatan War,Kingdom of England,Powhatan Confederacy,,https://en.wikipedia.org/wiki/First_Anglo-Powhatan_War,,6230.0
-1610,1617,Ingrian War,Sweden,Tsardom of Russia,,https://en.wikipedia.org/wiki/Ingrian_War,,42850.0
-1611,1611,Epirus revolt of 1611,Ottoman Empire,Greek peasants,,https://en.wikipedia.org/wiki/Epirus_revolt_of_1611,,9084.0
-1611,1611,Conquest of Bakla,Mughal Empire,"Chandradwip Kingdom
-Portuguese and Dutch allies",,https://en.wikipedia.org/wiki/Conquest_of_Bakla,,6243.0
-1612,1613,Kalmar War,Denmark–Norway,Sweden,,https://en.wikipedia.org/wiki/Kalmar_War,,34478.0
-1612,1614,Rappenkrieg,Holy Roman Empire,Peasants,,https://en.wikipedia.org/wiki/Rappenkrieg,,2737.0
-,,,,,,,,
-1612,1615,Equinoctial France War,"Kingdom of Portugal
-Brazilian colonists",France,,https://en.wikipedia.org/wiki/Equinoctial_France,,28160.0
-1613,1614,"Burmese–Siamese War
-(1609–1622)",Toungoo dynasty,Ayutthaya Kingdom,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1609%E2%80%931622),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1609%E2%80%931622),4320.0
-1614,1615,Siege of Osaka,Tokugawa shogunate,Toyotomi clan,,https://en.wikipedia.org/wiki/Siege_of_Osaka,,183323.0
-1614,1625,"Mataram conquest of
-Surabaya",Mataram Sultanate,Duchy of Surabaya,,https://en.wikipedia.org/wiki/Mataram_conquest_of_Surabaya,https://en.wikipedia.org/wiki/Mataram_conquest_of_Surabaya,8149.0
-1615,1618,Uskok War,"Republic of Venice
+France",,https://en.wikipedia.org/wiki/Beaver_Wars,,284416.0,North America
+202,1609,1609,Invasion of Ryukyu,Satsuma Domain,Ryūkyū Kingdom,,https://en.wikipedia.org/wiki/Invasion_of_Ryukyu,,53331.0,Asia
+203,1610,1614,First Anglo-Powhatan War,Kingdom of England,Powhatan Confederacy,,https://en.wikipedia.org/wiki/First_Anglo-Powhatan_War,,6230.0,North America
+204,1610,1617,Ingrian War,Sweden,Tsardom of Russia,,https://en.wikipedia.org/wiki/Ingrian_War,,42850.0,Europe
+205,1611,1611,Epirus revolt of 1611,Ottoman Empire,Greek peasants,,https://en.wikipedia.org/wiki/Epirus_revolt_of_1611,,9084.0,Undefined
+206,1611,1611,Conquest of Bakla,Mughal Empire,"Chandradwip Kingdom
+Portuguese and Dutch allies",,https://en.wikipedia.org/wiki/Conquest_of_Bakla,,6243.0,Undefined
+207,1612,1613,Kalmar War,Denmark–Norway,Sweden,,https://en.wikipedia.org/wiki/Kalmar_War,,34478.0,Europe
+208,1612,1614,Rappenkrieg,Holy Roman Empire,Peasants,,https://en.wikipedia.org/wiki/Rappenkrieg,,2737.0,Undefined
+209,,,,,,,,,,Undefined
+210,1612,1615,Equinoctial France War,"Kingdom of Portugal
+Brazilian colonists",France,,https://en.wikipedia.org/wiki/Equinoctial_France,,28160.0,Undefined
+211,1613,1614,"Burmese–Siamese War
+(1609–1622)",Toungoo dynasty,Ayutthaya Kingdom,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1609%E2%80%931622),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1609%E2%80%931622),4320.0,Asia
+212,1614,1615,Siege of Osaka,Tokugawa shogunate,Toyotomi clan,,https://en.wikipedia.org/wiki/Siege_of_Osaka,,183323.0,Undefined
+213,1614,1625,"Mataram conquest of
+Surabaya",Mataram Sultanate,Duchy of Surabaya,,https://en.wikipedia.org/wiki/Mataram_conquest_of_Surabaya,https://en.wikipedia.org/wiki/Mataram_conquest_of_Surabaya,8149.0,Asia
+214,1615,1618,Uskok War,"Republic of Venice
 Dutch Republic
 Kingdom of England","Holy Roman Empire
 Kingdom of Croatia
-Habsburg Spain",,https://en.wikipedia.org/wiki/Uskok_War,,25942.0
-1615,1682,Ahom–Mughal conflicts,Kingdom of Ahom,Mughal Empire,,https://en.wikipedia.org/wiki/Ahom%E2%80%93Mughal_conflicts,,19673.0
-1616,1620,Tepehuán Revolt,Spanish Empire,"Tepehuánes
+Habsburg Spain",,https://en.wikipedia.org/wiki/Uskok_War,,25942.0,Europe
+215,1615,1682,Ahom–Mughal conflicts,Kingdom of Ahom,Mughal Empire,,https://en.wikipedia.org/wiki/Ahom%E2%80%93Mughal_conflicts,,19673.0,Asia
+216,1616,1620,Tepehuán Revolt,Spanish Empire,"Tepehuánes
 Irritillas
 Acaxee
 Xiximes
-Humes",,https://en.wikipedia.org/wiki/Tepehu%C3%A1n_Revolt,,15717.0
-1617,1618,"Polish–Swedish War (1617–
+Humes",,https://en.wikipedia.org/wiki/Tepehu%C3%A1n_Revolt,,15717.0,North America
+217,1617,1618,"Polish–Swedish War (1617–
 1618)",Sweden,"Polish–Lithuanian
-Commonwealth",,https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1617%E2%80%931618),https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1617%E2%80%931618),15069.0
-1618,1697,"Spanish conquest of Petén
+Commonwealth",,https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1617%E2%80%931618),https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1617%E2%80%931618),15069.0,Undefined
+218,1618,1697,"Spanish conquest of Petén
 ",Spanish Empire,Independent Maya,"Spanish conquest
 of Guatemala and the
-Spanish conquest of Yucatán",https://en.wikipedia.org/wiki/Spanish_conquest_of_Pet%C3%A9n,,32016.0
-1618,1639,Bündner Wirren,"France
-Republic of Venice",Holy Roman Empire,,https://en.wikipedia.org/wiki/B%C3%BCndner_Wirren,,9905.0
-1618,1648,Thirty Years' War,"Protestant States and
+Spanish conquest of Yucatán",https://en.wikipedia.org/wiki/Spanish_conquest_of_Pet%C3%A9n,,32016.0,Undefined
+219,1618,1639,Bündner Wirren,"France
+Republic of Venice",Holy Roman Empire,,https://en.wikipedia.org/wiki/B%C3%BCndner_Wirren,,9905.0,Europe
+220,1618,1648,Thirty Years' War,"Protestant States and
 Allies
 Denmark-Norway
 (1625–1629)
@@ -846,9 +846,9 @@ Croatia[13]
 Spain and its
 possessions
 Denmark-Norway
-(1643–1645)[14]",,https://en.wikipedia.org/wiki/Thirty_Years'_War,,2121415.0
-,,,,,,,,
-1618,1683,Qing conquest of the Ming,"Later Jin (until 1636)
+(1643–1645)[14]",,https://en.wikipedia.org/wiki/Thirty_Years'_War,,2121415.0,Europe
+221,,,,,,,,,,Undefined
+222,1618,1683,Qing conquest of the Ming,"Later Jin (until 1636)
 Qing dynasty (from 1636)","Ming dynasty (until 1644)
 Southern Ming (1644–1662)
 Kingdom of
@@ -856,114 +856,114 @@ Tungning(from 1661)
 Shun dynasty (1644–
 1645)
 Daxi dynasty (1644–
-1646)",,https://en.wikipedia.org/wiki/Qing_conquest_of_the_Ming,,21167.0
-1619,1682,Ahom–Mughal conflicts,Ahom kingdom,Mughal Empire,,https://en.wikipedia.org/wiki/Ahom%E2%80%93Mughal_conflicts,,19673.0
-1620,1621,"Polish–Ottoman War (1620–
-1621)",Poland-Lithuania,Ottoman Empire,,https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1620%E2%80%931621),https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1620%E2%80%931621),30504.0
-1621,1621,"Dutch conquest of the Banda
+1646)",,https://en.wikipedia.org/wiki/Qing_conquest_of_the_Ming,,21167.0,Undefined
+223,1619,1682,Ahom–Mughal conflicts,Ahom kingdom,Mughal Empire,,https://en.wikipedia.org/wiki/Ahom%E2%80%93Mughal_conflicts,,19673.0,Asia
+224,1620,1621,"Polish–Ottoman War (1620–
+1621)",Poland-Lithuania,Ottoman Empire,,https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1620%E2%80%931621),https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1620%E2%80%931621),30504.0,Europe
+225,1621,1621,"Dutch conquest of the Banda
 Islands","Dutch East India
-Company",Banda natives,,https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands,https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands,75081.0
-1621,1625,"Polish–Swedish War (1621–
+Company",Banda natives,,https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands,https://en.wikipedia.org/wiki/Dutch_conquest_of_the_Banda_Islands,75081.0,Asia
+226,1621,1625,"Polish–Swedish War (1621–
 1625)",Sweden,"Polish–Lithuanian
-Commonwealth",,https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1621%E2%80%931625),https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1621%E2%80%931625),19271.0
-1621,1635,Mughal–Sikh War (1621–35),Sikh militia,Mughal Empire,,,,
-1622,1623,"Mughal–Safavid War (1622–
-1623)",Safavid Empire,Mughal Empire,,https://en.wikipedia.org/wiki/Mughal%E2%80%93Safavid_War_(1622%E2%80%931623),https://en.wikipedia.org/wiki/Mughal%E2%80%93Safavid_War_(1622%E2%80%931623),2641.0
-1622,1625,"War of the Vicuñas and
-Basques",Basques,Vicuñas,,https://en.wikipedia.org/wiki/War_of_the_Vicu%C3%B1as_and_Basques,https://en.wikipedia.org/wiki/War_of_the_Vicu%C3%B1as_and_Basques,5687.0
-1622,1632,"Second Anglo-Powhatan
-War",England,Powhatan Confederacy,,https://en.wikipedia.org/wiki/Second_Anglo-Powhatan_War,https://en.wikipedia.org/wiki/Second_Anglo-Powhatan_War,2814.0
-1623,1639,"Ottoman–Safavid War
-(1623–1639)",Ottoman Empire,Safavid Empire,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1623%E2%80%931639),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1623%E2%80%931639),97138.0
-1625,1630,"Anglo-Spanish War (1625–
+Commonwealth",,https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1621%E2%80%931625),https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1621%E2%80%931625),19271.0,Undefined
+227,1621,1635,Mughal–Sikh War (1621–35),Sikh militia,Mughal Empire,,,,,Undefined
+228,1622,1623,"Mughal–Safavid War (1622–
+1623)",Safavid Empire,Mughal Empire,,https://en.wikipedia.org/wiki/Mughal%E2%80%93Safavid_War_(1622%E2%80%931623),https://en.wikipedia.org/wiki/Mughal%E2%80%93Safavid_War_(1622%E2%80%931623),2641.0,Undefined
+229,1622,1625,"War of the Vicuñas and
+Basques",Basques,Vicuñas,,https://en.wikipedia.org/wiki/War_of_the_Vicu%C3%B1as_and_Basques,https://en.wikipedia.org/wiki/War_of_the_Vicu%C3%B1as_and_Basques,5687.0,Undefined
+230,1622,1632,"Second Anglo-Powhatan
+War",England,Powhatan Confederacy,,https://en.wikipedia.org/wiki/Second_Anglo-Powhatan_War,https://en.wikipedia.org/wiki/Second_Anglo-Powhatan_War,2814.0,North America
+231,1623,1639,"Ottoman–Safavid War
+(1623–1639)",Ottoman Empire,Safavid Empire,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1623%E2%80%931639),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Safavid_War_(1623%E2%80%931639),97138.0,Asia
+232,1625,1630,"Anglo-Spanish War (1625–
 1630)",Spain,"England
 Support:
-Dutch Republic",,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1625%E2%80%931630),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1625%E2%80%931630),35022.0
-1625,1625,Zhmaylo uprising,"Polish–Lithuanian
-Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Zhmaylo_uprising,,7748.0
-1625,1625,Relief of Genoa,"Spain
+Dutch Republic",,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1625%E2%80%931630),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1625%E2%80%931630),35022.0,Undefined
+233,1625,1625,Zhmaylo uprising,"Polish–Lithuanian
+Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Zhmaylo_uprising,,7748.0,Undefined
+234,1625,1625,Relief of Genoa,"Spain
 Republic of Genoa","Kingdom of France
 Duchy of Savoy
-Dutch Republic",,https://en.wikipedia.org/wiki/Relief_of_Genoa,,14602.0
-1626,1629,"Polish–Swedish War (1626–
+Dutch Republic",,https://en.wikipedia.org/wiki/Relief_of_Genoa,,14602.0,Europe
+235,1626,1629,"Polish–Swedish War (1626–
 1629)",Sweden,"Polish–Lithuanian
 Commonwealth
-Holy Roman Empire",,https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1626%E2%80%931629),https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1626%E2%80%931629),38507.0
-1626,1626,"Peasants' War in Upper
+Holy Roman Empire",,https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1626%E2%80%931629),https://en.wikipedia.org/wiki/Polish%E2%80%93Swedish_War_(1626%E2%80%931629),38507.0,Undefined
+236,1626,1626,"Peasants' War in Upper
 Austria","Electorate of Bavaria
-Upper Austria",Peasant rebels,,https://en.wikipedia.org/wiki/Peasants'_War_in_Upper_Austria,https://en.wikipedia.org/wiki/Peasants'_War_in_Upper_Austria,4391.0
-1627,1627,Later Jin invasion of Joseon,Joseon dynasty,Later Jin,,https://en.wikipedia.org/wiki/Later_Jin_invasion_of_Joseon,,38798.0
-1627,1672,Trịnh–Nguyễn War,"Trịnh lords
+Upper Austria",Peasant rebels,,https://en.wikipedia.org/wiki/Peasants'_War_in_Upper_Austria,https://en.wikipedia.org/wiki/Peasants'_War_in_Upper_Austria,4391.0,Undefined
+237,1627,1627,Later Jin invasion of Joseon,Joseon dynasty,Later Jin,,https://en.wikipedia.org/wiki/Later_Jin_invasion_of_Joseon,,38798.0,Undefined
+238,1627,1672,Trịnh–Nguyễn War,"Trịnh lords
 Lê dynasty
 Dutch East India
-Company",Nguyễn lords,,https://en.wikipedia.org/wiki/Tr%E1%BB%8Bnh%E2%80%93Nguy%E1%BB%85n_War,,31666.0
-1628,1631,"War of the Mantuan
+Company",Nguyễn lords,,https://en.wikipedia.org/wiki/Tr%E1%BB%8Bnh%E2%80%93Nguy%E1%BB%85n_War,,31666.0,Asia
+239,1628,1631,"War of the Mantuan
 Succession","Supporting the Duke of
 Nevers:","Supporting the Duke of
-Guastalla:",,https://en.wikipedia.org/wiki/War_of_the_Mantuan_Succession,https://en.wikipedia.org/wiki/War_of_the_Mantuan_Succession,69515.0
-,,,France,"Holy Roman Empire
+Guastalla:",,https://en.wikipedia.org/wiki/War_of_the_Mantuan_Succession,https://en.wikipedia.org/wiki/War_of_the_Mantuan_Succession,69515.0,Europe
+240,,,,France,"Holy Roman Empire
 Spain
-Duchy of Savoy",Thirty Years' War,,,
-1630,1630,Fedorovych uprising,"Polish–Lithuanian
-Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Fedorovych_uprising,,7488.0
-"c.
+Duchy of Savoy",Thirty Years' War,,,,Undefined
+241,1630,1630,Fedorovych uprising,"Polish–Lithuanian
+Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Fedorovych_uprising,,7488.0,Undefined
+242,"c.
 1630","c.
 1630","Yemeni Expedition of the
 1630s
 ",Ottoman Empire,Zaidis,"Yemeni–
-Ottoman Conflicts",https://en.wikipedia.org/wiki/Yemeni_Expedition_of_the_1630s,https://en.wikipedia.org/wiki/Yemeni_Expedition_of_the_1630s,508.0
-1632,1634,Smolensk War,"Polish–Lithuanian
-Commonwealth",Tsardom of Russia,,https://en.wikipedia.org/wiki/Smolensk_War,,45589.0
-1633,1634,"Polish–Ottoman War (1633–
+Ottoman Conflicts",https://en.wikipedia.org/wiki/Yemeni_Expedition_of_the_1630s,https://en.wikipedia.org/wiki/Yemeni_Expedition_of_the_1630s,508.0,Undefined
+243,1632,1634,Smolensk War,"Polish–Lithuanian
+Commonwealth",Tsardom of Russia,,https://en.wikipedia.org/wiki/Smolensk_War,,45589.0,Europe
+244,1633,1634,"Polish–Ottoman War (1633–
 1634)","Polish–Lithuanian
-Commonwealth",Ottoman Empire,,https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1633%E2%80%931634),https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1633%E2%80%931634),12884.0
-1634,1741,Kazakh-Dzungar Wars,"Kazakh Khanate
+Commonwealth",Ottoman Empire,,https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1633%E2%80%931634),https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1633%E2%80%931634),12884.0,Undefined
+245,1634,1741,Kazakh-Dzungar Wars,"Kazakh Khanate
 (Inconclusive)","Dzungar Khanate
-(Inconclusive)",,https://en.wikipedia.org/wiki/Kazakh-Dzungar_Wars,,10451.0
-1634,1638,Pequot War,"Massachusetts Bay
+(Inconclusive)",,https://en.wikipedia.org/wiki/Kazakh-Dzungar_Wars,,10451.0,Undefined
+246,1634,1638,Pequot War,"Massachusetts Bay
 Colony
 Plymouth Colony
 Saybrook Colony
 Narragansett people
-Mohegan people",Pequot,,https://en.wikipedia.org/wiki/Pequot_War,,137779.0
-1635,1635,Sulyma uprising,"Polish–Lithuanian
-Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Sulyma_uprising,,5301.0
-1635,1654,Acadian Civil War,Port Royal Administration,"St. John Administration
+Mohegan people",Pequot,,https://en.wikipedia.org/wiki/Pequot_War,,137779.0,North America
+247,1635,1635,Sulyma uprising,"Polish–Lithuanian
+Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Sulyma_uprising,,5301.0,Undefined
+248,1635,1654,Acadian Civil War,Port Royal Administration,"St. John Administration
 Massachusetts Bay
-Colony",,https://en.wikipedia.org/wiki/Acadian_Civil_War,,24781.0
-1635,1659,"Franco-Spanish War (1635–
+Colony",,https://en.wikipedia.org/wiki/Acadian_Civil_War,,24781.0,Undefined
+249,1635,1659,"Franco-Spanish War (1635–
 1659)","France
 Commonwealth of
 England (from 1657)","Spain
 Royalists of the British
-Isles (from 1657) [15]",,https://en.wikipedia.org/wiki/Franco-Spanish_War_(1635%E2%80%931659),https://en.wikipedia.org/wiki/Franco-Spanish_War_(1635%E2%80%931659),158789.0
-1636,1637,Qing invasion of Joseon,Qing dynasty,Joseon dynasty,,https://en.wikipedia.org/wiki/Qing_invasion_of_Joseon,,131699.0
-1637,1637,Pavlyuk uprising,"Polish–Lithuanian
-Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Pavlyuk_uprising,,4314.0
-1637,1638,Shimabara Rebellion,"Tokugawa shogunate
+Isles (from 1657) [15]",,https://en.wikipedia.org/wiki/Franco-Spanish_War_(1635%E2%80%931659),https://en.wikipedia.org/wiki/Franco-Spanish_War_(1635%E2%80%931659),158789.0,Europe
+250,1636,1637,Qing invasion of Joseon,Qing dynasty,Joseon dynasty,,https://en.wikipedia.org/wiki/Qing_invasion_of_Joseon,,131699.0,Undefined
+251,1637,1637,Pavlyuk uprising,"Polish–Lithuanian
+Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Pavlyuk_uprising,,4314.0,Undefined
+252,1637,1638,Shimabara Rebellion,"Tokugawa shogunate
 Dutch Empire","Roman Catholics and rōnin
-rebels",,https://en.wikipedia.org/wiki/Shimabara_Rebellion,,224245.0
-1638,1638,Ostryanyn uprising,"Polish–Lithuanian
-Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Ostryanyn_uprising,,7395.0
-1639,1639,Revolt of the va-nu-pieds,France,Tax Resisters,,https://en.wikipedia.org/wiki/Revolt_of_the_va-nu-pieds,,6925.0
-1639,1639,"First Bishops' War
+rebels",,https://en.wikipedia.org/wiki/Shimabara_Rebellion,,224245.0,Asia
+253,1638,1638,Ostryanyn uprising,"Polish–Lithuanian
+Commonwealth",Cossacks,,https://en.wikipedia.org/wiki/Ostryanyn_uprising,,7395.0,Undefined
+254,1639,1639,Revolt of the va-nu-pieds,France,Tax Resisters,,https://en.wikipedia.org/wiki/Revolt_of_the_va-nu-pieds,,6925.0,Undefined
+255,1639,1639,"First Bishops' War
 ",Scottish Covenanters,"Scottish Royalists
 England","Wars of the Three
-Kingdoms",https://en.wikipedia.org/wiki/First_Bishops'_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,15109.0
-1639,1659,Mataram–Blambangan wars,Mataram Sultanate,"Blambangan Kingdom
-Kingdom of Gelgel",,https://en.wikipedia.org/wiki/Mataram%E2%80%93Blambangan_wars,,2142.0
-1640,1640,"Second Bishops' War
+Kingdoms",https://en.wikipedia.org/wiki/First_Bishops'_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,15109.0,Undefined
+256,1639,1659,Mataram–Blambangan wars,Mataram Sultanate,"Blambangan Kingdom
+Kingdom of Gelgel",,https://en.wikipedia.org/wiki/Mataram%E2%80%93Blambangan_wars,,2142.0,Undefined
+257,1640,1640,"Second Bishops' War
 ",Scottish Covenanters,"Scottish Royalists
 England","Wars of the Three
-Kingdoms",https://en.wikipedia.org/wiki/Second_Bishops'_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,3926.0
-,,,,,,,,
-1640,1659,Reapers' War,Spain,"Catalan Republic
-France",,https://en.wikipedia.org/wiki/Reapers'_War,,59991.0
-1640,1668,Portuguese Restoration War,"Kingdom of Portugal
+Kingdoms",https://en.wikipedia.org/wiki/Second_Bishops'_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,3926.0,Undefined
+258,,,,,,,,,,Undefined
+259,1640,1659,Reapers' War,Spain,"Catalan Republic
+France",,https://en.wikipedia.org/wiki/Reapers'_War,,59991.0,Undefined
+260,1640,1668,Portuguese Restoration War,"Kingdom of Portugal
 Supported by:
 Kingdom of England
-(after 1661)",Spain,,https://en.wikipedia.org/wiki/Portuguese_Restoration_War,,184647.0
-1641,1653,"Irish Confederate Wars
+(after 1661)",Spain,,https://en.wikipedia.org/wiki/Portuguese_Restoration_War,,184647.0,Europe
+261,1641,1653,"Irish Confederate Wars
 ",Parliamentarians,"Irish Catholic
 Confederation
 (allied with Royalists 1648–1650)
@@ -971,95 +971,95 @@ English and Scottish
 Royalists
 (allied with Irish Confederates
 1648–1650)","Wars of the Three
-Kingdoms",https://en.wikipedia.org/wiki/Irish_Confederate_Wars,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,135069.0
-1641,1644,First War of Castro,"Barberini Pope Urban VIII
+Kingdoms",https://en.wikipedia.org/wiki/Irish_Confederate_Wars,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,135069.0,Europe
+262,1641,1644,First War of Castro,"Barberini Pope Urban VIII
 and Pamphili
 Pope Innocent X their papal
-armies and relatives.",The Farnese Dukes of Parma,,https://en.wikipedia.org/wiki/First_War_of_Castro,,766.0
-1642,1646,"First English Civil War
+armies and relatives.",The Farnese Dukes of Parma,,https://en.wikipedia.org/wiki/First_War_of_Castro,,766.0,Undefined
+263,1642,1646,"First English Civil War
 ","Parliaments of
 England and Scotland","English and Scottish
 Royalists","Wars of the Three
-Kingdoms",https://en.wikipedia.org/wiki/First_English_Civil_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,262401.0
-1642,1698,Dano-Mughal War,Danish India,Mughal Empire,,https://en.wikipedia.org/wiki/Dano-Mughal_War,,11200.0
-1643,1644,Cambodian–Dutch War,Cambodia,"Dutch East India
-Company",,https://en.wikipedia.org/wiki/Cambodian%E2%80%93Dutch_War,,21947.0
-1643,1645,"Torstenson War
+Kingdoms",https://en.wikipedia.org/wiki/First_English_Civil_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,262401.0,Europe
+264,1642,1698,Dano-Mughal War,Danish India,Mughal Empire,,https://en.wikipedia.org/wiki/Dano-Mughal_War,,11200.0,Asia
+265,1643,1644,Cambodian–Dutch War,Cambodia,"Dutch East India
+Company",,https://en.wikipedia.org/wiki/Cambodian%E2%80%93Dutch_War,,21947.0,Asia
+266,1643,1645,"Torstenson War
 ","Sweden
 Dutch Republic","Denmark-Norway
-Holy Roman Empire",Thirty Years' War,https://en.wikipedia.org/wiki/Torstenson_War,https://en.wikipedia.org/wiki/Thirty_Years'_War,62833.0
-1643,1645,Kieft's War,Lenape,New Netherland,,https://en.wikipedia.org/wiki/Kieft's_War,,52435.0
-1644,1646,Third Anglo-Powhatan War,England,Powhatan Confederacy,,https://en.wikipedia.org/wiki/Anglo-Powhatan_Wars#Third_Anglo-Powhatan_War,,103361.0
-1644,1674,Char Bouba war,Maqil Arab tribes,Sanhadja Berber tribes,,https://en.wikipedia.org/wiki/Char_Bouba_war,,19229.0
-1644,1651,"Scotland in the Wars of the
+Holy Roman Empire",Thirty Years' War,https://en.wikipedia.org/wiki/Torstenson_War,https://en.wikipedia.org/wiki/Thirty_Years'_War,62833.0,Undefined
+267,1643,1645,Kieft's War,Lenape,New Netherland,,https://en.wikipedia.org/wiki/Kieft's_War,,52435.0,North America
+268,1644,1646,Third Anglo-Powhatan War,England,Powhatan Confederacy,,https://en.wikipedia.org/wiki/Anglo-Powhatan_Wars#Third_Anglo-Powhatan_War,,103361.0,Undefined
+269,1644,1674,Char Bouba war,Maqil Arab tribes,Sanhadja Berber tribes,,https://en.wikipedia.org/wiki/Char_Bouba_war,,19229.0,Africa
+270,1644,1651,"Scotland in the Wars of the
 Three Kingdoms
 ",Scottish Covenanters,"Scottish Royalists
 Irish Catholic
 Confederate","Wars of the Three
-Kingdoms",https://en.wikipedia.org/wiki/Scotland_in_the_Wars_of_the_Three_Kingdoms,https://en.wikipedia.org/wiki/Scotland_in_the_Wars_of_the_Three_Kingdoms,42465.0
-1645,1669,Cretan War (1645–1669),"Ottoman Empire
+Kingdoms",https://en.wikipedia.org/wiki/Scotland_in_the_Wars_of_the_Three_Kingdoms,https://en.wikipedia.org/wiki/Scotland_in_the_Wars_of_the_Three_Kingdoms,42465.0,Undefined
+271,1645,1669,Cretan War (1645–1669),"Ottoman Empire
 Barbary States","Republic of Venice
 Knights of Malta
 Papal States
 France
-Maniots",,https://en.wikipedia.org/wiki/Cretan_War_(1645%E2%80%931669),,90513.0
-1646,1647,"Mughal invasion of Central
-Asia",Khanate of Bukhara,Mughal Empire,,https://en.wikipedia.org/wiki/Mughal_Central_Asia_Campaign,https://en.wikipedia.org/wiki/Mughal_Central_Asia_Campaign,3396.0
-1648,1648,Atmeydanı incident,Ottoman Empire,Sipahi Corps,,https://en.wikipedia.org/wiki/Atmeydan%C4%B1_incident,,2576.0
-1648,1648,Moscow uprising of 1648,Tsardom of Russia,Rioters,,https://en.wikipedia.org/wiki/Moscow_uprising_of_1648,,15621.0
-1648,1657,Khmelnytsky Uprising,"Zaporozhian Cossacks
+Maniots",,https://en.wikipedia.org/wiki/Cretan_War_(1645%E2%80%931669),,90513.0,Undefined
+272,1646,1647,"Mughal invasion of Central
+Asia",Khanate of Bukhara,Mughal Empire,,https://en.wikipedia.org/wiki/Mughal_Central_Asia_Campaign,https://en.wikipedia.org/wiki/Mughal_Central_Asia_Campaign,3396.0,Undefined
+273,1648,1648,Atmeydanı incident,Ottoman Empire,Sipahi Corps,,https://en.wikipedia.org/wiki/Atmeydan%C4%B1_incident,,2576.0,Asia
+274,1648,1648,Moscow uprising of 1648,Tsardom of Russia,Rioters,,https://en.wikipedia.org/wiki/Moscow_uprising_of_1648,,15621.0,Undefined
+275,1648,1657,Khmelnytsky Uprising,"Zaporozhian Cossacks
 Crimean Tatars (1649–
 1654, 1656–1657)","Polish–Lithuanian
 Commonwealth
 Crimean Tatars (1654–
-1656)",,https://en.wikipedia.org/wiki/Khmelnytsky_Uprising,,206051.0
-1648,1649,First Fronde,Kingdom of France,"Parlements (1648–1649)
+1656)",,https://en.wikipedia.org/wiki/Khmelnytsky_Uprising,,206051.0,Europe
+276,1648,1649,First Fronde,Kingdom of France,"Parlements (1648–1649)
 Princes of the Blood (1650–
-1653)",,https://en.wikipedia.org/wiki/First_Fronde,,871.0
-,,,,,,,,
-1648,1649,"Second English Civil War
+1653)",,https://en.wikipedia.org/wiki/First_Fronde,,871.0,Undefined
+277,,,,,,,,,,Undefined
+278,1648,1649,"Second English Civil War
 ",Parliamentary forces,"Royalist forces
 Scotland","Wars of the Three
-Kingdoms",https://en.wikipedia.org/wiki/Second_English_Civil_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,194150.0
-1649,1651,"Third English Civil War
+Kingdoms",https://en.wikipedia.org/wiki/Second_English_Civil_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,194150.0,Europe
+279,1649,1651,"Third English Civil War
 ",Parliamentarians,"Royalists
 Scottish Covenanters","Wars of the Three
-Kingdoms",https://en.wikipedia.org/wiki/Third_English_Civil_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,24813.0
-1649,1653,Mughal–Safavid War,Mughal Empire,Safavid Empire,,https://en.wikipedia.org/wiki/Mughal%E2%80%93Safavid_War_(1649%E2%80%931653),,12081.0
-1649,1653,"Cromwellian conquest of
+Kingdoms",https://en.wikipedia.org/wiki/Third_English_Civil_War,https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms,24813.0,Europe
+280,1649,1653,Mughal–Safavid War,Mughal Empire,Safavid Empire,,https://en.wikipedia.org/wiki/Mughal%E2%80%93Safavid_War_(1649%E2%80%931653),,12081.0,Undefined
+281,1649,1653,"Cromwellian conquest of
 Ireland
 ","English Parliamentarian
 New Model Army,
 Protestant colonists","Irish Catholic
 Confederation,
 English Royalists","Wars of the Three
-Kingdoms",https://en.wikipedia.org/wiki/Cromwellian_conquest_of_Ireland,https://en.wikipedia.org/wiki/Cromwellian_conquest_of_Ireland,386816.0
-1649,1649,Second War of Castro,"Pope Innocent X and his
+Kingdoms",https://en.wikipedia.org/wiki/Cromwellian_conquest_of_Ireland,https://en.wikipedia.org/wiki/Cromwellian_conquest_of_Ireland,386816.0,Europe
+282,1649,1649,Second War of Castro,"Pope Innocent X and his
 papal army.","Ranuccio II Farnese, Duke
-of Parma",,https://en.wikipedia.org/wiki/Second_War_of_Castro,,720.0
-1650,1653,Second Fronde,Kingdom of France,"Parlements (1648–1649)
+of Parma",,https://en.wikipedia.org/wiki/Second_War_of_Castro,,720.0,Undefined
+283,1650,1653,Second Fronde,Kingdom of France,"Parlements (1648–1649)
 Princes of the Blood (1650–
-1653)",,https://en.wikipedia.org/wiki/Second_Fronde,,650.0
-1651,1651,Düsseldorf Cow War,"Margraviate of
-Brandenburg",Palatinate-Neuburg,,https://en.wikipedia.org/wiki/D%C3%BCsseldorf_Cow_War,,5562.0
-1651,1651,Kostka-Napierski uprising,"Polish–Lithuanian
-Commonwealth",Polish peasants,,https://en.wikipedia.org/wiki/Kostka-Napierski_uprising,,5575.0
-1651,1651,Keian Uprising,Tokugawa Shogunate,Ronin,,https://en.wikipedia.org/wiki/Keian_Uprising,,11255.0
-1651,1653,"Russo-Persian War (1651–
-1653)",Safavid dynasty,Russian Empire,,https://en.wikipedia.org/wiki/Russo-Persian_War_(1651%E2%80%931653),https://en.wikipedia.org/wiki/Russo-Persian_War_(1651%E2%80%931653),29439.0
-1651,1986,"Three Hundred and Thirty
+1653)",,https://en.wikipedia.org/wiki/Second_Fronde,,650.0,Undefined
+284,1651,1651,Düsseldorf Cow War,"Margraviate of
+Brandenburg",Palatinate-Neuburg,,https://en.wikipedia.org/wiki/D%C3%BCsseldorf_Cow_War,,5562.0,Undefined
+285,1651,1651,Kostka-Napierski uprising,"Polish–Lithuanian
+Commonwealth",Polish peasants,,https://en.wikipedia.org/wiki/Kostka-Napierski_uprising,,5575.0,Undefined
+286,1651,1651,Keian Uprising,Tokugawa Shogunate,Ronin,,https://en.wikipedia.org/wiki/Keian_Uprising,,11255.0,Asia
+287,1651,1653,"Russo-Persian War (1651–
+1653)",Safavid dynasty,Russian Empire,,https://en.wikipedia.org/wiki/Russo-Persian_War_(1651%E2%80%931653),https://en.wikipedia.org/wiki/Russo-Persian_War_(1651%E2%80%931653),29439.0,Undefined
+288,1651,1986,"Three Hundred and Thirty
 Five Years' War",Isles of Scilly,"Republic of the Seven
-United Netherlands",,https://en.wikipedia.org/wiki/Three_Hundred_and_Thirty_Five_Years'_War,https://en.wikipedia.org/wiki/Three_Hundred_and_Thirty_Five_Years'_War,132055.0
-1652,1652,Guo Huaiyi rebellion,"Dutch East India
+United Netherlands",,https://en.wikipedia.org/wiki/Three_Hundred_and_Thirty_Five_Years'_War,https://en.wikipedia.org/wiki/Three_Hundred_and_Thirty_Five_Years'_War,132055.0,Europe
+289,1652,1652,Guo Huaiyi rebellion,"Dutch East India
 Company
-Aboriginal Taiwanese",Peasant rebels,,https://en.wikipedia.org/wiki/Guo_Huaiyi_rebellion,,6240.0
-1652,1654,First Anglo-Dutch War,"Commonwealth of
-England",Dutch Republic,,https://en.wikipedia.org/wiki/First_Anglo-Dutch_War,,111386.0
-1652,1689,"Russian–Manchu border
+Aboriginal Taiwanese",Peasant rebels,,https://en.wikipedia.org/wiki/Guo_Huaiyi_rebellion,,6240.0,Asia
+290,1652,1654,First Anglo-Dutch War,"Commonwealth of
+England",Dutch Republic,,https://en.wikipedia.org/wiki/First_Anglo-Dutch_War,,111386.0,Undefined
+291,1652,1689,"Russian–Manchu border
 conflicts","Qing dynasty
 Joseon dynasty","Tsardom of Russia
-Cossacks",,https://en.wikipedia.org/wiki/Russian%E2%80%93Manchu_border_conflicts,https://en.wikipedia.org/wiki/Russian%E2%80%93Manchu_border_conflicts,4418.0
-1653,1653,Swiss peasant war of 1653,"City governments' troops
+Cossacks",,https://en.wikipedia.org/wiki/Russian%E2%80%93Manchu_border_conflicts,https://en.wikipedia.org/wiki/Russian%E2%80%93Manchu_border_conflicts,4418.0,Undefined
+292,1653,1653,Swiss peasant war of 1653,"City governments' troops
 Zürich
 Thurgau
 Uri","Peasant forces from
@@ -1067,25 +1067,25 @@ Lucerne
 Bern
 Solothurn
 Basel
-Aargau",,https://en.wikipedia.org/wiki/Swiss_peasant_war_of_1653,,31576.0
-1653,1653,Morning Star rebellion,Sweden,Swedish Peasants,,https://en.wikipedia.org/wiki/Morning_Star_rebellion,,2353.0
-1654,1654,"First Swedish War on
-Bremen",Sweden,Bremen,,https://en.wikipedia.org/wiki/First_Swedish_War_on_Bremen,https://en.wikipedia.org/wiki/First_Swedish_War_on_Bremen,574.0
-1654,1667,"Russo-Polish War (1654–
+Aargau",,https://en.wikipedia.org/wiki/Swiss_peasant_war_of_1653,,31576.0,Europe
+293,1653,1653,Morning Star rebellion,Sweden,Swedish Peasants,,https://en.wikipedia.org/wiki/Morning_Star_rebellion,,2353.0,Undefined
+294,1654,1654,"First Swedish War on
+Bremen",Sweden,Bremen,,https://en.wikipedia.org/wiki/First_Swedish_War_on_Bremen,https://en.wikipedia.org/wiki/First_Swedish_War_on_Bremen,574.0,Undefined
+295,1654,1667,"Russo-Polish War (1654–
 1667)","Tsardom of Russia
 Ukrainian Cossacks","Polish–Lithuanian
 Commonwealth
-Crimean Khanate",,https://en.wikipedia.org/wiki/Russo-Polish_War_(1654%E2%80%931667),https://en.wikipedia.org/wiki/Russo-Polish_War_(1654%E2%80%931667),63222.0
-1654,1660,"Anglo-Spanish War (1654–
+Crimean Khanate",,https://en.wikipedia.org/wiki/Russo-Polish_War_(1654%E2%80%931667),https://en.wikipedia.org/wiki/Russo-Polish_War_(1654%E2%80%931667),63222.0,Undefined
+296,1654,1660,"Anglo-Spanish War (1654–
 1660)","Commonwealth of
 England
 France (1657–59)","Habsburg Spain
-Cavalier[15]",,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1654%E2%80%931660),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1654%E2%80%931660),88899.0
-,,,,,,,,
-1655,1655,Peach War,Lenape and allied tribes,New Netherland,,https://en.wikipedia.org/wiki/Peach_War,,18419.0
-1655,1656,"Varaždin rebellion (1665–
-1666)",Habsburg monarchy,Frontiersmen,,https://en.wikipedia.org/wiki/Vara%C5%BEdin_rebellion_(1665%E2%80%931666),https://en.wikipedia.org/wiki/Vara%C5%BEdin_rebellion_(1665%E2%80%931666),459.0
-1655,1660,Second Northern War,"Sweden
+Cavalier[15]",,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1654%E2%80%931660),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1654%E2%80%931660),88899.0,Europe
+297,,,,,,,,,,Undefined
+298,1655,1655,Peach War,Lenape and allied tribes,New Netherland,,https://en.wikipedia.org/wiki/Peach_War,,18419.0,Undefined
+299,1655,1656,"Varaždin rebellion (1665–
+1666)",Habsburg monarchy,Frontiersmen,,https://en.wikipedia.org/wiki/Vara%C5%BEdin_rebellion_(1665%E2%80%931666),https://en.wikipedia.org/wiki/Vara%C5%BEdin_rebellion_(1665%E2%80%931666),459.0,Undefined
+300,1655,1660,Second Northern War,"Sweden
 Brandenburg-Prussia
 (1656–57)
 Principality of
@@ -1103,50 +1103,50 @@ Tsardom of Russia
 Crimean Khanate
 Brandenburg-Prussia
 (1655–56, 1657–60)
-Dutch Republic",,https://en.wikipedia.org/wiki/Second_Northern_War,,73711.0
-1655,1690,Savoyard–Waldensian wars,Duchy of Savoy,Waldensians,,https://en.wikipedia.org/wiki/Savoyard%E2%80%93Waldensian_wars,,30015.0
-1656,1656,Çınar incident,Rebellious soldiers,Ottoman Empire,,https://en.wikipedia.org/wiki/%C3%87%C4%B1nar_incident,,12024.0
-1656,1658,"Russo-Swedish War (1656–
+Dutch Republic",,https://en.wikipedia.org/wiki/Second_Northern_War,,73711.0,Europe
+301,1655,1690,Savoyard–Waldensian wars,Duchy of Savoy,Waldensians,,https://en.wikipedia.org/wiki/Savoyard%E2%80%93Waldensian_wars,,30015.0,Undefined
+302,1656,1656,Çınar incident,Rebellious soldiers,Ottoman Empire,,https://en.wikipedia.org/wiki/%C3%87%C4%B1nar_incident,,12024.0,Asia
+303,1656,1658,"Russo-Swedish War (1656–
 1658)
 ",Sweden,Tsardom of Russia,"Second Northern
-War",https://en.wikipedia.org/wiki/Russo-Swedish_War_(1656%E2%80%931658),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1656%E2%80%931658),20502.0
-1657,1658,"Dano-Swedish War (1657–
+War",https://en.wikipedia.org/wiki/Russo-Swedish_War_(1656%E2%80%931658),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1656%E2%80%931658),20502.0,Undefined
+304,1657,1658,"Dano-Swedish War (1657–
 1658)
 ",Sweden,Denmark–Norway,"Second Northern
-War",https://en.wikipedia.org/wiki/Dano-Swedish_War_(1657%E2%80%931658),https://en.wikipedia.org/wiki/Dano-Swedish_War_(1657%E2%80%931658),21059.0
-1658,1660,"Dano-Swedish War (1658–
+War",https://en.wikipedia.org/wiki/Dano-Swedish_War_(1657%E2%80%931658),https://en.wikipedia.org/wiki/Dano-Swedish_War_(1657%E2%80%931658),21059.0,Undefined
+305,1658,1660,"Dano-Swedish War (1658–
 1660)
 ","Denmark–Norway
 Dutch Republic
 Brandenburg-Prussia
 Polish–Lithuanian
 Commonwealth",Sweden,"Second Northern
-War",https://en.wikipedia.org/wiki/Dano-Swedish_War_(1658%E2%80%931660),https://en.wikipedia.org/wiki/Dano-Swedish_War_(1658%E2%80%931660),30996.0
-1658,1667,"Druze power struggle (1658–
-1667)",Ottoman Empire,Ma'ani Druze Rebels,,https://en.wikipedia.org/wiki/Druze_power_struggle_(1658%E2%80%931667),https://en.wikipedia.org/wiki/Druze_power_struggle_(1658%E2%80%931667),11583.0
-1659,1659,Bakhtrioni uprising,Kingdom of Kakheti,Safavid Empire,,https://en.wikipedia.org/wiki/Bakhtrioni_uprising,,11823.0
-1660,1673,Brunei Civil War,"Sultan Abdul Hakkul
-Mubin's Forces",Sultan Muhyiddin's Forces,,https://en.wikipedia.org/wiki/Bruneian_Civil_War_of_1660,,23707.0
-1661,1662,Siege of Fort Zeelandia,"Koxinga's Ming
+War",https://en.wikipedia.org/wiki/Dano-Swedish_War_(1658%E2%80%931660),https://en.wikipedia.org/wiki/Dano-Swedish_War_(1658%E2%80%931660),30996.0,Undefined
+306,1658,1667,"Druze power struggle (1658–
+1667)",Ottoman Empire,Ma'ani Druze Rebels,,https://en.wikipedia.org/wiki/Druze_power_struggle_(1658%E2%80%931667),https://en.wikipedia.org/wiki/Druze_power_struggle_(1658%E2%80%931667),11583.0,Asia
+307,1659,1659,Bakhtrioni uprising,Kingdom of Kakheti,Safavid Empire,,https://en.wikipedia.org/wiki/Bakhtrioni_uprising,,11823.0,Asia
+308,1660,1673,Brunei Civil War,"Sultan Abdul Hakkul
+Mubin's Forces",Sultan Muhyiddin's Forces,,https://en.wikipedia.org/wiki/Bruneian_Civil_War_of_1660,,23707.0,Asia
+309,1661,1662,Siege of Fort Zeelandia,"Koxinga's Ming
 Loyalists","Dutch East India
-Company",,https://en.wikipedia.org/wiki/Siege_of_Fort_Zeelandia,,75637.0
-1661,1665,"Dano-Dutch colonial conflict
+Company",,https://en.wikipedia.org/wiki/Siege_of_Fort_Zeelandia,,75637.0,Asia
+310,1661,1665,"Dano-Dutch colonial conflict
 on the Gold Coast","Denmark-Norway
-England",Dutch Republic,,https://en.wikipedia.org/wiki/Dano-Dutch_colonial_conflict_on_the_Gold_Coast,https://en.wikipedia.org/wiki/Dano-Dutch_colonial_conflict_on_the_Gold_Coast,4479.0
-1662,1662,Copper Riot,Tsardom of Russia,Rioters,,https://en.wikipedia.org/wiki/Copper_Riot,,12322.0
-1662,1664,"Bashkir rebellion (1662–
-1664)",Tsardom of Russia,Bashkir rebels,,https://en.wikipedia.org/wiki/Bashkir_rebellion_(1662%E2%80%931664),https://en.wikipedia.org/wiki/Bashkir_rebellion_(1662%E2%80%931664),1175.0
-1662,1664,"Burmese–Siamese War
-(1662–1664)",Burma,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1662%E2%80%931664),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1662%E2%80%931664),6797.0
-1663,1664,"Austro-Turkish War (1663–
-1664)",Ottoman Empire,League of the Rhine,,https://en.wikipedia.org/wiki/Austro-Turkish_War_(1663%E2%80%931664),https://en.wikipedia.org/wiki/Austro-Turkish_War_(1663%E2%80%931664),40022.0
-1665,1666,Lubomirski's rebellion,"Polish–Lithuanian
-Commonwealth",Polish Nobility,,https://en.wikipedia.org/wiki/Lubomirski's_rebellion,,6291.0
-1665,1667,Second Anglo-Dutch War,"Dutch Republic
-Denmark–Norway",England,,https://en.wikipedia.org/wiki/Second_Anglo-Dutch_War,,156238.0
-,,,France,,,,,
-1665,1709,Kongo Civil War,House of Kinlaza,House of Kimpanzu,,https://en.wikipedia.org/wiki/Kongo_Civil_War,,31261.0
-1666,1666,"Second Swedish War on
+England",Dutch Republic,,https://en.wikipedia.org/wiki/Dano-Dutch_colonial_conflict_on_the_Gold_Coast,https://en.wikipedia.org/wiki/Dano-Dutch_colonial_conflict_on_the_Gold_Coast,4479.0,Africa
+311,1662,1662,Copper Riot,Tsardom of Russia,Rioters,,https://en.wikipedia.org/wiki/Copper_Riot,,12322.0,Undefined
+312,1662,1664,"Bashkir rebellion (1662–
+1664)",Tsardom of Russia,Bashkir rebels,,https://en.wikipedia.org/wiki/Bashkir_rebellion_(1662%E2%80%931664),https://en.wikipedia.org/wiki/Bashkir_rebellion_(1662%E2%80%931664),1175.0,Undefined
+313,1662,1664,"Burmese–Siamese War
+(1662–1664)",Burma,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1662%E2%80%931664),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1662%E2%80%931664),6797.0,Asia
+314,1663,1664,"Austro-Turkish War (1663–
+1664)",Ottoman Empire,League of the Rhine,,https://en.wikipedia.org/wiki/Austro-Turkish_War_(1663%E2%80%931664),https://en.wikipedia.org/wiki/Austro-Turkish_War_(1663%E2%80%931664),40022.0,Undefined
+315,1665,1666,Lubomirski's rebellion,"Polish–Lithuanian
+Commonwealth",Polish Nobility,,https://en.wikipedia.org/wiki/Lubomirski's_rebellion,,6291.0,Undefined
+316,1665,1667,Second Anglo-Dutch War,"Dutch Republic
+Denmark–Norway",England,,https://en.wikipedia.org/wiki/Second_Anglo-Dutch_War,,156238.0,North America
+317,,,,France,,,,,,Undefined
+318,1665,1709,Kongo Civil War,House of Kinlaza,House of Kimpanzu,,https://en.wikipedia.org/wiki/Kongo_Civil_War,,31261.0,Africa
+319,1666,1666,"Second Swedish War on
 Bremen",Sweden,"Bremen
 Electorate of Cologne
 Brunswick-Lüneburg
@@ -1154,28 +1154,28 @@ Brunswick-Lüneburg
 Denmark–Norway
 Electorate of
 Brandenburg
-Dutch Republic",,https://en.wikipedia.org/wiki/Second_Swedish_War_on_Bremen,https://en.wikipedia.org/wiki/Second_Swedish_War_on_Bremen,664.0
-1666,1671,"Polish–Cossack–Tatar War
+Dutch Republic",,https://en.wikipedia.org/wiki/Second_Swedish_War_on_Bremen,https://en.wikipedia.org/wiki/Second_Swedish_War_on_Bremen,664.0,Undefined
+320,1666,1671,"Polish–Cossack–Tatar War
 (1666–1671)","Polish–Lithuanian
 Commonwealth","Crimean Khanate
 Zaporozhian Cossacks
-Ottoman Empire",,https://en.wikipedia.org/wiki/Polish%E2%80%93Cossack%E2%80%93Tatar_War_(1666%E2%80%931671),https://en.wikipedia.org/wiki/Polish%E2%80%93Cossack%E2%80%93Tatar_War_(1666%E2%80%931671),24873.0
-1667,1668,War of Devolution,France,"Spanish Empire
+Ottoman Empire",,https://en.wikipedia.org/wiki/Polish%E2%80%93Cossack%E2%80%93Tatar_War_(1666%E2%80%931671),https://en.wikipedia.org/wiki/Polish%E2%80%93Cossack%E2%80%93Tatar_War_(1666%E2%80%931671),24873.0,Undefined
+321,1667,1668,War of Devolution,France,"Spanish Empire
 Triple Alliance:
 Dutch Republic
 Kingdom of England
-Sweden",,https://en.wikipedia.org/wiki/War_of_Devolution,,82950.0
-"1667
+Sweden",,https://en.wikipedia.org/wiki/War_of_Devolution,,82950.0,Europe
+322,"1667
 (or
-1670)",1671,Stepan Razin rebellion,Tsardom of Russia,Russian peasants,,https://en.wikipedia.org/wiki/Stepan_Razin_rebellion,,545.0
-1667,1675,Angelets,France,Tax Resisters,,https://en.wikipedia.org/wiki/Angelets,,5900.0
-1668,1676,"Solovetsky Monastery
-uprising",Tsardom of Russia,Old Believers,,https://en.wikipedia.org/wiki/Solovetsky_Monastery_uprising,https://en.wikipedia.org/wiki/Solovetsky_Monastery_uprising,7911.0
-1669,1672,Shakushain's revolt,Tokugawa shogunate,Ainu Rebels,,https://en.wikipedia.org/wiki/Shakushain's_revolt,,26088.0
-1672,1673,"Second Genoese–Savoyard
+1670)",1671,Stepan Razin rebellion,Tsardom of Russia,Russian peasants,,https://en.wikipedia.org/wiki/Stepan_Razin_rebellion,,545.0,Undefined
+323,1667,1675,Angelets,France,Tax Resisters,,https://en.wikipedia.org/wiki/Angelets,,5900.0,Undefined
+324,1668,1676,"Solovetsky Monastery
+uprising",Tsardom of Russia,Old Believers,,https://en.wikipedia.org/wiki/Solovetsky_Monastery_uprising,https://en.wikipedia.org/wiki/Solovetsky_Monastery_uprising,7911.0,Undefined
+325,1669,1672,Shakushain's revolt,Tokugawa shogunate,Ainu Rebels,,https://en.wikipedia.org/wiki/Shakushain's_revolt,,26088.0,Asia
+326,1672,1673,"Second Genoese–Savoyard
 War","Republic of Genoa
-Spain",Duchy of Savoy,,https://en.wikipedia.org/wiki/Second_Genoese%E2%80%93Savoyard_War,https://en.wikipedia.org/wiki/Second_Genoese%E2%80%93Savoyard_War,4360.0
-1672,1676,"Polish–Ottoman War (1672–
+Spain",Duchy of Savoy,,https://en.wikipedia.org/wiki/Second_Genoese%E2%80%93Savoyard_War,https://en.wikipedia.org/wiki/Second_Genoese%E2%80%93Savoyard_War,4360.0,Europe
+327,1672,1676,"Polish–Ottoman War (1672–
 1676)","Ottoman Empire
 Crimean Khanate
 Principality of Moldavia
@@ -1183,8 +1183,8 @@ Cossack Hetmanate
 (Doroshenko's faction)","Polish–Lithuanian
 Commonwealth
 Principality of Wallachia
-(in 1673)",,https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1672%E2%80%931676),https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1672%E2%80%931676),60026.0
-1672,1678,Franco-Dutch War,"France
+(in 1673)",,https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1672%E2%80%931676),https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1672%E2%80%931676),60026.0,Europe
+328,1672,1678,Franco-Dutch War,"France
 England
 Sweden
 Bishopric of Münster
@@ -1194,45 +1194,45 @@ Holy Roman Empire
 Spain
 Electorate of
 Brandenburg
-England",,https://en.wikipedia.org/wiki/Franco-Dutch_War,,232835.0
-1672,1674,"Third Anglo-Dutch War
+England",,https://en.wikipedia.org/wiki/Franco-Dutch_War,,232835.0,North America
+329,1672,1674,"Third Anglo-Dutch War
 ","Dutch Republic
 Denmark-Norway","England
 France","Franco-Dutch
-War",https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War,,125362.0
-1673,1681,"Revolt of the Three
+War",https://en.wikipedia.org/wiki/Third_Anglo-Dutch_War,,125362.0,North America
+330,1673,1681,"Revolt of the Three
 Feudatories",Qing dynasty,"Three Feudatories
-Kingdom of Tungning",,https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories,https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories,53794.0
-1674,1681,Trunajaya rebellion,"Mataram Sultanate
+Kingdom of Tungning",,https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories,https://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories,53794.0,Asia
+331,1674,1681,Trunajaya rebellion,"Mataram Sultanate
 Dutch East India
 Company","Rebel forces
-Makassarese itinerant fighters",,https://en.wikipedia.org/wiki/Trunajaya_rebellion,,22049.0
-1675,1675,Revolt of the papier timbré,France,Tax Resisters,,https://en.wikipedia.org/wiki/Revolt_of_the_papier_timbr%C3%A9,,10248.0
-,,,,,,,,
-1675,1679,"Scanian War
+Makassarese itinerant fighters",,https://en.wikipedia.org/wiki/Trunajaya_rebellion,,22049.0,Asia
+332,1675,1675,Revolt of the papier timbré,France,Tax Resisters,,https://en.wikipedia.org/wiki/Revolt_of_the_papier_timbr%C3%A9,,10248.0,Undefined
+333,,,,,,,,,,Undefined
+334,1675,1679,"Scanian War
 ","Sweden
 France","Denmark-Norway
 Dutch Republic
 Brandenburg
 Holy Roman Empire","Franco-Dutch
-War",https://en.wikipedia.org/wiki/Scanian_War,,102122.0
-1675,1678,King Philip's War,"New England
+War",https://en.wikipedia.org/wiki/Scanian_War,,102122.0,Europe
+335,1675,1678,King Philip's War,"New England
 Confederation
 Mohegan
 Pequots","Wampanoag
 Nipmuc
 Podunk
 Narragansett
-Nashaway",,https://en.wikipedia.org/wiki/King_Philip's_War,,448228.0
-1675,1705,Revolutions of Tunis,Husainid dynasty,Muradid dynasty,,https://en.wikipedia.org/wiki/Revolutions_of_Tunis,,8388.0
-1676,1681,"Russo-Turkish War (1676–
+Nashaway",,https://en.wikipedia.org/wiki/King_Philip's_War,,448228.0,North America
+336,1675,1705,Revolutions of Tunis,Husainid dynasty,Muradid dynasty,,https://en.wikipedia.org/wiki/Revolutions_of_Tunis,,8388.0,Africa
+337,1676,1681,"Russo-Turkish War (1676–
 1681)","Tsardom of Russia
 Cossack Hetmanate of
 Ivan Samoylovych","Ottoman Empire
 Crimean Khanate
 Cossack Hetmanate of
-Petro Doroshenko",,https://en.wikipedia.org/wiki/Russo-Turkish_War_(1676%E2%80%931681),https://en.wikipedia.org/wiki/Russo-Turkish_War_(1676%E2%80%931681),12947.0
-1678,1680,"Dzungar conquest of
+Petro Doroshenko",,https://en.wikipedia.org/wiki/Russo-Turkish_War_(1676%E2%80%931681),https://en.wikipedia.org/wiki/Russo-Turkish_War_(1676%E2%80%931681),12947.0,Undefined
+338,1678,1680,"Dzungar conquest of
 Altishahr","Dzungar Khanate
 Afāqi Naqshbandi Sufi
 Khojas
@@ -1240,18 +1240,18 @@ Turfan Khanate
 Kumul Khanate","Chagatai Khanate (Yarkent
 Khanate)
 Isḥāqi Naqshbandi Sufi
-Khojas",,https://en.wikipedia.org/wiki/Dzungar_conquest_of_Altishahr,https://en.wikipedia.org/wiki/Dzungar_conquest_of_Altishahr,12894.0
-1678,1685,Thököly Uprising,"Habsburg
+Khojas",,https://en.wikipedia.org/wiki/Dzungar_conquest_of_Altishahr,https://en.wikipedia.org/wiki/Dzungar_conquest_of_Altishahr,12894.0,Asia
+339,1678,1685,Thököly Uprising,"Habsburg
 monarchy
 Kingdom of
 Hungary","Principality of Upper
-Hungary",,https://en.wikipedia.org/wiki/Emeric_Th%C3%B6k%C3%B6ly,,29598.0
-1679,1707,Rajput War (1679–1707),Kingdom of Marwar,Mughal Empire,,https://en.wikipedia.org/wiki/Rajput_War_(1679%E2%80%931707),,16647.0
-1679,1684,Tibet–Ladakh–Mughal War,Tibet,"Ladakh
-| Mughal Empire",,https://en.wikipedia.org/wiki/Tibet%E2%80%93Ladakh%E2%80%93Mughal_War,,10210.0
-1680,1680,Pueblo Revolt,Spanish Empire,Puebloans,,https://en.wikipedia.org/wiki/Pueblo_Revolt,,156349.0
-1680,1707,Mughal–Maratha Wars,Maratha Empire,Mughal Empire,,https://en.wikipedia.org/wiki/Mughal%E2%80%93Maratha_Wars,,62318.0
-1683,1699,Great Turkish War,"Holy Roman Empire
+Hungary",,https://en.wikipedia.org/wiki/Emeric_Th%C3%B6k%C3%B6ly,,29598.0,Undefined
+340,1679,1707,Rajput War (1679–1707),Kingdom of Marwar,Mughal Empire,,https://en.wikipedia.org/wiki/Rajput_War_(1679%E2%80%931707),,16647.0,Undefined
+341,1679,1684,Tibet–Ladakh–Mughal War,Tibet,"Ladakh
+| Mughal Empire",,https://en.wikipedia.org/wiki/Tibet%E2%80%93Ladakh%E2%80%93Mughal_War,,10210.0,Undefined
+342,1680,1680,Pueblo Revolt,Spanish Empire,Puebloans,,https://en.wikipedia.org/wiki/Pueblo_Revolt,,156349.0,North America
+343,1680,1707,Mughal–Maratha Wars,Maratha Empire,Mughal Empire,,https://en.wikipedia.org/wiki/Mughal%E2%80%93Maratha_Wars,,62318.0,Undefined
+344,1683,1699,Great Turkish War,"Holy Roman Empire
 Tsardom of Russia
 Cossack Hetmanate
 Poland–Lithuania
@@ -1264,17 +1264,17 @@ Albanian rebels
 Greek rebels
 Bulgarian rebels
 Macedonian rebels","Ottoman Empire
-Crimean Khanate",,https://en.wikipedia.org/wiki/Great_Turkish_War,,416212.0
-1683,1699,"Polish–Ottoman War (1683–
+Crimean Khanate",,https://en.wikipedia.org/wiki/Great_Turkish_War,,416212.0,Undefined
+345,1683,1699,"Polish–Ottoman War (1683–
 1699)
 ","Polish–Lithuanian
 Commonwealth
 Allied Holy League forces",Ottoman Empire,"Great Turkish
-War",https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1683%E2%80%931699),https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1683%E2%80%931699),34527.0
-1683,1684,War of the Reunions,France,"Spanish Empire
+War",https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1683%E2%80%931699),https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1683%E2%80%931699),34527.0,Undefined
+346,1683,1684,War of the Reunions,France,"Spanish Empire
 Holy Roman Empire
-Republic of Genoa",,https://en.wikipedia.org/wiki/War_of_the_Reunions,,51702.0
-1684,1699,"Morean War
+Republic of Genoa",,https://en.wikipedia.org/wiki/War_of_the_Reunions,,51702.0,Europe
+347,1684,1699,"Morean War
 ","Republic of Venice
 Knights of Malta
 Duchy of Savoy
@@ -1284,40 +1284,40 @@ Stephen
 Himariotes
 Maniots
 Other Greek rebels",Ottoman Empire,"Great Turkish
-War",https://en.wikipedia.org/wiki/Morean_War,,103479.0
-1685,1685,Monmouth Rebellion,Kingdom of England,Duke of Monmouth,,https://en.wikipedia.org/wiki/Monmouth_Rebellion,,134164.0
-1686,1686,Second Tarnovo Uprising,Ottoman Empire,Bulgarian rebels,,https://en.wikipedia.org/wiki/Second_Tarnovo_Uprising,,7660.0
-1686,1690,Child's War,Mughal Empire,"English East India
-Company",,https://en.wikipedia.org/wiki/Child's_War,,8444.0
-1686,1700,"Russo-Turkish War (1686–
+War",https://en.wikipedia.org/wiki/Morean_War,,103479.0,Undefined
+348,1685,1685,Monmouth Rebellion,Kingdom of England,Duke of Monmouth,,https://en.wikipedia.org/wiki/Monmouth_Rebellion,,134164.0,Europe
+349,1686,1686,Second Tarnovo Uprising,Ottoman Empire,Bulgarian rebels,,https://en.wikipedia.org/wiki/Second_Tarnovo_Uprising,,7660.0,Undefined
+350,1686,1690,Child's War,Mughal Empire,"English East India
+Company",,https://en.wikipedia.org/wiki/Child's_War,,8444.0,Undefined
+351,1686,1700,"Russo-Turkish War (1686–
 1700)","Russia
 Habsburg Monarchy
 Polish–Lithuanian
 Commonwealth
 Cossack Hetmanate","Ottoman Empire
-Crimean Khanate",,https://en.wikipedia.org/wiki/Russo-Turkish_War_(1686%E2%80%931700),https://en.wikipedia.org/wiki/Russo-Turkish_War_(1686%E2%80%931700),39479.0
-1687,1687,Siamese–English War,Kingdom of England,Siam,,https://en.wikipedia.org/wiki/Siamese%E2%80%93English_War,,708.0
-1687,1689,Revolt of the Barretinas,Spanish Empire,Catalan Rebels,,https://en.wikipedia.org/wiki/Revolt_of_the_Barretinas,,6625.0
-1687,1689,Crimean campaigns,"Crimean Khanate
-Ottoman Empire",Tsardom of Russia,,https://en.wikipedia.org/wiki/Crimean_campaigns_of_1687_and_1689,,14096.0
-1687,1758,Dzungar–Qing Wars,Qing dynasty,Dzungar Khanate,,https://en.wikipedia.org/wiki/Dzungar%E2%80%93Qing_Wars,,71360.0
-1688,1688,Chiprovtsi uprising,Ottoman Empire,Christian rebels,,https://en.wikipedia.org/wiki/Chiprovtsi_uprising,,8434.0
-1688,1697,Nine Years' War,"Grand Alliance:
+Crimean Khanate",,https://en.wikipedia.org/wiki/Russo-Turkish_War_(1686%E2%80%931700),https://en.wikipedia.org/wiki/Russo-Turkish_War_(1686%E2%80%931700),39479.0,Undefined
+352,1687,1687,Siamese–English War,Kingdom of England,Siam,,https://en.wikipedia.org/wiki/Siamese%E2%80%93English_War,,708.0,Undefined
+353,1687,1689,Revolt of the Barretinas,Spanish Empire,Catalan Rebels,,https://en.wikipedia.org/wiki/Revolt_of_the_Barretinas,,6625.0,Undefined
+354,1687,1689,Crimean campaigns,"Crimean Khanate
+Ottoman Empire",Tsardom of Russia,,https://en.wikipedia.org/wiki/Crimean_campaigns_of_1687_and_1689,,14096.0,Undefined
+355,1687,1758,Dzungar–Qing Wars,Qing dynasty,Dzungar Khanate,,https://en.wikipedia.org/wiki/Dzungar%E2%80%93Qing_Wars,,71360.0,Asia
+356,1688,1688,Chiprovtsi uprising,Ottoman Empire,Christian rebels,,https://en.wikipedia.org/wiki/Chiprovtsi_uprising,,8434.0,Europe
+357,1688,1697,Nine Years' War,"Grand Alliance:
 Dutch Republic
 England
 Holy Roman Empire
 Spain
 Piedmont-Savoy
 Sweden (until 1691)
-Scotland",France,,https://en.wikipedia.org/wiki/Nine_Years'_War,,479398.0
-1689,1689,Karposh's rebellion,Ottoman Empire,Macedonian rebels,,https://en.wikipedia.org/wiki/Karposh's_rebellion,,13007.0
-1689,1697,"King William's War
+Scotland",France,,https://en.wikipedia.org/wiki/Nine_Years'_War,,479398.0,North America
+358,1689,1689,Karposh's rebellion,Ottoman Empire,Macedonian rebels,,https://en.wikipedia.org/wiki/Karposh's_rebellion,,13007.0,Europe
+359,1689,1697,"King William's War
 ","France
 New France
 Wabanaki Confederacy","England
 English America
-Iroquois Confederacy",Nine Years' War,https://en.wikipedia.org/wiki/King_William's_War,,135097.0
-1689,1691,"Williamite War in Ireland
+Iroquois Confederacy",Nine Years' War,https://en.wikipedia.org/wiki/King_William's_War,,135097.0,North America
+360,1689,1691,"Williamite War in Ireland
 ","Williamites:
 England
 Scotland
@@ -1325,22 +1325,22 @@ Dutch Republic
 Protestant colonists
 and mercenaries from
 various countries","Irish Jacobites
-France",Nine Years' War,https://en.wikipedia.org/wiki/Williamite_War_in_Ireland,,157125.0
-1689,1692,Scottish Jacobite rising,Scotland,Scottish Jacobite,,https://en.wikipedia.org/wiki/Jacobite_rising_of_1689,,83001.0
-1693,1693,Second Brotherhood,Spanish Empire,Agermanats,,https://en.wikipedia.org/wiki/Second_Brotherhood,,4215.0
-1694,1700,Komenda Wars,"Dutch West India
-Company",Royal African Company,,https://en.wikipedia.org/wiki/Komenda_Wars,,10742.0
-1695,1696,Azov campaigns,Tsardom of Russia,Ottoman Empire,,https://en.wikipedia.org/wiki/Azov_campaigns_(1695%E2%80%9396),,6857.0
-1698,1698,Streltsy uprising,Tsardom of Russia,Streltsy,,https://en.wikipedia.org/wiki/Streltsy_uprising,,36328.0
-1699,1699,Arena Massacre,Spanish Empire,Amerindians,,https://en.wikipedia.org/wiki/Arena_Massacre,,6283.0
-1699,1700,Darien scheme,Spanish Empire,Scotland,,https://en.wikipedia.org/wiki/Darien_scheme,,331736.0
-1699,1702,Maghrebi war (1699-1702),Deylik of Algiers,"Beylik of Tunis
+France",Nine Years' War,https://en.wikipedia.org/wiki/Williamite_War_in_Ireland,,157125.0,Undefined
+361,1689,1692,Scottish Jacobite rising,Scotland,Scottish Jacobite,,https://en.wikipedia.org/wiki/Jacobite_rising_of_1689,,83001.0,Europe
+362,1693,1693,Second Brotherhood,Spanish Empire,Agermanats,,https://en.wikipedia.org/wiki/Second_Brotherhood,,4215.0,Undefined
+363,1694,1700,Komenda Wars,"Dutch West India
+Company",Royal African Company,,https://en.wikipedia.org/wiki/Komenda_Wars,,10742.0,Africa
+364,1695,1696,Azov campaigns,Tsardom of Russia,Ottoman Empire,,https://en.wikipedia.org/wiki/Azov_campaigns_(1695%E2%80%9396),,6857.0,Undefined
+365,1698,1698,Streltsy uprising,Tsardom of Russia,Streltsy,,https://en.wikipedia.org/wiki/Streltsy_uprising,,36328.0,Undefined
+366,1699,1699,Arena Massacre,Spanish Empire,Amerindians,,https://en.wikipedia.org/wiki/Arena_Massacre,,6283.0,Undefined
+367,1699,1700,Darien scheme,Spanish Empire,Scotland,,https://en.wikipedia.org/wiki/Darien_scheme,,331736.0,Undefined
+368,1699,1702,Maghrebi war (1699-1702),Deylik of Algiers,"Beylik of Tunis
 Sultanate of Morocco
-Pashalik of Tripoli",,https://en.wikipedia.org/wiki/Maghrebi_war_(1699-1702),,3274.0
-Start,Finish,Name of Conflict,Belligerents,,,,,
-,,,"Victorious party (if
-applicable)",Defeated party (if applicable),,,,
-1700,1721,Great Northern War,"Tsardom of Russia
+Pashalik of Tripoli",,https://en.wikipedia.org/wiki/Maghrebi_war_(1699-1702),,3274.0,Undefined
+369,Start,Finish,Name of Conflict,Belligerents,,,,,,Undefined
+370,,,,"Victorious party (if
+applicable)",Defeated party (if applicable),,,,,Undefined
+371,1700,1721,Great Northern War,"Tsardom of Russia
 Kalmyk Khanate
 Cossack Hetmanate
 Denmark–Norway
@@ -1366,9 +1366,9 @@ England (1700)
 Great Britain (1719–21)
 Dutch Republic (1700)
 Duchy of Brunswick-
-Lüneburg (1700)",,https://en.wikipedia.org/wiki/Great_Northern_War,,762201.0
-1701,1701,Battle of Dartsedo,Qing dynasty,Khoshut Khanate,,https://en.wikipedia.org/wiki/Battle_of_Dartsedo,,7043.0
-1701,1714,"War of the Spanish
+Lüneburg (1700)",,https://en.wikipedia.org/wiki/Great_Northern_War,,762201.0,Europe
+372,1701,1701,Battle of Dartsedo,Qing dynasty,Khoshut Khanate,,https://en.wikipedia.org/wiki/Battle_of_Dartsedo,,7043.0,Asia
+373,1701,1714,"War of the Spanish
 Succession","Kingdom of France
 Spain loyal to Philip
 Bavaria (until 1704)","Holy Roman Empire:
@@ -1380,8 +1380,8 @@ Great Britain (from 1707) [17]
 Dutch Republic
 Duchy of Savoy
 Kingdom of Portugal
-Spain loyal to Charles",,https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession,https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession,990803.0
-1702,1713,"Queen Anne's War
+Spain loyal to Charles",,https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession,https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession,990803.0,Africa
+374,1702,1713,"Queen Anne's War
 ","England (before 1707) [18]
 English America
 Great Britain (after
@@ -1397,44 +1397,44 @@ New Spain
 Wabanaki Confederacy
 Caughnawaga Mohawk
 Choctaw","War of the
-Spanish Succession",https://en.wikipedia.org/wiki/Queen_Anne's_War,,251195.0
-,,,,"Timucua
+Spanish Succession",https://en.wikipedia.org/wiki/Queen_Anne's_War,,251195.0,North America
+375,,,,,"Timucua
 Apalachee
-Natchez",,,,
-1702,1715,Camisard Rebellion,France,Huguenot Rebels,,https://en.wikipedia.org/wiki/Camisard,,16209.0
-1703,1704,"Ottoman invasion of
+Natchez",,,,,Undefined
+376,1702,1715,Camisard Rebellion,France,Huguenot Rebels,,https://en.wikipedia.org/wiki/Camisard,,16209.0,Undefined
+377,1703,1704,"Ottoman invasion of
 western Georgia
 (1703)",Ottoman Empire,"Kingdom of Imereti
 Principality of Guria
-Principality of Mingrelia",,https://en.wikipedia.org/wiki/Ottoman_invasion_of_western_Georgia_(1703),https://en.wikipedia.org/wiki/Ottoman_invasion_of_western_Georgia_(1703),17431.0
-1703,1705,Naqib al-Ashraf revolt,Ottoman Empire,Janissaries,,https://en.wikipedia.org/wiki/Naqib_al-Ashraf_revolt,,6307.0
-1703,1711,"Rákóczi's War of
+Principality of Mingrelia",,https://en.wikipedia.org/wiki/Ottoman_invasion_of_western_Georgia_(1703),https://en.wikipedia.org/wiki/Ottoman_invasion_of_western_Georgia_(1703),17431.0,Asia
+378,1703,1705,Naqib al-Ashraf revolt,Ottoman Empire,Janissaries,,https://en.wikipedia.org/wiki/Naqib_al-Ashraf_revolt,,6307.0,Asia
+379,1703,1711,"Rákóczi's War of
 Independence",Austria,"Kurucs (Kingdom of Hungary)
-Kingdom of France",,https://en.wikipedia.org/wiki/R%C3%A1k%C3%B3czi's_War_of_Independence,https://en.wikipedia.org/wiki/R%C3%A1k%C3%B3czi's_War_of_Independence,64290.0
-1704,1704,Kuridža's Rebellion,Republic of Venice,Orthodox peasants,,https://en.wikipedia.org/wiki/Kurid%C5%BEa's_Rebellion,,4216.0
-1704,1706,"Civil war in Poland
+Kingdom of France",,https://en.wikipedia.org/wiki/R%C3%A1k%C3%B3czi's_War_of_Independence,https://en.wikipedia.org/wiki/R%C3%A1k%C3%B3czi's_War_of_Independence,64290.0,Europe
+380,1704,1704,Kuridža's Rebellion,Republic of Venice,Orthodox peasants,,https://en.wikipedia.org/wiki/Kurid%C5%BEa's_Rebellion,,4216.0,Undefined
+381,1704,1706,"Civil war in Poland
 (1704–1706) Part of
-the Great North War",Warsaw Confederation,Sandomierz Confederation,,https://en.wikipedia.org/wiki/Civil_war_in_Poland_(1704%E2%80%931706),https://en.wikipedia.org/wiki/Civil_war_in_Poland_(1704%E2%80%931706),11085.0
-1704,1708,"First Javanese War of
-Succession",Dutch East India Company,Mataram Sultanate,,https://en.wikipedia.org/wiki/First_Javanese_War_of_Succession,https://en.wikipedia.org/wiki/First_Javanese_War_of_Succession,11123.0
-1704,1711,"Bashkir Uprising
-(1704–1711)",Russia,Bashkir rebels,,https://en.wikipedia.org/wiki/Bashkir_Uprising_(1704%E2%80%931711),https://en.wikipedia.org/wiki/Bashkir_Uprising_(1704%E2%80%931711),592.0
-1705,1706,"Bavarian People's
-Uprising",Austria,Bavarian peasants,,https://en.wikipedia.org/wiki/Bavarian_People's_Uprising,https://en.wikipedia.org/wiki/Bavarian_People's_Uprising,3038.0
-1707,1707,"Mughal war of
+the Great North War",Warsaw Confederation,Sandomierz Confederation,,https://en.wikipedia.org/wiki/Civil_war_in_Poland_(1704%E2%80%931706),https://en.wikipedia.org/wiki/Civil_war_in_Poland_(1704%E2%80%931706),11085.0,Undefined
+382,1704,1708,"First Javanese War of
+Succession",Dutch East India Company,Mataram Sultanate,,https://en.wikipedia.org/wiki/First_Javanese_War_of_Succession,https://en.wikipedia.org/wiki/First_Javanese_War_of_Succession,11123.0,Asia
+383,1704,1711,"Bashkir Uprising
+(1704–1711)",Russia,Bashkir rebels,,https://en.wikipedia.org/wiki/Bashkir_Uprising_(1704%E2%80%931711),https://en.wikipedia.org/wiki/Bashkir_Uprising_(1704%E2%80%931711),592.0,Undefined
+384,1705,1706,"Bavarian People's
+Uprising",Austria,Bavarian peasants,,https://en.wikipedia.org/wiki/Bavarian_People's_Uprising,https://en.wikipedia.org/wiki/Bavarian_People's_Uprising,3038.0,Undefined
+385,1707,1707,"Mughal war of
 succession (1707)",Faction of Bahadur Shah I,"Faction of Muhammad Azam
 Shah
 Faction of Muhammad Kam
-Bakhsh",,https://en.wikipedia.org/wiki/Mughal_war_of_succession_(1707),https://en.wikipedia.org/wiki/Mughal_war_of_succession_(1707),2368.0
-1707,1708,Bulavin Rebellion,Russia,Peasants,,https://en.wikipedia.org/wiki/Bulavin_Rebellion,,25581.0
-1707,1709,War of the Emboabas,"Kingdom of Portugal
+Bakhsh",,https://en.wikipedia.org/wiki/Mughal_war_of_succession_(1707),https://en.wikipedia.org/wiki/Mughal_war_of_succession_(1707),2368.0,Undefined
+386,1707,1708,Bulavin Rebellion,Russia,Peasants,,https://en.wikipedia.org/wiki/Bulavin_Rebellion,,25581.0,Europe
+387,1707,1709,War of the Emboabas,"Kingdom of Portugal
 Portuguese settlers
-Early Brazilian settlers",Bandeirantes Paulistas,,https://en.wikipedia.org/wiki/War_of_the_Emboabas,,11564.0
-1708,1708,Kanzhal War (1708),Kabardia,"Crimean Khanate
-Ottoman Empire",,https://en.wikipedia.org/wiki/Kanzhal_War_(1708),,864.0
-1708,1709,Comacchio War,Austria,Papal States,,https://en.wikipedia.org/wiki/Comacchio_War,,711.0
-1709,1722,Hotaki–Safavid War,Hotak dynasty,Safavid dynasty,,https://en.wikipedia.org/wiki/Hotak_dynasty#Rise_to_power,,172565.0
-1710,1711,Pruth River Campaign,"Ottoman Empire
+Early Brazilian settlers",Bandeirantes Paulistas,,https://en.wikipedia.org/wiki/War_of_the_Emboabas,,11564.0,South America
+388,1708,1708,Kanzhal War (1708),Kabardia,"Crimean Khanate
+Ottoman Empire",,https://en.wikipedia.org/wiki/Kanzhal_War_(1708),,864.0,Undefined
+389,1708,1709,Comacchio War,Austria,Papal States,,https://en.wikipedia.org/wiki/Comacchio_War,,711.0,Undefined
+390,1709,1722,Hotaki–Safavid War,Hotak dynasty,Safavid dynasty,,https://en.wikipedia.org/wiki/Hotak_dynasty#Rise_to_power,,172565.0,Undefined
+391,1710,1711,Pruth River Campaign,"Ottoman Empire
 Crimean Khanate
 Wallachia
 Swedish Empire
@@ -1443,11 +1443,11 @@ Cossack Hetmanate
 Zaporizhian Sich","Tsardom of Russia
 Cossack Hetmanate
 (fraction of Ivan Skoropadsky)
-Moldavia",,https://en.wikipedia.org/wiki/Pruth_River_Campaign,,38396.0
-1711,1711,Cary's Rebellion,Province of Carolina,Party of Edward Hyde,,https://en.wikipedia.org/wiki/Cary's_Rebellion,,13884.0
-1711,1711,1711 Karamanli coup,Party of Ahmed Karamanli,Ottoman Tripolitania,,https://en.wikipedia.org/wiki/1711_Karamanli_coup,,5805.0
-,,,,,,,,
-1711,1711,Battle of Ain Dara,"Shihab dynasty
+Moldavia",,https://en.wikipedia.org/wiki/Pruth_River_Campaign,,38396.0,Undefined
+392,1711,1711,Cary's Rebellion,Province of Carolina,Party of Edward Hyde,,https://en.wikipedia.org/wiki/Cary's_Rebellion,,13884.0,Undefined
+393,1711,1711,1711 Karamanli coup,Party of Ahmed Karamanli,Ottoman Tripolitania,,https://en.wikipedia.org/wiki/1711_Karamanli_coup,,5805.0,Africa
+394,,,,,,,,,,Undefined
+395,1711,1711,Battle of Ain Dara,"Shihab dynasty
 Jumblatt clan of Chouf
 Talhuq clan of Gharb
 Nakad clan of Manasif
@@ -1456,8 +1456,8 @@ Abd al-Malik clan of Jurd
 Abu'l Lama clan of Matn
 Khazen clan of Keserwan","Alam al-Din clan
 Arslan clan of Gharb
-Sawaf clan of Matn",,https://en.wikipedia.org/wiki/Battle_of_Ain_Dara,,14528.0
-1711,1715,Tuscarora War,"Colonial militia of North
+Sawaf clan of Matn",,https://en.wikipedia.org/wiki/Battle_of_Ain_Dara,,14528.0,Asia
+396,1711,1715,Tuscarora War,"Colonial militia of North
 Carolina
 Colonial militia of South
 Carolina
@@ -1470,12 +1470,12 @@ Pamplico
 Cothechney
 Coree
 Mattamuskeet
-Matchepungo",,https://en.wikipedia.org/wiki/Tuscarora_War,,50750.0
-1712,1712,"1712 Huilliche
-rebellion",Spanish Empire,Huilliches,,https://en.wikipedia.org/wiki/1712_Huilliche_rebellion,https://en.wikipedia.org/wiki/1712_Huilliche_rebellion,2742.0
-1712,1712,"New York Slave Revolt
-of 1712",Kingdom of Great Britain,Slaves,,https://en.wikipedia.org/wiki/New_York_Slave_Revolt_of_1712,https://en.wikipedia.org/wiki/New_York_Slave_Revolt_of_1712,37821.0
-1712,1712,Toggenburg War,"Canton of Zürich
+Matchepungo",,https://en.wikipedia.org/wiki/Tuscarora_War,,50750.0,North America
+397,1712,1712,"1712 Huilliche
+rebellion",Spanish Empire,Huilliches,,https://en.wikipedia.org/wiki/1712_Huilliche_rebellion,https://en.wikipedia.org/wiki/1712_Huilliche_rebellion,2742.0,Undefined
+398,1712,1712,"New York Slave Revolt
+of 1712",Kingdom of Great Britain,Slaves,,https://en.wikipedia.org/wiki/New_York_Slave_Revolt_of_1712,https://en.wikipedia.org/wiki/New_York_Slave_Revolt_of_1712,37821.0,North America
+399,1712,1712,Toggenburg War,"Canton of Zürich
 Canton of Bern
 Toggenburg rebels
 City of Geneva
@@ -1487,21 +1487,21 @@ Canton of Schwyz
 Canton of Unterwalden
 Canton of Zug
 Valais
-Freie Ämter",,https://en.wikipedia.org/wiki/Toggenburg_War,,25487.0
-1712,1716,First Fox War,France,Fox people,,https://en.wikipedia.org/wiki/Fox_Wars#First_Fox_War,,21957.0
-1713,1714,"War of the Catalans
+Freie Ämter",,https://en.wikipedia.org/wiki/Toggenburg_War,,25487.0,Europe
+400,1712,1716,First Fox War,France,Fox people,,https://en.wikipedia.org/wiki/Fox_Wars#First_Fox_War,,21957.0,Undefined
+401,1713,1714,"War of the Catalans
 ","Spain
 France",Principality of Catalonia,"War of the
-Spanish Succession",https://en.wikipedia.org/wiki/War_of_the_Catalans,,11475.0
-1714,1718,"Ottoman–Venetian
+Spanish Succession",https://en.wikipedia.org/wiki/War_of_the_Catalans,,11475.0,Europe
+402,1714,1718,"Ottoman–Venetian
 War (1714–18)",Ottoman Empire,"Republic of Venice
 Austria
 Portugal
 Order of Malta
 Papal States
 Spain[19]
-Himariotes",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1714%E2%80%9318),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1714%E2%80%9318),6558.0
-1715,1717,Yamasee War,"Colonial militia of South
+Himariotes",,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1714%E2%80%9318),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Venetian_War_(1714%E2%80%9318),6558.0,Undefined
+403,1715,1717,Yamasee War,"Colonial militia of South
 Carolina
 Colonial militia of North
 Carolina
@@ -1512,92 +1512,92 @@ Ochese Creeks
 Catawba (until 1715)
 Cherokee (until 1716)
 Waxhaw
-Santee",,https://en.wikipedia.org/wiki/Yamasee_War,,63346.0
-1715,1716,"Jacobite rising of 1715
+Santee",,https://en.wikipedia.org/wiki/Yamasee_War,,63346.0,North America
+404,1715,1716,"Jacobite rising of 1715
 Also called ""The
 Fifteen""",British Government forces,"Scottish and English
-Jacobite Rebels",,https://en.wikipedia.org/wiki/Jacobite_rising_of_1715,,129916.0
-,,,,,,,,
-1717,1717,"1717 Omani invasion
-of Bahrain",Sultanate of Muscat,Safavids Bahrain,,https://en.wikipedia.org/wiki/1717_Omani_invasion_of_Bahrain,https://en.wikipedia.org/wiki/1717_Omani_invasion_of_Bahrain,11390.0
-1718,1720,"War of the Quadruple
+Jacobite Rebels",,https://en.wikipedia.org/wiki/Jacobite_rising_of_1715,,129916.0,Europe
+405,,,,,,,,,,Undefined
+406,1717,1717,"1717 Omani invasion
+of Bahrain",Sultanate of Muscat,Safavids Bahrain,,https://en.wikipedia.org/wiki/1717_Omani_invasion_of_Bahrain,https://en.wikipedia.org/wiki/1717_Omani_invasion_of_Bahrain,11390.0,Asia
+407,1718,1720,"War of the Quadruple
 Alliance","Great Britain
 France
 Austria
 Dutch Republic
 Savoy","Spain
-Jacobites",,https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance,https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance,93489.0
-1719,1723,"Second Javanese War
+Jacobites",,https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance,https://en.wikipedia.org/wiki/War_of_the_Quadruple_Alliance,93489.0,Europe
+408,1719,1723,"Second Javanese War
 of Succession","Mataram Sultanate
 Dutch East India
 Company","Rival claimants to Mataram
 throne
-Rebel Princes",,https://en.wikipedia.org/wiki/Second_Javanese_War_of_Succession,https://en.wikipedia.org/wiki/Second_Javanese_War_of_Succession,7046.0
-1720,1720,"Chinese expedition to
-Tibet (1720)",Qing dynasty,Dzungar Khanate,,https://en.wikipedia.org/wiki/Chinese_expedition_to_Tibet_(1720),https://en.wikipedia.org/wiki/Chinese_expedition_to_Tibet_(1720),26085.0
-1721,1721,Attingal Outbreak,British East India Company,Indian Rebels,,https://en.wikipedia.org/wiki/Attingal_Outbreak,,18237.0
-1721,1735,"Revolt of the
+Rebel Princes",,https://en.wikipedia.org/wiki/Second_Javanese_War_of_Succession,https://en.wikipedia.org/wiki/Second_Javanese_War_of_Succession,7046.0,Asia
+409,1720,1720,"Chinese expedition to
+Tibet (1720)",Qing dynasty,Dzungar Khanate,,https://en.wikipedia.org/wiki/Chinese_expedition_to_Tibet_(1720),https://en.wikipedia.org/wiki/Chinese_expedition_to_Tibet_(1720),26085.0,Undefined
+410,1721,1721,Attingal Outbreak,British East India Company,Indian Rebels,,https://en.wikipedia.org/wiki/Attingal_Outbreak,,18237.0,Undefined
+411,1721,1735,"Revolt of the
 Comuneros
-(Paraguay)",Spanish Empire,Anti-Jesuits,,https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(Paraguay),https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(Paraguay),11114.0
-1721,1763,Chickasaw Wars,"Great Britain
+(Paraguay)",Spanish Empire,Anti-Jesuits,,https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(Paraguay),https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(Paraguay),11114.0,Undefined
+412,1721,1763,Chickasaw Wars,"Great Britain
 Chickasaw","France
 Choctaw
-Illini",,https://en.wikipedia.org/wiki/Chickasaw_Wars,,19453.0
-1722,1725,Father Rale's War,"New England Colonies
+Illini",,https://en.wikipedia.org/wiki/Chickasaw_Wars,,19453.0,Undefined
+413,1722,1725,Father Rale's War,"New England Colonies
 Mohawk","Wabanaki Confederacy
 Abenaki
 Pequawket
 Miꞌkmaq
-Maliseet",,https://en.wikipedia.org/wiki/Father_Rale's_War,,19875.0
-1722,1723,"Russo-Persian War
+Maliseet",,https://en.wikipedia.org/wiki/Father_Rale's_War,,19875.0,North America
+414,1722,1723,"Russo-Persian War
 (1722–1723)","Russian Empire
 Ukrainian Cossacks
 Kingdom of Kartli
 Kabardians
 Kalmyk Khanate
 Shamkhalate of Tarki
-Tabasaran principality",Safavid dynasty,,https://en.wikipedia.org/wiki/Russo-Persian_War_(1722%E2%80%931723),https://en.wikipedia.org/wiki/Russo-Persian_War_(1722%E2%80%931723),60875.0
-1722,1727,"Ottoman–Hotaki War
-(1722–1727)",Ottoman Empire,Hotak dynasty,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Hotaki_War_(1722%E2%80%931727),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Hotaki_War_(1722%E2%80%931727),4206.0
-1725,1745,Saltpeter Wars,Müllerisch Faction,Salpterisch Faction,,https://en.wikipedia.org/wiki/Saltpeter_Wars,,3275.0
-1726,1727,Appeal War,County of East Frisia,Estates of East Frisia,,https://en.wikipedia.org/wiki/Appeal_War,,2105.0
-1727,1729,"Anglo-Spanish War
-(1727–1729)",Spain,Great Britain,,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1727%E2%80%931729),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1727%E2%80%931729),21170.0
-1728,1733,Second Fox War,France,Fox people,,https://en.wikipedia.org/wiki/Fox_Wars#Second_Fox_War,,21957.0
-1730,1730,Patrona Halil Revolt,Ottoman Empire,Janissaries,,https://en.wikipedia.org/wiki/Patrona_Halil,,21543.0
-1730,1735,"Ottoman–Persian War
-(1730–1735)",Safavid dynasty,Ottoman Empire,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1730%E2%80%931735),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1730%E2%80%931735),41004.0
-1732,1736,Kovenu war[20],Anlo,Anexo,,https://en.wikipedia.org/wiki/Kovenu_war?action=edit&redlink=1,,-1.0
-1733,1733,"1733 slave insurrection
+Tabasaran principality",Safavid dynasty,,https://en.wikipedia.org/wiki/Russo-Persian_War_(1722%E2%80%931723),https://en.wikipedia.org/wiki/Russo-Persian_War_(1722%E2%80%931723),60875.0,Asia
+415,1722,1727,"Ottoman–Hotaki War
+(1722–1727)",Ottoman Empire,Hotak dynasty,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Hotaki_War_(1722%E2%80%931727),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Hotaki_War_(1722%E2%80%931727),4206.0,Undefined
+416,1725,1745,Saltpeter Wars,Müllerisch Faction,Salpterisch Faction,,https://en.wikipedia.org/wiki/Saltpeter_Wars,,3275.0,Undefined
+417,1726,1727,Appeal War,County of East Frisia,Estates of East Frisia,,https://en.wikipedia.org/wiki/Appeal_War,,2105.0,Undefined
+418,1727,1729,"Anglo-Spanish War
+(1727–1729)",Spain,Great Britain,,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1727%E2%80%931729),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1727%E2%80%931729),21170.0,Europe
+419,1728,1733,Second Fox War,France,Fox people,,https://en.wikipedia.org/wiki/Fox_Wars#Second_Fox_War,,21957.0,Undefined
+420,1730,1730,Patrona Halil Revolt,Ottoman Empire,Janissaries,,https://en.wikipedia.org/wiki/Patrona_Halil,,21543.0,Undefined
+421,1730,1735,"Ottoman–Persian War
+(1730–1735)",Safavid dynasty,Ottoman Empire,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1730%E2%80%931735),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1730%E2%80%931735),41004.0,Asia
+422,1732,1736,Kovenu war[20],Anlo,Anexo,,https://en.wikipedia.org/wiki/Kovenu_war?action=edit&redlink=1,,-1.0,Undefined
+423,1733,1733,"1733 slave insurrection
 on St. John","Danish West India
-Company",Slaves,,https://en.wikipedia.org/wiki/1733_slave_insurrection_on_St._John,https://en.wikipedia.org/wiki/1733_slave_insurrection_on_St._John,38315.0
-1733,1738,"War of the Polish
+Company",Slaves,,https://en.wikipedia.org/wiki/1733_slave_insurrection_on_St._John,https://en.wikipedia.org/wiki/1733_slave_insurrection_on_St._John,38315.0,Undefined
+424,1733,1738,"War of the Polish
 Succession","Poland loyal to Stanisław
-Leszczyński",Poland loyal to Augustus,,https://en.wikipedia.org/wiki/War_of_the_Polish_Succession,https://en.wikipedia.org/wiki/War_of_the_Polish_Succession,134397.0
-,,,"France
+Leszczyński",Poland loyal to Augustus,,https://en.wikipedia.org/wiki/War_of_the_Polish_Succession,https://en.wikipedia.org/wiki/War_of_the_Polish_Succession,134397.0,Europe
+425,,,,"France
 Spain
 Piedmont-Sardinia
 Duchy of Parma","Russia
 Austria
 Saxony
-Prussia",,,,
-1735,1736,"Miao Rebellion (1735–
-36)",Qing dynasty,Miao rebels,,https://en.wikipedia.org/wiki/Miao_Rebellion_(1735%E2%80%9336),https://en.wikipedia.org/wiki/Miao_Rebellion_(1735%E2%80%9336),3531.0
-1735,1737,"Spanish–Portuguese
-War (1735–1737)",Portuguese Empire,Spanish Empire,,https://en.wikipedia.org/wiki/Spanish%E2%80%93Portuguese_War_(1735%E2%80%931737),https://en.wikipedia.org/wiki/Spanish%E2%80%93Portuguese_War_(1735%E2%80%931737),10264.0
-1735,1739,"Russo–Turkish War
+Prussia",,,,,Undefined
+426,1735,1736,"Miao Rebellion (1735–
+36)",Qing dynasty,Miao rebels,,https://en.wikipedia.org/wiki/Miao_Rebellion_(1735%E2%80%9336),https://en.wikipedia.org/wiki/Miao_Rebellion_(1735%E2%80%9336),3531.0,Undefined
+427,1735,1737,"Spanish–Portuguese
+War (1735–1737)",Portuguese Empire,Spanish Empire,,https://en.wikipedia.org/wiki/Spanish%E2%80%93Portuguese_War_(1735%E2%80%931737),https://en.wikipedia.org/wiki/Spanish%E2%80%93Portuguese_War_(1735%E2%80%931737),10264.0,Undefined
+428,1735,1739,"Russo–Turkish War
 (1735–1739)","Russia
 Cossack Hetmanate
 Austria","Ottoman Empire
-Crimean Khanate",,https://en.wikipedia.org/wiki/Russo%E2%80%93Turkish_War_(1735%E2%80%931739),https://en.wikipedia.org/wiki/Russo%E2%80%93Turkish_War_(1735%E2%80%931739),1283.0
-1735,1740,Bashkir Rebellion,Russian Empire,Bashkirs,,https://en.wikipedia.org/wiki/Bashkirs#Bashkir_rebellions_of_the_17th%E2%80%9318th_centuries,,359094.0
-1738,1739,"Nader Shah's invasion
-of India",Afsharid dynasty,Mughal Empire,,https://en.wikipedia.org/wiki/Nader_Shah's_invasion_of_India,https://en.wikipedia.org/wiki/Nader_Shah's_invasion_of_India,206792.0
-1739,1739,Stono Rebellion,Kingdom of Great Britain,Slaves,,https://en.wikipedia.org/wiki/Stono_Rebellion,,114682.0
-1739,1748,"War of Jenkins' Ear
+Crimean Khanate",,https://en.wikipedia.org/wiki/Russo%E2%80%93Turkish_War_(1735%E2%80%931739),https://en.wikipedia.org/wiki/Russo%E2%80%93Turkish_War_(1735%E2%80%931739),1283.0,Undefined
+429,1735,1740,Bashkir Rebellion,Russian Empire,Bashkirs,,https://en.wikipedia.org/wiki/Bashkirs#Bashkir_rebellions_of_the_17th%E2%80%9318th_centuries,,359094.0,Undefined
+430,1738,1739,"Nader Shah's invasion
+of India",Afsharid dynasty,Mughal Empire,,https://en.wikipedia.org/wiki/Nader_Shah's_invasion_of_India,https://en.wikipedia.org/wiki/Nader_Shah's_invasion_of_India,206792.0,Asia
+431,1739,1739,Stono Rebellion,Kingdom of Great Britain,Slaves,,https://en.wikipedia.org/wiki/Stono_Rebellion,,114682.0,North America
+432,1739,1748,"War of Jenkins' Ear
 ",Spanish Empire,Kingdom of Great Britain,"War of the
-Austrian Succession",https://en.wikipedia.org/wiki/War_of_Jenkins'_Ear,,338261.0
-1740,1748,"War of the Austrian
+Austrian Succession",https://en.wikipedia.org/wiki/War_of_Jenkins'_Ear,,338261.0,Undefined
+433,1740,1748,"War of the Austrian
 Succession","France
 Prussia
 Spain
@@ -1612,62 +1612,62 @@ Hanover
 Dutch Republic
 Saxony (1743–45)
 Kingdom of Sardinia
-Russia (1741–43, 1748)",,https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession,https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession,522213.0
-1740,1742,First Silesian War,Prussia,Austria,,https://en.wikipedia.org/wiki/First_Silesian_War,,77623.0
-1741,1743,Java War (1741–1743),Dutch East India Company,Javanese rebels,,https://en.wikipedia.org/wiki/Java_War_(1741%E2%80%931743),,14646.0
-1741,1743,"Russo-Swedish War
+Russia (1741–43, 1748)",,https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession,https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession,522213.0,Europe
+434,1740,1742,First Silesian War,Prussia,Austria,,https://en.wikipedia.org/wiki/First_Silesian_War,,77623.0,Undefined
+435,1741,1743,Java War (1741–1743),Dutch East India Company,Javanese rebels,,https://en.wikipedia.org/wiki/Java_War_(1741%E2%80%931743),,14646.0,Asia
+436,1741,1743,"Russo-Swedish War
 (1741–1743)
 ",Russia,Sweden,"War of the
-Austrian Succession",https://en.wikipedia.org/wiki/Russo-Swedish_War_(1741%E2%80%931743),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1741%E2%80%931743),53034.0
-1742,1742,"First Maratha invasion
-of Bengal",Maratha Empire,Bengal Subah,,https://en.wikipedia.org/wiki/First_Maratha_invasion_of_Bengal,https://en.wikipedia.org/wiki/First_Maratha_invasion_of_Bengal,11009.0
-1743,1746,"Ottoman–Persian War
-(1743–1746)",Afsharid dynasty,Ottoman Empire,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1743%E2%80%931746),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1743%E2%80%931746),47610.0
-1744,1829,Dagohoy rebellion,Spain,Boholano nation,,https://en.wikipedia.org/wiki/Dagohoy_rebellion,,27689.0
-1744,1747,Chukchi War,Russian Empire,Chukchis,,https://en.wikipedia.org/wiki/Chukchi_War?action=edit&redlink=1,,-1.0
-1744,1748,"King George's War
+Austrian Succession",https://en.wikipedia.org/wiki/Russo-Swedish_War_(1741%E2%80%931743),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1741%E2%80%931743),53034.0,Europe
+437,1742,1742,"First Maratha invasion
+of Bengal",Maratha Empire,Bengal Subah,,https://en.wikipedia.org/wiki/First_Maratha_invasion_of_Bengal,https://en.wikipedia.org/wiki/First_Maratha_invasion_of_Bengal,11009.0,Asia
+438,1743,1746,"Ottoman–Persian War
+(1743–1746)",Afsharid dynasty,Ottoman Empire,,https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1743%E2%80%931746),https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1743%E2%80%931746),47610.0,Asia
+439,1744,1829,Dagohoy rebellion,Spain,Boholano nation,,https://en.wikipedia.org/wiki/Dagohoy_rebellion,,27689.0,Undefined
+440,1744,1747,Chukchi War,Russian Empire,Chukchis,,https://en.wikipedia.org/wiki/Chukchi_War?action=edit&redlink=1,,-1.0,Undefined
+441,1744,1748,"King George's War
 ","Great Britain
 British America
 Iroquois Confederacy","France
 New France
 Wabanaki Confederacy","War of the
-Austrian Succession",https://en.wikipedia.org/wiki/King_George's_War,,111384.0
-1744,1745,"Second Silesian War
+Austrian Succession",https://en.wikipedia.org/wiki/King_George's_War,,111384.0,North America
+442,1744,1745,"Second Silesian War
 ",Prussia,Austria,"War of the
-Austrian Succession",https://en.wikipedia.org/wiki/Second_Silesian_War,,60239.0
-,,,,,,,,
-1745,1746,"Jacobite rising of 1745
+Austrian Succession",https://en.wikipedia.org/wiki/Second_Silesian_War,,60239.0,Undefined
+443,,,,,,,,,,Undefined
+444,1745,1746,"Jacobite rising of 1745
 Also called ""The Forty-
 Five""",Great Britain,"Jacobites
-Kingdom of France",,https://en.wikipedia.org/wiki/Jacobite_rising_of_1745,,649087.0
-1746,1748,"First Carnatic War
+Kingdom of France",,https://en.wikipedia.org/wiki/Jacobite_rising_of_1745,,649087.0,Europe
+445,1746,1748,"First Carnatic War
 ","Kingdom of France
 French East India
 Company",Kingdom of Great Britain,"War of the
-Austrian Succession",https://en.wikipedia.org/wiki/First_Carnatic_War,,74525.0
-1747,1750,Choctaw Civil War,Choctaw Eastern Division,Choctaw Western Division,,https://en.wikipedia.org/wiki/Choctaw_Civil_War,,7728.0
-1747,1796,"Civil War between
-Afsharid and Qajar",Afsharid dynasty,Qajar dynasty,,https://en.wikipedia.org/wiki/Afsharid_dynasty#Civil_war_and_downfall_of_the_Afsharids,https://en.wikipedia.org/wiki/Afsharid_dynasty#Civil_war_and_downfall_of_the_Afsharids,141802.0
-1749,1754,Second Carnatic War,"Great Britain
+Austrian Succession",https://en.wikipedia.org/wiki/First_Carnatic_War,,74525.0,Asia
+446,1747,1750,Choctaw Civil War,Choctaw Eastern Division,Choctaw Western Division,,https://en.wikipedia.org/wiki/Choctaw_Civil_War,,7728.0,Undefined
+447,1747,1796,"Civil War between
+Afsharid and Qajar",Afsharid dynasty,Qajar dynasty,,https://en.wikipedia.org/wiki/Afsharid_dynasty#Civil_war_and_downfall_of_the_Afsharids,https://en.wikipedia.org/wiki/Afsharid_dynasty#Civil_war_and_downfall_of_the_Afsharids,141802.0,Undefined
+448,1749,1754,Second Carnatic War,"Great Britain
 British East India
 Company
 Sepoys
 Maratha allies","France
 French East India
 Company
-Nawab of Arcot",,https://en.wikipedia.org/wiki/Carnatic_Wars#Second_Carnatic_War,,50408.0
-1749,1757,"Third Javanese War of
+Nawab of Arcot",,https://en.wikipedia.org/wiki/Carnatic_Wars#Second_Carnatic_War,,50408.0,Undefined
+449,1749,1757,"Third Javanese War of
 Succession","Mataram Sultanate (until
 1755)
 Yogyakarta Sultanate (from
 1755)
 Surakarta Sunanate (from
 1755)
-Dutch East India Company",Anti-Dutch rebels,,https://en.wikipedia.org/wiki/Third_Javanese_War_of_Succession,https://en.wikipedia.org/wiki/Third_Javanese_War_of_Succession,10751.0
-1752,1757,"Konbaung–
+Dutch East India Company",Anti-Dutch rebels,,https://en.wikipedia.org/wiki/Third_Javanese_War_of_Succession,https://en.wikipedia.org/wiki/Third_Javanese_War_of_Succession,10751.0,Asia
+450,1752,1757,"Konbaung–
 Hanthawaddy War",Burmese Empire,"Restored Hanthawaddy Kingdom
-French East India Company",,https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War,https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War,16069.0
-1754,1763,"French and Indian War
+French East India Company",,https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War,https://en.wikipedia.org/wiki/Konbaung%E2%80%93Hanthawaddy_War,16069.0,Asia
+451,1754,1763,"French and Indian War
 ","Great Britain
 British America
 Iroquois Confederacy
@@ -1687,12 +1687,12 @@ Miꞌkmaq
 Ojibwa
 Odawa
 Shawnee","Seven
-Years' War",https://en.wikipedia.org/wiki/French_and_Indian_War,,1315609.0
-1756,1756,Cattle War,"Danish India
-French India",Thanjavur,,https://en.wikipedia.org/wiki/Cattle_War,,6665.0
-1756,1756,Guaraní War,"Portugal
-Spain",Guaraní Tribes,,https://en.wikipedia.org/wiki/Guaran%C3%AD_War,,35151.0
-1756,1763,Seven Years' War,"Great Britain
+Years' War",https://en.wikipedia.org/wiki/French_and_Indian_War,,1315609.0,North America
+452,1756,1756,Cattle War,"Danish India
+French India",Thanjavur,,https://en.wikipedia.org/wiki/Cattle_War,,6665.0,Undefined
+453,1756,1756,Guaraní War,"Portugal
+Spain",Guaraní Tribes,,https://en.wikipedia.org/wiki/Guaran%C3%AD_War,,35151.0,South America
+454,1756,1763,Seven Years' War,"Great Britain
 Hanover
 Prussia
 Brunswick-Wolfenbüttel
@@ -1700,8 +1700,8 @@ Iroquois Confederacy","France
 Austria
 Russia (until 1762)
 Spain (from 1761)
-Sweden (1757–62)",,https://en.wikipedia.org/wiki/Seven_Years'_War,,1943021.0
-,,,"Portugal (from 1761)
+Sweden (1757–62)",,https://en.wikipedia.org/wiki/Seven_Years'_War,,1943021.0,Africa
+455,,,,"Portugal (from 1761)
 Hesse-Kassel
 Schaumburg-Lippe
 Wyandot
@@ -1716,106 +1716,106 @@ Abenaki
 Lenape
 Ojibwa
 Odawa
-Shawnee",,,,
-1756,1763,"Third Silesian War
+Shawnee",,,,,Undefined
+456,1756,1763,"Third Silesian War
 ",Prussia,Austria,"Seven
-Years' War",https://en.wikipedia.org/wiki/Third_Silesian_War,,98030.0
-1757,1763,"Third Carnatic War
+Years' War",https://en.wikipedia.org/wiki/Third_Silesian_War,,98030.0,Undefined
+457,1757,1763,"Third Carnatic War
 ",British East India Company,"Principality of Bengal
 French East India Company
 Dutch East India Company","Seven
-Years' War",https://en.wikipedia.org/wiki/Carnatic_Wars#Third_Carnatic_War,,50408.0
-1757,1762,"Pomeranian War
+Years' War",https://en.wikipedia.org/wiki/Carnatic_Wars#Third_Carnatic_War,,50408.0,Undefined
+458,1757,1762,"Pomeranian War
 ","Sweden
 Russia",Prussia,"Seven
-Years' War",https://en.wikipedia.org/wiki/Pomeranian_War,,28696.0
-1757,1759,"Revolt of the Altishahr
-Khojas",Qing dynasty,Altishahr Khojas,,https://en.wikipedia.org/wiki/Revolt_of_the_Altishahr_Khojas,https://en.wikipedia.org/wiki/Revolt_of_the_Altishahr_Khojas,17790.0
-1758,1761,"Anglo-Cherokee War
+Years' War",https://en.wikipedia.org/wiki/Pomeranian_War,,28696.0,Undefined
+459,1757,1759,"Revolt of the Altishahr
+Khojas",Qing dynasty,Altishahr Khojas,,https://en.wikipedia.org/wiki/Revolt_of_the_Altishahr_Khojas,https://en.wikipedia.org/wiki/Revolt_of_the_Altishahr_Khojas,17790.0,Asia
+460,1758,1761,"Anglo-Cherokee War
 ",Great Britain,Cherokee,"French and
-Indian War",https://en.wikipedia.org/wiki/Anglo-Cherokee_War,,38833.0
-1759,1760,"Burmese–Siamese
-War (1759–1760)",Burmese Empire,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1759%E2%80%931760),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1759%E2%80%931760),16278.0
-1760,1760,Tacky's War,Great Britain,Slaves,,https://en.wikipedia.org/wiki/Tacky's_War,,19661.0
-1761,1761,Canek Revolt,Spain,Mayans,,https://en.wikipedia.org/wiki/Jacinto_Canek#The_revolt,,13625.0
-1762,1763,"Fantastic War
+Indian War",https://en.wikipedia.org/wiki/Anglo-Cherokee_War,,38833.0,North America
+461,1759,1760,"Burmese–Siamese
+War (1759–1760)",Burmese Empire,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1759%E2%80%931760),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1759%E2%80%931760),16278.0,Asia
+462,1760,1760,Tacky's War,Great Britain,Slaves,,https://en.wikipedia.org/wiki/Tacky's_War,,19661.0,Undefined
+463,1761,1761,Canek Revolt,Spain,Mayans,,https://en.wikipedia.org/wiki/Jacinto_Canek#The_revolt,,13625.0,Undefined
+464,1762,1763,"Fantastic War
 ","Portugal
 Great Britain","Spain
 France","Seven
-Years' War",https://en.wikipedia.org/wiki/Fantastic_War,,47411.0
-1763,1764,Berbice slave uprising,Dutch Republic,Berbice slaves,,https://en.wikipedia.org/wiki/Berbice_slave_uprising,,8491.0
-1763,1766,Pontiac's War,Great Britain,"Pontiac's confederacy
-Seneca",,https://en.wikipedia.org/wiki/Pontiac's_War,,205706.0
-1763,1864,"Russo-Circassian War
+Years' War",https://en.wikipedia.org/wiki/Fantastic_War,,47411.0,South America
+465,1763,1764,Berbice slave uprising,Dutch Republic,Berbice slaves,,https://en.wikipedia.org/wiki/Berbice_slave_uprising,,8491.0,South America
+466,1763,1766,Pontiac's War,Great Britain,"Pontiac's confederacy
+Seneca",,https://en.wikipedia.org/wiki/Pontiac's_War,,205706.0,North America
+467,1763,1864,"Russo-Circassian War
 ",Russian Empire,"Circassia
 Caucasian Imamate
 (Western)
 Sadzen","Caucasian
-War",https://en.wikipedia.org/wiki/Russo-Circassian_War,,144024.0
-1765,1765,Strilekrigen,Denmark–Norway,Norwegian Peasants,,https://en.wikipedia.org/wiki/Strilekrigen,,3656.0
-1765,1767,"Burmese–Siamese
-War (1765–67)",Burmese Empire,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1765%E2%80%9367),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1765%E2%80%9367),6973.0
-1765,1769,Sino-Burmese War,Burmese Empire,Qing dynasty,,https://en.wikipedia.org/wiki/Sino-Burmese_War_(1765%E2%80%931769),,7736.0
-1765,1771,War of the Regulation,Province of North Carolina,Regulators,,https://en.wikipedia.org/wiki/War_of_the_Regulation,,17304.0
-1766,1792,"Mysorean invasion of
+War",https://en.wikipedia.org/wiki/Russo-Circassian_War,,144024.0,Europe
+468,1765,1765,Strilekrigen,Denmark–Norway,Norwegian Peasants,,https://en.wikipedia.org/wiki/Strilekrigen,,3656.0,Undefined
+469,1765,1767,"Burmese–Siamese
+War (1765–67)",Burmese Empire,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1765%E2%80%9367),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1765%E2%80%9367),6973.0,Undefined
+470,1765,1769,Sino-Burmese War,Burmese Empire,Qing dynasty,,https://en.wikipedia.org/wiki/Sino-Burmese_War_(1765%E2%80%931769),,7736.0,Undefined
+471,1765,1771,War of the Regulation,Province of North Carolina,Regulators,,https://en.wikipedia.org/wiki/War_of_the_Regulation,,17304.0,North America
+472,1766,1792,"Mysorean invasion of
 Kerala","Mysore
 Cannanore","British East India Company
 Zamorin of Calicut
-Travancore",,https://en.wikipedia.org/wiki/Mysorean_invasion_of_Kerala,https://en.wikipedia.org/wiki/Mysorean_invasion_of_Kerala,4797.0
-,,,,,,,,
-1767,1769,"First Anglo-Mysore
+Travancore",,https://en.wikipedia.org/wiki/Mysorean_invasion_of_Kerala,https://en.wikipedia.org/wiki/Mysorean_invasion_of_Kerala,4797.0,Undefined
+473,,,,,,,,,,Undefined
+474,1767,1769,"First Anglo-Mysore
 War",Mysore,"British East India Company
 Maratha Confederacy
 Nawab of Arcot
-Hyderabad State",,https://en.wikipedia.org/wiki/First_Anglo-Mysore_War,https://en.wikipedia.org/wiki/First_Anglo-Mysore_War,91060.0
-1768,1768,"Montserrat slave
-rebellion of 1768",Great Britain,Slaves,,https://en.wikipedia.org/wiki/Montserrat_slave_rebellion_of_1768,https://en.wikipedia.org/wiki/Montserrat_slave_rebellion_of_1768,11028.0
-1768,1768,"Louisiana Rebellion of
+Hyderabad State",,https://en.wikipedia.org/wiki/First_Anglo-Mysore_War,https://en.wikipedia.org/wiki/First_Anglo-Mysore_War,91060.0,Asia
+475,1768,1768,"Montserrat slave
+rebellion of 1768",Great Britain,Slaves,,https://en.wikipedia.org/wiki/Montserrat_slave_rebellion_of_1768,https://en.wikipedia.org/wiki/Montserrat_slave_rebellion_of_1768,11028.0,Undefined
+476,1768,1768,"Louisiana Rebellion of
 1768",Spanish Empire,"Creole rebels
-German rebels",,https://en.wikipedia.org/wiki/Louisiana_Rebellion_of_1768,https://en.wikipedia.org/wiki/Louisiana_Rebellion_of_1768,16871.0
-1768,1769,Koliyivshchyna,"Russian Empire
+German rebels",,https://en.wikipedia.org/wiki/Louisiana_Rebellion_of_1768,https://en.wikipedia.org/wiki/Louisiana_Rebellion_of_1768,16871.0,Undefined
+477,1768,1769,Koliyivshchyna,"Russian Empire
 Polish–Lithuanian
 Commonwealth","Haydamak
-Cossacks",,https://en.wikipedia.org/wiki/Koliyivshchyna,,3451.0
-1768,1769,"French conquest of
-Corsica",France,Corsican Republic,,https://en.wikipedia.org/wiki/French_conquest_of_Corsica,https://en.wikipedia.org/wiki/French_conquest_of_Corsica,40217.0
-1768,1774,"Russo-Turkish War
+Cossacks",,https://en.wikipedia.org/wiki/Koliyivshchyna,,3451.0,Undefined
+478,1768,1769,"French conquest of
+Corsica",France,Corsican Republic,,https://en.wikipedia.org/wiki/French_conquest_of_Corsica,https://en.wikipedia.org/wiki/French_conquest_of_Corsica,40217.0,Undefined
+479,1768,1774,"Russo-Turkish War
 (1768–1774)","Russian Empire
 Zaporozhian Host
 Greek insurgents
 Kingdom of Kartli-
 Kakheti
 Kingdom of Imereti","Ottoman Empire
-Crimean Khanate",,https://en.wikipedia.org/wiki/Russo-Turkish_War_(1768%E2%80%931774),https://en.wikipedia.org/wiki/Russo-Turkish_War_(1768%E2%80%931774),96126.0
-1768,1772,Bar Confederation,Russian Empire,"Bar Confederation
-Kingdom of France",,https://en.wikipedia.org/wiki/Bar_Confederation,,79764.0
-1769,1773,First Carib War,British Empire,Black Caribs,,https://en.wikipedia.org/wiki/First_Carib_War,,14939.0
-1769,1772,Danish-Algerian War,Ottoman Algeria,Denmark-Norway,,https://en.wikipedia.org/wiki/Danish-Algerian_War,,4542.0
-1769,1788,Twenty Years' War,Bruneian Sultanate,"Sultanate of Sulu
+Crimean Khanate",,https://en.wikipedia.org/wiki/Russo-Turkish_War_(1768%E2%80%931774),https://en.wikipedia.org/wiki/Russo-Turkish_War_(1768%E2%80%931774),96126.0,Undefined
+480,1768,1772,Bar Confederation,Russian Empire,"Bar Confederation
+Kingdom of France",,https://en.wikipedia.org/wiki/Bar_Confederation,,79764.0,Undefined
+481,1769,1773,First Carib War,British Empire,Black Caribs,,https://en.wikipedia.org/wiki/First_Carib_War,,14939.0,Undefined
+482,1769,1772,Danish-Algerian War,Ottoman Algeria,Denmark-Norway,,https://en.wikipedia.org/wiki/Danish-Algerian_War,,4542.0,Undefined
+483,1769,1788,Twenty Years' War,Bruneian Sultanate,"Sultanate of Sulu
 The Philippines
 Co-belligerents
 Kingdom of Spain
 Captaincy General of
-the Philippines",,https://en.wikipedia.org/wiki/Twenty_Years'_War,,5576.0
-1769,1806,Moamoria rebellion,Kingdom of Ahom,Morans,,https://en.wikipedia.org/wiki/Moamoria_rebellion,,44625.0
-1771,1771,"Moscow plague riot of
-1771",Russian Empire,Rioters,,https://en.wikipedia.org/wiki/Moscow_plague_riot_of_1771,https://en.wikipedia.org/wiki/Moscow_plague_riot_of_1771,9325.0
-1771,1785,"Tây Sơn–Nguyễn War
-(1771–1785)",Tây Sơn dynasty,Nguyen lords,,,,
-1771,1802,"Fakir-Sannyasi
+the Philippines",,https://en.wikipedia.org/wiki/Twenty_Years'_War,,5576.0,Asia
+484,1769,1806,Moamoria rebellion,Kingdom of Ahom,Morans,,https://en.wikipedia.org/wiki/Moamoria_rebellion,,44625.0,Asia
+485,1771,1771,"Moscow plague riot of
+1771",Russian Empire,Rioters,,https://en.wikipedia.org/wiki/Moscow_plague_riot_of_1771,https://en.wikipedia.org/wiki/Moscow_plague_riot_of_1771,9325.0,Undefined
+486,1771,1785,"Tây Sơn–Nguyễn War
+(1771–1785)",Tây Sơn dynasty,Nguyen lords,,,,,Undefined
+487,1771,1802,"Fakir-Sannyasi
 rebellion",Company Raj,"Fakirs
-Sannyasis",,https://en.wikipedia.org/wiki/Fakir-Sannyasi_rebellion,https://en.wikipedia.org/wiki/Fakir-Sannyasi_rebellion,2395.0
-1773,1775,Pugachev's Rebellion,Russian Empire,"Cossack and peasant rebels
-Tatar and Bashkir nobles",,https://en.wikipedia.org/wiki/Pugachev's_Rebellion,,122955.0
-1774,1774,Lord Dunmore's War,Colony of Virginia,"Shawnees
-Mingos",,https://en.wikipedia.org/wiki/Lord_Dunmore's_War,,76771.0
-1775,1775,Rising of the Priests,Order of Saint John,Clergy,,https://en.wikipedia.org/wiki/Rising_of_the_Priests,,20297.0
-,,,,,,,,
-1775,1776,"Burmese–Siamese
-War (1775–1776)",Siam,Burma,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1775%E2%80%931776),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1775%E2%80%931776),11634.0
-1775,1782,"First Anglo-Maratha
-War",British East India Company,Maratha Empire,,https://en.wikipedia.org/wiki/First_Anglo-Maratha_War,https://en.wikipedia.org/wiki/First_Anglo-Maratha_War,197970.0
-1775,1783,"American
+Sannyasis",,https://en.wikipedia.org/wiki/Fakir-Sannyasi_rebellion,https://en.wikipedia.org/wiki/Fakir-Sannyasi_rebellion,2395.0,Undefined
+488,1773,1775,Pugachev's Rebellion,Russian Empire,"Cossack and peasant rebels
+Tatar and Bashkir nobles",,https://en.wikipedia.org/wiki/Pugachev's_Rebellion,,122955.0,Europe
+489,1774,1774,Lord Dunmore's War,Colony of Virginia,"Shawnees
+Mingos",,https://en.wikipedia.org/wiki/Lord_Dunmore's_War,,76771.0,North America
+490,1775,1775,Rising of the Priests,Order of Saint John,Clergy,,https://en.wikipedia.org/wiki/Rising_of_the_Priests,,20297.0,Undefined
+491,,,,,,,,,,Undefined
+492,1775,1776,"Burmese–Siamese
+War (1775–1776)",Siam,Burma,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1775%E2%80%931776),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1775%E2%80%931776),11634.0,Asia
+493,1775,1782,"First Anglo-Maratha
+War",British East India Company,Maratha Empire,,https://en.wikipedia.org/wiki/First_Anglo-Maratha_War,https://en.wikipedia.org/wiki/First_Anglo-Maratha_War,197970.0,Asia
+494,1775,1783,"American
 Revolutionary War","United States
 France (1778–83)
 Spain (1779–83)
@@ -1835,131 +1835,131 @@ Onondaga
 Mohawk
 Cayuga
 Seneca
-Cherokee",,https://en.wikipedia.org/wiki/American_Revolutionary_War,https://en.wikipedia.org/wiki/American_Revolutionary_War,3975924.0
-1776,1777,"Spanish–Portuguese
-War (1776–1777)",Spanish Empire,Portuguese Empire,,https://en.wikipedia.org/wiki/Spanish%E2%80%93Portuguese_War_(1776%E2%80%931777),https://en.wikipedia.org/wiki/Spanish%E2%80%93Portuguese_War_(1776%E2%80%931777),13634.0
-1776,1794,"Chickamauga Wars
-(1776–1794)",United States,Cherokee,,https://en.wikipedia.org/wiki/Cherokee%E2%80%93American_wars,https://en.wikipedia.org/wiki/Cherokee%E2%80%93American_wars,120080.0
-1778,1779,"War of the Bavarian
+Cherokee",,https://en.wikipedia.org/wiki/American_Revolutionary_War,https://en.wikipedia.org/wiki/American_Revolutionary_War,3975924.0,North America
+495,1776,1777,"Spanish–Portuguese
+War (1776–1777)",Spanish Empire,Portuguese Empire,,https://en.wikipedia.org/wiki/Spanish%E2%80%93Portuguese_War_(1776%E2%80%931777),https://en.wikipedia.org/wiki/Spanish%E2%80%93Portuguese_War_(1776%E2%80%931777),13634.0,Undefined
+496,1776,1794,"Chickamauga Wars
+(1776–1794)",United States,Cherokee,,https://en.wikipedia.org/wiki/Cherokee%E2%80%93American_wars,https://en.wikipedia.org/wiki/Cherokee%E2%80%93American_wars,120080.0,Undefined
+497,1778,1779,"War of the Bavarian
 Succession",Austria,"Kingdom of Prussia
-Electorate of Saxony",,https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession,https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession,105749.0
-1778,1783,"Anglo-French War
-(1778–1783)",France,Great Britain,,https://en.wikipedia.org/wiki/Anglo-French_War_(1778%E2%80%931783),https://en.wikipedia.org/wiki/Anglo-French_War_(1778%E2%80%931783),114486.0
-1779,1783,"Anglo-Spanish War
+Electorate of Saxony",,https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession,https://en.wikipedia.org/wiki/War_of_the_Bavarian_Succession,105749.0,Europe
+498,1778,1783,"Anglo-French War
+(1778–1783)",France,Great Britain,,https://en.wikipedia.org/wiki/Anglo-French_War_(1778%E2%80%931783),https://en.wikipedia.org/wiki/Anglo-French_War_(1778%E2%80%931783),114486.0,Undefined
+499,1779,1783,"Anglo-Spanish War
 ",Spain,Great Britain,"American
-Revolutionary War",https://en.wikipedia.org/wiki/Spain_and_the_American_Revolutionary_War,,77612.0
-1779,1781,First Xhosa War,Dutch Cape Colony,Xhosa tribesmen,,https://en.wikipedia.org/wiki/Xhosa_Wars#First_war_(1779%E2%80%931781),,132065.0
-1780,1784,"Fourth Anglo-Dutch
+Revolutionary War",https://en.wikipedia.org/wiki/Spain_and_the_American_Revolutionary_War,,77612.0,Undefined
+500,1779,1781,First Xhosa War,Dutch Cape Colony,Xhosa tribesmen,,https://en.wikipedia.org/wiki/Xhosa_Wars#First_war_(1779%E2%80%931781),,132065.0,Undefined
+501,1780,1784,"Fourth Anglo-Dutch
 War
 ",Great Britain,"Dutch Republic
 France","American
-Revolutionary War",https://en.wikipedia.org/wiki/Fourth_Anglo-Dutch_War,https://en.wikipedia.org/wiki/Fourth_Anglo-Dutch_War,110908.0
-1780,1784,"Second Anglo-Mysore
+Revolutionary War",https://en.wikipedia.org/wiki/Fourth_Anglo-Dutch_War,https://en.wikipedia.org/wiki/Fourth_Anglo-Dutch_War,110908.0,Africa
+502,1780,1784,"Second Anglo-Mysore
 War","Mysore
 France
 Dutch Republic","British East India Company
 Great Britain
-Hanover",,https://en.wikipedia.org/wiki/Second_Anglo-Mysore_War,https://en.wikipedia.org/wiki/Second_Anglo-Mysore_War,100799.0
-1780,1783,"Rebellion of Túpac
+Hanover",,https://en.wikipedia.org/wiki/Second_Anglo-Mysore_War,https://en.wikipedia.org/wiki/Second_Anglo-Mysore_War,100799.0,Asia
+503,1780,1783,"Rebellion of Túpac
 Amaru II","Spanish Empire
 Viceroyalty of Peru
 Viceroyalty of the Río
-de la Plata",Aymara-Quechua rebels,,https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II,https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II,95761.0
-1781,1781,Jahriyya revolt,"Qing dynasty
-Khafiya Sufi Muslims",Jahriyya Sufi Muslims,,https://en.wikipedia.org/wiki/Jahriyya_revolt,,10636.0
-1781,1781,"Revolt of the
+de la Plata",Aymara-Quechua rebels,,https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II,https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II,95761.0,South America
+504,1781,1781,Jahriyya revolt,"Qing dynasty
+Khafiya Sufi Muslims",Jahriyya Sufi Muslims,,https://en.wikipedia.org/wiki/Jahriyya_revolt,,10636.0,Asia
+505,1781,1781,"Revolt of the
 Comuneros (New
 Granada)","Viceroyalty of New
-Granada",Comuneros,,https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(New_Granada),https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(New_Granada),17360.0
-1782,1782,1782 Sylhet uprising,British East India Company,Bengali Muslims,,https://en.wikipedia.org/wiki/1782_Sylhet_uprising,,1489.0
-,,,,,,,,
-1782,1810,Unification of Hawaii,Kingdom of Hawai'i,"Kingdom of Maui
+Granada",Comuneros,,https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(New_Granada),https://en.wikipedia.org/wiki/Revolt_of_the_Comuneros_(New_Granada),17360.0,Undefined
+506,1782,1782,1782 Sylhet uprising,British East India Company,Bengali Muslims,,https://en.wikipedia.org/wiki/1782_Sylhet_uprising,,1489.0,Undefined
+507,,,,,,,,,,Undefined
+508,1782,1810,Unification of Hawaii,Kingdom of Hawai'i,"Kingdom of Maui
 Kingdom of Kauai
-Kingdom of O'ahu",,https://en.wikipedia.org/wiki/Unification_of_Hawaii,,64751.0
-1783,1783,"1782–83 unrest in
-Bahrain",Sheikhdom of Zubarah,Zand dynasty,,https://en.wikipedia.org/wiki/1782%E2%80%9383_unrest_in_Bahrain,https://en.wikipedia.org/wiki/1782%E2%80%9383_unrest_in_Bahrain,1772.0
-1783,1783,Kuban Nogai Uprising,Russian Empire,Lesser Nogai Horde,,https://en.wikipedia.org/wiki/Kuban_Nogai_Uprising,,5022.0
-1784,1784,Oman-Zanzibar War,Muscat and Oman,Zanzibar,,https://en.wikipedia.org/wiki/Oman-Zanzibar_war,,652.0
-1784,1784,Kettle War,Dutch Republic,Austria,,https://en.wikipedia.org/wiki/Kettle_War,,36322.0
-1784,1784,Sagbadre War,"Denmark-Norway
-Ada Foah",Anlo Confederacy,,https://en.wikipedia.org/wiki/Sagbadre_War,,6280.0
-1784,1784,"Revolt of Horea,
-Cloșca and Crișan",Transylvania,Peasant rebels,,"https://en.wikipedia.org/wiki/Revolt_of_Horea,_Clo%C8%99ca_and_Cri%C8%99an","https://en.wikipedia.org/wiki/Revolt_of_Horea,_Clo%C8%99ca_and_Cri%C8%99an",9887.0
-1785,1785,"Battle of Rạch Gầm-
+Kingdom of O'ahu",,https://en.wikipedia.org/wiki/Unification_of_Hawaii,,64751.0,Undefined
+509,1783,1783,"1782–83 unrest in
+Bahrain",Sheikhdom of Zubarah,Zand dynasty,,https://en.wikipedia.org/wiki/1782%E2%80%9383_unrest_in_Bahrain,https://en.wikipedia.org/wiki/1782%E2%80%9383_unrest_in_Bahrain,1772.0,Undefined
+510,1783,1783,Kuban Nogai Uprising,Russian Empire,Lesser Nogai Horde,,https://en.wikipedia.org/wiki/Kuban_Nogai_Uprising,,5022.0,Undefined
+511,1784,1784,Oman-Zanzibar War,Muscat and Oman,Zanzibar,,https://en.wikipedia.org/wiki/Oman-Zanzibar_war,,652.0,Undefined
+512,1784,1784,Kettle War,Dutch Republic,Austria,,https://en.wikipedia.org/wiki/Kettle_War,,36322.0,Europe
+513,1784,1784,Sagbadre War,"Denmark-Norway
+Ada Foah",Anlo Confederacy,,https://en.wikipedia.org/wiki/Sagbadre_War,,6280.0,Africa
+514,1784,1784,"Revolt of Horea,
+Cloșca and Crișan",Transylvania,Peasant rebels,,"https://en.wikipedia.org/wiki/Revolt_of_Horea,_Clo%C8%99ca_and_Cri%C8%99an","https://en.wikipedia.org/wiki/Revolt_of_Horea,_Clo%C8%99ca_and_Cri%C8%99an",9887.0,Europe
+515,1785,1785,"Battle of Rạch Gầm-
 Xoài Mút",Tây Sơn dynasty,"Siam
-Nguyễn lords",,https://en.wikipedia.org/wiki/Battle_of_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt,https://en.wikipedia.org/wiki/Battle_of_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt,22582.0
-1785,1786,"Burmese–Siamese
-War (1785–86)",Siam,Burma,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1785%E2%80%9386),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1785%E2%80%9386),3438.0
-1785,1795,Northwest Indian War,United States,"Western Confederacy
-British Canada",,https://en.wikipedia.org/wiki/Northwest_Indian_War,,168420.0
-1786,1786,Tây Sơn–Trịnh War,Tây Sơn dynasty,Trịnh lords,,,,
-1786,1787,Lofthuus' Rebellion,Denmark-Norway,Norwegian Peasants,,https://en.wikipedia.org/wiki/Christian_Jensen_Lofthuus,,3997.0
-1786,1787,Shays' Rebellion,United States,Daniel Shays and rebels,,https://en.wikipedia.org/wiki/Shays'_Rebellion,,82741.0
-1787,1787,"Prussian invasion of
+Nguyễn lords",,https://en.wikipedia.org/wiki/Battle_of_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt,https://en.wikipedia.org/wiki/Battle_of_R%E1%BA%A1ch_G%E1%BA%A7m-Xo%C3%A0i_M%C3%BAt,22582.0,Asia
+516,1785,1786,"Burmese–Siamese
+War (1785–86)",Siam,Burma,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1785%E2%80%9386),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1785%E2%80%9386),3438.0,Undefined
+517,1785,1795,Northwest Indian War,United States,"Western Confederacy
+British Canada",,https://en.wikipedia.org/wiki/Northwest_Indian_War,,168420.0,North America
+518,1786,1786,Tây Sơn–Trịnh War,Tây Sơn dynasty,Trịnh lords,,,,,Undefined
+519,1786,1787,Lofthuus' Rebellion,Denmark-Norway,Norwegian Peasants,,https://en.wikipedia.org/wiki/Christian_Jensen_Lofthuus,,3997.0,Undefined
+520,1786,1787,Shays' Rebellion,United States,Daniel Shays and rebels,,https://en.wikipedia.org/wiki/Shays'_Rebellion,,82741.0,Undefined
+521,1787,1787,"Prussian invasion of
 Holland","Prussia
 Orangists","States of Holland
-Patriots",,https://en.wikipedia.org/wiki/Prussian_invasion_of_Holland,https://en.wikipedia.org/wiki/Prussian_invasion_of_Holland,24303.0
-1787,1787,"Burmese–Siamese
-War (1787)",Burmese Empire,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1787),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1787),1134.0
-1787,1791,"Austro-Turkish War
+Patriots",,https://en.wikipedia.org/wiki/Prussian_invasion_of_Holland,https://en.wikipedia.org/wiki/Prussian_invasion_of_Holland,24303.0,Undefined
+522,1787,1787,"Burmese–Siamese
+War (1787)",Burmese Empire,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1787),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1787),1134.0,Undefined
+523,1787,1791,"Austro-Turkish War
 (1787–1791)","Austria
-Russia",Ottoman Empire,,https://en.wikipedia.org/wiki/Austro-Turkish_War_(1787%E2%80%931791),https://en.wikipedia.org/wiki/Austro-Turkish_War_(1787%E2%80%931791),8139.0
-1787,1792,"Russo-Turkish War
-(1787–92)",Russian Empire,Ottoman Empire,,https://en.wikipedia.org/wiki/Russo-Turkish_War_(1787%E2%80%9392),https://en.wikipedia.org/wiki/Russo-Turkish_War_(1787%E2%80%9392),11781.0
-1787,1802,"Tây Sơn–Nguyễn War
-(1787–1802)",Nguyễn lords,Tây Sơn dynasty,,,,
-1788,1790,"Russo-Swedish War
-(1788–1790)",Sweden,Russia,,https://en.wikipedia.org/wiki/Russo-Swedish_War_(1788%E2%80%931790),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1788%E2%80%931790),114216.0
-1788,1789,Theatre War,Denmark–Norway,Sweden,,https://en.wikipedia.org/wiki/Theatre_War,,22194.0
-1788,1934,Australian frontier wars,European settlers,Indigenous Australians,,https://en.wikipedia.org/wiki/Australian_frontier_wars,,203722.0
-1788,1792,Sino-Nepalese War,Qing dynasty,Kingdom of Nepal,,https://en.wikipedia.org/wiki/Sino-Nepalese_War,,73345.0
-1788,1789,"Battle of Ngọc Hồi-
+Russia",Ottoman Empire,,https://en.wikipedia.org/wiki/Austro-Turkish_War_(1787%E2%80%931791),https://en.wikipedia.org/wiki/Austro-Turkish_War_(1787%E2%80%931791),8139.0,Undefined
+524,1787,1792,"Russo-Turkish War
+(1787–92)",Russian Empire,Ottoman Empire,,https://en.wikipedia.org/wiki/Russo-Turkish_War_(1787%E2%80%9392),https://en.wikipedia.org/wiki/Russo-Turkish_War_(1787%E2%80%9392),11781.0,Undefined
+525,1787,1802,"Tây Sơn–Nguyễn War
+(1787–1802)",Nguyễn lords,Tây Sơn dynasty,,,,,Undefined
+526,1788,1790,"Russo-Swedish War
+(1788–1790)",Sweden,Russia,,https://en.wikipedia.org/wiki/Russo-Swedish_War_(1788%E2%80%931790),https://en.wikipedia.org/wiki/Russo-Swedish_War_(1788%E2%80%931790),114216.0,Europe
+527,1788,1789,Theatre War,Denmark–Norway,Sweden,,https://en.wikipedia.org/wiki/Theatre_War,,22194.0,Undefined
+528,1788,1934,Australian frontier wars,European settlers,Indigenous Australians,,https://en.wikipedia.org/wiki/Australian_frontier_wars,,203722.0,Undefined
+529,1788,1792,Sino-Nepalese War,Qing dynasty,Kingdom of Nepal,,https://en.wikipedia.org/wiki/Sino-Nepalese_War,,73345.0,Asia
+530,1788,1789,"Battle of Ngọc Hồi-
 Đống Đa","Qing dynasty
-Lê dynasty",Tây Sơn dynasty,,https://en.wikipedia.org/wiki/Battle_of_Ng%E1%BB%8Dc_H%E1%BB%93i-%C4%90%E1%BB%91ng_%C4%90a,https://en.wikipedia.org/wiki/Battle_of_Ng%E1%BB%8Dc_H%E1%BB%93i-%C4%90%E1%BB%91ng_%C4%90a,39538.0
-1789,1789,"Menashi-Kunashir
-Rebellion",Tokugawa shogunate,Ainu rebels,,https://en.wikipedia.org/wiki/Menashi-Kunashir_Rebellion,https://en.wikipedia.org/wiki/Menashi-Kunashir_Rebellion,2704.0
-,,,,,,,,
-1789,1792,"Third Anglo-Mysore
+Lê dynasty",Tây Sơn dynasty,,https://en.wikipedia.org/wiki/Battle_of_Ng%E1%BB%8Dc_H%E1%BB%93i-%C4%90%E1%BB%91ng_%C4%90a,https://en.wikipedia.org/wiki/Battle_of_Ng%E1%BB%8Dc_H%E1%BB%93i-%C4%90%E1%BB%91ng_%C4%90a,39538.0,Undefined
+531,1789,1789,"Menashi-Kunashir
+Rebellion",Tokugawa shogunate,Ainu rebels,,https://en.wikipedia.org/wiki/Menashi-Kunashir_Rebellion,https://en.wikipedia.org/wiki/Menashi-Kunashir_Rebellion,2704.0,Undefined
+532,,,,,,,,,,Undefined
+533,1789,1792,"Third Anglo-Mysore
 War","British East India Company
 Maratha Empire
 Hyderabad
-Travancore",Mysore,,https://en.wikipedia.org/wiki/Third_Anglo-Mysore_War,https://en.wikipedia.org/wiki/Third_Anglo-Mysore_War,90687.0
-1789,1794,"Qajar conquest of the
-Zand Dynasty",Qajar dynasty,Zand dynasty,,https://en.wikipedia.org/wiki/Lotf_Ali_Khan#Reign,https://en.wikipedia.org/wiki/Lotf_Ali_Khan#Reign,113432.0
-1789,1793,Second Xhosa War,Dutch Cape Colony,Xhosa tribesmen,,https://en.wikipedia.org/wiki/Xhosa_Wars#Second_war_(1789%E2%80%9393),,132065.0
-1789,1791,Liège Revolution,"Prince-Bishopric of Liège
-Austria",Republic of Liège,,https://en.wikipedia.org/wiki/Li%C3%A8ge_Revolution,,19946.0
-1789,1790,Brabant Revolution,Austrian Netherlands,"Brabant rebels (1789–90)
-United Belgian States (1790)",,https://en.wikipedia.org/wiki/Brabant_Revolution,,53941.0
-1789,1789,French Revolution,"Jacobins
+Travancore",Mysore,,https://en.wikipedia.org/wiki/Third_Anglo-Mysore_War,https://en.wikipedia.org/wiki/Third_Anglo-Mysore_War,90687.0,Asia
+534,1789,1794,"Qajar conquest of the
+Zand Dynasty",Qajar dynasty,Zand dynasty,,https://en.wikipedia.org/wiki/Lotf_Ali_Khan#Reign,https://en.wikipedia.org/wiki/Lotf_Ali_Khan#Reign,113432.0,Undefined
+535,1789,1793,Second Xhosa War,Dutch Cape Colony,Xhosa tribesmen,,https://en.wikipedia.org/wiki/Xhosa_Wars#Second_war_(1789%E2%80%9393),,132065.0,Undefined
+536,1789,1791,Liège Revolution,"Prince-Bishopric of Liège
+Austria",Republic of Liège,,https://en.wikipedia.org/wiki/Li%C3%A8ge_Revolution,,19946.0,Undefined
+537,1789,1790,Brabant Revolution,Austrian Netherlands,"Brabant rebels (1789–90)
+United Belgian States (1790)",,https://en.wikipedia.org/wiki/Brabant_Revolution,,53941.0,Undefined
+538,1789,1789,French Revolution,"Jacobins
 Girondins
 Sans-Culottes","Monarchists
 Moderate Revolutionaries
-Realists",,https://en.wikipedia.org/wiki/French_Revolution,,3891609.0
-1790,1790,"Saxon Peasants'
-Revolt",Electorate of Saxony,Peasant rebels,,https://en.wikipedia.org/wiki/Saxon_Peasants'_Revolt,https://en.wikipedia.org/wiki/Saxon_Peasants'_Revolt,4320.0
-1790,1802,Pemulwuy Resistance,British Empire,Pemulwuy,,https://en.wikipedia.org/wiki/Pemulwuy,,88874.0
-1790,1791,"Avignon–Comtat
+Realists",,https://en.wikipedia.org/wiki/French_Revolution,,3891609.0,Undefined
+539,1790,1790,"Saxon Peasants'
+Revolt",Electorate of Saxony,Peasant rebels,,https://en.wikipedia.org/wiki/Saxon_Peasants'_Revolt,https://en.wikipedia.org/wiki/Saxon_Peasants'_Revolt,4320.0,Europe
+540,1790,1802,Pemulwuy Resistance,British Empire,Pemulwuy,,https://en.wikipedia.org/wiki/Pemulwuy,,88874.0,Undefined
+541,1790,1791,"Avignon–Comtat
 Venaissin War","Revolutionary Avignon
 municipal government
 Kingdom of France","Papal States
 Comtat Venaissin
 Union of St. Cecilia (from
-1791)",,https://en.wikipedia.org/wiki/Avignon%E2%80%93Comtat_Venaissin_War,https://en.wikipedia.org/wiki/Avignon%E2%80%93Comtat_Venaissin_War,7688.0
-1791,1804,Haitian Revolution,"Haiti
+1791)",,https://en.wikipedia.org/wiki/Avignon%E2%80%93Comtat_Venaissin_War,https://en.wikipedia.org/wiki/Avignon%E2%80%93Comtat_Venaissin_War,7688.0,Undefined
+542,1791,1804,Haitian Revolution,"Haiti
 Great Britain
 Spain (1793–1795)
 French royalists","France
-Polish Legions",,https://en.wikipedia.org/wiki/Haitian_Revolution,,941954.0
-1791,1794,Whiskey Rebellion,United States,Frontier tax protestors,,https://en.wikipedia.org/wiki/Whiskey_Rebellion,,417316.0
-1792,1792,Dundiya rebellion,Kingdom of Ahom,Party of Haradutta Bujarbarua,,https://en.wikipedia.org/wiki/Dundiya_rebellion,,4408.0
-1792,1792,"Polish–Russian War of
+Polish Legions",,https://en.wikipedia.org/wiki/Haitian_Revolution,,941954.0,North America
+543,1791,1794,Whiskey Rebellion,United States,Frontier tax protestors,,https://en.wikipedia.org/wiki/Whiskey_Rebellion,,417316.0,North America
+544,1792,1792,Dundiya rebellion,Kingdom of Ahom,Party of Haradutta Bujarbarua,,https://en.wikipedia.org/wiki/Dundiya_rebellion,,4408.0,Undefined
+545,1792,1792,"Polish–Russian War of
 1792","Russia
 Targowica Confederates","Polish–Lithuanian
-Commonwealth",,https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792,https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792,61552.0
-1792,1792,"Burmese–Siamese
-War (1792)",Burmese Empire,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1792),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1792),1195.0
-1792,1797,"War of the First
+Commonwealth",,https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792,https://en.wikipedia.org/wiki/Polish%E2%80%93Russian_War_of_1792,61552.0,Europe
+546,1792,1792,"Burmese–Siamese
+War (1792)",Burmese Empire,Siam,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1792),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1792),1195.0,Undefined
+547,1792,1797,"War of the First
 Coalition
 ","France
 Spain (from 1796)
@@ -1980,50 +1980,50 @@ Portugal
 Kingdom of Sardinia
 Naples and Sicily
 Other Italian states[23]","French
-Revolutionary Wars",https://en.wikipedia.org/wiki/War_of_the_First_Coalition,https://en.wikipedia.org/wiki/War_of_the_First_Coalition,486998.0
-,,,,"Ottoman Empire
+Revolutionary Wars",https://en.wikipedia.org/wiki/War_of_the_First_Coalition,https://en.wikipedia.org/wiki/War_of_the_First_Coalition,486998.0,North America
+548,,,,,"Ottoman Empire
 Dutch Republic (until
-1795)",,,,
-1793,1796,"War in the Vendée
+1795)",,,,,Undefined
+549,1793,1796,"War in the Vendée
 ",France,"Vendéens
 Chouans
 Émigrés
 Great Britain","War of the
-First Coalition",https://en.wikipedia.org/wiki/War_in_the_Vend%C3%A9e,,260529.0
-1793,1795,Tripolitanian civil war,Karamanli dynasty,Ottoman Tripolitania,,https://en.wikipedia.org/wiki/Tripolitanian_civil_war,,8689.0
-1793,1795,War of the Pyrenees,Kingdom of France,Kingdom of Spain,,https://en.wikipedia.org/wiki/War_of_the_Pyrenees,,51114.0
-1793,1806,Cotiote War,British East India Company,Kingdom of Kottayam,,https://en.wikipedia.org/wiki/Cotiote_War,,20474.0
-1794,1794,Nickajack Expedition,American Frontiersmen,Chickamauga Cherokee,,https://en.wikipedia.org/wiki/Nickajack_Expedition,,10220.0
-1794,1794,Pazvantoğlu Rebellion,Ottoman Empire,Mercenaries,,https://en.wikipedia.org/wiki/Osman_Pazvanto%C4%9Flu,,23955.0
-1794,1794,Kościuszko Uprising,"Russia
+First Coalition",https://en.wikipedia.org/wiki/War_in_the_Vend%C3%A9e,,260529.0,Undefined
+550,1793,1795,Tripolitanian civil war,Karamanli dynasty,Ottoman Tripolitania,,https://en.wikipedia.org/wiki/Tripolitanian_civil_war,,8689.0,Africa
+551,1793,1795,War of the Pyrenees,Kingdom of France,Kingdom of Spain,,https://en.wikipedia.org/wiki/War_of_the_Pyrenees,,51114.0,Undefined
+552,1793,1806,Cotiote War,British East India Company,Kingdom of Kottayam,,https://en.wikipedia.org/wiki/Cotiote_War,,20474.0,Undefined
+553,1794,1794,Nickajack Expedition,American Frontiersmen,Chickamauga Cherokee,,https://en.wikipedia.org/wiki/Nickajack_Expedition,,10220.0,Undefined
+554,1794,1794,Pazvantoğlu Rebellion,Ottoman Empire,Mercenaries,,https://en.wikipedia.org/wiki/Osman_Pazvanto%C4%9Flu,,23955.0,Undefined
+555,1794,1794,Kościuszko Uprising,"Russia
 Prussia","Polish–Lithuanian
-Commonwealth",,https://en.wikipedia.org/wiki/Ko%C5%9Bciuszko_Uprising,,131197.0
-1794,1804,White Lotus Rebellion,Qing dynasty,White Lotus society,,https://en.wikipedia.org/wiki/White_Lotus_Rebellion,,86621.0
-1795,1795,"Curaçao Slave Revolt
-of 1795",Batavian Republic,Slaves,,https://en.wikipedia.org/wiki/Cura%C3%A7ao_Slave_Revolt_of_1795,https://en.wikipedia.org/wiki/Cura%C3%A7ao_Slave_Revolt_of_1795,28939.0
-1795,1795,Battle of Krtsanisi,"Persian Empire
+Commonwealth",,https://en.wikipedia.org/wiki/Ko%C5%9Bciuszko_Uprising,,131197.0,Europe
+556,1794,1804,White Lotus Rebellion,Qing dynasty,White Lotus society,,https://en.wikipedia.org/wiki/White_Lotus_Rebellion,,86621.0,Asia
+557,1795,1795,"Curaçao Slave Revolt
+of 1795",Batavian Republic,Slaves,,https://en.wikipedia.org/wiki/Cura%C3%A7ao_Slave_Revolt_of_1795,https://en.wikipedia.org/wiki/Cura%C3%A7ao_Slave_Revolt_of_1795,28939.0,Undefined
+558,1795,1795,Battle of Krtsanisi,"Persian Empire
 * Ganja Khanate
 * Erivan Khanate","Kingdom of Kartli-Kakheti
-Imereti",,https://en.wikipedia.org/wiki/Battle_of_Krtsanisi,,52878.0
-1795,1796,Fédon's rebellion,Britain,Grenadian Republicans,,https://en.wikipedia.org/wiki/F%C3%A9don's_rebellion,,36620.0
-1795,1816,"Hawkesbury and
+Imereti",,https://en.wikipedia.org/wiki/Battle_of_Krtsanisi,,52878.0,Asia
+559,1795,1796,Fédon's rebellion,Britain,Grenadian Republicans,,https://en.wikipedia.org/wiki/F%C3%A9don's_rebellion,,36620.0,Undefined
+560,1795,1816,"Hawkesbury and
 Nepean Wars",Kingdom of Great Britain,"Dharug Nation
 Eora Nation
 Tharawal Nation
-Gandangara Nation",,https://en.wikipedia.org/wiki/Hawkesbury_and_Nepean_Wars,https://en.wikipedia.org/wiki/Hawkesbury_and_Nepean_Wars,26524.0
-1795,1797,Second Carib War,Britain,Carib slaves,,https://en.wikipedia.org/wiki/Second_Carib_War,,15528.0
-1795,1806,"Miao Rebellion (1795–
-1806)",Qing dynasty,Miao rebels,,https://en.wikipedia.org/wiki/Miao_Rebellion_(1795%E2%80%931806),https://en.wikipedia.org/wiki/Miao_Rebellion_(1795%E2%80%931806),12162.0
-1796,1796,"Persian Expedition of
-1796",Russian Empire,Persian Empire,,https://en.wikipedia.org/wiki/Persian_Expedition_of_1796,https://en.wikipedia.org/wiki/Persian_Expedition_of_1796,16792.0
-1796,1808,"Anglo-Spanish War
-(1796–1808)",Spain,Great Britain,,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1796%E2%80%931808),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1796%E2%80%931808),47535.0
-1797,1797,Denisko uprising,Austria,Polish Rebels,,https://en.wikipedia.org/wiki/Denisko_uprising,,5557.0
-1797,1797,"Burmese–Siamese
-War (1797)",Siam,Burma,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1797),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1797),1163.0
-1798,1798,Peasants' War (1798),France,"Counter-revolutionary
-peasants",,https://en.wikipedia.org/wiki/Peasants'_War_(1798),,31221.0
-1798,1802,"War of the Second
+Gandangara Nation",,https://en.wikipedia.org/wiki/Hawkesbury_and_Nepean_Wars,https://en.wikipedia.org/wiki/Hawkesbury_and_Nepean_Wars,26524.0,Undefined
+561,1795,1797,Second Carib War,Britain,Carib slaves,,https://en.wikipedia.org/wiki/Second_Carib_War,,15528.0,Undefined
+562,1795,1806,"Miao Rebellion (1795–
+1806)",Qing dynasty,Miao rebels,,https://en.wikipedia.org/wiki/Miao_Rebellion_(1795%E2%80%931806),https://en.wikipedia.org/wiki/Miao_Rebellion_(1795%E2%80%931806),12162.0,Asia
+563,1796,1796,"Persian Expedition of
+1796",Russian Empire,Persian Empire,,https://en.wikipedia.org/wiki/Persian_Expedition_of_1796,https://en.wikipedia.org/wiki/Persian_Expedition_of_1796,16792.0,Undefined
+564,1796,1808,"Anglo-Spanish War
+(1796–1808)",Spain,Great Britain,,https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1796%E2%80%931808),https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1796%E2%80%931808),47535.0,Asia
+565,1797,1797,Denisko uprising,Austria,Polish Rebels,,https://en.wikipedia.org/wiki/Denisko_uprising,,5557.0,Undefined
+566,1797,1797,"Burmese–Siamese
+War (1797)",Siam,Burma,,https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1797),https://en.wikipedia.org/wiki/Burmese%E2%80%93Siamese_War_(1797),1163.0,Undefined
+567,1798,1798,Peasants' War (1798),France,"Counter-revolutionary
+peasants",,https://en.wikipedia.org/wiki/Peasants'_War_(1798),,31221.0,Europe
+568,1798,1802,"War of the Second
 Coalition
 ","French Republic
 Spain
@@ -2039,27 +2039,27 @@ Great Britain (until 1801)
 United Kingdom (from
 1801)
 Russia (until 1799)","French
-Revolutionary Wars",https://en.wikipedia.org/wiki/War_of_the_Second_Coalition,https://en.wikipedia.org/wiki/War_of_the_Second_Coalition,285424.0
-,,,"Roman Republic (until
+Revolutionary Wars",https://en.wikipedia.org/wiki/War_of_the_Second_Coalition,https://en.wikipedia.org/wiki/War_of_the_Second_Coalition,285424.0,Africa
+569,,,,"Roman Republic (until
 [25]
 1799)
 Parthenopaean
 Republic (1799) [26]","French Royalists
 Portugal
 Kingdom of Naples
-Ottoman Empire",,,,
-1798,1800,Quasi-War,United States,French Republic,,https://en.wikipedia.org/wiki/Quasi-War,,356228.0
-1798,1798,Irish Rebellion of 1798,"British Army
+Ottoman Empire",,,,,Undefined
+570,1798,1800,Quasi-War,United States,French Republic,,https://en.wikipedia.org/wiki/Quasi-War,,356228.0,Undefined
+571,1798,1798,Irish Rebellion of 1798,"British Army
 Hessian mercenaries","Society of United Irishmen
 Defenders
-France",,https://en.wikipedia.org/wiki/Irish_Rebellion_of_1798,,356869.0
-1798,1799,"Fourth Anglo-Mysore
+France",,https://en.wikipedia.org/wiki/Irish_Rebellion_of_1798,,356869.0,Europe
+572,1798,1799,"Fourth Anglo-Mysore
 War","British East India Company
 Maratha Empire
 Hyderabad
-Travancore",Mysore,,https://en.wikipedia.org/wiki/Fourth_Anglo-Mysore_War,https://en.wikipedia.org/wiki/Fourth_Anglo-Mysore_War,105543.0
-1799,1800,"War of the South
+Travancore",Mysore,,https://en.wikipedia.org/wiki/Fourth_Anglo-Mysore_War,https://en.wikipedia.org/wiki/Fourth_Anglo-Mysore_War,105543.0,Asia
+573,1799,1800,"War of the South
 Part of Haitian
-Revolution",Toussaint Louverture,André Rigaud,,https://en.wikipedia.org/wiki/War_of_the_South,,20622.0
-1799,1800,Fries's Rebellion,United States,Pennsylvania Dutch Farmers,,https://en.wikipedia.org/wiki/Fries's_Rebellion,,38547.0
-1799,1803,Third Xhosa War,Cape Colony,Xhosa tribesmen,,https://en.wikipedia.org/wiki/Xhosa_Wars#Third_war_(1799-1803),,132065.0
+Revolution",Toussaint Louverture,André Rigaud,,https://en.wikipedia.org/wiki/War_of_the_South,,20622.0,North America
+574,1799,1800,Fries's Rebellion,United States,Pennsylvania Dutch Farmers,,https://en.wikipedia.org/wiki/Fries's_Rebellion,,38547.0,Undefined
+575,1799,1803,Third Xhosa War,Cape Colony,Xhosa tribesmen,,https://en.wikipedia.org/wiki/Xhosa_Wars#Third_war_(1799-1803),,132065.0,Undefined
