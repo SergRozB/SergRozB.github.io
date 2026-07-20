@@ -117,61 +117,66 @@ if not use_intermediate_csv:
                             #print(f"Processing row {j} on page {page_number} of PDF '{pdf_name}'. Count: {count}")
                             if len(row.cells) < 3:
                                 continue  # Skip rows that don't have enough cells
-                            if pdf_name in pdfs_with_extra_column:
-                                cell_bbox = row.cells[3] # "Name of conflict" column different index in these pdfs
-                            else:
-                                cell_bbox = row.cells[2]  # Assuming the "Name of conflict" column is the third column (index 2)
 
-                            if cell_bbox is None:
+                            # Get war links
+
+                            if pdf_name in pdfs_with_extra_column:
+                                conflict_cell_bbox = row.cells[3] # "Name of conflict" column different index in these pdfs
+                            else:
+                                conflict_cell_bbox = row.cells[2]  # Assuming the "Name of conflict" column is the third column (index 2)
+
+                            if conflict_cell_bbox is None:
                                 #print("Warning: Cell bbox is None for row:", j, "on page:", page_number)
                                 war_links.append("")
                                 wider_conflict_links.append("")
                                 list_of_table_conflicts.append(("no cell bbox", page_number, j))
                                 continue
-                            matching_links = [
+
+                            conflict_matching_links = [
                                 link for link in page.hyperlinks
-                                if bbox_overlaps(cell_bbox, (link['x0'], link['top'], link['x1'], link['bottom']))
+                                if bbox_overlaps(conflict_cell_bbox, (link['x0'], link['top'], link['x1'], link['bottom']))
                             ]
 
                             war_link = None
                             wider_conflict_link = None
-                            if matching_links:
-                                if len(matching_links) == 2:
+                            if conflict_matching_links:
+                                if len(conflict_matching_links) == 2:
                                     # If two links, higher link in page should be the war link, lower link should be the wider conflict link
-                                    if matching_links[0]['top'] < matching_links[1]['top']:
-                                        war_link = matching_links[0]
-                                        wider_conflict_link = matching_links[1]
+                                    if conflict_matching_links[0]['top'] < conflict_matching_links[1]['top']:
+                                        war_link = conflict_matching_links[0]
+                                        wider_conflict_link = conflict_matching_links[1]
                                     else:
-                                        war_link = matching_links[1]
-                                        wider_conflict_link = matching_links[0]
+                                        war_link = conflict_matching_links[1]
+                                        wider_conflict_link = conflict_matching_links[0]
 
-                                elif len(matching_links) == 1:
-                                    war_link = matching_links[0]
+                                elif len(conflict_matching_links) == 1:
+                                    war_link = conflict_matching_links[0]
 
-                                elif len(matching_links) > 2:
+                                elif len(conflict_matching_links) > 2:
                                     #print(f"Warning: More than 2 links found for conflicts in row {j} on page {page_number}."+ 
                                     #    " Using the first two links.")
                                     #list_of_table_conflicts.append(("more than 2 links", page_number, j))
-                                    if matching_links[0]['top'] < matching_links[1]['top']:
-                                        war_link = matching_links[0]
-                                        wider_conflict_link = matching_links[1]
+                                    if conflict_matching_links[0]['top'] < conflict_matching_links[1]['top']:
+                                        war_link = conflict_matching_links[0]
+                                        wider_conflict_link = conflict_matching_links[1]
                         
                                     else:
-                                        war_link = matching_links[1]
-                                        wider_conflict_link = matching_links[0]
+                                        war_link = conflict_matching_links[1]
+                                        wider_conflict_link = conflict_matching_links[0]
                                     
                                     if war_link == wider_conflict_link:
                                         # Get the next link up
-                                            for i in range(len(matching_links)):
+                                            for i in range(len(conflict_matching_links)):
                                                 i += 2
-                                                if i > (len(matching_links) - 1):
+                                                if i > (len(conflict_matching_links) - 1):
                                                     break
                                                 if wider_conflict_link != war_link:
-                                                    wider_conflict_link = matching_links[i]
+                                                    wider_conflict_link = conflict_matching_links[i]
                                                     break
-
+                            
                             war_links.append(war_link.get("uri") if war_link else "")
-                            wider_conflict_links.append(wider_conflict_link.get("uri") if wider_conflict_link else "")
+                            wider_conflict_links.append(wider_conflict_link.get("uri") if wider_conflict_link else "")                            
+
         pdf_to_df[pdf_name] = pd.concat([pd.DataFrame(table["data"]) for table in tables], ignore_index=True)
         pdf_to_war_links[pdf_name] = war_links
         pdf_to_wider_conflict_links[pdf_name] = wider_conflict_links
