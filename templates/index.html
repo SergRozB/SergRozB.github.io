@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+        <link rel="stylesheet" href="/static/styles.css">
+    </head>
+
+    <body>
+        <h1>War Wordle</h1>
+        <h1>Guess the conflict</h1>
+        <h1>Name of random conflict: {{name}}</h1>
+        <div class="container">
+            <p>Start: {{start | safe}}</p>
+            <p>End: {{end | safe}}</p>
+            <p>Victors: <br> {{victors | safe}}</p>
+            <p>Defeated: <br> {{defeated | safe}}</p>
+        </div>
+        <input 
+        type="text" name="SearchableList" id="SearchableList"
+        list="list_of_conflicts"
+        > 
+
+        <datalist id="list_of_conflicts">
+            {% for name in conflict_names %}
+            <option value="{{ name | safe}}">
+            {% endfor %}
+        </datalist>
+        <script src="insert_table_data.js"></script>
+
+    </body>
+</html>

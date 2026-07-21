@@ -1,107 +1,52 @@
-Start,Finish,Name of Conflict,Belligerents,,Part of,War link,Wider conflict link
-,,,Victorious,Defeated,,,
-c. 3400–3100 BC,,"Enmerkar's campaigns
-against Aratta*",Uruk under Enmerkar,Aratta,,,
-c. 3250 BC,,"Unification of Upper
-Egypt*[3]","Thinite Confederacy under
-Scorpion I","Rival city-states of
-Upper Egypt, incl.
-Taurus (Bull)",,https://en.wikipedia.org/wiki/Upper_Egypt,https://en.wikipedia.org/wiki/Upper_Egypt
-c. 3200 BC,,"Naqada III northern
-expansion",Naqada III,Maadi-Buto culture,,https://en.wikipedia.org/wiki/Naqada_III#Northern_expansion,https://en.wikipedia.org/wiki/Naqada_III#Northern_expansion
-c. 3100 BC,,"Upper Egypt annexation of
-Lower Egypt*[4]",Upper Egypt under Narmer,"Lower Egypt under
-Wash",,https://en.wikipedia.org/wiki/Upper_Egypt,https://en.wikipedia.org/wiki/Lower_Egypt
+Start,Finish,Name of Conflict,Belligerents,Defeated,Part of,War link,Wider conflict link
+,,nan,Victorious,Defeated,,,
+c. 3400–3100 BC,,Enmerkar's campaigns\nagainst Aratta*,Uruk under Enmerkar,Aratta,,,
+c. 3250 BC,,Unification of Upper\nEgypt*[3],Thinite Confederacy under\nScorpion I,"Rival city-states of\nUpper Egypt, incl.\nTaurus (Bull)",,https://en.wikipedia.org/wiki/Upper_Egypt,https://en.wikipedia.org/wiki/Upper_Egypt
+c. 3200 BC,,Naqada III northern\nexpansion,Naqada III,Maadi-Buto culture,,https://en.wikipedia.org/wiki/Naqada_III#Northern_expansion,https://en.wikipedia.org/wiki/Naqada_III#Northern_expansion
+c. 3100 BC,,Upper Egypt annexation of\nLower Egypt*[4],Upper Egypt under Narmer,Lower Egypt under\nWash,,https://en.wikipedia.org/wiki/Upper_Egypt,https://en.wikipedia.org/wiki/Lower_Egypt
 c. 3100 BC,,Burning of Arslantepe[5],Kura–Araxes,Arslantepe,,https://en.wikipedia.org/wiki/Arslantepe,
-c. 3100 BC,,"Hor-Aha's Nubia
-Campaign*[6]",Egypt,Nubia,,https://en.wikipedia.org/wiki/Hor-Aha#Activities_outside_Egypt,https://en.wikipedia.org/wiki/Hor-Aha#Activities_outside_Egypt
-c. 3000 BC,,"Djer's campaigns into
-Sinai[7]",Egypt,Setjet,,https://en.wikipedia.org/wiki/Djer,https://en.wikipedia.org/wiki/Djer
-c. 3000 BC,,"Djer's campaigns into
-Libya[8]",Egypt,Tjehenu,,https://en.wikipedia.org/wiki/Djer,https://en.wikipedia.org/wiki/Djer
+c. 3100 BC,,Hor-Aha's Nubia\nCampaign*[6],Egypt,Nubia,,https://en.wikipedia.org/wiki/Hor-Aha#Activities_outside_Egypt,https://en.wikipedia.org/wiki/Hor-Aha#Activities_outside_Egypt
+c. 3000 BC,,Djer's campaigns into\nSinai[7],Egypt,Setjet,,https://en.wikipedia.org/wiki/Djer,https://en.wikipedia.org/wiki/Djer
+c. 3000 BC,,Djer's campaigns into\nLibya[8],Egypt,Tjehenu,,https://en.wikipedia.org/wiki/Djer,https://en.wikipedia.org/wiki/Djer
 c. 2970 BC,,Den's Eastern Campaign[9],Egypt,Setjet,,https://en.wikipedia.org/wiki/Den_(pharaoh),
-c. 2900 BC,,"Civil war between Horus Bird
-and Sneferka[10][11][12]",Reconciliation under Hotepsekhemwy,,,https://en.wikipedia.org/wiki/Horus_Bird_(pharaoh),https://en.wikipedia.org/wiki/Sneferka
+c. 2900 BC,,Civil war between Horus Bird\nand Sneferka[10][11][12],Reconciliation under Hotepsekhemwy,nan,,https://en.wikipedia.org/wiki/Horus_Bird_(pharaoh),https://en.wikipedia.org/wiki/Sneferka
 "c. 2900 BC – 2700
 BC",,Kish-Elam War*[13],Kish under Enmebaragesi,Elam,,https://en.wikipedia.org/wiki/Kish_(Sumer)#History,
 c. 2760-2740 BC,,Second Dynasty Civil War,Khasekhemwy,Lower Egypt,,https://en.wikipedia.org/wiki/Second_Dynasty_of_Egypt,
 c. 2600 BC,,Aga's Siege of Uruk[14],Uruk under Gilgamesh,Kish under Aga,,https://en.wikipedia.org/wiki/Siege_of_Uruk,
-c. 2600 BC,,Campaigns of Sneferu[15][16],Egypt,"Nubia
-Libya
-Levant",,https://en.wikipedia.org/wiki/Sneferu#Foreign_relations,
-c. 2500 BC,,Campaigns of Ur-Nanshe[17],Lagash,"Ur
-Umma",,https://en.wikipedia.org/wiki/Ur-Nanshe,
-c. 2450 BC,,Campaigns of Eannatum[18],Lagash,"Ur
-Uruk
-Larsa
-Nippur
-Akshak
-Umma and others",,https://en.wikipedia.org/wiki/Eannatum,
-c. 2440 BC,,"Campaigns of
-Enshakushanna",Uruk,"Hamazi
-Akkad
-Kish
-Nippur",,https://en.wikipedia.org/wiki/Enshakushanna,https://en.wikipedia.org/wiki/Enshakushanna
+c. 2600 BC,,Campaigns of Sneferu[15][16],Egypt,Nubia\nLibya\nLevant,,https://en.wikipedia.org/wiki/Sneferu#Foreign_relations,
+c. 2500 BC,,Campaigns of Ur-Nanshe[17],Lagash,Ur\nUmma,,https://en.wikipedia.org/wiki/Ur-Nanshe,
+c. 2450 BC,,Campaigns of Eannatum[18],Lagash,Ur\nUruk\nLarsa\nNippur\nAkshak\nUmma and others,,https://en.wikipedia.org/wiki/Eannatum,
+c. 2440 BC,,Campaigns of\nEnshakushanna,Uruk,Hamazi\nAkkad\nKish\nNippur,,https://en.wikipedia.org/wiki/Enshakushanna,https://en.wikipedia.org/wiki/Enshakushanna
 "c.
 2423
 BC","c. 2300
-BC",Mari-Ebla War,Mari,"Ebla
-Nagar
-Emar
-Kish
-Armi",,"https://en.wikipedia.org/wiki/Mari,_Syria",
-c. 2400 BC,,"Umma's first war of
-independence*[19]",Lagash under Enannatum I,"Umma under Ur-
-Lumma",,https://en.wikipedia.org/wiki/En-anna-tum_I,https://en.wikipedia.org/wiki/En-anna-tum_I
-,,,,,,,
-c. 2365 BC,,"Lugal-Anne-Mundu's
-campaign on Ur[20][21]",Adab,Ur,,https://en.wikipedia.org/wiki/Lugal-Anne-Mundu,https://en.wikipedia.org/wiki/Lugal-Anne-Mundu
+BC",Mari-Ebla War,Mari,Ebla\nNagar\nEmar\nKish\nArmi,,"https://en.wikipedia.org/wiki/Mari,_Syria",
+c. 2400 BC,,Umma's first war of\nindependence*[19],Lagash under Enannatum I,Umma under Ur-\nLumma,,https://en.wikipedia.org/wiki/En-anna-tum_I,https://en.wikipedia.org/wiki/En-anna-tum_I
+,,nan,nan,nan,,,
+c. 2365 BC,,Lugal-Anne-Mundu's\ncampaign on Ur[20][21],Adab,Ur,,https://en.wikipedia.org/wiki/Lugal-Anne-Mundu,https://en.wikipedia.org/wiki/Lugal-Anne-Mundu
 "c.
 2400
 BC","c. 2400
-BC","Umma's second war of
-independence[22]","Lagash
-Uruk",Umma,,https://en.wikipedia.org/wiki/Entemena,https://en.wikipedia.org/wiki/Entemena
+BC",Umma's second war of\nindependence[22],Lagash\nUruk,Umma,,https://en.wikipedia.org/wiki/Entemena,https://en.wikipedia.org/wiki/Entemena
 "c.
 2350
 BC","c. 2350
-BC","Campaigns of Lugal-zage-
-si[23][24]",Umma,"Kish
-Lagash
-Ur
-Nippur
-Larsa
-Uruk",,https://en.wikipedia.org/wiki/Lugal-zage-si,https://en.wikipedia.org/wiki/Lugal-zage-si
+BC",Campaigns of Lugal-zage-\nsi[23][24],Umma,Kish\nLagash\nUr\nNippur\nLarsa\nUruk,,https://en.wikipedia.org/wiki/Lugal-zage-si,https://en.wikipedia.org/wiki/Lugal-zage-si
 "Late 24th century
-BC",,"Formation of the Akkadian
-Empire[25]","Akkad
-Kish (after being conquered)","Kish (before being
-conquered)
-Lagash
-Uruk
-Umma
-Ur
-Kazallu",,https://en.wikipedia.org/wiki/Akkadian_Empire#Sargon_of_Akkad,https://en.wikipedia.org/wiki/Akkadian_Empire#Sargon_of_Akkad
+BC",,Formation of the Akkadian\nEmpire[25],Akkad\nKish (after being conquered),Kish (before being\nconquered)\nLagash\nUruk\nUmma\nUr\nKazallu,,https://en.wikipedia.org/wiki/Akkadian_Empire#Sargon_of_Akkad,https://en.wikipedia.org/wiki/Akkadian_Empire#Sargon_of_Akkad
 "Early 23rd century
-BC",,"Sargon's campaigns
-northeast of the Akkadian
-Empire",Akkad,"Mari
-Yarmuti
-Ebla",,https://en.wikipedia.org/wiki/Akkadian_Empire#Sargon_of_Akkad,https://en.wikipedia.org/wiki/Akkadian_Empire#Sargon_of_Akkad
+BC",,Sargon's campaigns\nnortheast of the Akkadian\nEmpire,Akkad,Mari\nYarmuti\nEbla,,https://en.wikipedia.org/wiki/Akkadian_Empire#Sargon_of_Akkad,https://en.wikipedia.org/wiki/Akkadian_Empire#Sargon_of_Akkad
 "Early 23rd century
-BC",,Sargon's invasion of Elam[26],Akkad,"Elam
-Susa
-Marhasi",,https://en.wikipedia.org/wiki/Sargon_of_Akkad#Wars_in_the_northwest_and_east,
+BC",,Sargon's invasion of Elam[26],Akkad,Elam\nSusa\nMarhasi,,https://en.wikipedia.org/wiki/Sargon_of_Akkad#Wars_in_the_northwest_and_east,
 "c.
 2230
 BC","c. 2230
-BC","Naram-Sin's campaign on
-the Lullubi",Akkad,Lullubi,,https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad#Victory_stele_of_Naram-Sin,https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad#Victory_stele_of_Naram-Sin
+BC",Naram-Sin's campaign on\nthe Lullubi,Akkad,Lullubi,,https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad#Victory_stele_of_Naram-Sin,https://en.wikipedia.org/wiki/Naram-Sin_of_Akkad#Victory_stele_of_Naram-Sin
 "c.
 2220
 BC","c. 2150
-BC","Gutian raids and conquests
-in the Akkadian Empire",Gutium,Akkad,,https://en.wikipedia.org/wiki/Gutian_people#History,https://en.wikipedia.org/wiki/Gutian_people#History
+BC",Gutian raids and conquests\nin the Akkadian Empire,Gutium,Akkad,,https://en.wikipedia.org/wiki/Gutian_people#History,https://en.wikipedia.org/wiki/Gutian_people#History
 "c.
 2100
 BC","c. 2100
@@ -113,14 +58,11 @@ BC",Fall of the Gutian dynasty,Uruk,Gutium,,https://en.wikipedia.org/wiki/Gutian
 "c.
 2112
 BC","c. 2112
-BC","Ur-Nammu's conquest of
-Lagash",Ur,Lagash,,https://en.wikipedia.org/wiki/Ur-Nammu,https://en.wikipedia.org/wiki/Ur-Nammu
+BC",Ur-Nammu's conquest of\nLagash,Ur,Lagash,,https://en.wikipedia.org/wiki/Ur-Nammu,https://en.wikipedia.org/wiki/Ur-Nammu
 "c.
 2004
 BC","c. 2004
-BC","Fall of the Neo-Sumerian
-Empire","Elam
-Susa",Ur,,https://en.wikipedia.org/wiki/Third_Dynasty_of_Ur#History,https://en.wikipedia.org/wiki/Third_Dynasty_of_Ur#History
+BC",Fall of the Neo-Sumerian\nEmpire,Elam\nSusa,Ur,,https://en.wikipedia.org/wiki/Third_Dynasty_of_Ur#History,https://en.wikipedia.org/wiki/Third_Dynasty_of_Ur#History
 "c.
 2000
 BC","c. 2000
@@ -128,47 +70,28 @@ BC",War in Persenbet,Segerseni,Unclear,,https://en.wikipedia.org/wiki/Segerseni#
 "c.
 1822
 BC","c. 1763
-BC",Campaigns of Rim-Sin I,Larsa,"Uruk
-Isin
-Der
-Babylon
-Sutum
-Rapiqum",,https://en.wikipedia.org/wiki/Rim-Sin_I,
-,,,,,,,
+BC",Campaigns of Rim-Sin I,Larsa,Uruk\nIsin\nDer\nBabylon\nSutum\nRapiqum,,https://en.wikipedia.org/wiki/Rim-Sin_I,
+,,nan,nan,nan,,,
 "c.
 1801
 BC","c. 1770
-BC","Elam's Invasion into
-Mesopotamia[28][29]","Elam
-Babylon
-Mari","Eshnunna
-Minor city states",,https://en.wikipedia.org/wiki/Eshnunna#History,https://en.wikipedia.org/wiki/Eshnunna#History
+BC",Elam's Invasion into\nMesopotamia[28][29],Elam\nBabylon\nMari,Eshnunna\nMinor city states,,https://en.wikipedia.org/wiki/Eshnunna#History,https://en.wikipedia.org/wiki/Eshnunna#History
 "c.
 1765
 BC","c. 1764
-BC",Elamite War[30],"Babylon
-Mari
-Yamhad",Elam,,https://en.wikipedia.org/wiki/Elamite_War,
+BC",Elamite War[30],Babylon\nMari\nYamhad,Elam,,https://en.wikipedia.org/wiki/Elamite_War,
 "c.
 1763
 BC","c. 1763
-BC","Hammurabi's Conquest on
-Larsa[30]","Babylon
-Yamhad
-Mari",Larsa,,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests
+BC",Hammurabi's Conquest on\nLarsa[30],Babylon\nYamhad\nMari,Larsa,,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests
 "c.
 1760
 BC","c. 1760
-BC","Hammurabi's Conquests in
-the North[30]",Babylon,"Mari
-Minor city states",,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests
+BC",Hammurabi's Conquests in\nthe North[30],Babylon,Mari\nMinor city states,,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests
 "c.
 1760
 BC","c. 1760
-BC","Hammurabi's War with
-Assyria[30]","Babylon
-Minor city states","Assyria
-Minor city states",,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests
+BC",Hammurabi's War with\nAssyria[30],Babylon\nMinor city states,Assyria\nMinor city states,,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests,https://en.wikipedia.org/wiki/Hammurabi#Reign_and_conquests
 "c.
 1742
 BC","c. 1739
@@ -176,47 +99,28 @@ BC",Babylonian Rebellion,Babylon,Babylonian rebels,,https://en.wikipedia.org/wik
 "c.
 1740
 BC","c. 1570
-BC","Kassite invasions into
-Babylon",Kassites,"Babylon
-Remnants of the
-Babylonian Empire
-(after c. 1595 BC)",,https://en.wikipedia.org/wiki/Kassites#History,https://en.wikipedia.org/wiki/Kassites#History
+BC",Kassite invasions into\nBabylon,Kassites,Babylon\nRemnants of the\nBabylonian Empire\n(after c. 1595 BC),,https://en.wikipedia.org/wiki/Kassites#History,https://en.wikipedia.org/wiki/Kassites#History
 "c.
 1732
 BC","c. 1732
-BC",Puzur-Sin's Uprising,Assyria,"Amorites
-Babylon",,https://en.wikipedia.org/wiki/Puzur-Sin,
+BC",Puzur-Sin's Uprising,Assyria,Amorites\nBabylon,,https://en.wikipedia.org/wiki/Puzur-Sin,
 "c.
 1732
 BC","c. 1726
 or 1720
-BC",Assyrian Civil War,Troops of Adasi,"Troops of Puzur-Sin
-Troops of Ashur-apla-
-idi
-Troops of Nasir-Sin
-Troops of Sin-namir
-Troops of Ipqi-Ishtar
-Troops of Adad-salulu
-Amorites
-Babylon",,https://en.wikipedia.org/wiki/Assyria#Assyrian_Adaside_dynasty.2C_1732.E2.80.931451_BC,
+BC",Assyrian Civil War,Troops of Adasi,Troops of Puzur-Sin\nTroops of Ashur-apla-\nidi\nTroops of Nasir-Sin\nTroops of Sin-namir\nTroops of Ipqi-Ishtar\nTroops of Adad-salulu\nAmorites\nBabylon,,https://en.wikipedia.org/wiki/Assyria#Assyrian_Adaside_dynasty.2C_1732.E2.80.931451_BC,
 "c.
 1732
 BC","c. 1732
-BC","Foundation of the Sealand
-dynasty",Troops of Ilum-ma-ili,Babylon,,https://en.wikipedia.org/wiki/First_Sealand_dynasty,https://en.wikipedia.org/wiki/First_Sealand_dynasty
+BC",Foundation of the Sealand\ndynasty,Troops of Ilum-ma-ili,Babylon,,https://en.wikipedia.org/wiki/First_Sealand_dynasty,https://en.wikipedia.org/wiki/First_Sealand_dynasty
 "c.
 1700
 BC","c. 1700
-BC","Babylonian Attack on the
-Sealand Dynasty",Sealand dynasty,Babylon,,https://en.wikipedia.org/wiki/Abi-Eshuh#Biography,https://en.wikipedia.org/wiki/Abi-Eshuh#Biography
+BC",Babylonian Attack on the\nSealand Dynasty,Sealand dynasty,Babylon,,https://en.wikipedia.org/wiki/Abi-Eshuh#Biography,https://en.wikipedia.org/wiki/Abi-Eshuh#Biography
 "c.
 1650
 BC","c. 1620
-BC",Campaigns of Hattusili I[31],Hittite Empire,"Alalakh
-Arzawa
-Hurrians
-Smaller Syrian city
-states",,https://en.wikipedia.org/wiki/Hattusili_I,
+BC",Campaigns of Hattusili I[31],Hittite Empire,Alalakh\nArzawa\nHurrians\nSmaller Syrian city\nstates,,https://en.wikipedia.org/wiki/Hattusili_I,
 "c.
 1600
 BC","c. 1600
@@ -224,11 +128,8 @@ BC",Xia–Shang War[32],Shang Rebel Forces,Xia dynasty,,https://en.wikipedia.org
 "c.
 1600
 BC","c. 1595
-BC",Campaigns of Mursili I,Hittite Empire,"Yamhad
-Babylon
-Smaller Syrian city
-states",,https://en.wikipedia.org/wiki/Mursili_I,
-,,,,,,,
+BC",Campaigns of Mursili I,Hittite Empire,Yamhad\nBabylon\nSmaller Syrian city\nstates,,https://en.wikipedia.org/wiki/Mursili_I,
+,,nan,nan,nan,,,
 "c.
 1595
 BC","c. 1595
@@ -244,139 +145,89 @@ BC",Campaigns of Thutmose I,Egyptian Empire,Nubia,,https://en.wikipedia.org/wiki
 "c.
 1493
 BC","before c.
-1479 BC",Campaigns of Thutmose II,Egyptian Empire,"Nubia
-Shasu",,https://en.wikipedia.org/wiki/Thutmose_II,
+1479 BC",Campaigns of Thutmose II,Egyptian Empire,Nubia\nShasu,,https://en.wikipedia.org/wiki/Thutmose_II,
 "c.
 1457
 BC","c. 1456
-BC","Thutmose III's First Syria
-Campaign*[33]",Egyptian Empire,"Canaan
-Kadesh
-Megiddo
-Mitanni",,https://en.wikipedia.org/wiki/Battle_of_Megiddo_(15th_century_BC),https://en.wikipedia.org/wiki/Battle_of_Megiddo_(15th_century_BC)
+BC",Thutmose III's First Syria\nCampaign*[33],Egyptian Empire,Canaan\nKadesh\nMegiddo\nMitanni,,https://en.wikipedia.org/wiki/Battle_of_Megiddo_(15th_century_BC),https://en.wikipedia.org/wiki/Battle_of_Megiddo_(15th_century_BC)
 "c.
 1456
 BC","c. 1455
-BC","Thutmose III's Second Syria
-Campaign*",Egyptian Empire,"Canaan
-Retjenu",,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria
+BC",Thutmose III's Second Syria\nCampaign*,Egyptian Empire,Canaan\nRetjenu,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria
 "c.
 1455
 BC","c. 1454
-BC","Thutmose III's Third Syria
-Campaign*",Egyptian Empire,"Canaan
-Retjenu",,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria
+BC",Thutmose III's Third Syria\nCampaign*,Egyptian Empire,Canaan\nRetjenu,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria
 "c.
 1454
 BC","c. 1453
-BC","Thutmose III's Fourth Syria
-Campaign*",Egyptian Empire,"Canaan
-Retjenu",,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria
+BC",Thutmose III's Fourth Syria\nCampaign*,Egyptian Empire,Canaan\nRetjenu,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Canaan_and_Syria
 "c.
 1450
 BC","c. 1449
-BC","Thutmose III's Fifth Syria
-Campaign*",Egyptian Empire,"Canaan
-Retjenu
-Kadesh
-Tunip
-Phoenicia",,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria
+BC",Thutmose III's Fifth Syria\nCampaign*,Egyptian Empire,Canaan\nRetjenu\nKadesh\nTunip\nPhoenicia,,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria
 "c.
 1449
 BC","c. 1448
-BC","Thutmose III's Sixth Syria
-Campaign*",Egyptian Empire,"Byblos
-Retjenu
-Kadesh",,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria
+BC",Thutmose III's Sixth Syria\nCampaign*,Egyptian Empire,Byblos\nRetjenu\nKadesh,,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria
 "c.
 1448
 BC","c. 1447
-BC","Thutmose III's Seventh Syria
-Campaign*",Egyptian Empire,"Retjenu
-Phoenicia",,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria
+BC",Thutmose III's Seventh Syria\nCampaign*,Egyptian Empire,Retjenu\nPhoenicia,,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Conquest_of_Syria
 "c.
 1447
 BC","c. 1446
-BC","Thutmose III's Attack on
-Mitanni (Eighth Syria
-Campaign)*",Egyptian Empire,Mitanni,,https://en.wikipedia.org/wiki/Thutmose_III#Attack_on_Mitanni,https://en.wikipedia.org/wiki/Thutmose_III#Attack_on_Mitanni
+BC",Thutmose III's Attack on\nMitanni (Eighth Syria\nCampaign)*,Egyptian Empire,Mitanni,,https://en.wikipedia.org/wiki/Thutmose_III#Attack_on_Mitanni,https://en.wikipedia.org/wiki/Thutmose_III#Attack_on_Mitanni
 "c.
 1445
 BC","c. 1444
-BC","Thutmose III's Ninth Syria
-Campaign*",Egyptian Empire,Nuhašše,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+BC",Thutmose III's Ninth Syria\nCampaign*,Egyptian Empire,Nuhašše,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
 "c.
 1444
 BC","c. 1443
-BC","Thutmose III's Tenth Syria
-Campaign*",Egyptian Empire,Mitanni,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+BC",Thutmose III's Tenth Syria\nCampaign*,Egyptian Empire,Mitanni,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
 "c.
 1443
 BC","c. 1442
-BC","Thutmose III's Eleventh
-Syria Campaign*",Egyptian Empire,Unknown,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+BC",Thutmose III's Eleventh\nSyria Campaign*,Egyptian Empire,Unknown,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
 "c.
 1442
 BC","c. 1441
-BC","Thutmose III's Twelfth Syria
-Campaign*",Egyptian Empire,Unknown,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
-,,,,,,,
+BC",Thutmose III's Twelfth Syria\nCampaign*,Egyptian Empire,Unknown,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+,,nan,nan,nan,,,
 "c.
 1441
 BC","c. 1440
-BC","Thutmose III's Thirteenth
-Syria Campaign*",Egyptian Empire,Nuhašše,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+BC",Thutmose III's Thirteenth\nSyria Campaign*,Egyptian Empire,Nuhašše,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
 "c.
 1440
 BC","c. 1439
-BC","Thutmose III's Fourteenth
-Syria Campaign*",Egyptian Empire,Shasu,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+BC",Thutmose III's Fourteenth\nSyria Campaign*,Egyptian Empire,Shasu,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
 "c.
 1439
 BC","c. 1438
-BC","Thutmose III's Fifteenth
-Syria Campaign*",Egyptian Empire,Unknown,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+BC",Thutmose III's Fifteenth\nSyria Campaign*,Egyptian Empire,Unknown,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
 "c.
 1438
 BC","c. 1437
-BC","Thutmose III's Sixteenth
-Syria Campaign*",Egyptian Empire,Unknown,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+BC",Thutmose III's Sixteenth\nSyria Campaign*,Egyptian Empire,Unknown,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
 "c.
 1437
 BC","c. 1436
-BC","Thutmose III's Seventeenth
-Syria Campaign*",Egyptian Empire,"Mitanni
-Tunip
-Kadesh",,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
+BC",Thutmose III's Seventeenth\nSyria Campaign*,Egyptian Empire,Mitanni\nTunip\nKadesh,,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria,https://en.wikipedia.org/wiki/Thutmose_III#Tours_of_Syria
 "c.
 1430
 BC","c. 1200
-BC","Kaska invasions into the
-Hittite Empire",Hittite Empire,"Kaska
-Azzi-Hayasa
-Mushki",,https://en.wikipedia.org/wiki/Kaskians#Early_history,https://en.wikipedia.org/wiki/Kaskians#Early_history
+BC",Kaska invasions into the\nHittite Empire,Hittite Empire,Kaska\nAzzi-Hayasa\nMushki,,https://en.wikipedia.org/wiki/Kaskians#Early_history,https://en.wikipedia.org/wiki/Kaskians#Early_history
 "c.
 1429
 BC","c. 1428
-BC","Thutmose III's Nubian
-Campaign*",Egyptian Empire,Nubia,,https://en.wikipedia.org/wiki/Thutmose_III#Nubian_campaign,https://en.wikipedia.org/wiki/Thutmose_III#Nubian_campaign
-c. 14th century BC,,Battle of the Ten Kings,Trtsu-Bharata,"Alina
-Anu
-Bhrigus
-Bhalanas
-Dasa
-Druhyus
-Mātsyeyas
-Persians
-Puru
-Panis",,https://en.wikipedia.org/wiki/Battle_of_the_Ten_Kings,
+BC",Thutmose III's Nubian\nCampaign*,Egyptian Empire,Nubia,,https://en.wikipedia.org/wiki/Thutmose_III#Nubian_campaign,https://en.wikipedia.org/wiki/Thutmose_III#Nubian_campaign
+c. 14th century BC,,Battle of the Ten Kings,Trtsu-Bharata,Alina\nAnu\nBhrigus\nBhalanas\nDasa\nDruhyus\nMātsyeyas\nPersians\nPuru\nPanis,,https://en.wikipedia.org/wiki/Battle_of_the_Ten_Kings,
 "c.
 1400
 BC","c. 1350
-BC",Hittite Wars of Survival,The Hittites,"Kaska
-Hayasa-Azzi
-Isuwa
-Arzawa",,https://en.wikipedia.org/wiki/Hittite_Wars_of_Survival,
+BC",Hittite Wars of Survival,The Hittites,Kaska\nHayasa-Azzi\nIsuwa\nArzawa,,https://en.wikipedia.org/wiki/Hittite_Wars_of_Survival,
 "c.
 1345
 BC","c. 1345
@@ -384,30 +235,24 @@ BC",Great Syrian War,The Hittites,Mitanni,,https://en.wikipedia.org/wiki/Mitanni
 "c.
 1315
 BC","c. 1315
-BC",Arzawa Revolt[34],"Arzawa
-Ahhiyawa",Hittite Empire,,https://en.wikipedia.org/wiki/Mycenaean_Greece#Involvement_in_Asia_Minor,
+BC",Arzawa Revolt[34],Arzawa\nAhhiyawa,Hittite Empire,,https://en.wikipedia.org/wiki/Mycenaean_Greece#Involvement_in_Asia_Minor,
 "c.
 1276
 BC","c. 1275
-BC","Ramesses II's First Syrian
-Campaign[35]",Egypt,"Canaan
-Amurru kingdom",,https://en.wikipedia.org/wiki/Ramesses_II#First_Syrian_campaign,https://en.wikipedia.org/wiki/Ramesses_II#First_Syrian_campaign
+BC",Ramesses II's First Syrian\nCampaign[35],Egypt,Canaan\nAmurru kingdom,,https://en.wikipedia.org/wiki/Ramesses_II#First_Syrian_campaign,https://en.wikipedia.org/wiki/Ramesses_II#First_Syrian_campaign
 "c.
 1274
 BC","c. 1274
-BC","Ramesses II's Second
-Syrian campaign[36][37]",Hittite Empire,New Kingdom of Egypt,,https://en.wikipedia.org/wiki/Ramesses_II#Second_Syrian_campaign,https://en.wikipedia.org/wiki/Ramesses_II#Second_Syrian_campaign
+BC",Ramesses II's Second\nSyrian campaign[36][37],Hittite Empire,New Kingdom of Egypt,,https://en.wikipedia.org/wiki/Ramesses_II#Second_Syrian_campaign,https://en.wikipedia.org/wiki/Ramesses_II#Second_Syrian_campaign
 "c.
 1270
 BC","c. 1270
-BC","Ramesses II's Third Syrian
-Campaign",Egypt,Hittite Empire,,https://en.wikipedia.org/wiki/Ramesses_II#Third_Syrian_campaign,https://en.wikipedia.org/wiki/Ramesses_II#Third_Syrian_campaign
+BC",Ramesses II's Third Syrian\nCampaign,Egypt,Hittite Empire,,https://en.wikipedia.org/wiki/Ramesses_II#Third_Syrian_campaign,https://en.wikipedia.org/wiki/Ramesses_II#Third_Syrian_campaign
 "c.
 1270
 BC","c. 1269
-BC","Ramesses II's Later Syrian
-Campaigns",New Kingdom of Egypt,Hittite Empire,,https://en.wikipedia.org/wiki/Ramesses_II#Later_Syrian_campaigns,https://en.wikipedia.org/wiki/Ramesses_II#Later_Syrian_campaigns
-,,,,,,,
+BC",Ramesses II's Later Syrian\nCampaigns,New Kingdom of Egypt,Hittite Empire,,https://en.wikipedia.org/wiki/Ramesses_II#Later_Syrian_campaigns,https://en.wikipedia.org/wiki/Ramesses_II#Later_Syrian_campaigns
+,,nan,nan,nan,,,
 "c.
 1267
 BC","c. 1267
@@ -415,58 +260,44 @@ BC",Hittite Civil War of 1267 B.C.,Hattusili III,Mursili III,,https://en.wikiped
 "c.
 1260
 BC","c. 1260
-BC","Ramesses II's Nubian
-Campaigns",Egypt,Nubia,,https://en.wikipedia.org/wiki/Ramesses_II#Nubian_campaigns,https://en.wikipedia.org/wiki/Ramesses_II#Nubian_campaigns
+BC",Ramesses II's Nubian\nCampaigns,Egypt,Nubia,,https://en.wikipedia.org/wiki/Ramesses_II#Nubian_campaigns,https://en.wikipedia.org/wiki/Ramesses_II#Nubian_campaigns
 "c.
 1260
 BC","c. 1255
-BC",Piyama-Radu Revolt[38],"Piyama-Radu
-Ahhiyawa",Hittite Empire,,https://en.wikipedia.org/wiki/Mycenaean_Greece#Involvement_in_Asia_Minor,
+BC",Piyama-Radu Revolt[38],Piyama-Radu\nAhhiyawa,Hittite Empire,,https://en.wikipedia.org/wiki/Mycenaean_Greece#Involvement_in_Asia_Minor,
 "c.
 1250
 BC","c. 1250
-BC","Ramesses II's Libyan
-Campaigns",Egypt,Libya,,https://en.wikipedia.org/wiki/Ramesses_II#Libyan_campaigns,https://en.wikipedia.org/wiki/Ramesses_II#Libyan_campaigns
+BC",Ramesses II's Libyan\nCampaigns,Egypt,Libya,,https://en.wikipedia.org/wiki/Ramesses_II#Libyan_campaigns,https://en.wikipedia.org/wiki/Ramesses_II#Libyan_campaigns
 "c.
 1235
 BC","c. 1235
-BC","Babylonian–Assyrian War of
-1235 BC",Assyria,Babylonia,,https://en.wikipedia.org/wiki/Babylonian%E2%80%93Assyrian_War_of_1235_BC,https://en.wikipedia.org/wiki/Babylonian%E2%80%93Assyrian_War_of_1235_BC
+BC",Babylonian–Assyrian War of\n1235 BC,Assyria,Babylonia,,https://en.wikipedia.org/wiki/Babylonian%E2%80%93Assyrian_War_of_1235_BC,https://en.wikipedia.org/wiki/Babylonian%E2%80%93Assyrian_War_of_1235_BC
 "c.
 1206
 BC","c. 1150
-BC",Late Bronze Age collapse[39],Sea peoples,"Hittites
-New Kingdom of Egypt
-Mycenaean Greece",,https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse,
+BC",Late Bronze Age collapse[39],Sea peoples,Hittites\nNew Kingdom of Egypt\nMycenaean Greece,,https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse,
 "c.
 1203
 BC","c. 1187
-BC","Wars of succession in 19th
-Dynasty Egypt[40]",Setnakhte,"Amenmesse, Seti II
-and Tausret",,https://en.wikipedia.org/wiki/End_of_the_19th_Dynasty,https://en.wikipedia.org/wiki/End_of_the_19th_Dynasty
+BC",Wars of succession in 19th\nDynasty Egypt[40],Setnakhte,"Amenmesse, Seti II\nand Tausret",,https://en.wikipedia.org/wiki/End_of_the_19th_Dynasty,https://en.wikipedia.org/wiki/End_of_the_19th_Dynasty
 "c.
 1194
 BC","c. 1184
-BC",Trojan War[41],"Achaeans (mainly Mycenaens
-and Spartans)",Troy,,https://en.wikipedia.org/wiki/Trojan_War,
+BC",Trojan War[41],Achaeans (mainly Mycenaens\nand Spartans),Troy,,https://en.wikipedia.org/wiki/Trojan_War,
 "c.
 1190
 BC","c. 1190
-BC",Destruction of Ugarit[42],"Unknown (probably the Sea
-Peoples)",Ugarit,,https://en.wikipedia.org/wiki/Ugarit#Destruction,
-c. 1184–1155 BC,,"Elamite invasion of
-Babylonia",Elam,Babylonia,,https://en.wikipedia.org/wiki/Shutruk-Nakhunte#Invasion_of_Babylonia,https://en.wikipedia.org/wiki/Shutruk-Nakhunte#Invasion_of_Babylonia
+BC",Destruction of Ugarit[42],Unknown (probably the Sea\nPeoples),Ugarit,,https://en.wikipedia.org/wiki/Ugarit#Destruction,
+c. 1184–1155 BC,,Elamite invasion of\nBabylonia,Elam,Babylonia,,https://en.wikipedia.org/wiki/Shutruk-Nakhunte#Invasion_of_Babylonia,https://en.wikipedia.org/wiki/Shutruk-Nakhunte#Invasion_of_Babylonia
 "c.
 1110
 BC","c. 1110
-BC","Babylonian War with
-Elam[43]",Babylonia,Elam,,https://en.wikipedia.org/wiki/Nebuchadnezzar_I#War_with_Elam,https://en.wikipedia.org/wiki/Nebuchadnezzar_I#War_with_Elam
+BC",Babylonian War with\nElam[43],Babylonia,Elam,,https://en.wikipedia.org/wiki/Nebuchadnezzar_I#War_with_Elam,https://en.wikipedia.org/wiki/Nebuchadnezzar_I#War_with_Elam
 "c.
 1100
 BC","c. 1100
-BC",Kurukshetra war[44],"Forces of Pandavas under
-Yudhishthira","Forces of Kauravas
-under Duryodhana",,https://en.wikipedia.org/wiki/Kurukshetra_war,
+BC",Kurukshetra war[44],Forces of Pandavas under\nYudhishthira,Forces of Kauravas\nunder Duryodhana,,https://en.wikipedia.org/wiki/Kurukshetra_war,
 "c.
 1046
 BC","c. 1046
@@ -474,1484 +305,492 @@ BC",Shang–Zhou War[45][46],Zhou rebel forces,Shang dynasty,,https://en.wikiped
 "c.
 1042
 BC","c. 1039
-BC","Rebellion of the Three
-Guards[47]",King Cheng of Zhou,Shu Du of Cai,,https://en.wikipedia.org/wiki/Rebellion_of_the_Three_Guards,https://en.wikipedia.org/wiki/Rebellion_of_the_Three_Guards
-Start,Finish,Name of Conflict,Belligerents,,,,
-,,,Victorious,Defeated,,,
-854 BC,846 BC,"Assyrian conquest of
-Aram",Assyrian Empire,Aram,,https://en.wikipedia.org/wiki/Assyrian_conquest_of_Aram,https://en.wikipedia.org/wiki/Assyrian_conquest_of_Aram
+BC",Rebellion of the Three\nGuards[47],King Cheng of Zhou,Shu Du of Cai,,https://en.wikipedia.org/wiki/Rebellion_of_the_Three_Guards,https://en.wikipedia.org/wiki/Rebellion_of_the_Three_Guards
+Start,Finish,Name of Conflict,Belligerents,nan,,,
+,,nan,Victorious,Defeated,,,
+854 BC,846 BC,Assyrian conquest of\nAram,Assyrian Empire,Aram,,https://en.wikipedia.org/wiki/Assyrian_conquest_of_Aram,https://en.wikipedia.org/wiki/Assyrian_conquest_of_Aram
 757 BC,723 BC,Colchis conquer Diauehi,Colchis,Diauehi,,https://en.wikipedia.org/wiki/Colchis,
-752 BC,752 BC,"Wars with the Latins and
-the Sabines
-(for the Rape of the
-Sabine Women)",Roman Kingdom,Sabines,,https://en.wikipedia.org/wiki/Battle_of_the_Lacus_Curtius,https://en.wikipedia.org/wiki/Battle_of_the_Lacus_Curtius
+752 BC,752 BC,Wars with the Latins and\nthe Sabines\n(for the Rape of the\nSabine Women),Roman Kingdom,Sabines,,https://en.wikipedia.org/wiki/Battle_of_the_Lacus_Curtius,https://en.wikipedia.org/wiki/Battle_of_the_Lacus_Curtius
 "During the reign of
 Romulus
 (Between 753 and 716
 BC)",,Conquest of Cameria,Roman Kingdom,Cameria,,https://en.wikipedia.org/wiki/Cameria#Conquest_by_Romulus,
-,,War with Fidenae and Veii,Roman Kingdom,"Fidenae
-Veii",,https://en.wikipedia.org/wiki/Roman%E2%80%93Etruscan_Wars#War_with_Fidenae_and_Veii_under_Romulus,
+,,War with Fidenae and Veii,Roman Kingdom,Fidenae\nVeii,,https://en.wikipedia.org/wiki/Roman%E2%80%93Etruscan_Wars#War_with_Fidenae_and_Veii_under_Romulus,
 740 BC,720 BC,First Messenian War,Sparta,Messenia,,https://en.wikipedia.org/wiki/First_Messenian_War,
-736 BC,732 BC,Syro-Ephraimite War,"Assyrian Empire
-Kingdom of Judah","Aram
-Kingdom of Israel",,https://en.wikipedia.org/wiki/Syro-Ephraimite_War,
-733 BC,733 BC,Pekah-Ahaz War,Kingdom of Judah,"Israel
-Edom
-Philistia",,https://en.wikipedia.org/wiki/Pekah-Ahaz_War?action=edit&redlink=1,
+736 BC,732 BC,Syro-Ephraimite War,Assyrian Empire\nKingdom of Judah,Aram\nKingdom of Israel,,https://en.wikipedia.org/wiki/Syro-Ephraimite_War,
+733 BC,733 BC,Pekah-Ahaz War,Kingdom of Judah,Israel\nEdom\nPhilistia,,https://en.wikipedia.org/wiki/Pekah-Ahaz_War?action=edit&redlink=1,
 732 BC,"Before 721
-BC","Nubian Conquest of
-Egypt","Nubia
-Upper Egypt
-Hermopolis","Middle Egypt
-Lower Egypt",,https://en.wikipedia.org/wiki/Piye#Conquest_of_Egypt,https://en.wikipedia.org/wiki/Piye#Conquest_of_Egypt
-725 BC,725 BC,Colchian–Scythian war,Colchis,"Scythia
-Cimmerians",,https://en.wikipedia.org/wiki/Colchis#Persian_rule,
-722 BC,481 BC,"Wars of the Chinese
-Spring and Autumn period","Han
-Wei
-Zhao
-Qin
-Chu
-Qi
-Yan
-Those were the
-remaining major states","Smaller states
-(consumed by other
-states)",,https://en.wikipedia.org/wiki/Spring_and_Autumn_period,
+BC",Nubian Conquest of\nEgypt,Nubia\nUpper Egypt\nHermopolis,Middle Egypt\nLower Egypt,,https://en.wikipedia.org/wiki/Piye#Conquest_of_Egypt,https://en.wikipedia.org/wiki/Piye#Conquest_of_Egypt
+725 BC,725 BC,Colchian–Scythian war,Colchis,Scythia\nCimmerians,,https://en.wikipedia.org/wiki/Colchis#Persian_rule,
+722 BC,481 BC,Wars of the Chinese\nSpring and Autumn period,Han\nWei\nZhao\nQin\nChu\nQi\nYan\nThose were the\nremaining major states,Smaller states\n(consumed by other\nstates),,https://en.wikipedia.org/wiki/Spring_and_Autumn_period,
 714 BC,"After 706
 BC",Urartu–Assyria War,Neo-Assyrian Empire,Urartu,,https://en.wikipedia.org/wiki/Urartu%E2%80%93Assyria_War,
 710 BC,650 BC,Lelantine War,Eretria and allies,Chalcis and allies,,https://en.wikipedia.org/wiki/Lelantine_War,
-703 BC,689 BC,"Sennacherib's War with
-Babylon",Neo-Assyrian Empire,"Babylonia
-Chaldea
-Aramaea
-Elam",,https://en.wikipedia.org/wiki/Sennacherib#War_with_Babylon,https://en.wikipedia.org/wiki/Sennacherib#War_with_Babylon
-701 BC,701 BC,"Sennacherib's campaign
-in Judah","Kingdom of Judah
-Kushite Egypt",Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Sennacherib's_campaign_in_Judah,https://en.wikipedia.org/wiki/Sennacherib's_campaign_in_Judah
-685 BC,668 BC,Second Messenian War,"Sparta
-Corinth
-Lepreo
-Cretan mercenaries","Messenia
-Arcadia
-Sicyon
-Elis
-Argos",,https://en.wikipedia.org/wiki/Second_Messenian_War,
+703 BC,689 BC,Sennacherib's War with\nBabylon,Neo-Assyrian Empire,Babylonia\nChaldea\nAramaea\nElam,,https://en.wikipedia.org/wiki/Sennacherib#War_with_Babylon,https://en.wikipedia.org/wiki/Sennacherib#War_with_Babylon
+701 BC,701 BC,Sennacherib's campaign\nin Judah,Kingdom of Judah\nKushite Egypt,Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Sennacherib's_campaign_in_Judah,https://en.wikipedia.org/wiki/Sennacherib's_campaign_in_Judah
+685 BC,668 BC,Second Messenian War,Sparta\nCorinth\nLepreo\nCretan mercenaries,Messenia\nArcadia\nSicyon\nElis\nArgos,,https://en.wikipedia.org/wiki/Second_Messenian_War,
 "During the reign of Tullus
 Hostilius
 (Between 672 and 640
-BC)",,"Second War with Fidenae
-and Veii",Roman Kingdom,"Fidenae
-Veii",,"https://en.wikipedia.org/wiki/Roman%E2%80%93Etruscan_Wars#Second_War_with_Fidenae_and_Veii,_under_Tullus_Hostilius","https://en.wikipedia.org/wiki/Roman%E2%80%93Etruscan_Wars#Second_War_with_Fidenae_and_Veii,_under_Tullus_Hostilius"
+BC)",,Second War with Fidenae\nand Veii,Roman Kingdom,Fidenae\nVeii,,"https://en.wikipedia.org/wiki/Roman%E2%80%93Etruscan_Wars#Second_War_with_Fidenae_and_Veii,_under_Tullus_Hostilius","https://en.wikipedia.org/wiki/Roman%E2%80%93Etruscan_Wars#Second_War_with_Fidenae_and_Veii,_under_Tullus_Hostilius"
 ,,Second Sabine War,Roman Kingdom,Sabines,,https://en.wikipedia.org/wiki/Roman%E2%80%93Sabine_wars#War_with_Tullus_Hostilius,
-,,,,,,,
+,,nan,nan,nan,,,
 676 BC,676 BC,Mannaean-Assyrian War,Neo-Assyrian Empire,Mannaea,,https://en.wikipedia.org/wiki/Mannaea#History,
 671 BC,"After 664
-BC","Esarhaddon's War
-against Egypt",Neo-Assyrian Empire,"Egypt
-Kingdom of Kush",,https://en.wikipedia.org/wiki/Esarhaddon,https://en.wikipedia.org/wiki/Esarhaddon
+BC",Esarhaddon's War\nagainst Egypt,Neo-Assyrian Empire,Egypt\nKingdom of Kush,,https://en.wikipedia.org/wiki/Esarhaddon,https://en.wikipedia.org/wiki/Esarhaddon
 669 BC,,Battle of Hysiae,Argos,Sparta,,https://en.wikipedia.org/wiki/Battle_of_Hysiae_(c._669_BC),
-655 BC,639 BC,"Assyrian conquest of
-Elam",Neo-Assyrian Empire,Elam,,https://en.wikipedia.org/wiki/Assyrian_conquest_of_Elam,https://en.wikipedia.org/wiki/Assyrian_conquest_of_Elam
+655 BC,639 BC,Assyrian conquest of\nElam,Neo-Assyrian Empire,Elam,,https://en.wikipedia.org/wiki/Assyrian_conquest_of_Elam,https://en.wikipedia.org/wiki/Assyrian_conquest_of_Elam
 652 BC,"648 or 646
-BC","Shamash-shum-ukin's
-Civil War",Neo-Assyrian Empire,"Assyrian Babylon
-Mesopotamian Sealands
-Elam
-Chaldea
-Guti
-Amurru kingdom
-Meluhha
-Arab tribes",,https://en.wikipedia.org/wiki/Shamash-shum-ukin,https://en.wikipedia.org/wiki/Babylon#Assyrian_period
-643 BC,642 BC,War of Qi's succession,Faction of Prince Zhao,"Faction of Prince Wukui
-Faction of Prince Pan
-Faction of Prince
-Shangren
-Faction of Prince Yuan
-Faction of Prince Yong
-(Qi)
-Supported by:
-Lu
-Beidi",,https://en.wikipedia.org/wiki/War_of_Qi's_succession,
-642 BC,338 BC,Roman-Latin wars,"Roman Kingdom
-Roman Republic",Latins,,https://en.wikipedia.org/wiki/Roman-Latin_wars,
-632 BC,632 BC,Cylonian Affair,Athens,"Cylon of Athens
-Megara",,https://en.wikipedia.org/wiki/Cylon_of_Athens,
+BC",Shamash-shum-ukin's\nCivil War,Neo-Assyrian Empire,Assyrian Babylon\nMesopotamian Sealands\nElam\nChaldea\nGuti\nAmurru kingdom\nMeluhha\nArab tribes,,https://en.wikipedia.org/wiki/Shamash-shum-ukin,https://en.wikipedia.org/wiki/Babylon#Assyrian_period
+643 BC,642 BC,War of Qi's succession,Faction of Prince Zhao,Faction of Prince Wukui\nFaction of Prince Pan\nFaction of Prince\nShangren\nFaction of Prince Yuan\nFaction of Prince Yong\n(Qi)\nSupported by:\nLu\nBeidi,,https://en.wikipedia.org/wiki/War_of_Qi's_succession,
+642 BC,338 BC,Roman-Latin wars,Roman Kingdom\nRoman Republic,Latins,,https://en.wikipedia.org/wiki/Roman-Latin_wars,
+632 BC,632 BC,Cylonian Affair,Athens,Cylon of Athens\nMegara,,https://en.wikipedia.org/wiki/Cylon_of_Athens,
 626 BC,626 BC,Revolt of Babylon,Babylonia,Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Revolt_of_Babylon_(626_BC),
 625 BC,615 BC,Lydian-Miletus war,Lydia,Miletus,,https://en.wikipedia.org/wiki/Lydian-Miletus_war?action=edit&redlink=1,
-614 BC,614 BC,Fall of Assur,"Neo-Babylonian
-Empire
-Media",Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Fall_of_Assur,
-c. 612 BC,c. 612 BC,Battle of Nineveh,"Medes (including:
-Persians and Elamites)
-Scythians
-Neo-Babylonian
-Empire
-Chaldea
-Cimmerians",Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Battle_of_Nineveh_(612_BC),
-610 BC,609 BC,Fall of Harran,"Neo-Babylonian
-Empire
-Media",Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Fall_of_Harran,
-c. 605 BC,c. 605 BC,Battle of Carchemish,"Neo-Babylonian
-Empire","Egypt
-Remnants of the Neo-
-Assyrian Empire",,https://en.wikipedia.org/wiki/Battle_of_Carchemish,
-601 BC,586 BC,Jewish–Babylonian war,"Neo-Babylonian
-Empire
-Moab
-Ammon
-Chaldea",Kingdom of Judah,,https://en.wikipedia.org/wiki/Jewish%E2%80%93Babylonian_war,
-590 BC,585 BC,"Median-Lydian war
-(Battle of the Eclipse)",Medes,Lydia,,https://en.wikipedia.org/wiki/Median-Lydian_war?action=edit&redlink=1,https://en.wikipedia.org/wiki/Battle_of_the_Eclipse
-,,,,,,,
-Before 588 BC,,"Tarquin the Elder's war
-with the Latins",Roman Kingdom,Latin League,,https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus#War_with_the_Latins,https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus#War_with_the_Latins
-595 BC,585 BC,First Sacred War,"Amphictyonic League of
-Delphi
-Sicyon",Kirrha,,https://en.wikipedia.org/wiki/First_Sacred_War,
+614 BC,614 BC,Fall of Assur,Neo-Babylonian\nEmpire\nMedia,Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Fall_of_Assur,
+c. 612 BC,c. 612 BC,Battle of Nineveh,Medes (including:\nPersians and Elamites)\nScythians\nNeo-Babylonian\nEmpire\nChaldea\nCimmerians,Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Battle_of_Nineveh_(612_BC),
+610 BC,609 BC,Fall of Harran,Neo-Babylonian\nEmpire\nMedia,Neo-Assyrian Empire,,https://en.wikipedia.org/wiki/Fall_of_Harran,
+c. 605 BC,c. 605 BC,Battle of Carchemish,Neo-Babylonian\nEmpire,Egypt\nRemnants of the Neo-\nAssyrian Empire,,https://en.wikipedia.org/wiki/Battle_of_Carchemish,
+601 BC,586 BC,Jewish–Babylonian war,Neo-Babylonian\nEmpire\nMoab\nAmmon\nChaldea,Kingdom of Judah,,https://en.wikipedia.org/wiki/Jewish%E2%80%93Babylonian_war,
+590 BC,585 BC,Median-Lydian war\n(Battle of the Eclipse),Medes,Lydia,,https://en.wikipedia.org/wiki/Median-Lydian_war?action=edit&redlink=1,https://en.wikipedia.org/wiki/Battle_of_the_Eclipse
+,,nan,nan,nan,,,
+Before 588 BC,,Tarquin the Elder's war\nwith the Latins,Roman Kingdom,Latin League,,https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus#War_with_the_Latins,https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus#War_with_the_Latins
+595 BC,585 BC,First Sacred War,Amphictyonic League of\nDelphi\nSicyon,Kirrha,,https://en.wikipedia.org/wiki/First_Sacred_War,
 "Before 585
-BC",585 BC,"Tarquin the Elder's war
-with the Sabines",Roman Kingdom,Sabines,,https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus#War_with_the_Sabines,https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus#War_with_the_Sabines
+BC",585 BC,Tarquin the Elder's war\nwith the Sabines,Roman Kingdom,Sabines,,https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus#War_with_the_Sabines,https://en.wikipedia.org/wiki/Lucius_Tarquinius_Priscus#War_with_the_Sabines
 "Between 560 BC and 540
 BC",,Achaemenid Colchis war,Achaemenid Empire,Colchis,,https://en.wikipedia.org/wiki/Colchis#Persian_rule,
-c. 570 BC,,"Battle of the Well of
-Thestis",Cyrenaica,Egypt,,https://en.wikipedia.org/wiki/Battle_of_the_Well_of_Thestis?action=edit&redlink=1,https://en.wikipedia.org/wiki/Battle_of_the_Well_of_Thestis?action=edit&redlink=1
-552 BC,539 BC,Wars of Cyrus the Great,"Persis/Achaemenid
-Empire of Persia","Median Empire
-Neo-Babylonian
-Empire
-Lydian Empire
-Gandhara Empire
-Sogdiana",,https://en.wikipedia.org/wiki/Wars_of_Cyrus_the_Great,
-552 BC,550 BC,"Persian Revolt
-",Persis,Median Empire,"Wars of Cyrus
-the Great",https://en.wikipedia.org/wiki/Persian_Revolt,
+c. 570 BC,,Battle of the Well of\nThestis,Cyrenaica,Egypt,,https://en.wikipedia.org/wiki/Battle_of_the_Well_of_Thestis?action=edit&redlink=1,https://en.wikipedia.org/wiki/Battle_of_the_Well_of_Thestis?action=edit&redlink=1
+552 BC,539 BC,Wars of Cyrus the Great,Persis/Achaemenid\nEmpire of Persia,Median Empire\nNeo-Babylonian\nEmpire\nLydian Empire\nGandhara Empire\nSogdiana,,https://en.wikipedia.org/wiki/Wars_of_Cyrus_the_Great,
+552 BC,550 BC,Persian Revolt\n,Persis,Median Empire,Wars of Cyrus\nthe Great,https://en.wikipedia.org/wiki/Persian_Revolt,
 550 BC,,Battle of the Fetters,Tegea,Sparta,,https://en.wikipedia.org/wiki/Battle_of_the_Fetters,
-547 BC,547 BC,"Cyrus' Conquest of the
-Lydian Empire
-",Achaemenid Empire,Lydia,"Wars of Cyrus
-the Great",https://en.wikipedia.org/wiki/Wars_of_Cyrus_the_Great#Lydian_Empire_and_Asia_Minor,https://en.wikipedia.org/wiki/Wars_of_Cyrus_the_Great#Lydian_Empire_and_Asia_Minor
+547 BC,547 BC,Cyrus' Conquest of the\nLydian Empire\n,Achaemenid Empire,Lydia,Wars of Cyrus\nthe Great,https://en.wikipedia.org/wiki/Wars_of_Cyrus_the_Great#Lydian_Empire_and_Asia_Minor,https://en.wikipedia.org/wiki/Wars_of_Cyrus_the_Great#Lydian_Empire_and_Asia_Minor
 546 BC,,Battle of Pallene,Peisistratos,Athens,,,
-546 BC,,"Battle of the 300
-Champions",Sparta,Argos,,https://en.wikipedia.org/wiki/Battle_of_the_300_Champions,https://en.wikipedia.org/wiki/Battle_of_the_300_Champions
-540 BC,539 BC,"Cyrus' Conquest of Elam
-",Achaemenid Empire,Elam,"Wars of Cyrus
-the Great",https://en.wikipedia.org/wiki/Elam#Neo-Elamite_III_(646%E2%80%93539_BC),
-540 BC,,Battle of Alalia,"Carthage
-Etruscans",Phocaeans,,https://en.wikipedia.org/wiki/Battle_of_Alalia,
-539 BC,539 BC,"Cyrus' Conquest of
-Babylonia
-",Achaemenid Empire,"Neo-Babylonian
-Empire","Wars of Cyrus
-the Great",https://en.wikipedia.org/wiki/Battle_of_Opis,https://en.wikipedia.org/wiki/Battle_of_Opis
-Between 540 and 535 BC,,Battle of Alalia,"Carthage
-Etruscans","Greek Phocaean
-Colonies of Alalia",,https://en.wikipedia.org/wiki/Battle_of_Alalia,
-518 BC,518 BC,"Achaemenid invasion of
-the Indus Valley",Achaemenid Empire,"Gandhara
-Kambojas",,https://en.wikipedia.org/wiki/Achaemenid_invasion_of_the_Indus_Valley,https://en.wikipedia.org/wiki/Achaemenid_invasion_of_the_Indus_Valley
-508 BC,507 BC,Athenian Revolution,Athens,"Isagoras
-Peloponnesian League",,https://en.wikipedia.org/wiki/Athenian_Revolution,
-499 BC,494 BC,"Ionian Revolt
-",Achaemenid Empire,"Ionia
-Aeolis
-Doris
-Caria
-Athens
-Eretria
-Cyprus",Persian Wars,https://en.wikipedia.org/wiki/Ionian_Revolt,
-,,,,,,,
-499 BC,448 BC,Greco-Persian Wars,"Greek city states:
-Athens
-Sparta
-Thespians
-Thebans
-Other Greek Forces
-Cyprus
-Delian League
-Other pro-Greek Forces","Achaemenid Empire
-Other pro-Persian Forces",,https://en.wikipedia.org/wiki/Greco-Persian_Wars,
+546 BC,,Battle of the 300\nChampions,Sparta,Argos,,https://en.wikipedia.org/wiki/Battle_of_the_300_Champions,https://en.wikipedia.org/wiki/Battle_of_the_300_Champions
+540 BC,539 BC,Cyrus' Conquest of Elam\n,Achaemenid Empire,Elam,Wars of Cyrus\nthe Great,https://en.wikipedia.org/wiki/Elam#Neo-Elamite_III_(646%E2%80%93539_BC),
+540 BC,,Battle of Alalia,Carthage\nEtruscans,Phocaeans,,https://en.wikipedia.org/wiki/Battle_of_Alalia,
+539 BC,539 BC,Cyrus' Conquest of\nBabylonia\n,Achaemenid Empire,Neo-Babylonian\nEmpire,Wars of Cyrus\nthe Great,https://en.wikipedia.org/wiki/Battle_of_Opis,https://en.wikipedia.org/wiki/Battle_of_Opis
+Between 540 and 535 BC,,Battle of Alalia,Carthage\nEtruscans,Greek Phocaean\nColonies of Alalia,,https://en.wikipedia.org/wiki/Battle_of_Alalia,
+518 BC,518 BC,Achaemenid invasion of\nthe Indus Valley,Achaemenid Empire,Gandhara\nKambojas,,https://en.wikipedia.org/wiki/Achaemenid_invasion_of_the_Indus_Valley,https://en.wikipedia.org/wiki/Achaemenid_invasion_of_the_Indus_Valley
+508 BC,507 BC,Athenian Revolution,Athens,Isagoras\nPeloponnesian League,,https://en.wikipedia.org/wiki/Athenian_Revolution,
+499 BC,494 BC,Ionian Revolt\n,Achaemenid Empire,Ionia\nAeolis\nDoris\nCaria\nAthens\nEretria\nCyprus,Persian Wars,https://en.wikipedia.org/wiki/Ionian_Revolt,
+,,nan,nan,nan,,,
+499 BC,448 BC,Greco-Persian Wars,Greek city states:\nAthens\nSparta\nThespians\nThebans\nOther Greek Forces\nCyprus\nDelian League\nOther pro-Greek Forces,Achaemenid Empire\nOther pro-Persian Forces,,https://en.wikipedia.org/wiki/Greco-Persian_Wars,
 498 BC,493 BC,Latin War (498–493 BC),Roman Republic,Latin League,,https://en.wikipedia.org/wiki/Latin_War_(498%E2%80%93493_BC),
-492 BC,490 BC,"First Persian invasion of
-Greece
-",Achaemenid Empire,"Ionia
-Aeolis
-Doris
-Caria
-Athens
-Eretria
-Cyprus",Persian Wars,https://en.wikipedia.org/wiki/First_Persian_invasion_of_Greece,https://en.wikipedia.org/wiki/First_Persian_invasion_of_Greece
-484 BC,484 BC,"Babylonian revolts (484
-BC)",Achaemenid Empire,Babylonian Cities,,https://en.wikipedia.org/wiki/Babylonian_revolts_(484_BC),https://en.wikipedia.org/wiki/Babylonian_revolts_(484_BC)
-480 BC,479 BC,"Second Persian invasion
-of Greece
-","Greek city states led by
-Athens and Sparta",Persian Empire,Persian Wars,https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece,https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece
-487 BC,448 BC,"Greek counterattack
-","Greek city states led by
-Athens and Sparta",Persian Empire,Persian Wars,https://en.wikipedia.org/wiki/Persian_Wars,
-480 BC,480 BC,"First Sicilian campaign
-(Battle of Himera)
-","Syracuse
-Agrigentum",Carthage,Sicilian Wars,https://en.wikipedia.org/wiki/Sicilian_Wars,https://en.wikipedia.org/wiki/Battle_of_Himera_(480_BC)
-478 BC,449 BC,"Wars of the Delian
-League","Delian League
-Egyptian rebels (until
-454 BC)",Persian Empire,,https://en.wikipedia.org/wiki/Wars_of_the_Delian_League,https://en.wikipedia.org/wiki/Wars_of_the_Delian_League
-478 BC,478 BC,"Siege of Byzantion (478
-BC)
-",Delian League,Persian Empire,"Wars of the
-Delian League",https://en.wikipedia.org/wiki/Siege_of_Byzantion_(478_BC)?action=edit&redlink=1,https://en.wikipedia.org/wiki/Siege_of_Byzantion_(478_BC)?action=edit&redlink=1
+492 BC,490 BC,First Persian invasion of\nGreece\n,Achaemenid Empire,Ionia\nAeolis\nDoris\nCaria\nAthens\nEretria\nCyprus,Persian Wars,https://en.wikipedia.org/wiki/First_Persian_invasion_of_Greece,https://en.wikipedia.org/wiki/First_Persian_invasion_of_Greece
+484 BC,484 BC,Babylonian revolts (484\nBC),Achaemenid Empire,Babylonian Cities,,https://en.wikipedia.org/wiki/Babylonian_revolts_(484_BC),https://en.wikipedia.org/wiki/Babylonian_revolts_(484_BC)
+480 BC,479 BC,Second Persian invasion\nof Greece\n,Greek city states led by\nAthens and Sparta,Persian Empire,Persian Wars,https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece,https://en.wikipedia.org/wiki/Second_Persian_invasion_of_Greece
+487 BC,448 BC,Greek counterattack\n,Greek city states led by\nAthens and Sparta,Persian Empire,Persian Wars,https://en.wikipedia.org/wiki/Persian_Wars,
+480 BC,480 BC,First Sicilian campaign\n(Battle of Himera)\n,Syracuse\nAgrigentum,Carthage,Sicilian Wars,https://en.wikipedia.org/wiki/Sicilian_Wars,https://en.wikipedia.org/wiki/Battle_of_Himera_(480_BC)
+478 BC,449 BC,Wars of the Delian\nLeague,Delian League\nEgyptian rebels (until\n454 BC),Persian Empire,,https://en.wikipedia.org/wiki/Wars_of_the_Delian_League,https://en.wikipedia.org/wiki/Wars_of_the_Delian_League
+478 BC,478 BC,Siege of Byzantion (478\nBC)\n,Delian League,Persian Empire,Wars of the\nDelian League,https://en.wikipedia.org/wiki/Siege_of_Byzantion_(478_BC)?action=edit&redlink=1,https://en.wikipedia.org/wiki/Siege_of_Byzantion_(478_BC)?action=edit&redlink=1
 477 BC,477 BC,Battle of the Cremera,Veii,Roman Republic,,https://en.wikipedia.org/wiki/Battle_of_the_Cremera,
-477 BC,463 BC,"Delian campaigns in
-Thrace
-","Delian League
-Sparta (partially)",Persian Empire,"Wars of the
-Delian League",https://en.wikipedia.org/wiki/Delian_campaigns_in_Thrace?action=edit&redlink=1,https://en.wikipedia.org/wiki/Delian_campaigns_in_Thrace?action=edit&redlink=1
-475 BC,221 BC,"Wars of Warring States
-period in China",Seven Warring States,Seven Warring States,,https://en.wikipedia.org/wiki/Warring_States_period,https://en.wikipedia.org/wiki/Warring_States_period
+477 BC,463 BC,Delian campaigns in\nThrace\n,Delian League\nSparta (partially),Persian Empire,Wars of the\nDelian League,https://en.wikipedia.org/wiki/Delian_campaigns_in_Thrace?action=edit&redlink=1,https://en.wikipedia.org/wiki/Delian_campaigns_in_Thrace?action=edit&redlink=1
+475 BC,221 BC,Wars of Warring States\nperiod in China,Seven Warring States,Seven Warring States,,https://en.wikipedia.org/wiki/Warring_States_period,https://en.wikipedia.org/wiki/Warring_States_period
 475 BC,475 BC,Conquest of Skyros,Delian League,Dolopian pirates,,https://en.wikipedia.org/wiki/Conquest_of_Skyros?action=edit&redlink=1,
 475 BC,475 BC,Subjugation of Carystus,Delian League,Carystus,,https://en.wikipedia.org/wiki/Subjugation_of_Carystus?action=edit&redlink=1,
-474 BC,474 BC,Battle of Cumae,"Syracuse
-Cumae",Etruscans,,https://en.wikipedia.org/wiki/Battle_of_Cumae_(474_BC),
+474 BC,474 BC,Battle of Cumae,Syracuse\nCumae,Etruscans,,https://en.wikipedia.org/wiki/Battle_of_Cumae_(474_BC),
 472 BC,471 BC,Subjugation of Naxos,Athens,Naxos,,https://en.wikipedia.org/wiki/Subjugation_of_Naxos?action=edit&redlink=1,
-469 BC,466 BC,"Delian campaigns in
-Caria
-",Delian League,Persian Empire,"Wars of the
-Delian League",https://en.wikipedia.org/wiki/Delian_campaigns_in_Caria?action=edit&redlink=1,https://en.wikipedia.org/wiki/Delian_campaigns_in_Caria?action=edit&redlink=1
+469 BC,466 BC,Delian campaigns in\nCaria\n,Delian League,Persian Empire,Wars of the\nDelian League,https://en.wikipedia.org/wiki/Delian_campaigns_in_Caria?action=edit&redlink=1,https://en.wikipedia.org/wiki/Delian_campaigns_in_Caria?action=edit&redlink=1
 468 BC,468 BC,Attack on Phaselis,Delian League,Phaselis,,https://en.wikipedia.org/wiki/Attack_on_Phaselis?action=edit&redlink=1,
 465 BC,463 BC,Siege of Thasos,Athens,Thasos,,https://en.wikipedia.org/wiki/Siege_of_Thasos,
-465 BC,464 BC,"Campaign at the Nine
-Ways",Thrace,Delian League,,https://en.wikipedia.org/wiki/Campaign_at_the_Nine_Ways?action=edit&redlink=1,https://en.wikipedia.org/wiki/Campaign_at_the_Nine_Ways?action=edit&redlink=1
-464 BC,464 BC,"Helot Revolt during the
-464 BC Sparta
-earthquake","Sparta
-Peloponnesian League","Helots
-Perioeci",,https://en.wikipedia.org/wiki/Helots,https://en.wikipedia.org/wiki/464_BC_Sparta_earthquake
-460 BC,445 BC,First Peloponnesian War,"Delian League led by
-Athens, Argos","Peloponnesian League
-led by Sparta, Thebes",,https://en.wikipedia.org/wiki/First_Peloponnesian_War,
-460 BC,454 BC,"Rebellion of Inaros II
-","Persian Empire
-XXVII Dynasty of
-Egypt","Egyptian rebels led by
-Inaros II
-Delian League","Wars of the
-Delian League",https://en.wikipedia.org/wiki/Inaros_II,
-460 BC,457 BC,"Siege of Aegina
-",Athens,"Aegina
-Supported by:
-Peloponnesian League","First
-Peloponnesian War",https://en.wikipedia.org/wiki/Siege_of_Aegina,
-450 BC,450 BC,"Cimon's Campaign in
-Cyprus
-",Persian Empire,"Delian League led by
-Cimon","Wars of the
-Delian League",https://en.wikipedia.org/wiki/Cimon's_Campaign_in_Cyprus?action=edit&redlink=1,https://en.wikipedia.org/wiki/Cimon's_Campaign_in_Cyprus?action=edit&redlink=1
-449 BC,448 BC,"Second Sacred War
-",Phocis,"Sparta
-Delphi","First
-Peloponnesian War",https://en.wikipedia.org/wiki/Second_Sacred_War,https://en.wikipedia.org/wiki/First_Peloponnesian_War
-446 BC,446 BC,"Euboean Revolt of 446
-BC
-",Euboea,Athens,"First
-Peloponnesian War",,
-446 BC,445 BC,"Megara Revolt against
-the Delian League
-","Megara
-Peloponnesian League",Athens,"First
-Peloponnesian War",,
+465 BC,464 BC,Campaign at the Nine\nWays,Thrace,Delian League,,https://en.wikipedia.org/wiki/Campaign_at_the_Nine_Ways?action=edit&redlink=1,https://en.wikipedia.org/wiki/Campaign_at_the_Nine_Ways?action=edit&redlink=1
+464 BC,464 BC,Helot Revolt during the\n464 BC Sparta\nearthquake,Sparta\nPeloponnesian League,Helots\nPerioeci,,https://en.wikipedia.org/wiki/Helots,https://en.wikipedia.org/wiki/464_BC_Sparta_earthquake
+460 BC,445 BC,First Peloponnesian War,"Delian League led by\nAthens, Argos","Peloponnesian League\nled by Sparta, Thebes",,https://en.wikipedia.org/wiki/First_Peloponnesian_War,
+460 BC,454 BC,Rebellion of Inaros II\n,Persian Empire\nXXVII Dynasty of\nEgypt,Egyptian rebels led by\nInaros II\nDelian League,Wars of the\nDelian League,https://en.wikipedia.org/wiki/Inaros_II,
+460 BC,457 BC,Siege of Aegina\n,Athens,Aegina\nSupported by:\nPeloponnesian League,First\nPeloponnesian War,https://en.wikipedia.org/wiki/Siege_of_Aegina,
+450 BC,450 BC,Cimon's Campaign in\nCyprus\n,Persian Empire,Delian League led by\nCimon,Wars of the\nDelian League,https://en.wikipedia.org/wiki/Cimon's_Campaign_in_Cyprus?action=edit&redlink=1,https://en.wikipedia.org/wiki/Cimon's_Campaign_in_Cyprus?action=edit&redlink=1
+449 BC,448 BC,Second Sacred War\n,Phocis,Sparta\nDelphi,First\nPeloponnesian War,https://en.wikipedia.org/wiki/Second_Sacred_War,https://en.wikipedia.org/wiki/First_Peloponnesian_War
+446 BC,446 BC,Euboean Revolt of 446\nBC\n,Euboea,Athens,First\nPeloponnesian War,,
+446 BC,445 BC,Megara Revolt against\nthe Delian League\n,Megara\nPeloponnesian League,Athens,First\nPeloponnesian War,,
 440 BC,440 BC,Samian War,Athens,Samos,,https://en.wikipedia.org/wiki/Samian_War,
 431 BC,404 BC,Peloponnesian War,Peloponnesian League,Delian League,,https://en.wikipedia.org/wiki/Peloponnesian_War,
 411 BC,411 BC,Athenian coup of 411 BC,The Four Hundred,Athens,,https://en.wikipedia.org/wiki/Athenian_coup_of_411_BC,
-410 BC,340 BC,"Second Sicilian War
-","Syracuse
-Corinth
-Sparta","Athens
-Delian League
-Segesta",Sicilian Wars,https://en.wikipedia.org/wiki/Sicilian_Wars,
-395 BC,387 BC,Corinthian War,"Athens
-Argos
-Corinth
-Thebes
-Persian Empire
-Other allies","Sparta
-Peloponnesian League",,https://en.wikipedia.org/wiki/Corinthian_War,
+410 BC,340 BC,Second Sicilian War\n,Syracuse\nCorinth\nSparta,Athens\nDelian League\nSegesta,Sicilian Wars,https://en.wikipedia.org/wiki/Sicilian_Wars,
+395 BC,387 BC,Corinthian War,Athens\nArgos\nCorinth\nThebes\nPersian Empire\nOther allies,Sparta\nPeloponnesian League,,https://en.wikipedia.org/wiki/Corinthian_War,
 "390 BC (traditional)
 387 BC (probable)",,Battle of the Allia,Gauls,Roman Republic,,https://en.wikipedia.org/wiki/Battle_of_the_Allia,
-385 BC,385 BC,"Artaxerxes' II Cadusian
-Campaign",Cadusii,Persian Empire,,https://en.wikipedia.org/wiki/Artaxerxes'_II_Cadusian_Campaign,https://en.wikipedia.org/wiki/Artaxerxes'_II_Cadusian_Campaign
-385 BC,385 BC,"Dardanian invasion of
-Epirus","Kingdom of Dardania
-Supported by:
-Syracuse","Molossia
-Sparta
-Supported by:
-Thessaly
-Macedonia",,https://en.wikipedia.org/wiki/Dardanian_invasion_of_Epirus,https://en.wikipedia.org/wiki/Dardanian_invasion_of_Epirus
-,,,,,,,
-382 BC,379 BC,First Olynthian War,"Peloponnesian League
-Macedonia",Chalcidian League,,https://en.wikipedia.org/wiki/First_Olynthian_War,
-378 BC,372 BC,Boeotian War,"Thebes
-Athens",Sparta,,https://en.wikipedia.org/wiki/Boeotian_War,
+385 BC,385 BC,Artaxerxes' II Cadusian\nCampaign,Cadusii,Persian Empire,,https://en.wikipedia.org/wiki/Artaxerxes'_II_Cadusian_Campaign,https://en.wikipedia.org/wiki/Artaxerxes'_II_Cadusian_Campaign
+385 BC,385 BC,Dardanian invasion of\nEpirus,Kingdom of Dardania\nSupported by:\nSyracuse,Molossia\nSparta\nSupported by:\nThessaly\nMacedonia,,https://en.wikipedia.org/wiki/Dardanian_invasion_of_Epirus,https://en.wikipedia.org/wiki/Dardanian_invasion_of_Epirus
+,,nan,nan,nan,,,
+382 BC,379 BC,First Olynthian War,Peloponnesian League\nMacedonia,Chalcidian League,,https://en.wikipedia.org/wiki/First_Olynthian_War,
+378 BC,372 BC,Boeotian War,Thebes\nAthens,Sparta,,https://en.wikipedia.org/wiki/Boeotian_War,
 372 BC,362 BC,Revolt of the Satraps,Achaemenid Empire,Rebel satrapies,,https://en.wikipedia.org/wiki/Revolt_of_the_Satraps,
-371 BC,371 BC,"First Spartan Revolt
-against the Boeotian
-League",Boeotian League,Sparta,,https://en.wikipedia.org/wiki/Battle_of_Leuctra,https://en.wikipedia.org/wiki/Battle_of_Leuctra
-362 BC,362 BC,"Second Spartan Revolt
-against the Boeotian
-League","Boeotian League led by
-Thebes","Sparta
-Athens
-Elis
-Mantineia",,https://en.wikipedia.org/wiki/Battle_of_Mantinea_(362_BC),https://en.wikipedia.org/wiki/Battle_of_Mantinea_(362_BC)
-360 BC,360 BC,"Perdiccas III's expedition
-in Upper Macedonia[48]",Kingdom of Dardania,Macedonia,,https://en.wikipedia.org/wiki/Perdiccas_III_of_Macedon,
-358 BC,336 BC,"Wars of the Rise of
-Macedon",Macedon,"Greek city states
-Illyrians
-Thracians",,https://en.wikipedia.org/wiki/Rise_of_Macedon,https://en.wikipedia.org/wiki/Rise_of_Macedon
-357 BC,355 BC,Social War,"Chios
-Rhodes
-Kos
-Byzantion",Second Athenian League,,https://en.wikipedia.org/wiki/Social_War_(357-355_BC),
-356 BC,346 BC,Third Sacred War,Amphictyonic League,"Phocis
-Pherae
-Athens
-Sparta",,https://en.wikipedia.org/wiki/Third_Sacred_War,
-343 BC,341 BC,"First Samnite War
-","Roman Republic
-Sidicini
-Campanians",Samnites,Samnite Wars,https://en.wikipedia.org/wiki/First_Samnite_War,https://en.wikipedia.org/wiki/Samnite_Wars
-340 BC,338 BC,Latin War,"Roman Republic
-Samnites","Latin League
-Campanians
-Volsci
-Sidicini
-Aurunci",,https://en.wikipedia.org/wiki/Latin_War,
-339 BC,338 BC,"Philip II's campaign in
-Greece (Fourth Sacred
-War)",Macedon,"Athens
-Thebes
-Corinth
-Megara
-Achaea
-Chalcis
-Epidaurus
-Troezen",,https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC),https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)
-327 BC,304 BC,"Second Samnite War
-","Roman Republic
-Volsci","Samnites
-Sidicini
-Aurunci
-Ausoni
-Vestini",Samnite Wars,https://en.wikipedia.org/wiki/Second_Samnite_War,
-334 BC,323 BC,"Wars of Alexander the
-Great",Macedon,"Persian Empire
-Pauravas
-Greek city states
-Thrace
-Getae
-Sogdiana",,https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great,https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great
-,,,,,,,
-332 BC,331 BC,"Rebellion against
-Macedonian Rule",Macedon,"Sparta
-Thracian tribes",,https://en.wikipedia.org/wiki/Battle_of_Megalopolis,https://en.wikipedia.org/wiki/Battle_of_Megalopolis
-323 BC,322 BC,Lamian War,Macedon,"Athens
-Aetolian League
-Achaean League
-Arcadians
-Corinth",,https://en.wikipedia.org/wiki/Lamian_War,
-321 BC,320 BC,"Conquest of the Nanda
-Empire",Maurya Empire,Nanda Empire,,https://en.wikipedia.org/wiki/Conquest_of_the_Nanda_Empire,https://en.wikipedia.org/wiki/Conquest_of_the_Nanda_Empire
-315 BC,307 BC,"Third Sicilian campaign
-",Carthage,Syracuse,Sicilian Wars,https://en.wikipedia.org/wiki/Sicilian_Wars,
-312 BC,312 BC,"Antigonid–Nabataean
-confrontations
-",Nabataean Kingdom,Antigonid dynasty,"Wars of the
-Diadochi",https://en.wikipedia.org/wiki/Antigonid%E2%80%93Nabataean_confrontations,https://en.wikipedia.org/wiki/Antigonid%E2%80%93Nabataean_confrontations
-311 BC,309 BC,"Babylonian War
-",Seleucid Empire,Antigonid dynasty,"Wars of the
-Diadochi",https://en.wikipedia.org/wiki/Babylonian_War,
-311 BC,309 BC,Bosporan Civil War,The Siraceni,"Bosporans
-Scythians",,https://en.wikipedia.org/wiki/Bosporan_Civil_War,
-305 BC,304 BC,"Siege of Rhodes
-","Rhodes
-Ptolemaic Kingdom
-Seleucid Empire",Antigonid dynasty,"Wars of the
-Diadochi",https://en.wikipedia.org/wiki/Siege_of_Rhodes_(305%E2%80%93304_BC),
+371 BC,371 BC,First Spartan Revolt\nagainst the Boeotian\nLeague,Boeotian League,Sparta,,https://en.wikipedia.org/wiki/Battle_of_Leuctra,https://en.wikipedia.org/wiki/Battle_of_Leuctra
+362 BC,362 BC,Second Spartan Revolt\nagainst the Boeotian\nLeague,Boeotian League led by\nThebes,Sparta\nAthens\nElis\nMantineia,,https://en.wikipedia.org/wiki/Battle_of_Mantinea_(362_BC),https://en.wikipedia.org/wiki/Battle_of_Mantinea_(362_BC)
+360 BC,360 BC,Perdiccas III's expedition\nin Upper Macedonia[48],Kingdom of Dardania,Macedonia,,https://en.wikipedia.org/wiki/Perdiccas_III_of_Macedon,
+358 BC,336 BC,Wars of the Rise of\nMacedon,Macedon,Greek city states\nIllyrians\nThracians,,https://en.wikipedia.org/wiki/Rise_of_Macedon,https://en.wikipedia.org/wiki/Rise_of_Macedon
+357 BC,355 BC,Social War,Chios\nRhodes\nKos\nByzantion,Second Athenian League,,https://en.wikipedia.org/wiki/Social_War_(357-355_BC),
+356 BC,346 BC,Third Sacred War,Amphictyonic League,Phocis\nPherae\nAthens\nSparta,,https://en.wikipedia.org/wiki/Third_Sacred_War,
+343 BC,341 BC,First Samnite War\n,Roman Republic\nSidicini\nCampanians,Samnites,Samnite Wars,https://en.wikipedia.org/wiki/First_Samnite_War,https://en.wikipedia.org/wiki/Samnite_Wars
+340 BC,338 BC,Latin War,Roman Republic\nSamnites,Latin League\nCampanians\nVolsci\nSidicini\nAurunci,,https://en.wikipedia.org/wiki/Latin_War,
+339 BC,338 BC,Philip II's campaign in\nGreece (Fourth Sacred\nWar),Macedon,Athens\nThebes\nCorinth\nMegara\nAchaea\nChalcis\nEpidaurus\nTroezen,,https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC),https://en.wikipedia.org/wiki/Battle_of_Chaeronea_(338_BC)
+327 BC,304 BC,Second Samnite War\n,Roman Republic\nVolsci,Samnites\nSidicini\nAurunci\nAusoni\nVestini,Samnite Wars,https://en.wikipedia.org/wiki/Second_Samnite_War,
+334 BC,323 BC,Wars of Alexander the\nGreat,Macedon,Persian Empire\nPauravas\nGreek city states\nThrace\nGetae\nSogdiana,,https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great,https://en.wikipedia.org/wiki/Wars_of_Alexander_the_Great
+,,nan,nan,nan,,,
+332 BC,331 BC,Rebellion against\nMacedonian Rule,Macedon,Sparta\nThracian tribes,,https://en.wikipedia.org/wiki/Battle_of_Megalopolis,https://en.wikipedia.org/wiki/Battle_of_Megalopolis
+323 BC,322 BC,Lamian War,Macedon,Athens\nAetolian League\nAchaean League\nArcadians\nCorinth,,https://en.wikipedia.org/wiki/Lamian_War,
+321 BC,320 BC,Conquest of the Nanda\nEmpire,Maurya Empire,Nanda Empire,,https://en.wikipedia.org/wiki/Conquest_of_the_Nanda_Empire,https://en.wikipedia.org/wiki/Conquest_of_the_Nanda_Empire
+315 BC,307 BC,Third Sicilian campaign\n,Carthage,Syracuse,Sicilian Wars,https://en.wikipedia.org/wiki/Sicilian_Wars,
+312 BC,312 BC,Antigonid–Nabataean\nconfrontations\n,Nabataean Kingdom,Antigonid dynasty,Wars of the\nDiadochi,https://en.wikipedia.org/wiki/Antigonid%E2%80%93Nabataean_confrontations,https://en.wikipedia.org/wiki/Antigonid%E2%80%93Nabataean_confrontations
+311 BC,309 BC,Babylonian War\n,Seleucid Empire,Antigonid dynasty,Wars of the\nDiadochi,https://en.wikipedia.org/wiki/Babylonian_War,
+311 BC,309 BC,Bosporan Civil War,The Siraceni,Bosporans\nScythians,,https://en.wikipedia.org/wiki/Bosporan_Civil_War,
+305 BC,304 BC,Siege of Rhodes\n,Rhodes\nPtolemaic Kingdom\nSeleucid Empire,Antigonid dynasty,Wars of the\nDiadochi,https://en.wikipedia.org/wiki/Siege_of_Rhodes_(305%E2%80%93304_BC),
 305 BC,303 BC,Seleucid-Mauryan War,Maurya Empire,Seleucid Empire,,https://en.wikipedia.org/wiki/Seleucid-Mauryan_War,
 c. 300 BC,c. 300 BC,Gojoseon–Yan War,Yan,Gojoseon,,https://en.wikipedia.org/wiki/Gojoseon%E2%80%93Yan_War,
-298 BC,290 BC,"Third Samnite War
-",Roman Republic,"Samnites
-Etruscans",Samnite Wars,https://en.wikipedia.org/wiki/Third_Samnite_War,
-281 BC,279 BC,"Gallic invasion of the
-Balkans","Aetolian League
-Illyrians
-Macedon
-Thracians
-Paeonians",Gauls,,https://en.wikipedia.org/wiki/Gallic_invasion_of_the_Balkans,https://en.wikipedia.org/wiki/Gallic_invasion_of_the_Balkans
-280 BC,275 BC,Pyrrhic War,"Roman Republic
-Carthage","Epirus
-Magna Graecia
-Samnium",,https://en.wikipedia.org/wiki/Pyrrhic_War,
-274 BC,200 BC,Syrian Wars,"Seleucid Empire
-Macedon",Ptolemaic Kingdom,,https://en.wikipedia.org/wiki/Syrian_Wars,
-274 BC,271 BC,"First Syrian War
-",Ptolemaic Kingdom,Seleucid Empire,Syrian Wars,https://en.wikipedia.org/wiki/First_Syrian_War,
-267 BC,261 BC,Chremonidean War,Macedon,"Greek states, notably
-Athens and Sparta
-Ptolemaic Egypt",,https://en.wikipedia.org/wiki/Chremonidean_War,
+298 BC,290 BC,Third Samnite War\n,Roman Republic,Samnites\nEtruscans,Samnite Wars,https://en.wikipedia.org/wiki/Third_Samnite_War,
+281 BC,279 BC,Gallic invasion of the\nBalkans,Aetolian League\nIllyrians\nMacedon\nThracians\nPaeonians,Gauls,,https://en.wikipedia.org/wiki/Gallic_invasion_of_the_Balkans,https://en.wikipedia.org/wiki/Gallic_invasion_of_the_Balkans
+280 BC,275 BC,Pyrrhic War,Roman Republic\nCarthage,Epirus\nMagna Graecia\nSamnium,,https://en.wikipedia.org/wiki/Pyrrhic_War,
+274 BC,200 BC,Syrian Wars,Seleucid Empire\nMacedon,Ptolemaic Kingdom,,https://en.wikipedia.org/wiki/Syrian_Wars,
+274 BC,271 BC,First Syrian War\n,Ptolemaic Kingdom,Seleucid Empire,Syrian Wars,https://en.wikipedia.org/wiki/First_Syrian_War,
+267 BC,261 BC,Chremonidean War,Macedon,"Greek states, notably\nAthens and Sparta\nPtolemaic Egypt",,https://en.wikipedia.org/wiki/Chremonidean_War,
 265 BC,263 BC,Kalinga War,Maurya Empire,Kalinga,,https://en.wikipedia.org/wiki/Kalinga_War,
 264 BC,146 BC,Punic Wars,Roman Republic,Carthage,,https://en.wikipedia.org/wiki/Punic_Wars,
-264 BC,241 BC,"First Punic War
-",Roman Republic,Carthage,Punic Wars,https://en.wikipedia.org/wiki/First_Punic_War,
-260 BC,255 BC,"Second Syrian War
-",Antigonid Macedonia,Ptolemaic Egypt,Syrian Wars,https://en.wikipedia.org/wiki/Second_Syrian_War,
-245 BC,241 BC,"Third Syrian War
-",Ptolemaic Kingdom,Seleucid Empire,Syrian Wars,https://en.wikipedia.org/wiki/Third_Syrian_War,
-240 BC,238 BC,Mercenary War,Carthage,"Carthage's mercenary
-army of the First Punic
-War
-Libyans
-Numidians",,https://en.wikipedia.org/wiki/Mercenary_War,
+264 BC,241 BC,First Punic War\n,Roman Republic,Carthage,Punic Wars,https://en.wikipedia.org/wiki/First_Punic_War,
+260 BC,255 BC,Second Syrian War\n,Antigonid Macedonia,Ptolemaic Egypt,Syrian Wars,https://en.wikipedia.org/wiki/Second_Syrian_War,
+245 BC,241 BC,Third Syrian War\n,Ptolemaic Kingdom,Seleucid Empire,Syrian Wars,https://en.wikipedia.org/wiki/Third_Syrian_War,
+240 BC,238 BC,Mercenary War,Carthage,Carthage's mercenary\narmy of the First Punic\nWar\nLibyans\nNumidians,,https://en.wikipedia.org/wiki/Mercenary_War,
 238 BC,238 BC,Parni conquest of Parthia,Parni,Parthia,,https://en.wikipedia.org/wiki/Parni_conquest_of_Parthia,
-237 BC,219 BC,"Barcid conquest of
-Hispania",Carthage,"Turdetani
-Bastetani
-Greek colonists
-Germani
-Tartessian tribes
-Celtiberian tribes",,https://en.wikipedia.org/wiki/Barcid_conquest_of_Hispania,https://en.wikipedia.org/wiki/Barcid_conquest_of_Hispania
+237 BC,219 BC,Barcid conquest of\nHispania,Carthage,Turdetani\nBastetani\nGreek colonists\nGermani\nTartessian tribes\nCeltiberian tribes,,https://en.wikipedia.org/wiki/Barcid_conquest_of_Hispania,https://en.wikipedia.org/wiki/Barcid_conquest_of_Hispania
 c. 230 BC,c. 220 BC,Overthrow of Diodotus II,Troops of Euthydemus I,Greco-Bactrian Kingdom,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Overthrow_of_Diodotus_II_.28230_BC.29,
-230 BC,221 BC,Qin's wars of unification,Qin,"Han
-Zhao
-Dai
-Yan
-Wei
-Chu
-Qi",,https://en.wikipedia.org/wiki/Qin's_wars_of_unification,
-230 BC,230 BC,"Conquest of Han
-",Qin,Han,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Han,
+230 BC,221 BC,Qin's wars of unification,Qin,Han\nZhao\nDai\nYan\nWei\nChu\nQi,,https://en.wikipedia.org/wiki/Qin's_wars_of_unification,
+230 BC,230 BC,Conquest of Han\n,Qin,Han,Qin wars of\nunification,https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Han,
 229 BC,228 BC,First Illyrian War,Roman Republic,Ardiaei,,https://en.wikipedia.org/wiki/First_Illyrian_War,
-229 BC,222 BC,Cleomenean War,"Achaean League
-Macedon","Sparta
-Elis",,https://en.wikipedia.org/wiki/Cleomenean_War,
-228 BC,228 BC,"Conquest of Zhao
-",Qin,Zhao,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Zhao,
-226 BC,226 BC,"First Conquest of Yan
-",Qin,Yan,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Yan,
-225 BC,222 BC,Bella Gallica cisalpina,Roman Republic,"Celts
-Gauls",,https://en.wikipedia.org/wiki/Bella_Gallica_cisalpina?action=edit&redlink=1,
-225 BC,225 BC,"Conquest of Wei
-",Qin,Wei,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Wei,
-225 BC,223 BC,"Conquest of Chu
-",Qin,Chu,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Chu,
-222 BC,222 BC,"Second Conquest of Yan
-",Qin,Yan,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Yan,
-222 BC,222 BC,"Conquest of Dai
-",Qin,Dai,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Dai_(Warring_States_period),
-222 BC,222 BC,"Conquest of Wu
-",Qin,Wu,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Wu_(region),
-221 BC,221 BC,"Conquest of Qi
-",Qin,Qi,"Qin wars of
-unification",https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Qi,
-,,,,,,,
+229 BC,222 BC,Cleomenean War,Achaean League\nMacedon,Sparta\nElis,,https://en.wikipedia.org/wiki/Cleomenean_War,
+228 BC,228 BC,Conquest of Zhao\n,Qin,Zhao,Qin wars of\nunification,https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Zhao,
+226 BC,226 BC,First Conquest of Yan\n,Qin,Yan,Qin wars of\nunification,https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Yan,
+225 BC,222 BC,Bella Gallica cisalpina,Roman Republic,Celts\nGauls,,https://en.wikipedia.org/wiki/Bella_Gallica_cisalpina?action=edit&redlink=1,
+225 BC,225 BC,Conquest of Wei\n,Qin,Wei,Qin wars of\nunification,https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Wei,
+225 BC,223 BC,Conquest of Chu\n,Qin,Chu,Qin wars of\nunification,https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Chu,
+222 BC,222 BC,Second Conquest of Yan\n,Qin,Yan,Qin wars of\nunification,https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Yan,
+222 BC,222 BC,Conquest of Dai\n,Qin,Dai,Qin wars of\nunification,https://en.wikipedia.org/wiki/Dai_(Warring_States_period),
+222 BC,222 BC,Conquest of Wu\n,Qin,Wu,Qin wars of\nunification,https://en.wikipedia.org/wiki/Wu_(region),
+221 BC,221 BC,Conquest of Qi\n,Qin,Qi,Qin wars of\nunification,https://en.wikipedia.org/wiki/Qin's_wars_of_unification#Conquest_of_Qi,
+,,nan,nan,nan,,,
 220 BC,219 BC,Second Illyrian War,Roman Republic,Illyria,,https://en.wikipedia.org/wiki/Second_Illyrian_War,
-220 BC,220 BC,Lyttian War,"Polyrrhenia
-Lyctus
-Lappa
-Macedonia
-Achaean League","Knossos
-Gortys
-Kydonia
-Rhodes
-Aetolian League",,https://en.wikipedia.org/wiki/Lyttian_War,
-219 BC,217 BC,"Fourth Syrian War
-",Ptolemaic Kingdom,Seleucid Empire,Syrian Wars,https://en.wikipedia.org/wiki/Fourth_Syrian_War,
-218 BC,201 BC,"Second Punic War
-",Roman Republic,Carthage,Punic Wars,https://en.wikipedia.org/wiki/Second_Punic_War,
-215 BC,215 BC,"Qin's campaign against
-the Xiongnu",Qin dynasty,Xiongnu,,https://en.wikipedia.org/wiki/Qin's_campaign_against_the_Xiongnu,https://en.wikipedia.org/wiki/Qin's_campaign_against_the_Xiongnu
+220 BC,220 BC,Lyttian War,Polyrrhenia\nLyctus\nLappa\nMacedonia\nAchaean League,Knossos\nGortys\nKydonia\nRhodes\nAetolian League,,https://en.wikipedia.org/wiki/Lyttian_War,
+219 BC,217 BC,Fourth Syrian War\n,Ptolemaic Kingdom,Seleucid Empire,Syrian Wars,https://en.wikipedia.org/wiki/Fourth_Syrian_War,
+218 BC,201 BC,Second Punic War\n,Roman Republic,Carthage,Punic Wars,https://en.wikipedia.org/wiki/Second_Punic_War,
+215 BC,215 BC,Qin's campaign against\nthe Xiongnu,Qin dynasty,Xiongnu,,https://en.wikipedia.org/wiki/Qin's_campaign_against_the_Xiongnu,https://en.wikipedia.org/wiki/Qin's_campaign_against_the_Xiongnu
 215 BC,168 BC,Macedonian Wars,Roman Republic,Macedonian Empire,,https://en.wikipedia.org/wiki/Macedonian_Wars,
-215 BC,205 BC,"First Macedonian War
-","Roman Republic
-Aetolian League
-Pergamon
-Sparta
-Elis
-Messenia","Macedonia
-Achaean League","Macedonian
-Wars",https://en.wikipedia.org/wiki/First_Macedonian_War,
-214 BC,214 BC,"Qin's campaign against
-the Yue tribes",Qin dynasty,Baiyue,,https://en.wikipedia.org/wiki/Qin's_campaign_against_the_Yue_tribes,https://en.wikipedia.org/wiki/Qin's_campaign_against_the_Yue_tribes
-c. 210 BC,c. 206 BC,"Seleucid invasion of
-Bactria","Greco-Bactrian
-Kingdom",Seleucid Empire,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Euthydemid_dynasty_and_Seleucid_invasion,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Euthydemid_dynasty_and_Seleucid_invasion
-209 BC,206 BC,Fall of the Qin dynasty,"Rebel forces of the six
-states",Qin dynasty,,https://en.wikipedia.org/wiki/Qin_dynasty,
-209 BC,209 BC,"Dazexiang uprising
-",Qin dynasty,"Chen Sheng's and Wu
-Guang's troops
-revived Kingdom of Chu
-peasants","Fall of the Qin
-dynasty",https://en.wikipedia.org/wiki/Dazexiang_uprising,
-209 BC,208 BC,"Xiang Liang's Rebellion
-",Qin dynasty,"Xiang Liang's troops
-Kuaiji
-revived Kingdom of Chu","Fall of the Qin
-dynasty",https://en.wikipedia.org/wiki/Xiang_Liang#Rebelling_against_the_Qin_dynasty,
-209 BC,206 BC,"Liu Bang's Insurrection
-against the Qin dynasty
-","Liu Bang's troops
-Yan
-Zhao
-Qi
-Wei",Qin dynasty,"Fall of the Qin
-dynasty",https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han#Insurrection_against_the_Qin_dynasty,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han#Insurrection_against_the_Qin_dynasty
+215 BC,205 BC,First Macedonian War\n,Roman Republic\nAetolian League\nPergamon\nSparta\nElis\nMessenia,Macedonia\nAchaean League,Macedonian\nWars,https://en.wikipedia.org/wiki/First_Macedonian_War,
+214 BC,214 BC,Qin's campaign against\nthe Yue tribes,Qin dynasty,Baiyue,,https://en.wikipedia.org/wiki/Qin's_campaign_against_the_Yue_tribes,https://en.wikipedia.org/wiki/Qin's_campaign_against_the_Yue_tribes
+c. 210 BC,c. 206 BC,Seleucid invasion of\nBactria,Greco-Bactrian\nKingdom,Seleucid Empire,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Euthydemid_dynasty_and_Seleucid_invasion,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Euthydemid_dynasty_and_Seleucid_invasion
+209 BC,206 BC,Fall of the Qin dynasty,Rebel forces of the six\nstates,Qin dynasty,,https://en.wikipedia.org/wiki/Qin_dynasty,
+209 BC,209 BC,Dazexiang uprising\n,Qin dynasty,Chen Sheng's and Wu\nGuang's troops\nrevived Kingdom of Chu\npeasants,Fall of the Qin\ndynasty,https://en.wikipedia.org/wiki/Dazexiang_uprising,
+209 BC,208 BC,Xiang Liang's Rebellion\n,Qin dynasty,Xiang Liang's troops\nKuaiji\nrevived Kingdom of Chu,Fall of the Qin\ndynasty,https://en.wikipedia.org/wiki/Xiang_Liang#Rebelling_against_the_Qin_dynasty,
+209 BC,206 BC,Liu Bang's Insurrection\nagainst the Qin dynasty\n,Liu Bang's troops\nYan\nZhao\nQi\nWei,Qin dynasty,Fall of the Qin\ndynasty,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han#Insurrection_against_the_Qin_dynasty,https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han#Insurrection_against_the_Qin_dynasty
 209 BC,88 BC,Seleucid–Parthian wars,Parthian Empire,Seleucid Empire,,https://en.wikipedia.org/wiki/Seleucid%E2%80%93Parthian_wars,
-208 BC,c. 206 BC,"Siege of Bactra
-","Greco-Bactrian
-Kingdom",Seleucid Empire,"Seleucid
-invasion of Bactria",https://en.wikipedia.org/wiki/Siege_of_Bactra,
+208 BC,c. 206 BC,Siege of Bactra\n,Greco-Bactrian\nKingdom,Seleucid Empire,Seleucid\ninvasion of Bactria,https://en.wikipedia.org/wiki/Siege_of_Bactra,
 206 BC,202 BC,Chu-Han contention,Han,Western Chu,,https://en.wikipedia.org/wiki/Chu-Han_contention,
-205 BC,200 BC,Cretan War,"Rhodes
-Pergamum
-Byzantium
-Cyzicus
-Athens
-Knossos","Macedon
-Hierapytna
-Olous
-Aetolia
-Spartan pirates
-Acarnania",,https://en.wikipedia.org/wiki/Cretan_War_(205%E2%80%93200_BC),
-202 BC,200 BC,"Fifth Syrian War
-",Seleucid Empire,Ptolemaic Egypt,Syrian Wars,https://en.wikipedia.org/wiki/Fifth_Syrian_War,
-200 BC,196 BC,"Second Macedonian War
-","Roman Republic
-Pergamon",Macedon,Macedonian,https://en.wikipedia.org/wiki/Second_Macedonian_War,
+205 BC,200 BC,Cretan War,Rhodes\nPergamum\nByzantium\nCyzicus\nAthens\nKnossos,Macedon\nHierapytna\nOlous\nAetolia\nSpartan pirates\nAcarnania,,https://en.wikipedia.org/wiki/Cretan_War_(205%E2%80%93200_BC),
+202 BC,200 BC,Fifth Syrian War\n,Seleucid Empire,Ptolemaic Egypt,Syrian Wars,https://en.wikipedia.org/wiki/Fifth_Syrian_War,
+200 BC,196 BC,Second Macedonian War\n,Roman Republic\nPergamon,Macedon,Macedonian,https://en.wikipedia.org/wiki/Second_Macedonian_War,
 ,,Wars,Rhodes,,,,
-200 BC,198 BC,"Han invasion of the
-Xiongnu",Xiongnu,Han dynasty,,https://en.wikipedia.org/wiki/Battle_of_Baideng,https://en.wikipedia.org/wiki/Battle_of_Baideng
-195 BC,195 BC,Roman-Spartan War,"Roman Republic
-Achaean League
-Macedon
-Pergamum
-Rhodes",Sparta,,https://en.wikipedia.org/wiki/Roman-Spartan_War,
-191 BC,188 BC,Roman-Syrian War,"Roman Republic
-Achaean League
-Macedon
-Pergamum
-Rhodes","Seleucid Empire
-Aetolian League
-Athamania",,https://en.wikipedia.org/wiki/Roman-Syrian_War,
-189 BC,189 BC,Galatian War,"Roman Republic
-Pergamum",Galatia,,https://en.wikipedia.org/wiki/Galatian_War,
-180 BC,175 BC,"Bactrian Expansion into
-India",Shunga Empire,"Greco-Bactrian Kingdom
-Remnants of the
-Maurya Empire",,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Expansion_into_India_.28after_180_BC.29,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Expansion_into_India_.28after_180_BC.29
-179 BC,175 BC,Dardanian–Bastarnic war,Kingdom of Dardania,"Bastarnae
-Supported by:
-Kingdom of Macedonia
-Odrysian Kingdom
-Scordisci",,https://en.wikipedia.org/wiki/Dardanian%E2%80%93Bastarnic_war,
-171 BC,168 BC,"Third Macedonian War
-","Roman Republic
-Pergamon",Macedon,"Macedonian
-Wars",https://en.wikipedia.org/wiki/Third_Macedonian_War,
+200 BC,198 BC,Han invasion of the\nXiongnu,Xiongnu,Han dynasty,,https://en.wikipedia.org/wiki/Battle_of_Baideng,https://en.wikipedia.org/wiki/Battle_of_Baideng
+195 BC,195 BC,Roman-Spartan War,Roman Republic\nAchaean League\nMacedon\nPergamum\nRhodes,Sparta,,https://en.wikipedia.org/wiki/Roman-Spartan_War,
+191 BC,188 BC,Roman-Syrian War,Roman Republic\nAchaean League\nMacedon\nPergamum\nRhodes,Seleucid Empire\nAetolian League\nAthamania,,https://en.wikipedia.org/wiki/Roman-Syrian_War,
+189 BC,189 BC,Galatian War,Roman Republic\nPergamum,Galatia,,https://en.wikipedia.org/wiki/Galatian_War,
+180 BC,175 BC,Bactrian Expansion into\nIndia,Shunga Empire,Greco-Bactrian Kingdom\nRemnants of the\nMaurya Empire,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Expansion_into_India_.28after_180_BC.29,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Expansion_into_India_.28after_180_BC.29
+179 BC,175 BC,Dardanian–Bastarnic war,Kingdom of Dardania,Bastarnae\nSupported by:\nKingdom of Macedonia\nOdrysian Kingdom\nScordisci,,https://en.wikipedia.org/wiki/Dardanian%E2%80%93Bastarnic_war,
+171 BC,168 BC,Third Macedonian War\n,Roman Republic\nPergamon,Macedon,Macedonian\nWars,https://en.wikipedia.org/wiki/Third_Macedonian_War,
 170 BC,170 BC,Usurpation of Eucratides,Troops of Eucratides I,Greco-Bactrian Kingdom,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Eucratides,
-c. 167 BC,c. 167 BC,"Parthian invasion into
-Bactria","Parthian Empire
-Loyalists to the
-Euthydemid dynasty",Greco-Bactrian Kingdom,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Defeats_by_Parthia,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Defeats_by_Parthia
+c. 167 BC,c. 167 BC,Parthian invasion into\nBactria,Parthian Empire\nLoyalists to the\nEuthydemid dynasty,Greco-Bactrian Kingdom,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Defeats_by_Parthia,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Defeats_by_Parthia
 167 BC,160 BC,Maccabean Revolt,Judea,Seleucid Empire,,https://en.wikipedia.org/wiki/Maccabean_Revolt,
-162 BC,c. 70 BC,"Nomadic invasions into
-Bactria","Yuezhi
-Scythians, mainly the
-Saka
-Wusun",Greco-Bactrian Kingdom,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Nomadic_invasions,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Nomadic_invasions
+162 BC,c. 70 BC,Nomadic invasions into\nBactria,"Yuezhi\nScythians, mainly the\nSaka\nWusun",Greco-Bactrian Kingdom,,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Nomadic_invasions,https://en.wikipedia.org/wiki/Greco-Bactrian_Kingdom#Nomadic_invasions
 155 BC,139 BC,Lusitanian War,Roman Republic,Lusitanian tribes,,https://en.wikipedia.org/wiki/Lusitanian_War,
-154 BC,154 BC,"Rebellion of the Seven
-States",Han dynasty,"Wu
-Chu
-Zhao
-Jiaoxi
-Jiaodong
-Zichuan
-Jinan",,https://en.wikipedia.org/wiki/Rebellion_of_the_Seven_States,https://en.wikipedia.org/wiki/Rebellion_of_the_Seven_States
-149 BC,146 BC,"Third Punic War
-",Roman Republic,Carthage,Punic Wars,https://en.wikipedia.org/wiki/Third_Punic_War,
-138 BC,111 BC,"Han campaigns against
-Minyue
-",Han dynasty,Minyue,"Han wars
-against the Baiyue",https://en.wikipedia.org/wiki/Han_campaigns_against_Minyue,https://en.wikipedia.org/wiki/Han_campaigns_against_Minyue
+154 BC,154 BC,Rebellion of the Seven\nStates,Han dynasty,Wu\nChu\nZhao\nJiaoxi\nJiaodong\nZichuan\nJinan,,https://en.wikipedia.org/wiki/Rebellion_of_the_Seven_States,https://en.wikipedia.org/wiki/Rebellion_of_the_Seven_States
+149 BC,146 BC,Third Punic War\n,Roman Republic,Carthage,Punic Wars,https://en.wikipedia.org/wiki/Third_Punic_War,
+138 BC,111 BC,Han campaigns against\nMinyue\n,Han dynasty,Minyue,Han wars\nagainst the Baiyue,https://en.wikipedia.org/wiki/Han_campaigns_against_Minyue,https://en.wikipedia.org/wiki/Han_campaigns_against_Minyue
 135 BC,71 BC,Roman Servile Wars,Roman Republic,Revolting slaves,,https://en.wikipedia.org/wiki/Roman_Servile_Wars,
-135 BC,132 BC,"First Servile War
-",Roman Republic,Slaves of Sicily,Roman Servile,https://en.wikipedia.org/wiki/First_Servile_War,
+135 BC,132 BC,First Servile War\n,Roman Republic,Slaves of Sicily,Roman Servile,https://en.wikipedia.org/wiki/First_Servile_War,
 ,,Wars,,,,,
 133 BC,89 AD,Han–Xiongnu War,Han empire,Xiongnu,,https://en.wikipedia.org/wiki/Han%E2%80%93Xiongnu_War,
-123 BC,121 BC,"Roman conquest of the
-Balearic Islands",Roman Republic,Balearic pirates,,https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Balearicus#Career,https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Balearicus#Career
+123 BC,121 BC,Roman conquest of the\nBalearic Islands,Roman Republic,Balearic pirates,,https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Balearicus#Career,https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Balearicus#Career
 122 BC,105 BC,Jugurthine War,Roman Republic,Numidia,,https://en.wikipedia.org/wiki/Jugurthine_War,
 113 BC,101 BC,Cimbrian War,Roman Republic,"Cimbri, Teutons",,https://en.wikipedia.org/wiki/Cimbrian_War,
-111 BC,111 BC,"Han–Nanyue War
-",Han dynasty,Nanyue,"Han wars
-against the Baiyue",https://en.wikipedia.org/wiki/Han%E2%80%93Nanyue_War,
-109 BC,109 BC,"Han campaigns against
-Dian
-",Han dynasty,Dian Kingdom,"Han wars
-against the Baiyue",https://en.wikipedia.org/wiki/Han_campaigns_against_Dian,https://en.wikipedia.org/wiki/Han_campaigns_against_Dian
+111 BC,111 BC,Han–Nanyue War\n,Han dynasty,Nanyue,Han wars\nagainst the Baiyue,https://en.wikipedia.org/wiki/Han%E2%80%93Nanyue_War,
+109 BC,109 BC,Han campaigns against\nDian\n,Han dynasty,Dian Kingdom,Han wars\nagainst the Baiyue,https://en.wikipedia.org/wiki/Han_campaigns_against_Dian,https://en.wikipedia.org/wiki/Han_campaigns_against_Dian
 109 BC,108 BC,Gojoseon–Han War,Han dynasty,Wiman Joseon,,https://en.wikipedia.org/wiki/Han_conquest_of_Gojoseon,
-107 BC,88 BC,"Civil War of Ptolemy
-Lathyros","Egypt (Ptolemy IX
-Soter)
-Cyprus
-Phoenicia","Egypt (Cleopatra III)
-Judea (103–93)
-Nabatea (103–93)",,https://en.wikipedia.org/wiki/Ptolemy_IX_Soter,https://en.wikipedia.org/wiki/Ptolemy_IX_Soter
-104 BC,101 BC,"War of the Heavenly
-Horses",Han dynasty,Dayuan,,https://en.wikipedia.org/wiki/War_of_the_Heavenly_Horses,https://en.wikipedia.org/wiki/War_of_the_Heavenly_Horses
-104 BC,100 BC,"Second Servile War
-",Roman Republic,Slaves of Sicily,"Roman Servile
-Wars",https://en.wikipedia.org/wiki/Second_Servile_War,
+107 BC,88 BC,Civil War of Ptolemy\nLathyros,Egypt (Ptolemy IX\nSoter)\nCyprus\nPhoenicia,Egypt (Cleopatra III)\nJudea (103–93)\nNabatea (103–93),,https://en.wikipedia.org/wiki/Ptolemy_IX_Soter,https://en.wikipedia.org/wiki/Ptolemy_IX_Soter
+104 BC,101 BC,War of the Heavenly\nHorses,Han dynasty,Dayuan,,https://en.wikipedia.org/wiki/War_of_the_Heavenly_Horses,https://en.wikipedia.org/wiki/War_of_the_Heavenly_Horses
+104 BC,100 BC,Second Servile War\n,Roman Republic,Slaves of Sicily,Roman Servile\nWars,https://en.wikipedia.org/wiki/Second_Servile_War,
 93 BC,93 BC,Battle of Gadara,Nabataean Kingdom,Hasmonean dynasty,,https://en.wikipedia.org/wiki/Battle_of_Gadara,
 93 BC,87 BC,Judean Civil War,Sadducees,Pharisees,,https://en.wikipedia.org/wiki/Judean_Civil_War,
-91 BC,88 BC,Social War,Roman Republic,"Cities of Italy under Marsi
-and Samnium",,https://en.wikipedia.org/wiki/Social_War_(91%E2%80%9388_BC),
+91 BC,88 BC,Social War,Roman Republic,Cities of Italy under Marsi\nand Samnium,,https://en.wikipedia.org/wiki/Social_War_(91%E2%80%9388_BC),
 89 BC,63 BC,Mithridatic Wars,Roman Republic,Kingdom of Pontus,,https://en.wikipedia.org/wiki/Mithridatic_Wars,
-89 BC,85 BC,"First Mithridatic War
-","Roman Republic
-Kingdom of Bithynia","Kingdom of Pontus
-Greek rebels","Mithridatic
-Wars",https://en.wikipedia.org/wiki/First_Mithridatic_War,
+89 BC,85 BC,First Mithridatic War\n,Roman Republic\nKingdom of Bithynia,Kingdom of Pontus\nGreek rebels,Mithridatic\nWars,https://en.wikipedia.org/wiki/First_Mithridatic_War,
 87 BC,87 BC,Bellum Octavianum,,,,https://en.wikipedia.org/wiki/Bellum_Octavianum,
-87 BC,85 BC,Armenian–Parthian War,"Kingdom of
-Armenia",Parthian Empire,,https://en.wikipedia.org/wiki/Armenian%E2%80%93Parthian_War,
+87 BC,85 BC,Armenian–Parthian War,Kingdom of\nArmenia,Parthian Empire,,https://en.wikipedia.org/wiki/Armenian%E2%80%93Parthian_War,
 84 BC,84 BC,Battle of Cana,Nabataean Kingdom,Seleucid Empire,,https://en.wikipedia.org/wiki/Battle_of_Cana,
-83 BC,82 BC,"Second Mithridatic War
-",Roman Republic,Kingdom of Pontus,"Mithridatic
-Wars",https://en.wikipedia.org/wiki/Second_Mithridatic_War,
+83 BC,82 BC,Second Mithridatic War\n,Roman Republic,Kingdom of Pontus,Mithridatic\nWars,https://en.wikipedia.org/wiki/Second_Mithridatic_War,
 83 BC,81 BC,Sulla's civil war,Sullans,Marians,,https://en.wikipedia.org/wiki/Sulla's_civil_war,
 80 BC,72 BC,Sertorian War,Sullans led by Pompey,Sertorians,,https://en.wikipedia.org/wiki/Sertorian_War,
-73 BC,71 BC,"Third Servile War
-or Spartacist Rebellion
-",Roman Republic,"Army of escaped slaves
-under Spartacus","Roman Servile
-Wars",https://en.wikipedia.org/wiki/Third_Servile_War,https://en.wikipedia.org/wiki/Spartacus
-74 BC,63 BC,"Third Mithridatic War
-","Roman Republic
-Bithynia","Kingdom of Pontus
-Kingdom of Armenia","Mithridatic
-Wars",https://en.wikipedia.org/wiki/Third_Mithridatic_War,
-,,,,,,,
-67 BC,63 BC,"Hasmonean Civil War
-","Pharisees
-Roman Republic
-Nabatean Kingdom",Sadducees,"Mithridatic
-Wars",https://en.wikipedia.org/wiki/Hasmonean_Civil_War,
+73 BC,71 BC,Third Servile War\nor Spartacist Rebellion\n,Roman Republic,Army of escaped slaves\nunder Spartacus,Roman Servile\nWars,https://en.wikipedia.org/wiki/Third_Servile_War,https://en.wikipedia.org/wiki/Spartacus
+74 BC,63 BC,Third Mithridatic War\n,Roman Republic\nBithynia,Kingdom of Pontus\nKingdom of Armenia,Mithridatic\nWars,https://en.wikipedia.org/wiki/Third_Mithridatic_War,
+,,nan,nan,nan,,,
+67 BC,63 BC,Hasmonean Civil War\n,Pharisees\nRoman Republic\nNabatean Kingdom,Sadducees,Mithridatic\nWars,https://en.wikipedia.org/wiki/Hasmonean_Civil_War,
 66 BC,217 AD,Roman–Parthian Wars,Roman Republic,Parthian Empire,,https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_Wars,
-65 BC,65 BC,"Pompey's campaign in
-Iberia and Albania",Roman Republic,"Iberian Kingdom
-Caucasian Albania",,https://en.wikipedia.org/wiki/Pompey's_campaign_in_Iberia_and_Albania,https://en.wikipedia.org/wiki/Pompey's_campaign_in_Iberia_and_Albania
-58 BC,50 BC,Gallic Wars,Roman Republic,"Gallic tribes
-Belgic tribes
-British tribes
-Aquitanian tribes
-Germanic tribes
-Iberian tribes",,https://en.wikipedia.org/wiki/Gallic_Wars,
-55 BC,54 BC,"Caesar's invasions of
-Britain","Roman Republic
-Trinovantes",Britons,,https://en.wikipedia.org/wiki/Caesar's_invasions_of_Britain,https://en.wikipedia.org/wiki/Caesar's_invasions_of_Britain
-54 BC,628 AD,Roman–Persian wars,"Roman Republic (54–
-27 BC)
-Roman Empire (27 BC–
-224 AD)
-Roman Empire (224–
-395 AD)
-Byzantine Empire (395–
-628 AD)","Parthian Empire (54–27
-BC)
-Parthian Empire (27 BC–
-224 AD)
-Sasanian Empire (224–
-395 AD)
-Sasanian Empire (395–
-628 AD)",,https://en.wikipedia.org/wiki/Roman%E2%80%93Persian_wars,
-53 BC,51 BC,"Parthian War
-of Marcus Licinius
-Crassus",Parthian Empire,Roman Republic,,https://en.wikipedia.org/wiki/Battle_of_Carrhae,https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus
-49 BC,45 BC,Caesar's Civil War,"Julius Caesar and
-supporters
-Populares","Roman Senate
-Optimates",,https://en.wikipedia.org/wiki/Caesar's_Civil_War,
-48 BC,47 BC,Pontic War,"Roman Republic
-Galatia
-Cappadocia",Kingdom of Pontus,,https://en.wikipedia.org/wiki/Pontic_War,
-44 BC,30 BC,Roman civil wars,"Roman Republic
-under Second
-Triumvirate","Mark Antony
-Liberatores
-Sextus Pompeius
-Fulvia
-Lucius Antonius",,https://en.wikipedia.org/wiki/Roman_civil_wars,
-44 BC,44 BC,"Post-Caesarian civil war
-",Roman Senate,Mark Antony's forces,"Roman civil
-wars",https://en.wikipedia.org/wiki/Battle_of_Mutina,
-44 BC,42 BC,"Liberators' civil war
-",Second Triumvirate,Liberatores,"Roman civil
-wars",https://en.wikipedia.org/wiki/Liberators'_civil_war,
-44 BC,36 BC,"Bellum Siculum
-",Roman Republic,"Sextus Pompeius and his
-troops","Roman civil
-wars",https://en.wikipedia.org/wiki/Bellum_Siculum,
-41 BC,40 BC,Perusine War,Roman Republic,"Forces of Fulvia and
-Lucius Antonius",,https://en.wikipedia.org/wiki/Perusine_War,
-41 BC,40 BC,"Fulvia's civil war
-",Roman Republic,"Forces of Fulvia and
-Lucius Antonius","Roman civil
-wars",https://en.wikipedia.org/wiki/Perusine_War,
-,,,,,,,
-32 BC,30 BC,"Final War of the Roman
-Republic
-","Roman Republic
-(supporters of Octavian)","Ptolemaic Egypt and the
-supporters of Mark Antony","Roman civil
-wars",https://en.wikipedia.org/wiki/Final_War_of_the_Roman_Republic,https://en.wikipedia.org/wiki/Final_War_of_the_Roman_Republic
-40 BC,33 BC,Antony's Parthian War,"Roman Republic
-Armenia
-Galatia
-Cappadocia
-Pontus","Parthian Empire
-Atropatene",,https://en.wikipedia.org/wiki/Antony's_Parthian_War,
-29 BC,19 BC,Cantabrian Wars,Roman Empire,"Cantabri
-Astures",,https://en.wikipedia.org/wiki/Cantabrian_Wars,
+65 BC,65 BC,Pompey's campaign in\nIberia and Albania,Roman Republic,Iberian Kingdom\nCaucasian Albania,,https://en.wikipedia.org/wiki/Pompey's_campaign_in_Iberia_and_Albania,https://en.wikipedia.org/wiki/Pompey's_campaign_in_Iberia_and_Albania
+58 BC,50 BC,Gallic Wars,Roman Republic,Gallic tribes\nBelgic tribes\nBritish tribes\nAquitanian tribes\nGermanic tribes\nIberian tribes,,https://en.wikipedia.org/wiki/Gallic_Wars,
+55 BC,54 BC,Caesar's invasions of\nBritain,Roman Republic\nTrinovantes,Britons,,https://en.wikipedia.org/wiki/Caesar's_invasions_of_Britain,https://en.wikipedia.org/wiki/Caesar's_invasions_of_Britain
+54 BC,628 AD,Roman–Persian wars,Roman Republic (54–\n27 BC)\nRoman Empire (27 BC–\n224 AD)\nRoman Empire (224–\n395 AD)\nByzantine Empire (395–\n628 AD),Parthian Empire (54–27\nBC)\nParthian Empire (27 BC–\n224 AD)\nSasanian Empire (224–\n395 AD)\nSasanian Empire (395–\n628 AD),,https://en.wikipedia.org/wiki/Roman%E2%80%93Persian_wars,
+53 BC,51 BC,Parthian War\nof Marcus Licinius\nCrassus,Parthian Empire,Roman Republic,,https://en.wikipedia.org/wiki/Battle_of_Carrhae,https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus
+49 BC,45 BC,Caesar's Civil War,Julius Caesar and\nsupporters\nPopulares,Roman Senate\nOptimates,,https://en.wikipedia.org/wiki/Caesar's_Civil_War,
+48 BC,47 BC,Pontic War,Roman Republic\nGalatia\nCappadocia,Kingdom of Pontus,,https://en.wikipedia.org/wiki/Pontic_War,
+44 BC,30 BC,Roman civil wars,Roman Republic\nunder Second\nTriumvirate,Mark Antony\nLiberatores\nSextus Pompeius\nFulvia\nLucius Antonius,,https://en.wikipedia.org/wiki/Roman_civil_wars,
+44 BC,44 BC,Post-Caesarian civil war\n,Roman Senate,Mark Antony's forces,Roman civil\nwars,https://en.wikipedia.org/wiki/Battle_of_Mutina,
+44 BC,42 BC,Liberators' civil war\n,Second Triumvirate,Liberatores,Roman civil\nwars,https://en.wikipedia.org/wiki/Liberators'_civil_war,
+44 BC,36 BC,Bellum Siculum\n,Roman Republic,Sextus Pompeius and his\ntroops,Roman civil\nwars,https://en.wikipedia.org/wiki/Bellum_Siculum,
+41 BC,40 BC,Perusine War,Roman Republic,Forces of Fulvia and\nLucius Antonius,,https://en.wikipedia.org/wiki/Perusine_War,
+41 BC,40 BC,Fulvia's civil war\n,Roman Republic,Forces of Fulvia and\nLucius Antonius,Roman civil\nwars,https://en.wikipedia.org/wiki/Perusine_War,
+,,nan,nan,nan,,,
+32 BC,30 BC,Final War of the Roman\nRepublic\n,Roman Republic\n(supporters of Octavian),Ptolemaic Egypt and the\nsupporters of Mark Antony,Roman civil\nwars,https://en.wikipedia.org/wiki/Final_War_of_the_Roman_Republic,https://en.wikipedia.org/wiki/Final_War_of_the_Roman_Republic
+40 BC,33 BC,Antony's Parthian War,Roman Republic\nArmenia\nGalatia\nCappadocia\nPontus,Parthian Empire\nAtropatene,,https://en.wikipedia.org/wiki/Antony's_Parthian_War,
+29 BC,19 BC,Cantabrian Wars,Roman Empire,Cantabri\nAstures,,https://en.wikipedia.org/wiki/Cantabrian_Wars,
 19 BC,19 BC,War with the Garamantes,Roman Empire,Garamantes,,https://en.wikipedia.org/wiki/Garamantes#History,
-Start,Finish,Name of Conflict,Belligerents,,,,
-,,,"Victorious party (if
-applicable)","Defeated party (if
-applicable)",,,
-6 AD,9 AD,Bellum Batonianum,"Roman Empire
-Odrysian Kingdom","Daesitiates
-Breuci
-Dalmatae
-Andizetes
-Pannonians
-Pirustae
-Liburnians
-Japodes",,https://en.wikipedia.org/wiki/Bellum_Batonianum,
-6 AD,21 AD,"Goguryeo-Dongbuyeo
-Wars",Goguryeo,Dongbuyeo,,https://en.wikipedia.org/wiki/Daeso#War_with_Goguryeo,https://en.wikipedia.org/wiki/Daeso#War_with_Goguryeo
-9 AD,9 AD,"Battle of the Teutoburg
-Forest",Cherusci,Roman Empire,,https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest,https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest
-17 AD,18 AD,"Maroboduus' War with
-Arminius",Arminius' troops,Marcomanni,,https://en.wikipedia.org/wiki/Maroboduus#War_with_Arminius_and_death,https://en.wikipedia.org/wiki/Maroboduus#War_with_Arminius_and_death
+Start,Finish,Name of Conflict,Belligerents,nan,,,
+,,nan,Victorious party (if\napplicable),Defeated party (if\napplicable),,,
+6 AD,9 AD,Bellum Batonianum,Roman Empire\nOdrysian Kingdom,Daesitiates\nBreuci\nDalmatae\nAndizetes\nPannonians\nPirustae\nLiburnians\nJapodes,,https://en.wikipedia.org/wiki/Bellum_Batonianum,
+6 AD,21 AD,Goguryeo-Dongbuyeo\nWars,Goguryeo,Dongbuyeo,,https://en.wikipedia.org/wiki/Daeso#War_with_Goguryeo,https://en.wikipedia.org/wiki/Daeso#War_with_Goguryeo
+9 AD,9 AD,Battle of the Teutoburg\nForest,Cherusci,Roman Empire,,https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest,https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest
+17 AD,18 AD,Maroboduus' War with\nArminius,Arminius' troops,Marcomanni,,https://en.wikipedia.org/wiki/Maroboduus#War_with_Arminius_and_death,https://en.wikipedia.org/wiki/Maroboduus#War_with_Arminius_and_death
 c. 17 AD,23 AD,Lülin Rebellion,Lülin,Xin dynasty,,https://en.wikipedia.org/wiki/Battle_of_Kunyang,
-17 AD,24 AD,Tacfarinas' Rebellion,Roman Empire,"Musulamii
-Numidia",,https://en.wikipedia.org/wiki/Tacfarinas,
-c. 17 AD,26 AD,"Red Eyebrows
-Rebellion","Red Eyebrows
-movement","Xin dynasty
-Gengshi Emperor",,https://en.wikipedia.org/wiki/Red_Eyebrows,https://en.wikipedia.org/wiki/Red_Eyebrows
+17 AD,24 AD,Tacfarinas' Rebellion,Roman Empire,Musulamii\nNumidia,,https://en.wikipedia.org/wiki/Tacfarinas,
+c. 17 AD,26 AD,Red Eyebrows\nRebellion,Red Eyebrows\nmovement,Xin dynasty\nGengshi Emperor,,https://en.wikipedia.org/wiki/Red_Eyebrows,https://en.wikipedia.org/wiki/Red_Eyebrows
 40 AD,43 AD,Trung sisters' rebellion,Han dynasty,Lac Viet,,https://en.wikipedia.org/wiki/Trung_sisters'_rebellion,
-43 AD,96 AD,"Roman conquest of
-Britain",Roman Empire,British tribes,,https://en.wikipedia.org/wiki/Roman_conquest_of_Britain,https://en.wikipedia.org/wiki/Roman_conquest_of_Britain
-47 AD,47 AD,"Iceni revolt against
-Publius Ostorius
-Scapula",Roman Empire,Iceni,,https://en.wikipedia.org/wiki/Publius_Ostorius_Scapula#Career,https://en.wikipedia.org/wiki/Publius_Ostorius_Scapula#Career
-50 AD,53 AD,"War between Armenia
-and Iberia",Kingdom of Iberia,Kingdom of Armenia,,https://en.wikipedia.org/wiki/War_between_Armenia_and_Iberia,https://en.wikipedia.org/wiki/War_between_Armenia_and_Iberia
+43 AD,96 AD,Roman conquest of\nBritain,Roman Empire,British tribes,,https://en.wikipedia.org/wiki/Roman_conquest_of_Britain,https://en.wikipedia.org/wiki/Roman_conquest_of_Britain
+47 AD,47 AD,Iceni revolt against\nPublius Ostorius\nScapula,Roman Empire,Iceni,,https://en.wikipedia.org/wiki/Publius_Ostorius_Scapula#Career,https://en.wikipedia.org/wiki/Publius_Ostorius_Scapula#Career
+50 AD,53 AD,War between Armenia\nand Iberia,Kingdom of Iberia,Kingdom of Armenia,,https://en.wikipedia.org/wiki/War_between_Armenia_and_Iberia,https://en.wikipedia.org/wiki/War_between_Armenia_and_Iberia
 c. 58 AD,c. 58 AD,Hermunduri-Chatti War,Hermunduri,Chatti,,https://en.wikipedia.org/wiki/Hermunduri,
-58 AD,63 AD,Roman–Parthian War,Roman Empire,"Kingdom of Armenia
-Parthian Empire",,https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_War_of_58%E2%80%9363,
-60 or 61 AD,60 or 61 AD,"Roman conquest of
-Anglesey",Roman Empire,Celtic Britons,,https://en.wikipedia.org/wiki/Roman_conquest_of_Anglesey,https://en.wikipedia.org/wiki/Roman_conquest_of_Anglesey
-60 or 61 AD,60 or 61 AD,Boudica's Uprising,Roman Empire,"Iceni, Trinovantes, and
-other British tribes.",,https://en.wikipedia.org/wiki/Boudica#Uprising,
-66 AD,73 AD,"First Jewish–Roman
-War",Roman Empire,"Judean rebels: Sadducees
-and volunteers from
-Adiabene",,https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War,https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War
-69 AD,69 AD,"Year of the Four
-Emperors",Vespasian,"Galba
-Otho
-Vitellius",,https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors,https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors
-69 AD,70 AD,Revolt of the Batavi,Roman Empire,"Batavi
-Cananefates
-Frisii
-Lingones
-Treveri",,https://en.wikipedia.org/wiki/Revolt_of_the_Batavi,
+58 AD,63 AD,Roman–Parthian War,Roman Empire,Kingdom of Armenia\nParthian Empire,,https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_War_of_58%E2%80%9363,
+60 or 61 AD,60 or 61 AD,Roman conquest of\nAnglesey,Roman Empire,Celtic Britons,,https://en.wikipedia.org/wiki/Roman_conquest_of_Anglesey,https://en.wikipedia.org/wiki/Roman_conquest_of_Anglesey
+60 or 61 AD,60 or 61 AD,Boudica's Uprising,Roman Empire,"Iceni, Trinovantes, and\nother British tribes.",,https://en.wikipedia.org/wiki/Boudica#Uprising,
+66 AD,73 AD,First Jewish–Roman\nWar,Roman Empire,Judean rebels: Sadducees\nand volunteers from\nAdiabene,,https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War,https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War
+69 AD,69 AD,Year of the Four\nEmperors,Vespasian,Galba\nOtho\nVitellius,,https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors,https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors
+69 AD,70 AD,Revolt of the Batavi,Roman Empire,Batavi\nCananefates\nFrisii\nLingones\nTreveri,,https://en.wikipedia.org/wiki/Revolt_of_the_Batavi,
 73 AD,73 AD,Battle of Yiwulu,Han dynasty,Northern Xiongnu,,https://en.wikipedia.org/wiki/Battle_of_Yiwulu,
-89 AD,93 AD,"Destruction of the
-Xiongnu state","Han dynasty
-Southern Xiongnu",Northern Xiongnu,,https://en.wikipedia.org/wiki/Battle_of_the_Altai_Mountains,https://en.wikipedia.org/wiki/Battle_of_the_Altai_Mountains
+89 AD,93 AD,Destruction of the\nXiongnu state,Han dynasty\nSouthern Xiongnu,Northern Xiongnu,,https://en.wikipedia.org/wiki/Battle_of_the_Altai_Mountains,https://en.wikipedia.org/wiki/Battle_of_the_Altai_Mountains
 101 AD,102 AD,First Dacian War,,,,https://en.wikipedia.org/wiki/First_Dacian_War,
 105 AD,106 AD,Second Dacian War,Roman Empire,Dacian Kingdom,,https://en.wikipedia.org/wiki/Second_Dacian_War,
-115 AD,117 AD,"Trajan's Parthian
-campaign",Roman Empire,Parthian Empire,,https://en.wikipedia.org/wiki/Trajan's_Parthian_campaign,https://en.wikipedia.org/wiki/Trajan's_Parthian_campaign
-115 AD,117 AD,"Kitos War
-Part of Trajan's
-Parthian Campaign",Roman Empire,"Jews of Cyprus, Cyrenaica,
-Aegyptus, Mesopotamia
-and Iudaea",,https://en.wikipedia.org/wiki/Kitos_War,
+115 AD,117 AD,Trajan's Parthian\ncampaign,Roman Empire,Parthian Empire,,https://en.wikipedia.org/wiki/Trajan's_Parthian_campaign,https://en.wikipedia.org/wiki/Trajan's_Parthian_campaign
+115 AD,117 AD,Kitos War\nPart of Trajan's\nParthian Campaign,Roman Empire,"Jews of Cyprus, Cyrenaica,\nAegyptus, Mesopotamia\nand Iudaea",,https://en.wikipedia.org/wiki/Kitos_War,
 119 AD?,119 AD,Brigantes revolt,Roman Empire,Brigantes,,https://en.wikipedia.org/wiki/Quintus_Pompeius_Falco#Suppressing_rebels_in_Britain,
 "2nd century
 AD",180s AD,Civil War of Wa,Queen Himiko,Japanese chiefdoms,,https://en.wikipedia.org/wiki/Civil_War_of_Wa,
-132 AD,136 AD,Bar Kokhba revolt,Roman Empire,"Jews of Iudaea under
-Simon Bar Kokhba",,https://en.wikipedia.org/wiki/Bar_Kokhba_revolt,
+132 AD,136 AD,Bar Kokhba revolt,Roman Empire,Jews of Iudaea under\nSimon Bar Kokhba,,https://en.wikipedia.org/wiki/Bar_Kokhba_revolt,
 161 AD,166 AD,Roman–Parthian War,Roman Empire,Parthian Empire,,https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_War_of_161%E2%80%93166,
-166 AD,180 AD,Marcomannic Wars,Roman Empire,"Marcomanni
-Quadi
-Iazyges",,https://en.wikipedia.org/wiki/Marcomannic_Wars,
-172 AD,175 AD,Bucolic War,"Roman Empire
-Marcus Aurelius
-Avidius Cassius","Isidorus
-Egyptian rebels",,https://en.wikipedia.org/wiki/Bucolic_War?action=edit&redlink=1,
-184 AD,205 AD,"Yellow Turban
-Rebellion",Han dynasty,Yellow Turban rebels,,https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion,https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion
-190 AD,191 AD,"Campaign against
-Dong Zhuo","Guangdong Coalition
-led by Yuan Shao And
-Cao Cao",Dong Zhuo,,https://en.wikipedia.org/wiki/Campaign_against_Dong_Zhuo,https://en.wikipedia.org/wiki/Campaign_against_Dong_Zhuo
-193 AD,193 AD,"Year of the Five
-Emperors",Severan dynasty,"Pertinax
-Didius Julianus
-Pescennius Niger
-Clodius Albinus",,https://en.wikipedia.org/wiki/Year_of_the_Five_Emperors,https://en.wikipedia.org/wiki/Year_of_the_Five_Emperors
-194 AD,199 AD,"Sun Ce's conquests in
-Jiangdong",Sun Ce,"Shanyue
-Various warlords",,https://en.wikipedia.org/wiki/Sun_Ce's_conquests_in_Jiangdong,https://en.wikipedia.org/wiki/Sun_Ce's_conquests_in_Jiangdong
-196 AD,197 AD,"Clodius Albinus' Failed
-Usurpation",Roman Empire,Clodius Albinus' legions,,https://en.wikipedia.org/wiki/Clodius_Albinus#Albinus_declares_himself_emperor,https://en.wikipedia.org/wiki/Clodius_Albinus#Albinus_declares_himself_emperor
+166 AD,180 AD,Marcomannic Wars,Roman Empire,Marcomanni\nQuadi\nIazyges,,https://en.wikipedia.org/wiki/Marcomannic_Wars,
+172 AD,175 AD,Bucolic War,Roman Empire\nMarcus Aurelius\nAvidius Cassius,Isidorus\nEgyptian rebels,,https://en.wikipedia.org/wiki/Bucolic_War?action=edit&redlink=1,
+184 AD,205 AD,Yellow Turban\nRebellion,Han dynasty,Yellow Turban rebels,,https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion,https://en.wikipedia.org/wiki/Yellow_Turban_Rebellion
+190 AD,191 AD,Campaign against\nDong Zhuo,Guangdong Coalition\nled by Yuan Shao And\nCao Cao,Dong Zhuo,,https://en.wikipedia.org/wiki/Campaign_against_Dong_Zhuo,https://en.wikipedia.org/wiki/Campaign_against_Dong_Zhuo
+193 AD,193 AD,Year of the Five\nEmperors,Severan dynasty,Pertinax\nDidius Julianus\nPescennius Niger\nClodius Albinus,,https://en.wikipedia.org/wiki/Year_of_the_Five_Emperors,https://en.wikipedia.org/wiki/Year_of_the_Five_Emperors
+194 AD,199 AD,Sun Ce's conquests in\nJiangdong,Sun Ce,Shanyue\nVarious warlords,,https://en.wikipedia.org/wiki/Sun_Ce's_conquests_in_Jiangdong,https://en.wikipedia.org/wiki/Sun_Ce's_conquests_in_Jiangdong
+196 AD,197 AD,Clodius Albinus' Failed\nUsurpation,Roman Empire,Clodius Albinus' legions,,https://en.wikipedia.org/wiki/Clodius_Albinus#Albinus_declares_himself_emperor,https://en.wikipedia.org/wiki/Clodius_Albinus#Albinus_declares_himself_emperor
 202 AD,203 AD,Conquest of Garama,Roman Empire,Garamantes,,https://en.wikipedia.org/wiki/Garama,
-208 AD,211 AD,"Roman invasion of
-Caledonia",Roman Empire,Caledonians,,https://en.wikipedia.org/wiki/Roman_invasion_of_Caledonia_(208%E2%80%93211),https://en.wikipedia.org/wiki/Roman_invasion_of_Caledonia_(208%E2%80%93211)
-216 AD,216 AD,"Parthian war of
-Caracalla",Parthian Empire,Roman Empire,,https://en.wikipedia.org/wiki/Parthian_war_of_Caracalla,https://en.wikipedia.org/wiki/Parthian_war_of_Caracalla
-225 AD,225 AD,"Zhuge Liang's
-Southern Campaign",Shu Han,"Shu rebels
-Nanman",,https://en.wikipedia.org/wiki/Zhuge_Liang's_Southern_Campaign,https://en.wikipedia.org/wiki/Zhuge_Liang's_Southern_Campaign
-228 AD,234 AD,"Zhuge Liang's Northern
-Expeditions",Cao Wei,"Shu Han
-Qiang people
-Xianbei people",,https://en.wikipedia.org/wiki/Zhuge_Liang's_Northern_Expeditions,https://en.wikipedia.org/wiki/Zhuge_Liang's_Northern_Expeditions
-232 AD,c. 268 AD,"Civil Wars during the
-Crisis of the Third
-Century",Illyriciani,"Various Barracks emperors
-Various Usurpers, co-
-emperors, high officials and",,https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century,https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century
-,,,,"claimants to the throne
-Sassanid Empire",,,
-244 AD,245 AD,Goguryeo-Wei War,Cao Wei,"Goguryeo
-Okjeo
-Ye",,https://en.wikipedia.org/wiki/Goguryeo-Wei_War,
-247 AD,262 AD,"Jiang Wei's Northern
-Expeditions",Cao Wei,"Shu Han
-Di and Qiang tribes",,https://en.wikipedia.org/wiki/Jiang_Wei's_Northern_Expeditions,https://en.wikipedia.org/wiki/Jiang_Wei's_Northern_Expeditions
-249 AD,253 AD,Gothic War,Roman Empire,"Goths
-German-Sarmatian allies
-Roman deserters",,https://en.wikipedia.org/wiki/Gothic_War_(248%E2%80%93253),
-259 AD,260 AD,"Invasion of Raetia by
-the Juthungi
-",Roman Empire,Juthungi,"Crisis of the
-Third Century",https://en.wikipedia.org/wiki/Juthungi,https://en.wikipedia.org/wiki/Juthungi
-263 AD,263 AD,"Conquest of Shu by
-Wei",Cao Wei,Shu Han,,https://en.wikipedia.org/wiki/Conquest_of_Shu_by_Wei,https://en.wikipedia.org/wiki/Conquest_of_Shu_by_Wei
+208 AD,211 AD,Roman invasion of\nCaledonia,Roman Empire,Caledonians,,https://en.wikipedia.org/wiki/Roman_invasion_of_Caledonia_(208%E2%80%93211),https://en.wikipedia.org/wiki/Roman_invasion_of_Caledonia_(208%E2%80%93211)
+216 AD,216 AD,Parthian war of\nCaracalla,Parthian Empire,Roman Empire,,https://en.wikipedia.org/wiki/Parthian_war_of_Caracalla,https://en.wikipedia.org/wiki/Parthian_war_of_Caracalla
+225 AD,225 AD,Zhuge Liang's\nSouthern Campaign,Shu Han,Shu rebels\nNanman,,https://en.wikipedia.org/wiki/Zhuge_Liang's_Southern_Campaign,https://en.wikipedia.org/wiki/Zhuge_Liang's_Southern_Campaign
+228 AD,234 AD,Zhuge Liang's Northern\nExpeditions,Cao Wei,Shu Han\nQiang people\nXianbei people,,https://en.wikipedia.org/wiki/Zhuge_Liang's_Northern_Expeditions,https://en.wikipedia.org/wiki/Zhuge_Liang's_Northern_Expeditions
+232 AD,c. 268 AD,Civil Wars during the\nCrisis of the Third\nCentury,Illyriciani,"Various Barracks emperors\nVarious Usurpers, co-\nemperors, high officials and",,https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century,https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century
+,,,,claimants to the throne\nSassanid Empire,,,
+244 AD,245 AD,Goguryeo-Wei War,Cao Wei,Goguryeo\nOkjeo\nYe,,https://en.wikipedia.org/wiki/Goguryeo-Wei_War,
+247 AD,262 AD,Jiang Wei's Northern\nExpeditions,Cao Wei,Shu Han\nDi and Qiang tribes,,https://en.wikipedia.org/wiki/Jiang_Wei's_Northern_Expeditions,https://en.wikipedia.org/wiki/Jiang_Wei's_Northern_Expeditions
+249 AD,253 AD,Gothic War,Roman Empire,Goths\nGerman-Sarmatian allies\nRoman deserters,,https://en.wikipedia.org/wiki/Gothic_War_(248%E2%80%93253),
+259 AD,260 AD,Invasion of Raetia by\nthe Juthungi\n,Roman Empire,Juthungi,Crisis of the\nThird Century,https://en.wikipedia.org/wiki/Juthungi,https://en.wikipedia.org/wiki/Juthungi
+263 AD,263 AD,Conquest of Shu by\nWei,Cao Wei,Shu Han,,https://en.wikipedia.org/wiki/Conquest_of_Shu_by_Wei,https://en.wikipedia.org/wiki/Conquest_of_Shu_by_Wei
 "268 or 269
 AD","268 or 269
-AD","Battle of Naissus
-",Roman Empire,Goths,"Crisis of the
-Third Century",https://en.wikipedia.org/wiki/Battle_of_Naissus,
-270 AD,271 AD,"Establishment of the
-Palmyrene Empire
-",Palmyrene Empire,"Roman Empire
-Tanukhids","Crisis of the
-Third Century",https://en.wikipedia.org/wiki/Palmyrene_Empire#Establishment,https://en.wikipedia.org/wiki/Palmyrene_Empire#Establishment
-270 AD,274 AD,"Wars of Emperor
-Aurelian",Roman Empire,"Vandals
-Juthungi
-Sarmatians
-Alamanni
-Rebellious mint workers
-Goths
-Palmyrene Empire
-Troops of Firmus
-Province of Egypt
-Sassanid Empire
-Gallic Empire",,https://en.wikipedia.org/wiki/Aurelian,
-270 AD,271 AD,"Campaigns against
-Germanic tribes
-",Roman Empire,"Vandals
-Juthungi
-Sarmatians
-Alamanni
-Goths","Wars of
-Emperor Aurelian",https://en.wikipedia.org/wiki/Aurelian#Reunification_of_the_empire,https://en.wikipedia.org/wiki/Aurelian#Reunification_of_the_empire
-271 AD,271 AD,"Suppression of the
-Uprising led by
-Felicissimus
-",Roman Empire,Rebellious mint workers,"Wars of
-Emperor Aurelian",https://en.wikipedia.org/wiki/Felicissimus,
-272 AD,273 AD,"Conquest of the
-Palmyrene Empire
-",Roman Empire,"Palmyrene Empire
-Troops of Firmus
-Province of Egypt
-Sassanid Empire","Wars of
-Emperor Aurelian",https://en.wikipedia.org/wiki/Aurelian#Conquest_of_the_Palmyrene_Empire,https://en.wikipedia.org/wiki/Aurelian#Conquest_of_the_Palmyrene_Empire
-274 AD,274 AD,"Conquest of the Gallic
-Empire
-",Roman Empire,Gallic Empire,"Wars of
-Emperor Aurelian",https://en.wikipedia.org/wiki/Aurelian#Conquest_of_the_Gallic_Empire,https://en.wikipedia.org/wiki/Aurelian#Conquest_of_the_Gallic_Empire
+AD",Battle of Naissus\n,Roman Empire,Goths,Crisis of the\nThird Century,https://en.wikipedia.org/wiki/Battle_of_Naissus,
+270 AD,271 AD,Establishment of the\nPalmyrene Empire\n,Palmyrene Empire,Roman Empire\nTanukhids,Crisis of the\nThird Century,https://en.wikipedia.org/wiki/Palmyrene_Empire#Establishment,https://en.wikipedia.org/wiki/Palmyrene_Empire#Establishment
+270 AD,274 AD,Wars of Emperor\nAurelian,Roman Empire,Vandals\nJuthungi\nSarmatians\nAlamanni\nRebellious mint workers\nGoths\nPalmyrene Empire\nTroops of Firmus\nProvince of Egypt\nSassanid Empire\nGallic Empire,,https://en.wikipedia.org/wiki/Aurelian,
+270 AD,271 AD,Campaigns against\nGermanic tribes\n,Roman Empire,Vandals\nJuthungi\nSarmatians\nAlamanni\nGoths,Wars of\nEmperor Aurelian,https://en.wikipedia.org/wiki/Aurelian#Reunification_of_the_empire,https://en.wikipedia.org/wiki/Aurelian#Reunification_of_the_empire
+271 AD,271 AD,Suppression of the\nUprising led by\nFelicissimus\n,Roman Empire,Rebellious mint workers,Wars of\nEmperor Aurelian,https://en.wikipedia.org/wiki/Felicissimus,
+272 AD,273 AD,Conquest of the\nPalmyrene Empire\n,Roman Empire,Palmyrene Empire\nTroops of Firmus\nProvince of Egypt\nSassanid Empire,Wars of\nEmperor Aurelian,https://en.wikipedia.org/wiki/Aurelian#Conquest_of_the_Palmyrene_Empire,https://en.wikipedia.org/wiki/Aurelian#Conquest_of_the_Palmyrene_Empire
+274 AD,274 AD,Conquest of the Gallic\nEmpire\n,Roman Empire,Gallic Empire,Wars of\nEmperor Aurelian,https://en.wikipedia.org/wiki/Aurelian#Conquest_of_the_Gallic_Empire,https://en.wikipedia.org/wiki/Aurelian#Conquest_of_the_Gallic_Empire
 279 AD,280 AD,Conquest of Wu by Jin,Jin dynasty,Eastern Wu,,https://en.wikipedia.org/wiki/Conquest_of_Wu_by_Jin,
 286 AD,296 AD,Carausian Revolt,Roman Empire,Carausius,,https://en.wikipedia.org/wiki/Carausian_Revolt,
-291 AD,306 AD,"War of the Eight
-Princes",Sima Yue,Various princes,,https://en.wikipedia.org/wiki/War_of_the_Eight_Princes,https://en.wikipedia.org/wiki/War_of_the_Eight_Princes
-306 AD,324 AD,"Civil wars of the
-Tetrarchy","Constantine I's
-legions","Licinius's legions
-Martinianus's legions
-Maxentius's legions
-Maximinus Daia's legions",,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy
-306 AD,312 AD,"War of Constantine
-and Maxentius
-","Constantine I's
-legions",Maxentius's legions,"Civil wars of
-the Tetrarchy",https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#War_of_Constantine_and_Maxentius,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#War_of_Constantine_and_Maxentius
-313 AD,313 AD,"War of Licinius and
-Maximinus Daia
-",Licinius's legions,Maximinus Daia's legions,"Civil wars of
-the Tetrarchy",https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#War_of_Licinius_and_Maximinus_Daia,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#War_of_Licinius_and_Maximinus_Daia
+291 AD,306 AD,War of the Eight\nPrinces,Sima Yue,Various princes,,https://en.wikipedia.org/wiki/War_of_the_Eight_Princes,https://en.wikipedia.org/wiki/War_of_the_Eight_Princes
+306 AD,324 AD,Civil wars of the\nTetrarchy,Constantine I's\nlegions,Licinius's legions\nMartinianus's legions\nMaxentius's legions\nMaximinus Daia's legions,,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy
+306 AD,312 AD,War of Constantine\nand Maxentius\n,Constantine I's\nlegions,Maxentius's legions,Civil wars of\nthe Tetrarchy,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#War_of_Constantine_and_Maxentius,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#War_of_Constantine_and_Maxentius
+313 AD,313 AD,War of Licinius and\nMaximinus Daia\n,Licinius's legions,Maximinus Daia's legions,Civil wars of\nthe Tetrarchy,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#War_of_Licinius_and_Maximinus_Daia,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#War_of_Licinius_and_Maximinus_Daia
 "314 or 316
-AD",324 AD,"Wars of Constantine
-and Licinius
-","Constantine I's
-legions","Licinius's legions
-Martinianus's legions","Civil wars of
-the Tetrarchy",https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#Wars_of_Constantine_and_Licinius,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#Wars_of_Constantine_and_Licinius
-325 AD,325 AD,"Shapur II's Arab
-campaign",Sasanian Empire,"Banu Tamim and other Arab
-tribes",,https://en.wikipedia.org/wiki/Shapur_II's_Arab_campaign,https://en.wikipedia.org/wiki/Shapur_II's_Arab_campaign
-351 AD,352 AD,"Jewish revolt against
-Constantius Gallus","Eastern Roman
-Empire",Jewish rebels,,https://en.wikipedia.org/wiki/Jewish_revolt_against_Constantius_Gallus,https://en.wikipedia.org/wiki/Jewish_revolt_against_Constantius_Gallus
-367 AD,367 AD,Great Conspiracy,Roman Empire,"Picts
-Scotti
-Attacotti
-Saxons
-Franks
-Roman deserters",,https://en.wikipedia.org/wiki/Great_Conspiracy,
-376 AD,382 AD,Gothic War,"Eastern Roman
-Empire","Ostrogoths
-Franks",,https://en.wikipedia.org/wiki/Gothic_War_(376%E2%80%93382),
-378 AD,378 AD,"Tanukh revolt against
-Rome",Tanukhids,Eastern Roman Empire,,https://en.wikipedia.org/wiki/Mavia_(queen)#Details_of_the_revolt,https://en.wikipedia.org/wiki/Mavia_(queen)#Details_of_the_revolt
-378 AD,379 AD,"Conquests of Siyaj
-K'ak'",Teotihuacan,"Waka'
-Tikal
-Uaxactun
-Bejucal
-El Zotz",,https://en.wikipedia.org/wiki/Siyaj_K'ak',https://en.wikipedia.org/wiki/Siyaj_K'ak'
+AD",324 AD,Wars of Constantine\nand Licinius\n,Constantine I's\nlegions,Licinius's legions\nMartinianus's legions,Civil wars of\nthe Tetrarchy,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#Wars_of_Constantine_and_Licinius,https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy#Wars_of_Constantine_and_Licinius
+325 AD,325 AD,Shapur II's Arab\ncampaign,Sasanian Empire,Banu Tamim and other Arab\ntribes,,https://en.wikipedia.org/wiki/Shapur_II's_Arab_campaign,https://en.wikipedia.org/wiki/Shapur_II's_Arab_campaign
+351 AD,352 AD,Jewish revolt against\nConstantius Gallus,Eastern Roman\nEmpire,Jewish rebels,,https://en.wikipedia.org/wiki/Jewish_revolt_against_Constantius_Gallus,https://en.wikipedia.org/wiki/Jewish_revolt_against_Constantius_Gallus
+367 AD,367 AD,Great Conspiracy,Roman Empire,Picts\nScotti\nAttacotti\nSaxons\nFranks\nRoman deserters,,https://en.wikipedia.org/wiki/Great_Conspiracy,
+376 AD,382 AD,Gothic War,Eastern Roman\nEmpire,Ostrogoths\nFranks,,https://en.wikipedia.org/wiki/Gothic_War_(376%E2%80%93382),
+378 AD,378 AD,Tanukh revolt against\nRome,Tanukhids,Eastern Roman Empire,,https://en.wikipedia.org/wiki/Mavia_(queen)#Details_of_the_revolt,https://en.wikipedia.org/wiki/Mavia_(queen)#Details_of_the_revolt
+378 AD,379 AD,Conquests of Siyaj\nK'ak',Teotihuacan,Waka'\nTikal\nUaxactun\nBejucal\nEl Zotz,,https://en.wikipedia.org/wiki/Siyaj_K'ak',https://en.wikipedia.org/wiki/Siyaj_K'ak'
 383 AD,383 AD,Battle of Fei River,Eastern Jin dynasty,Former Qin,,https://en.wikipedia.org/wiki/Battle_of_Fei_River,
-391 AD,404 AD,Goguryeo–Wa War,"Goguryeo
-Silla","Baekje
-Wa
-Gaya",,https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Wa_War,
-395 AD,410 AD,Conquests of Alaric I,Visigothic Kingdom,"Western Roman Empire
-Eastern Roman Empire",,https://en.wikipedia.org/wiki/Alaric_I,
-395 AD,397 AD,"Visigothic Invasion of
-Greece
-",Visigothic Kingdom,Eastern Roman Empire,"Conquests
-of Alaric I",https://en.wikipedia.org/wiki/Alaric_I,https://en.wikipedia.org/wiki/Alaric_I
-c. 398 AD,c. 398 AD,Stilicho's Pictish War,"Western Roman
-Empire","Picts
-Saxons
-Scots",,https://en.wikipedia.org/wiki/Stilicho's_Pictish_War,
-,,,,,,,
-398 AD,398 AD,Gildonic revolt,"Western Roman
-Empire",Troops of Gildo,,https://en.wikipedia.org/wiki/Gildonic_revolt,
-c. 401 AD,c. 403 AD,"Visigothic First
-Invasion of Italy
-","Western Roman
-Empire",Visigoths,"Conquests
-of Alaric I",https://en.wikipedia.org/wiki/Alarich_I#First_invasion_of_Italy,https://en.wikipedia.org/wiki/Alarich_I#First_invasion_of_Italy
-406 AD,406 AD,Battle of Mainz,"Vandals
-Suevi
-Alans",Franks,,https://en.wikipedia.org/wiki/Battle_of_Mainz_(406)?action=edit&redlink=1,
-408 AD,410 AD,"Visigothic Second
-Invasion of Italy
-",Visigoths,Western Roman Empire,"Conquests
-of Alaric I","https://en.wikipedia.org/wiki/Alarich_I#Second_invasion_of_Italy,_agreement_with_Western_Roman_regime","https://en.wikipedia.org/wiki/Alarich_I#Second_invasion_of_Italy,_agreement_with_Western_Roman_regime"
-410 AD,410 AD,"Sack of Rome
-",Visigoths,Western Roman Empire,"Conquests
-of Alaric I",https://en.wikipedia.org/wiki/Sack_of_Rome_(410),
-421 AD,422 AD,Roman–Sasanian War,"Sassanid Empire
-Lakhmids",Eastern Roman Empire,,https://en.wikipedia.org/wiki/Roman%E2%80%93Sasanian_War_of_421%E2%80%93422,
-426 AD,426 AD,"Conquest of Copán
-and Quiriguá",Teotihuacan,"Copán
-Quiriguá",,https://en.wikipedia.org/wiki/Teotihuacan#Year_426:_Conquest_of_Cop%C3%A1n_and_Quirigu%C3%A1,https://en.wikipedia.org/wiki/Teotihuacan#Year_426:_Conquest_of_Cop%C3%A1n_and_Quirigu%C3%A1
+391 AD,404 AD,Goguryeo–Wa War,Goguryeo\nSilla,Baekje\nWa\nGaya,,https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Wa_War,
+395 AD,410 AD,Conquests of Alaric I,Visigothic Kingdom,Western Roman Empire\nEastern Roman Empire,,https://en.wikipedia.org/wiki/Alaric_I,
+395 AD,397 AD,Visigothic Invasion of\nGreece\n,Visigothic Kingdom,Eastern Roman Empire,Conquests\nof Alaric I,https://en.wikipedia.org/wiki/Alaric_I,https://en.wikipedia.org/wiki/Alaric_I
+c. 398 AD,c. 398 AD,Stilicho's Pictish War,Western Roman\nEmpire,Picts\nSaxons\nScots,,https://en.wikipedia.org/wiki/Stilicho's_Pictish_War,
+,,nan,nan,nan,,,
+398 AD,398 AD,Gildonic revolt,Western Roman\nEmpire,Troops of Gildo,,https://en.wikipedia.org/wiki/Gildonic_revolt,
+c. 401 AD,c. 403 AD,Visigothic First\nInvasion of Italy\n,Western Roman\nEmpire,Visigoths,Conquests\nof Alaric I,https://en.wikipedia.org/wiki/Alarich_I#First_invasion_of_Italy,https://en.wikipedia.org/wiki/Alarich_I#First_invasion_of_Italy
+406 AD,406 AD,Battle of Mainz,Vandals\nSuevi\nAlans,Franks,,https://en.wikipedia.org/wiki/Battle_of_Mainz_(406)?action=edit&redlink=1,
+408 AD,410 AD,Visigothic Second\nInvasion of Italy\n,Visigoths,Western Roman Empire,Conquests\nof Alaric I,"https://en.wikipedia.org/wiki/Alarich_I#Second_invasion_of_Italy,_agreement_with_Western_Roman_regime","https://en.wikipedia.org/wiki/Alarich_I#Second_invasion_of_Italy,_agreement_with_Western_Roman_regime"
+410 AD,410 AD,Sack of Rome\n,Visigoths,Western Roman Empire,Conquests\nof Alaric I,https://en.wikipedia.org/wiki/Sack_of_Rome_(410),
+421 AD,422 AD,Roman–Sasanian War,Sassanid Empire\nLakhmids,Eastern Roman Empire,,https://en.wikipedia.org/wiki/Roman%E2%80%93Sasanian_War_of_421%E2%80%93422,
+426 AD,426 AD,Conquest of Copán\nand Quiriguá,Teotihuacan,Copán\nQuiriguá,,https://en.wikipedia.org/wiki/Teotihuacan#Year_426:_Conquest_of_Cop%C3%A1n_and_Quirigu%C3%A1,https://en.wikipedia.org/wiki/Teotihuacan#Year_426:_Conquest_of_Cop%C3%A1n_and_Quirigu%C3%A1
 432 AD,432 AD,Battle of Ravenna,Bonifacius,Flavius Aetius,,https://en.wikipedia.org/wiki/Battle_of_Ravenna_(432),
-434 AD,453 AD,"Hunnic invasion of
-Europe",Hunnic Empire,"Eastern Roman Empire
-Western Roman Empire
-Franks
-Goths
-Burgundians
-Saxons
-Alans
-Minor Germanic and Gallic
-tribes",,https://en.wikipedia.org/wiki/Huns#History,https://en.wikipedia.org/wiki/Huns#History
+434 AD,453 AD,Hunnic invasion of\nEurope,Hunnic Empire,Eastern Roman Empire\nWestern Roman Empire\nFranks\nGoths\nBurgundians\nSaxons\nAlans\nMinor Germanic and Gallic\ntribes,,https://en.wikipedia.org/wiki/Huns#History,https://en.wikipedia.org/wiki/Huns#History
 451 AD,451 AD,Battle of Avarayr,Sassanid Empire,Christian Armenian Rebels,,https://en.wikipedia.org/wiki/Battle_of_Avarayr,
 "before 453
-AD",454 AD,Germanic-Hunnic Wars,"Gepids
-Ostrogoths
-Heruli
-Rugii
-Sciri
-Suebi","Huns
-Alans",,https://en.wikipedia.org/wiki/Battle_of_Nedao,
+AD",454 AD,Germanic-Hunnic Wars,Gepids\nOstrogoths\nHeruli\nRugii\nSciri\nSuebi,Huns\nAlans,,https://en.wikipedia.org/wiki/Battle_of_Nedao,
 455 AD,455 AD,Sack of Rome,Vandals,Western Roman Empire,,https://en.wikipedia.org/wiki/Sack_of_Rome_(455),
-463 AD,463 AD,Kibi Clan Rebellion,"Yamato Kingship
-Emperor Yūryaku","Kibi clan
-Silla",,https://en.wikipedia.org/wiki/Kibi_Clan_Rebellion,
-468 AD,468 AD,Battle of Cap Bon,Vandals,"Western Roman Empire
-Eastern Roman Empire",,https://en.wikipedia.org/wiki/Battle_of_Cap_Bon_(468),
-479 AD,479 AD,"Prince Hoshikawa
-Rebellion","Yamato kingship
-Prince Shiraka
-Ōtomo clan","Prince Hoshikawa
-Kibi clan",,https://en.wikipedia.org/wiki/Prince_Hoshikawa_Rebellion,https://en.wikipedia.org/wiki/Prince_Hoshikawa_Rebellion
-481 or 482 AD,,"Italian conquest of
-Roman Dalmatia",Kingdom of Italy,Roman Dalmatia,,https://en.wikipedia.org/wiki/Ovida#History,https://en.wikipedia.org/wiki/Ovida#History
+463 AD,463 AD,Kibi Clan Rebellion,Yamato Kingship\nEmperor Yūryaku,Kibi clan\nSilla,,https://en.wikipedia.org/wiki/Kibi_Clan_Rebellion,
+468 AD,468 AD,Battle of Cap Bon,Vandals,Western Roman Empire\nEastern Roman Empire,,https://en.wikipedia.org/wiki/Battle_of_Cap_Bon_(468),
+479 AD,479 AD,Prince Hoshikawa\nRebellion,Yamato kingship\nPrince Shiraka\nŌtomo clan,Prince Hoshikawa\nKibi clan,,https://en.wikipedia.org/wiki/Prince_Hoshikawa_Rebellion,https://en.wikipedia.org/wiki/Prince_Hoshikawa_Rebellion
+481 or 482 AD,,Italian conquest of\nRoman Dalmatia,Kingdom of Italy,Roman Dalmatia,,https://en.wikipedia.org/wiki/Ovida#History,https://en.wikipedia.org/wiki/Ovida#History
 484 AD,484 AD,Battle of Herat,Hephthalite Empire,Sassanid Empire,,https://en.wikipedia.org/wiki/Battle_of_Herat_(484),
-484 AD,484 AD,"Sukhra's Hephthalite
-campaign",Sassanid Empire,Hephthalite Empire,,https://en.wikipedia.org/wiki/Sukhra's_Hephthalite_campaign,https://en.wikipedia.org/wiki/Sukhra's_Hephthalite_campaign
-,,,,,,,
-486 AD,486 AD,Battle of Soissons,"Salian Franks of
-Tournai and Cambrai",Kingdom of Soissons,,https://en.wikipedia.org/wiki/Battle_of_Soissons_(486),
-488 AD,493 AD,"Conquest of Italy by
-Theoderic the Great","Ostrogoths
-Rugians","Kingdom of Italy
-Sciri
-Heruli",,https://en.wikipedia.org/wiki/Theoderic_the_Great,https://en.wikipedia.org/wiki/Theoderic_the_Great
+484 AD,484 AD,Sukhra's Hephthalite\ncampaign,Sassanid Empire,Hephthalite Empire,,https://en.wikipedia.org/wiki/Sukhra's_Hephthalite_campaign,https://en.wikipedia.org/wiki/Sukhra's_Hephthalite_campaign
+,,nan,nan,nan,,,
+486 AD,486 AD,Battle of Soissons,Salian Franks of\nTournai and Cambrai,Kingdom of Soissons,,https://en.wikipedia.org/wiki/Battle_of_Soissons_(486),
+488 AD,493 AD,Conquest of Italy by\nTheoderic the Great,Ostrogoths\nRugians,Kingdom of Italy\nSciri\nHeruli,,https://en.wikipedia.org/wiki/Theoderic_the_Great,https://en.wikipedia.org/wiki/Theoderic_the_Great
 492 AD,508 AD,Franco-Visigothic Wars,Franks,Visigoths,,https://en.wikipedia.org/wiki/Franco-Visigothic_Wars,
 494 AD,534 AD,Basus War,Taghlib,Banu Bakr,,https://en.wikipedia.org/wiki/Basus_War,
-502 AD,506 AD,Anastasian War,"Sasanian Empire
-Lakhmids",Byzantine Empire,,https://en.wikipedia.org/wiki/Anastasian_War,
-511 AD,515 AD,Revolt of Vitalian,Byzantine Empire,"Vitalian loyalists
-Chalcedonian Christian
-rebels",,https://en.wikipedia.org/wiki/Revolt_of_Vitalian,
-526 AD,532 AD,Iberian War,"Sasanian Empire
-Lakhmids
-Sabirs","Byzantine Empire
-Iberia
-Ghassanids
-Huns
-Heruli
-Aksumites
-Kinda",,https://en.wikipedia.org/wiki/Iberian_War,
-527 AD,527 AD,Iwai Rebellion,Yamato court,"Iwai clan in Tsukushi
-Province",,https://en.wikipedia.org/wiki/Iwai_Rebellion,
+502 AD,506 AD,Anastasian War,Sasanian Empire\nLakhmids,Byzantine Empire,,https://en.wikipedia.org/wiki/Anastasian_War,
+511 AD,515 AD,Revolt of Vitalian,Byzantine Empire,Vitalian loyalists\nChalcedonian Christian\nrebels,,https://en.wikipedia.org/wiki/Revolt_of_Vitalian,
+526 AD,532 AD,Iberian War,Sasanian Empire\nLakhmids\nSabirs,Byzantine Empire\nIberia\nGhassanids\nHuns\nHeruli\nAksumites\nKinda,,https://en.wikipedia.org/wiki/Iberian_War,
+527 AD,527 AD,Iwai Rebellion,Yamato court,Iwai clan in Tsukushi\nProvince,,https://en.wikipedia.org/wiki/Iwai_Rebellion,
 c. 531 AD,c. 531 AD,Battle of Unstrut,Franks,Kingdom of Thuringia,,https://en.wikipedia.org/wiki/Unstrut#History,
 533 AD,534 AD,Vandalic War,Byzantine Empire,Vandalic Kingdom,,https://en.wikipedia.org/wiki/Vandalic_War,
-534 AD,537 AD,"Wars against the
-Moors",Byzantine Empire,Moors,,https://en.wikipedia.org/wiki/Praetorian_prefecture_of_Africa,https://en.wikipedia.org/wiki/Praetorian_prefecture_of_Africa
-535 AD,554 AD,Gothic War,Byzantine Empire,"Ostrogothic Kingdom
-Frankish Kingdom",,https://en.wikipedia.org/wiki/Gothic_War_(535%E2%80%93554),
-537 AD,572 AD,"First Tikal-Calakmul
-War",Calakmul,Tikal,,https://en.wikipedia.org/wiki/First_Tikal-Calakmul_War,https://en.wikipedia.org/wiki/First_Tikal-Calakmul_War
-541 AD,562 AD,Lazic War,"Sasanian Persian
-Empire
-Lazica (541–548)
-Abasgia
-Sabirs
-Dailamites","Eastern Roman Empire
-Lazica (after 548)
-Tzani
-Alans
-Sabirs
-Armenians",,https://en.wikipedia.org/wiki/Lazic_War,
+534 AD,537 AD,Wars against the\nMoors,Byzantine Empire,Moors,,https://en.wikipedia.org/wiki/Praetorian_prefecture_of_Africa,https://en.wikipedia.org/wiki/Praetorian_prefecture_of_Africa
+535 AD,554 AD,Gothic War,Byzantine Empire,Ostrogothic Kingdom\nFrankish Kingdom,,https://en.wikipedia.org/wiki/Gothic_War_(535%E2%80%93554),
+537 AD,572 AD,First Tikal-Calakmul\nWar,Calakmul,Tikal,,https://en.wikipedia.org/wiki/First_Tikal-Calakmul_War,https://en.wikipedia.org/wiki/First_Tikal-Calakmul_War
+541 AD,562 AD,Lazic War,Sasanian Persian\nEmpire\nLazica (541–548)\nAbasgia\nSabirs\nDailamites,Eastern Roman Empire\nLazica (after 548)\nTzani\nAlans\nSabirs\nArmenians,,https://en.wikipedia.org/wiki/Lazic_War,
 after 550 AD,"before 590
-AD","Bhavavarman I's
-invasion of Funan",Chenla,Funan,,https://en.wikipedia.org/wiki/Bhavavarman_I,https://en.wikipedia.org/wiki/Funan
-551 AD,555 AD,Conquest of Spania,"Byzantine Empire
-Visigoths under
-Athanagild",Visigothic Kingdom,,https://en.wikipedia.org/wiki/Spania#Conquest_and_foundation,
-c. 555 AD,624 AD,"Decline and Visigothic
-conquest of Spania",Visigothic Kingdom,Byzantine Empire,,https://en.wikipedia.org/wiki/Spania#Decline_and_Visigothic_conquest,https://en.wikipedia.org/wiki/Spania#Decline_and_Visigothic_conquest
-556 AD,556 AD,"First Tikal-Caracol War
-",Tikal,Caracol,"Tikal-
-Caracol Wars",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,
-557 AD,557 AD,Battle of Bukhara,"Sassanid Empire
-Western Turkic
-Khaganate",Hephthalite Empire,,https://en.wikipedia.org/wiki/Battle_of_Bukhara,
-562 AD,562 AD,"First ""Star War""
-(Second Tikal-Caracol
-War)
-","Caracol
-Calakmul",Tikal,"Tikal-
-Caracol Wars
-Part of the ""Star Wars""",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
-567 AD,567 AD,Lombard–Gepid War,"Lombards
-Pannonian Avars","Gepids
-Byzantine Empire",,https://en.wikipedia.org/wiki/Lombard%E2%80%93Gepid_War_(567),
+AD",Bhavavarman I's\ninvasion of Funan,Chenla,Funan,,https://en.wikipedia.org/wiki/Bhavavarman_I,https://en.wikipedia.org/wiki/Funan
+551 AD,555 AD,Conquest of Spania,Byzantine Empire\nVisigoths under\nAthanagild,Visigothic Kingdom,,https://en.wikipedia.org/wiki/Spania#Conquest_and_foundation,
+c. 555 AD,624 AD,Decline and Visigothic\nconquest of Spania,Visigothic Kingdom,Byzantine Empire,,https://en.wikipedia.org/wiki/Spania#Decline_and_Visigothic_conquest,https://en.wikipedia.org/wiki/Spania#Decline_and_Visigothic_conquest
+556 AD,556 AD,First Tikal-Caracol War\n,Tikal,Caracol,Tikal-\nCaracol Wars,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,
+557 AD,557 AD,Battle of Bukhara,Sassanid Empire\nWestern Turkic\nKhaganate,Hephthalite Empire,,https://en.wikipedia.org/wiki/Battle_of_Bukhara,
+562 AD,562 AD,"First ""Star War""\n(Second Tikal-Caracol\nWar)\n",Caracol\nCalakmul,Tikal,"Tikal-\nCaracol Wars\nPart of the ""Star Wars""",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
+567 AD,567 AD,Lombard–Gepid War,Lombards\nPannonian Avars,Gepids\nByzantine Empire,,https://en.wikipedia.org/wiki/Lombard%E2%80%93Gepid_War_(567),
 568 AD,608 AD,Dahis and al-Ghabra,Banu Abs,Banu Dhubyan,,https://en.wikipedia.org/wiki/Dahis_and_al-Ghabra,
-570 AD,578 AD,"Aksumite–Persian
-wars",Sassanid Empire,Kingdom of Aksum,,https://en.wikipedia.org/wiki/Aksumite%E2%80%93Persian_wars,https://en.wikipedia.org/wiki/Aksumite%E2%80%93Persian_wars
-572 AD,591 AD,"Byzantine–Sasanian
-War","Byzantine Empire
-Ghassanids
-Armenians","Sassanid Persian Empire
-Lakhmids
-Armenians",,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_572%E2%80%93591,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_572%E2%80%93591
-580 AD,584 AD,Hermenegild's revolt,Visigothic Kingdom,"Hermenegild's loyalists
-Chalcedonian Christian
-rebels",,https://en.wikipedia.org/wiki/Hermenegild,
+570 AD,578 AD,Aksumite–Persian\nwars,Sassanid Empire,Kingdom of Aksum,,https://en.wikipedia.org/wiki/Aksumite%E2%80%93Persian_wars,https://en.wikipedia.org/wiki/Aksumite%E2%80%93Persian_wars
+572 AD,591 AD,Byzantine–Sasanian\nWar,Byzantine Empire\nGhassanids\nArmenians,Sassanid Persian Empire\nLakhmids\nArmenians,,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_572%E2%80%93591,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_572%E2%80%93591
+580 AD,584 AD,Hermenegild's revolt,Visigothic Kingdom,Hermenegild's loyalists\nChalcedonian Christian\nrebels,,https://en.wikipedia.org/wiki/Hermenegild,
 581 AD,603 AD,Göktürk civil war,Western Gokturks,Eastern Gokturks,,https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_civil_war,
-582 AD,602 AD,"Maurice's Balkan
-campaigns",Byzantine Empire,"Avar Khaganate
-Antae",,https://en.wikipedia.org/wiki/Maurice's_Balkan_campaigns,https://en.wikipedia.org/wiki/Maurice's_Balkan_campaigns
+582 AD,602 AD,Maurice's Balkan\ncampaigns,Byzantine Empire,Avar Khaganate\nAntae,,https://en.wikipedia.org/wiki/Maurice's_Balkan_campaigns,https://en.wikipedia.org/wiki/Maurice's_Balkan_campaigns
 584 AD,589 AD,Fijar Wars,Quraysh,Hawazin,,https://en.wikipedia.org/wiki/Fijar_Wars,
-588 AD,588 AD,First Perso-Turkic War,Sassanid Persians,"Hephthalite principalities
-Western Turkic Khaganate",,https://en.wikipedia.org/wiki/First_Perso-Turkic_War,
+588 AD,588 AD,First Perso-Turkic War,Sassanid Persians,Hephthalite principalities\nWestern Turkic Khaganate,,https://en.wikipedia.org/wiki/First_Perso-Turkic_War,
 598 AD,614 AD,Goguryeo–Sui Wars,Goguryeo,Sui dynasty,,https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Sui_Wars,
 600 AD,793 AD,Frisian–Frankish wars,Frankish Empire,Frisian Kingdom,,https://en.wikipedia.org/wiki/Frisian%E2%80%93Frankish_wars,
 602 AD,602 AD,Sui–Former Lý War,Sui dynasty,Early Lý dynasty,,https://en.wikipedia.org/wiki/Sui%E2%80%93Former_L%C3%BD_War,
-602 AD,628 AD,"Byzantine–Sasanian
-War","Byzantine Empire
-Western Turkic
-Khaganate
-Ghassanids","Sasanian Empire
-Avars (and Slavic allies)
-Sasanian Iberia
-Jewish and Samaritan
-rebels (c. 614)
-Lakhmids",,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628
+602 AD,628 AD,Byzantine–Sasanian\nWar,Byzantine Empire\nWestern Turkic\nKhaganate\nGhassanids,Sasanian Empire\nAvars (and Slavic allies)\nSasanian Iberia\nJewish and Samaritan\nrebels (c. 614)\nLakhmids,,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Sasanian_War_of_602%E2%80%93628
 605 AD,605 AD,Sino–Cham war,Sui dynasty,Lâm Ấp,,https://en.wikipedia.org/wiki/Sino%E2%80%93Cham_war,
-613 AD,628 AD,"Transition from Sui to
-Tang",Tang dynasty,"Zhèng
-Xǔ
-Xia
-Dingyang
-Liang
-Wu
-Chu",,https://en.wikipedia.org/wiki/Transition_from_Sui_to_Tang,https://en.wikipedia.org/wiki/Transition_from_Sui_to_Tang
-614 AD,628 AD,"Jewish revolt against
-Heraclius",Byzantine Empire,"Sasanian Empire
-Jewish rebels",,https://en.wikipedia.org/wiki/Jewish_revolt_against_Heraclius,https://en.wikipedia.org/wiki/Jewish_revolt_against_Heraclius
-619 AD,619 AD,"Second Perso-Turkic
-War",Sasanian Empire,"Western Turkic Khaganate
-Hephthalites",,https://en.wikipedia.org/wiki/Second_Perso-Turkic_War,https://en.wikipedia.org/wiki/Second_Perso-Turkic_War
-622 AD,750 AD,"Early Muslim
-conquests","First Islamic state
-Rashidun Caliphate
-Umayyad Caliphate","Sasanian Empire
-Byzantine Empire
-Western Turkic Khaganate
-Tang dynasty
-Chach dynasty
-Visigothic Kingdom",,https://en.wikipedia.org/wiki/Early_Muslim_conquests,https://en.wikipedia.org/wiki/Early_Muslim_conquests
-,,,,"Kingdom of Asturias
-Frankish Kingdom",,,
+613 AD,628 AD,Transition from Sui to\nTang,Tang dynasty,Zhèng\nXǔ\nXia\nDingyang\nLiang\nWu\nChu,,https://en.wikipedia.org/wiki/Transition_from_Sui_to_Tang,https://en.wikipedia.org/wiki/Transition_from_Sui_to_Tang
+614 AD,628 AD,Jewish revolt against\nHeraclius,Byzantine Empire,Sasanian Empire\nJewish rebels,,https://en.wikipedia.org/wiki/Jewish_revolt_against_Heraclius,https://en.wikipedia.org/wiki/Jewish_revolt_against_Heraclius
+619 AD,619 AD,Second Perso-Turkic\nWar,Sasanian Empire,Western Turkic Khaganate\nHephthalites,,https://en.wikipedia.org/wiki/Second_Perso-Turkic_War,https://en.wikipedia.org/wiki/Second_Perso-Turkic_War
+622 AD,750 AD,Early Muslim\nconquests,First Islamic state\nRashidun Caliphate\nUmayyad Caliphate,Sasanian Empire\nByzantine Empire\nWestern Turkic Khaganate\nTang dynasty\nChach dynasty\nVisigothic Kingdom,,https://en.wikipedia.org/wiki/Early_Muslim_conquests,https://en.wikipedia.org/wiki/Early_Muslim_conquests
+,,,,Kingdom of Asturias\nFrankish Kingdom,,,
 624 AD,629 AD,Muslim–Quraysh War,Muslims,Quraysh tribe,,https://en.wikipedia.org/wiki/Muslim%E2%80%93Quraysh_War,
-627 AD,629 AD,Third Perso-Turkic War,"Western Turkic
-Khaganate
-Byzantine Empire","Sasanian Empire
-Iberia",,https://en.wikipedia.org/wiki/Third_Perso-Turkic_War,
-627 AD,627 AD,"First Caracol–Naranjo
-War
-",Caracol,Naranjo,"Caracol–
-Naranjo Wars",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
-628 AD,628 AD,"Second Caracol–
-Naranjo War
-",Caracol,Naranjo,"Caracol–
-Naranjo Wars",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
-628 AD,632 AD,Sasanian civil war,"Parsig faction
-Nimruzi faction","Pahlav faction
-Shahrbaraz's faction",,https://en.wikipedia.org/wiki/Sasanian_civil_war_of_628%E2%80%93632,
-629 AD,1050s AD,Arab–Byzantine wars,"Byzantine Empire
-First Bulgarian
-Empire
-Mardaites
-Kingdom of Italy
-Italian city-states","First Islamic state
-Rashidun Caliphate
-Umayyad Caliphate
-Abbasid Caliphate
-Aghlabid Emirate
-Emirate of Bari
-Emirate of Crete
-Zirid Emirate
-Emirate of Sicily
-Fatimid Caliphate
-Hamdanid Emirate
-Mirdasid Emirate",,https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars,
-629 AD,630 AD,"Tang campaign against
-the Eastern Turks",Tang dynasty,Eastern Turkic Khaganate,,https://en.wikipedia.org/wiki/Tang_campaign_against_the_Eastern_Turks,https://en.wikipedia.org/wiki/Tang_campaign_against_the_Eastern_Turks
-630 AD,630 AD,Battle of Hunayn,"Muslims
-Quraysh tribe","Hawazin
-Thaqif",,https://en.wikipedia.org/wiki/Battle_of_Hunayn,
+627 AD,629 AD,Third Perso-Turkic War,Western Turkic\nKhaganate\nByzantine Empire,Sasanian Empire\nIberia,,https://en.wikipedia.org/wiki/Third_Perso-Turkic_War,
+627 AD,627 AD,First Caracol–Naranjo\nWar\n,Caracol,Naranjo,Caracol–\nNaranjo Wars,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
+628 AD,628 AD,Second Caracol–\nNaranjo War\n,Caracol,Naranjo,Caracol–\nNaranjo Wars,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
+628 AD,632 AD,Sasanian civil war,Parsig faction\nNimruzi faction,Pahlav faction\nShahrbaraz's faction,,https://en.wikipedia.org/wiki/Sasanian_civil_war_of_628%E2%80%93632,
+629 AD,1050s AD,Arab–Byzantine wars,Byzantine Empire\nFirst Bulgarian\nEmpire\nMardaites\nKingdom of Italy\nItalian city-states,First Islamic state\nRashidun Caliphate\nUmayyad Caliphate\nAbbasid Caliphate\nAghlabid Emirate\nEmirate of Bari\nEmirate of Crete\nZirid Emirate\nEmirate of Sicily\nFatimid Caliphate\nHamdanid Emirate\nMirdasid Emirate,,https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars,
+629 AD,630 AD,Tang campaign against\nthe Eastern Turks,Tang dynasty,Eastern Turkic Khaganate,,https://en.wikipedia.org/wiki/Tang_campaign_against_the_Eastern_Turks,https://en.wikipedia.org/wiki/Tang_campaign_against_the_Eastern_Turks
+630 AD,630 AD,Battle of Hunayn,Muslims\nQuraysh tribe,Hawazin\nThaqif,,https://en.wikipedia.org/wiki/Battle_of_Hunayn,
 631 AD,631 AD,Battle of Wogastisburg,Samo's Empire,Francia,,https://en.wikipedia.org/wiki/Battle_of_Wogastisburg,
-631 AD,631 AD,"Second ""Star War""
-(Third Caracol–Naranjo
-War)
-",Caracol,Naranjo,"Caracol–
-Naranjo Wars and the
-""Star Wars""",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
+631 AD,631 AD,"Second ""Star War""\n(Third Caracol–Naranjo\nWar)\n",Caracol,Naranjo,"Caracol–\nNaranjo Wars and the\n""Star Wars""",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
 632 AD,633 AD,Ridda wars,Rashidun Caliphate,Musaylima,,https://en.wikipedia.org/wiki/Ridda_Wars,
-633 AD,644 AD,"Muslim conquest of
-Persia
-",Rashidun Caliphate,"Sassanid Empire
-Arab Christians","Muslim
-conquests",https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia,https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia
-634 AD,638 AD,"Muslim conquest of the
-Levant
-",Rashidun Caliphate,"Byzantine Empire
-Ghassanids","Byzantine–
-Arab Wars",https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant,https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant
-636 AD,636 AD,"Third ""Star War""
-(Fourth Caracol–
-Naranjo War)
-",Caracol,Naranjo,"Caracol–
-Naranjo Wars and the
-""Star Wars""",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
-,,,,,,,
-634 AD,635 AD,"Emperor Taizong's
-campaign against
-Tuyuhun",Tang dynasty,Tuyuhun,,https://en.wikipedia.org/wiki/Emperor_Taizong's_campaign_against_Tuyuhun,https://en.wikipedia.org/wiki/Emperor_Taizong's_campaign_against_Tuyuhun
-638 AD,638 AD,"Tibetan attack on
-Songzhou",Tang dynasty,Tibetan Empire,,https://en.wikipedia.org/wiki/Tibetan_attack_on_Songzhou,https://en.wikipedia.org/wiki/Tibetan_attack_on_Songzhou
-639 AD,661 AD,"Arab invasion of
-Armenia",Rashidun Caliphate,"Byzantine Empire
-Byzantine Armenia
-Sasanian Empire
-Sasanian Armenia
-Khazaria",,https://en.wikipedia.org/wiki/Arab_invasion_of_Armenia,https://en.wikipedia.org/wiki/Arab_invasion_of_Armenia
-639 AD,642 AD,"Muslim conquest of
-Egypt",Rashidun Caliphate,Byzantine Empire,,https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt,https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt
-640 AD,657 AD,"Tang campaigns
-against the Western
-Turks",Tang dynasty,Western Turkic Khaganate,,https://en.wikipedia.org/wiki/Tang_campaigns_against_the_Western_Turks,https://en.wikipedia.org/wiki/Tang_campaigns_against_the_Western_Turks
-640 AD,648 AD,"Tang campaign against
-the oasis states
-",Tang dynasty,States of the Tarim Basin,"Tang wars
-against the Western
-Turks",https://en.wikipedia.org/wiki/Tang_campaign_against_the_oasis_states,https://en.wikipedia.org/wiki/Tang_campaign_against_the_oasis_states
-640 AD,640 AD,"Tang campaign against
-Karakhoja
-",Tang dynasty,Gaochang,"Tang wars
-against the Western
-Turks",https://en.wikipedia.org/wiki/Tang_campaign_against_Karakhoja,https://en.wikipedia.org/wiki/Tang_campaign_against_Karakhoja
-643 AD,645 AD,"Muslim conquest of
-Azerbaijan",Rashidun Caliphate,Sasanian Empire,,https://en.wikipedia.org/wiki/Muslim_conquest_of_Azerbaijan,https://en.wikipedia.org/wiki/Muslim_conquest_of_Azerbaijan
-644 AD,644 AD,"Fourth ""Star War""
-",Tortuguero,Unknown,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
+633 AD,644 AD,Muslim conquest of\nPersia\n,Rashidun Caliphate,Sassanid Empire\nArab Christians,Muslim\nconquests,https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia,https://en.wikipedia.org/wiki/Muslim_conquest_of_Persia
+634 AD,638 AD,Muslim conquest of the\nLevant\n,Rashidun Caliphate,Byzantine Empire\nGhassanids,Byzantine–\nArab Wars,https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant,https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant
+636 AD,636 AD,"Third ""Star War""\n(Fourth Caracol–\nNaranjo War)\n",Caracol,Naranjo,"Caracol–\nNaranjo Wars and the\n""Star Wars""",https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal,https://en.wikipedia.org/wiki/Caracol#Wars_with_Tikal
+,,nan,nan,nan,,,
+634 AD,635 AD,Emperor Taizong's\ncampaign against\nTuyuhun,Tang dynasty,Tuyuhun,,https://en.wikipedia.org/wiki/Emperor_Taizong's_campaign_against_Tuyuhun,https://en.wikipedia.org/wiki/Emperor_Taizong's_campaign_against_Tuyuhun
+638 AD,638 AD,Tibetan attack on\nSongzhou,Tang dynasty,Tibetan Empire,,https://en.wikipedia.org/wiki/Tibetan_attack_on_Songzhou,https://en.wikipedia.org/wiki/Tibetan_attack_on_Songzhou
+639 AD,661 AD,Arab invasion of\nArmenia,Rashidun Caliphate,Byzantine Empire\nByzantine Armenia\nSasanian Empire\nSasanian Armenia\nKhazaria,,https://en.wikipedia.org/wiki/Arab_invasion_of_Armenia,https://en.wikipedia.org/wiki/Arab_invasion_of_Armenia
+639 AD,642 AD,Muslim conquest of\nEgypt,Rashidun Caliphate,Byzantine Empire,,https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt,https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt
+640 AD,657 AD,Tang campaigns\nagainst the Western\nTurks,Tang dynasty,Western Turkic Khaganate,,https://en.wikipedia.org/wiki/Tang_campaigns_against_the_Western_Turks,https://en.wikipedia.org/wiki/Tang_campaigns_against_the_Western_Turks
+640 AD,648 AD,Tang campaign against\nthe oasis states\n,Tang dynasty,States of the Tarim Basin,Tang wars\nagainst the Western\nTurks,https://en.wikipedia.org/wiki/Tang_campaign_against_the_oasis_states,https://en.wikipedia.org/wiki/Tang_campaign_against_the_oasis_states
+640 AD,640 AD,Tang campaign against\nKarakhoja\n,Tang dynasty,Gaochang,Tang wars\nagainst the Western\nTurks,https://en.wikipedia.org/wiki/Tang_campaign_against_Karakhoja,https://en.wikipedia.org/wiki/Tang_campaign_against_Karakhoja
+643 AD,645 AD,Muslim conquest of\nAzerbaijan,Rashidun Caliphate,Sasanian Empire,,https://en.wikipedia.org/wiki/Muslim_conquest_of_Azerbaijan,https://en.wikipedia.org/wiki/Muslim_conquest_of_Azerbaijan
+644 AD,644 AD,"Fourth ""Star War""\n",Tortuguero,Unknown,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
 644 AD,644 AD,Battle of Rasil,Rashidun Caliphate,Rai dynasty,,https://en.wikipedia.org/wiki/Battle_of_Rasil,
-644 AD,648 AD,"Tang campaigns
-against Karasahr
-",Tang dynasty,Karasahr,"Tang wars
-against the Western
-Turks",https://en.wikipedia.org/wiki/Tang_campaigns_against_Karasahr,https://en.wikipedia.org/wiki/Tang_campaigns_against_Karasahr
-644 AD,668 AD,Goguryeo–Tang War,"Tang dynasty
-Silla","Goguryeo
-Baekje
-Mohe",,https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Tang_War,
-645 AD,646 AD,"Emperor Taizong's
-campaign against
-Xueyantuo",Tang dynasty,Xueyantuo,,https://en.wikipedia.org/wiki/Emperor_Taizong's_campaign_against_Xueyantuo,https://en.wikipedia.org/wiki/Emperor_Taizong's_campaign_against_Xueyantuo
-647 AD,709 AD,"Muslim conquest of the
-Maghreb
-","Rashidun Caliphate
-Umayyad Caliphate","Byzantine Empire
-Berbers","Byzantine–
-Arab Wars",https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Maghreb,https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Maghreb
-648 AD,648 AD,"Tang campaign against
-Kucha
-",Tang dynasty,Kucha,"Tang wars
-against the Western
-Turks",https://en.wikipedia.org/wiki/Tang_campaign_against_Kucha,https://en.wikipedia.org/wiki/Tang_campaign_against_Kucha
-650 AD,695 AD,"Second Tikal-Calakmul
-War",Tikal,Calakmul,,https://en.wikipedia.org/wiki/Second_Tikal-Calakmul_War,https://en.wikipedia.org/wiki/Second_Tikal-Calakmul_War
-,,,,,,,
-651 AD,751 AD,"Muslim conquest of
-Transoxiana","Umayyad Caliphate
-(until 748)
-Abbasid Caliphate
-(from 748)","Principalities of Tokharistan
-Sogdian principalities
-Khwarazm
-Fergana
-Türgesh Kaghanate
-Tang dynasty",,https://en.wikipedia.org/wiki/Muslim_conquest_of_Transoxiana,https://en.wikipedia.org/wiki/Muslim_conquest_of_Transoxiana
-656 AD,661 AD,First Fitna,"Aisha's forces
-Muawiya's forces
-Kharijites",Rashidun Caliphate,,https://en.wikipedia.org/wiki/First_Fitna,
-657 AD,657 AD,"Conquest of the
-Western Turks
-",Tang dynasty,Western Turkic Khaganate,"Tang wars
-against the Western
-Turks",https://en.wikipedia.org/wiki/Conquest_of_the_Western_Turks,https://en.wikipedia.org/wiki/Conquest_of_the_Western_Turks
-657 AD,672 AD,"Fifth and Seventh ""Star
-War"" (Tikal-Dos Pilas
-War)
-",Tikal,Dos Pilas,"""Star Wars""",https://en.wikipedia.org/wiki/Tikal#Tikal_and_Dos_Pilas,https://en.wikipedia.org/wiki/Tikal#Tikal_and_Dos_Pilas
-658 AD,660 AD,"North expedition of Abe
-no Hirafu
-Also called Mishihase
-War",Yamato,Mishihase,,https://en.wikipedia.org/wiki/Abe_no_Hirafu,https://en.wikipedia.org/wiki/Abe_no_Hirafu
-660 AD,663 AD,Baekje–Tang War,"Tang
-Silla","Baekje
-Yamato
-Goguryeo",,https://en.wikipedia.org/wiki/Baekje%E2%80%93Tang_War,
-670 AD,676 AD,Silla–Tang Wars,"Silla
-Former Goguryeo
-armies
-Former Baekje armies",Tang,,https://en.wikipedia.org/wiki/Silla%E2%80%93Tang_Wars,
-672 AD,672 AD,Jinshin War,"Prince Ōama's loyal
-warriors","Prince Ōtomo's loyal
-warriors",,https://en.wikipedia.org/wiki/Jinshin_War,
-672 AD,672 AD,"Sixth ""Star War""
-",Palenque,Unknown,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
-672 AD,672 AD,"Nuun Ujol Chaak's
-Conquest of Dos Pilas",Tikal,Dos Pilas,,https://en.wikipedia.org/wiki/Dos_Pilas#Founding_and_consolidation,https://en.wikipedia.org/wiki/Dos_Pilas#Founding_and_consolidation
-677 AD,677 AD,"Eighth ""Star War""
-",La Corona,Tikal,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
-677 AD,679 AD,"War against Nuun Ujol
-Chaak","Calakmul
-Dos Pilas",Tikal,,https://en.wikipedia.org/wiki/Yuknoom_Ch'een_II#Reign,https://en.wikipedia.org/wiki/Yuknoom_Ch'een_II#Reign
-680 AD,680 AD,"Ninth ""Star War"" (Fifth
-Caracol–Naranjo War)
-",Naranjo,Caracol,"Caracol–
-Naranjo Wars and the
-""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars
-680 AD,1355 AD,"Byzantine–Bulgarian
-Wars",Bulgarian Empires,Byzantine Empire,,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars
-680 AD,692 AD,Second Fitna,Umayyad Caliphate,"Zubayrids
-Alids",,https://en.wikipedia.org/wiki/Second_Fitna,
+644 AD,648 AD,Tang campaigns\nagainst Karasahr\n,Tang dynasty,Karasahr,Tang wars\nagainst the Western\nTurks,https://en.wikipedia.org/wiki/Tang_campaigns_against_Karasahr,https://en.wikipedia.org/wiki/Tang_campaigns_against_Karasahr
+644 AD,668 AD,Goguryeo–Tang War,Tang dynasty\nSilla,Goguryeo\nBaekje\nMohe,,https://en.wikipedia.org/wiki/Goguryeo%E2%80%93Tang_War,
+645 AD,646 AD,Emperor Taizong's\ncampaign against\nXueyantuo,Tang dynasty,Xueyantuo,,https://en.wikipedia.org/wiki/Emperor_Taizong's_campaign_against_Xueyantuo,https://en.wikipedia.org/wiki/Emperor_Taizong's_campaign_against_Xueyantuo
+647 AD,709 AD,Muslim conquest of the\nMaghreb\n,Rashidun Caliphate\nUmayyad Caliphate,Byzantine Empire\nBerbers,Byzantine–\nArab Wars,https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Maghreb,https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Maghreb
+648 AD,648 AD,Tang campaign against\nKucha\n,Tang dynasty,Kucha,Tang wars\nagainst the Western\nTurks,https://en.wikipedia.org/wiki/Tang_campaign_against_Kucha,https://en.wikipedia.org/wiki/Tang_campaign_against_Kucha
+650 AD,695 AD,Second Tikal-Calakmul\nWar,Tikal,Calakmul,,https://en.wikipedia.org/wiki/Second_Tikal-Calakmul_War,https://en.wikipedia.org/wiki/Second_Tikal-Calakmul_War
+,,nan,nan,nan,,,
+651 AD,751 AD,Muslim conquest of\nTransoxiana,Umayyad Caliphate\n(until 748)\nAbbasid Caliphate\n(from 748),Principalities of Tokharistan\nSogdian principalities\nKhwarazm\nFergana\nTürgesh Kaghanate\nTang dynasty,,https://en.wikipedia.org/wiki/Muslim_conquest_of_Transoxiana,https://en.wikipedia.org/wiki/Muslim_conquest_of_Transoxiana
+656 AD,661 AD,First Fitna,Aisha's forces\nMuawiya's forces\nKharijites,Rashidun Caliphate,,https://en.wikipedia.org/wiki/First_Fitna,
+657 AD,657 AD,Conquest of the\nWestern Turks\n,Tang dynasty,Western Turkic Khaganate,Tang wars\nagainst the Western\nTurks,https://en.wikipedia.org/wiki/Conquest_of_the_Western_Turks,https://en.wikipedia.org/wiki/Conquest_of_the_Western_Turks
+657 AD,672 AD,"Fifth and Seventh ""Star\nWar"" (Tikal-Dos Pilas\nWar)\n",Tikal,Dos Pilas,"""Star Wars""",https://en.wikipedia.org/wiki/Tikal#Tikal_and_Dos_Pilas,https://en.wikipedia.org/wiki/Tikal#Tikal_and_Dos_Pilas
+658 AD,660 AD,North expedition of Abe\nno Hirafu\nAlso called Mishihase\nWar,Yamato,Mishihase,,https://en.wikipedia.org/wiki/Abe_no_Hirafu,https://en.wikipedia.org/wiki/Abe_no_Hirafu
+660 AD,663 AD,Baekje–Tang War,Tang\nSilla,Baekje\nYamato\nGoguryeo,,https://en.wikipedia.org/wiki/Baekje%E2%80%93Tang_War,
+670 AD,676 AD,Silla–Tang Wars,Silla\nFormer Goguryeo\narmies\nFormer Baekje armies,Tang,,https://en.wikipedia.org/wiki/Silla%E2%80%93Tang_Wars,
+672 AD,672 AD,Jinshin War,Prince Ōama's loyal\nwarriors,Prince Ōtomo's loyal\nwarriors,,https://en.wikipedia.org/wiki/Jinshin_War,
+672 AD,672 AD,"Sixth ""Star War""\n",Palenque,Unknown,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
+672 AD,672 AD,Nuun Ujol Chaak's\nConquest of Dos Pilas,Tikal,Dos Pilas,,https://en.wikipedia.org/wiki/Dos_Pilas#Founding_and_consolidation,https://en.wikipedia.org/wiki/Dos_Pilas#Founding_and_consolidation
+677 AD,677 AD,"Eighth ""Star War""\n",La Corona,Tikal,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
+677 AD,679 AD,War against Nuun Ujol\nChaak,Calakmul\nDos Pilas,Tikal,,https://en.wikipedia.org/wiki/Yuknoom_Ch'een_II#Reign,https://en.wikipedia.org/wiki/Yuknoom_Ch'een_II#Reign
+680 AD,680 AD,"Ninth ""Star War"" (Fifth\nCaracol–Naranjo War)\n",Naranjo,Caracol,"Caracol–\nNaranjo Wars and the\n""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars
+680 AD,1355 AD,Byzantine–Bulgarian\nWars,Bulgarian Empires,Byzantine Empire,,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars
+680 AD,692 AD,Second Fitna,Umayyad Caliphate,Zubayrids\nAlids,,https://en.wikipedia.org/wiki/Second_Fitna,
 687 AD,711 AD,Palenque-Toniná Wars,Toniná,Palenque,,https://en.wikipedia.org/wiki/Tonin%C3%A1#History,
-695 AD,695 AD,"Jasaw Chan K'awiil I's
-Campaign on Calakmul",Tikal,Calakmul,,https://en.wikipedia.org/wiki/Jasaw_Chan_K'awiil_I,https://en.wikipedia.org/wiki/Jasaw_Chan_K'awiil_I
-,,,,,,,
-702 AD,702 AD,Battle of Varnakert,"Kingdom of
-Armenia",Umayyad Caliphate,,https://en.wikipedia.org/wiki/Battle_of_Varnakert,
-705 AD,705 AD,"Tenth ""Star War""
-",Dos Pilas,Caracol,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
-711 AD,711 AD,"Eleventh ""Star War""
-",Tonina,Palenque,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
-711 AD,718 AD,"Umayyad conquest of
-Hispania",Umayyad Caliphate,Visigothic Kingdom,,https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania,https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania
+695 AD,695 AD,Jasaw Chan K'awiil I's\nCampaign on Calakmul,Tikal,Calakmul,,https://en.wikipedia.org/wiki/Jasaw_Chan_K'awiil_I,https://en.wikipedia.org/wiki/Jasaw_Chan_K'awiil_I
+,,nan,nan,nan,,,
+702 AD,702 AD,Battle of Varnakert,Kingdom of\nArmenia,Umayyad Caliphate,,https://en.wikipedia.org/wiki/Battle_of_Varnakert,
+705 AD,705 AD,"Tenth ""Star War""\n",Dos Pilas,Caracol,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
+711 AD,711 AD,"Eleventh ""Star War""\n",Tonina,Palenque,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
+711 AD,718 AD,Umayyad conquest of\nHispania,Umayyad Caliphate,Visigothic Kingdom,,https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania,https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania
 715 AD,718 AD,Frankish Civil War,Charles Martel,Neustrian nobility,,https://en.wikipedia.org/wiki/Charles_Martel#Civil_war_of_715%E2%80%93718,
-717 AD,718 AD,"Siege of
-Constantinople
-","Byzantine Empire
-Bulgar Khanate",Umayyad Caliphate,"Byzantine–
-Arab Wars",https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718),https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)
-719 AD,759 AD,"Islamic invasion of
-Gaul",Merovingian Franks,Umayyad Caliphate,,https://en.wikipedia.org/wiki/Islamic_invasion_of_Gaul,https://en.wikipedia.org/wiki/Islamic_invasion_of_Gaul
+717 AD,718 AD,Siege of\nConstantinople\n,Byzantine Empire\nBulgar Khanate,Umayyad Caliphate,Byzantine–\nArab Wars,https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718),https://en.wikipedia.org/wiki/Siege_of_Constantinople_(717%E2%80%93718)
+719 AD,759 AD,Islamic invasion of\nGaul,Merovingian Franks,Umayyad Caliphate,,https://en.wikipedia.org/wiki/Islamic_invasion_of_Gaul,https://en.wikipedia.org/wiki/Islamic_invasion_of_Gaul
 720 AD,721 AD,Hayato Rebellion,Yamato,Hayato,,https://en.wikipedia.org/wiki/Hayato_Rebellion,
-720 AD,744 AD,"Third Tikal-Calakmul
-War",Tikal,Calakmul,,https://en.wikipedia.org/wiki/Third_Tikal-Calakmul_War,https://en.wikipedia.org/wiki/Third_Tikal-Calakmul_War
-720 AD,832 AD,Bashmurian revolts,"Umayyad Caliphate
-Abbasid Caliphate",Coptic rebels,,https://en.wikipedia.org/wiki/Bashmurian_revolts,
-735 AD,735 AD,"Twelfth ""Star War""
-",Dos Pilas,Seibal,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
-735 AD,737 AD,"Marwan ibn
-Muhammad's invasion
-of Georgia","Byzantine Empire
-Bulgar Khanate",Umayyad Caliphate,,https://en.wikipedia.org/wiki/Marwan_ibn_Muhammad's_invasion_of_Georgia,https://en.wikipedia.org/wiki/Marwan_ibn_Muhammad's_invasion_of_Georgia
-736 AD,736 AD,"Yik'in Chan K'awiil's
-Conquest of Calakmul
-Part of Yik'in Chan
-K'awiil's conquests",Tikal,Calakmul,,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil
-738 AD,738 AD,"K'ak' Tiliw Chan
-Yopaat's War against
-Copán",Quiriguá,Copán,,https://en.wikipedia.org/wiki/K'ak'_Tiliw_Chan_Yopaat,https://en.wikipedia.org/wiki/K'ak'_Tiliw_Chan_Yopaat
+720 AD,744 AD,Third Tikal-Calakmul\nWar,Tikal,Calakmul,,https://en.wikipedia.org/wiki/Third_Tikal-Calakmul_War,https://en.wikipedia.org/wiki/Third_Tikal-Calakmul_War
+720 AD,832 AD,Bashmurian revolts,Umayyad Caliphate\nAbbasid Caliphate,Coptic rebels,,https://en.wikipedia.org/wiki/Bashmurian_revolts,
+735 AD,735 AD,"Twelfth ""Star War""\n",Dos Pilas,Seibal,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
+735 AD,737 AD,Marwan ibn\nMuhammad's invasion\nof Georgia,Byzantine Empire\nBulgar Khanate,Umayyad Caliphate,,https://en.wikipedia.org/wiki/Marwan_ibn_Muhammad's_invasion_of_Georgia,https://en.wikipedia.org/wiki/Marwan_ibn_Muhammad's_invasion_of_Georgia
+736 AD,736 AD,Yik'in Chan K'awiil's\nConquest of Calakmul\nPart of Yik'in Chan\nK'awiil's conquests,Tikal,Calakmul,,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil
+738 AD,738 AD,K'ak' Tiliw Chan\nYopaat's War against\nCopán,Quiriguá,Copán,,https://en.wikipedia.org/wiki/K'ak'_Tiliw_Chan_Yopaat,https://en.wikipedia.org/wiki/K'ak'_Tiliw_Chan_Yopaat
 739 AD,743 AD,Berber Revolt,Berber rebels,Umayyad Caliphate,,https://en.wikipedia.org/wiki/Berber_Revolt,
 740 AD,740 AD,Zaydi Revolt,Umayyad Caliphate,Zayd ibn Ali,,https://en.wikipedia.org/wiki/Zaydi_Revolt,
-740 AD,740 AD,"Fujiwara no Hirotsugu
-Rebellion",Imperial Court,Fujiwara no Hirotsugu,,https://en.wikipedia.org/wiki/Fujiwara_no_Hirotsugu_Rebellion,https://en.wikipedia.org/wiki/Fujiwara_no_Hirotsugu_Rebellion
-743 AD,743 AD,"Yik'in Chan K'awiil's
-Conquest of Waka'
-Part of Yik'in Chan
-K'awiil's conquests",Tikal,Waka',,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil
-744 AD,744 AD,"Yik'in Chan K'awiil's
-Conquest of Naranjo
-Part of Yik'in Chan
-K'awiil's conquests",Tikal,Naranjo,,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil
+740 AD,740 AD,Fujiwara no Hirotsugu\nRebellion,Imperial Court,Fujiwara no Hirotsugu,,https://en.wikipedia.org/wiki/Fujiwara_no_Hirotsugu_Rebellion,https://en.wikipedia.org/wiki/Fujiwara_no_Hirotsugu_Rebellion
+743 AD,743 AD,Yik'in Chan K'awiil's\nConquest of Waka'\nPart of Yik'in Chan\nK'awiil's conquests,Tikal,Waka',,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil
+744 AD,744 AD,Yik'in Chan K'awiil's\nConquest of Naranjo\nPart of Yik'in Chan\nK'awiil's conquests,Tikal,Naranjo,,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil,https://en.wikipedia.org/wiki/Yik'in_Chan_K'awiil
 746 AD,750 AD,Abbasid Revolution,Abbasid Caliphate,Umayyad Caliphate,,https://en.wikipedia.org/wiki/Abbasid_Revolution,
 750 AD,754 AD,Tianbao War,Nanzhao,Tang dynasty,,https://en.wikipedia.org/wiki/Tianbao_War,
-751 AD,751 AD,Battle of Talas,Abbasid Caliphate,"Tang dynasty
-Karluk mercenaries",,https://en.wikipedia.org/wiki/Battle_of_Talas,
+751 AD,751 AD,Battle of Talas,Abbasid Caliphate,Tang dynasty\nKarluk mercenaries,,https://en.wikipedia.org/wiki/Battle_of_Talas,
 755 AD,763 AD,An Lushan Rebellion,Tang Empire,Yan,,https://en.wikipedia.org/wiki/An_Lushan_Rebellion,
 762 AD,763 AD,Alid Revolt,Abbasid Caliphate,Alids,,https://en.wikipedia.org/wiki/Alid_Revolt_(762%E2%80%93763),
-764 AD,764 AD,"Fujiwara no Nakamaro
-Rebellion",Empress Kōken,Fujiwara no Nakamaro,,https://en.wikipedia.org/wiki/Fujiwara_no_Nakamaro_Rebellion,https://en.wikipedia.org/wiki/Fujiwara_no_Nakamaro_Rebellion
+764 AD,764 AD,Fujiwara no Nakamaro\nRebellion,Empress Kōken,Fujiwara no Nakamaro,,https://en.wikipedia.org/wiki/Fujiwara_no_Nakamaro_Rebellion,https://en.wikipedia.org/wiki/Fujiwara_no_Nakamaro_Rebellion
 770 AD,811 AD,Thirty-Eight Years' War,Imperial Court,Emishi,,https://en.wikipedia.org/wiki/Emishi#Thirty-Eight_Years'_War,
 772 AD,804 AD,Saxon Wars,Frankish Empire,Saxons,,https://en.wikipedia.org/wiki/Saxon_Wars,
 775 AD,775 AD,Battle of Bagrevand,Abbasid Caliphate,Armenian Princes,,https://en.wikipedia.org/wiki/Battle_of_Bagrevand,
 778 AD,778 AD,Tan Te' K'inich's War,Aguateca,Unknown,,https://en.wikipedia.org/wiki/Tan_Te'_K'inich,
-781 AD,781 AD,"Thirteenth ""Star War""
-",Piedras Negras,Unknown,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
+781 AD,781 AD,"Thirteenth ""Star War""\n",Piedras Negras,Unknown,"""Star Wars""",https://en.wikipedia.org/wiki/Star_war#Recorded_star_wars,
 "781 or 782
 AD","781 or 782
-AD",Rebellion of Elpidius,Byzantine Empire,"Elpidius' loyalists
-Sicily",,https://en.wikipedia.org/wiki/Elpidius_(rebel),
+AD",Rebellion of Elpidius,Byzantine Empire,Elpidius' loyalists\nSicily,,https://en.wikipedia.org/wiki/Elpidius_(rebel),
 786 AD,786 AD,Battle of Fakhkh,Abbasid Caliphate,Alids,,https://en.wikipedia.org/wiki/Battle_of_Fakhkh,
 788 AD,803 AD,Avar Wars,Frankish Empire,Avar Khaganate,,https://en.wikipedia.org/wiki/Avar_Wars,
-793 AD,796 AD,Qaysi–Yamani war,"Yamani Tribal
-Federation
-Abbasid Caliphate","Mudhari (Qaysi) Tribal
-Federation",,https://en.wikipedia.org/wiki/Qaysi%E2%80%93Yamani_war_(793%E2%80%93796),
-793 AD,850 AD,"Viking Raids on the
-British Isles",Vikings,Anglo-Saxons,,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Viking_raids:_793.E2.80.93850,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Viking_raids:_793.E2.80.93850
+793 AD,796 AD,Qaysi–Yamani war,Yamani Tribal\nFederation\nAbbasid Caliphate,Mudhari (Qaysi) Tribal\nFederation,,https://en.wikipedia.org/wiki/Qaysi%E2%80%93Yamani_war_(793%E2%80%93796),
+793 AD,850 AD,Viking Raids on the\nBritish Isles,Vikings,Anglo-Saxons,,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Viking_raids:_793.E2.80.93850,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Viking_raids:_793.E2.80.93850
 794 AD,794 AD,Battle of Shenchuan,Nanzhao,Tibet,,https://en.wikipedia.org/wiki/Battle_of_Shenchuan,
-795 AD,902 AD,"Viking Invasion of
-Ireland",Vikings,Irish Kingdoms,,https://en.wikipedia.org/wiki/History_of_Ireland_(800%E2%80%931169)#First_Viking_age_.28795.E2.80.93902.29,https://en.wikipedia.org/wiki/History_of_Ireland_(800%E2%80%931169)#First_Viking_age_.28795.E2.80.93902.29
-c. 795 AD,940 AD,"Viking Invasion of
-Francia",Vikings,Frankish Kingdom,,https://en.wikipedia.org/wiki/Viking_Age#France,https://en.wikipedia.org/wiki/Viking_Age#France
+795 AD,902 AD,Viking Invasion of\nIreland,Vikings,Irish Kingdoms,,https://en.wikipedia.org/wiki/History_of_Ireland_(800%E2%80%931169)#First_Viking_age_.28795.E2.80.93902.29,https://en.wikipedia.org/wiki/History_of_Ireland_(800%E2%80%931169)#First_Viking_age_.28795.E2.80.93902.29
+c. 795 AD,940 AD,Viking Invasion of\nFrancia,Vikings,Frankish Kingdom,,https://en.wikipedia.org/wiki/Viking_Age#France,https://en.wikipedia.org/wiki/Viking_Age#France
 807 AD,814 AD,Khan Krum's Wars,Bulgarian Empire,Byzantine Empire,,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_wars#Khan_Krum's_wars,
-827 AD,902 AD,"Muslim conquest of
-Sicily","Aghlabid Emirate
-Abbasid Caliphate",Byzantine Empire,,https://en.wikipedia.org/wiki/Muslim_conquest_of_Sicily,https://en.wikipedia.org/wiki/Muslim_conquest_of_Sicily
-c. 830 AD,c. 830 AD,"Paphlagonian
-expedition of the Rus'",Rus' Khaganate,Paphlagonia,,https://en.wikipedia.org/wiki/Paphlagonian_expedition_of_the_Rus',https://en.wikipedia.org/wiki/Paphlagonian_expedition_of_the_Rus'
+827 AD,902 AD,Muslim conquest of\nSicily,Aghlabid Emirate\nAbbasid Caliphate,Byzantine Empire,,https://en.wikipedia.org/wiki/Muslim_conquest_of_Sicily,https://en.wikipedia.org/wiki/Muslim_conquest_of_Sicily
+c. 830 AD,c. 830 AD,Paphlagonian\nexpedition of the Rus',Rus' Khaganate,Paphlagonia,,https://en.wikipedia.org/wiki/Paphlagonian_expedition_of_the_Rus',https://en.wikipedia.org/wiki/Paphlagonian_expedition_of_the_Rus'
 835 AD,835 AD,Sweet Dew Incident,Eunuchs,Emperor Wenzong of Tang,,https://en.wikipedia.org/wiki/Sweet_Dew_Incident,
-839 AD,after 844 AD,Viking Raids in Spain,"Kingdom of Asturias
-Emirate of Córdoba",Vikings,,https://en.wikipedia.org/wiki/Viking_Age#Spain,
+839 AD,after 844 AD,Viking Raids in Spain,Kingdom of Asturias\nEmirate of Córdoba,Vikings,,https://en.wikipedia.org/wiki/Viking_Age#Spain,
 842 AD,1247 AD,Era of Fragmentation,Yumtän,Ösung,,https://en.wikipedia.org/wiki/Era_of_Fragmentation,
 844 AD,844 AD,Viking Raid in Portugal,Vikings,Emirate of Córdoba,,https://en.wikipedia.org/wiki/Viking_Age#Portugal,
 854 AD,855 AD,Homs revolts,Abbasid Caliphate,Homs rebels,,https://en.wikipedia.org/wiki/Homs_revolts_(854%E2%80%93855),
 854 AD,866 AD,Tang–Nanzhao war,Tang Empire,Nanzhao,,https://en.wikipedia.org/wiki/Tang-Nanzhao_conflicts_in_Annan,
 860 AD,860 AD,Rus'–Byzantine War,Rus' Khaganate,Byzantine Empire,,https://en.wikipedia.org/wiki/Rus'%E2%80%93Byzantine_War_(860),
-862 AD,973 AD,"Hungarian invasions of
-Europe",Magyar tribes,"Kingdom of Italy
-East Francia
-Middle Francia
-Great Moravia
-Byzantine Empire
-Catalan Counties
-Al-Andalus
-First Bulgarian Empire
-Khazaria
-West Francia
-Principality of Lower",,https://en.wikipedia.org/wiki/Hungarian_invasions_of_Europe,https://en.wikipedia.org/wiki/Hungarian_invasions_of_Europe
-,,,,"Pannonia
-Principality of Littoral
-Croatia
-Kingdom of Croatia
-Principality of Serbia",,,
-865 AD,954 AD,"Viking Invasion and
-Occupation of the
-British Isles",Vikings,Anglo-Saxons,,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Invasion_and_Danelaw:_865.E2.80.93896,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Invasion_and_Danelaw:_865.E2.80.93896
+862 AD,973 AD,Hungarian invasions of\nEurope,Magyar tribes,Kingdom of Italy\nEast Francia\nMiddle Francia\nGreat Moravia\nByzantine Empire\nCatalan Counties\nAl-Andalus\nFirst Bulgarian Empire\nKhazaria\nWest Francia\nPrincipality of Lower,,https://en.wikipedia.org/wiki/Hungarian_invasions_of_Europe,https://en.wikipedia.org/wiki/Hungarian_invasions_of_Europe
+,,,,Pannonia\nPrincipality of Littoral\nCroatia\nKingdom of Croatia\nPrincipality of Serbia,,,
+865 AD,954 AD,Viking Invasion and\nOccupation of the\nBritish Isles,Vikings,Anglo-Saxons,,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Invasion_and_Danelaw:_865.E2.80.93896,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Invasion_and_Danelaw:_865.E2.80.93896
 866 AD,896 AD,Kharijite Rebellion,Abbasid Caliphate,Kharijite rebels,,https://en.wikipedia.org/wiki/Kharijite_Rebellion_(866%E2%80%93896),
 869 AD,883 AD,Zanj Rebellion,Abbasid Caliphate,Zanj,,https://en.wikipedia.org/wiki/Zanj_Rebellion,
 "872 or 878
@@ -1961,99 +800,39 @@ AD",Battle of Bathys Ryax,Byzantine Empire,Paulicians,,https://en.wikipedia.org/
 872 and 900
 AD","Between
 872 and 900
-AD",Battle of Hafrsfjord,Kingdom of Vestfold,"Kingdom of Hordaland
-Kingdom of Agder",,https://en.wikipedia.org/wiki/Battle_of_Hafrsfjord,
-882 AD,884 AD,"Wilhelminer War
-","Great Moravia
-Aribonids","East Francia
-Wilhelminer Dynasty","Frankish-
-Moravian Wars",https://en.wikipedia.org/wiki/Wilhelminer_War,https://en.wikipedia.org/wiki/Frankish-Moravian_War
-888 AD,888 AD,"Samanid Civil War of
-888",Party of Ismail I,Party of Nasr I,,https://en.wikipedia.org/wiki/Samanid_Civil_War_of_888,https://en.wikipedia.org/wiki/Samanid_Civil_War_of_888
-894 AD,896 AD,"Byzantine–Bulgarian
-war","Bulgarian Empire
-Pechenegs","Byzantine Empire
-Magyars",,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_894%E2%80%93896,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_894%E2%80%93896
+AD",Battle of Hafrsfjord,Kingdom of Vestfold,Kingdom of Hordaland\nKingdom of Agder,,https://en.wikipedia.org/wiki/Battle_of_Hafrsfjord,
+882 AD,884 AD,Wilhelminer War\n,Great Moravia\nAribonids,East Francia\nWilhelminer Dynasty,Frankish-\nMoravian Wars,https://en.wikipedia.org/wiki/Wilhelminer_War,https://en.wikipedia.org/wiki/Frankish-Moravian_War
+888 AD,888 AD,Samanid Civil War of\n888,Party of Ismail I,Party of Nasr I,,https://en.wikipedia.org/wiki/Samanid_Civil_War_of_888,https://en.wikipedia.org/wiki/Samanid_Civil_War_of_888
+894 AD,896 AD,Byzantine–Bulgarian\nwar,Bulgarian Empire\nPechenegs,Byzantine Empire\nMagyars,,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_894%E2%80%93896,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_894%E2%80%93896
 907 AD,907 AD,Rus'–Byzantine War,Kievan Rus',Byzantine Empire,,https://en.wikipedia.org/wiki/Rus'%E2%80%93Byzantine_War_(907),
-913 AD,927 AD,"Byzantine–Bulgarian
-war",Bulgarian Empire,"Byzantine Empire
-Principality of Serbia",,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_913%E2%80%93927,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_913%E2%80%93927
-913 AD,913 AD,"Caspian expedition of
-the Rus'","Tabaristan
-Khazars
-Caucasian Albania
-Shirvan
-Volga Bulgaria
-Burtas",Rus' Khaganate,,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Raid_of_913,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Raid_of_913
-914 AD,915 AD,"Fatimid invasion of
-Egypt",Abbasid Caliphate,Fatimid Caliphate,,https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%93915),https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%93915)
-914 AD,980 AD,"Second Viking Invasion
-of Ireland",Irish Kingdoms,"Vikings
-Kingdom of Dublin",,https://en.wikipedia.org/wiki/History_of_Ireland_(800%E2%80%931169)#First_Viking_age_.28795.E2.80.93902.29,https://en.wikipedia.org/wiki/History_of_Ireland_(800%E2%80%931169)#First_Viking_age_.28795.E2.80.93902.29
-924 AD,924 AD,Battle of Sevan,"Kingdom of
-Armenia",Sajids,,https://en.wikipedia.org/wiki/Battle_of_Sevan,
-926 AD,926 AD,"Croatian–Bulgarian
-battle",Kingdom of Croatia,Bulgarian Empire,,https://en.wikipedia.org/wiki/Croatian%E2%80%93Bulgarian_battle_of_926,https://en.wikipedia.org/wiki/Croatian%E2%80%93Bulgarian_battle_of_926
+913 AD,927 AD,Byzantine–Bulgarian\nwar,Bulgarian Empire,Byzantine Empire\nPrincipality of Serbia,,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_913%E2%80%93927,https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_913%E2%80%93927
+913 AD,913 AD,Caspian expedition of\nthe Rus',Tabaristan\nKhazars\nCaucasian Albania\nShirvan\nVolga Bulgaria\nBurtas,Rus' Khaganate,,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Raid_of_913,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Raid_of_913
+914 AD,915 AD,Fatimid invasion of\nEgypt,Abbasid Caliphate,Fatimid Caliphate,,https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%93915),https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%93915)
+914 AD,980 AD,Second Viking Invasion\nof Ireland,Irish Kingdoms,Vikings\nKingdom of Dublin,,https://en.wikipedia.org/wiki/History_of_Ireland_(800%E2%80%931169)#First_Viking_age_.28795.E2.80.93902.29,https://en.wikipedia.org/wiki/History_of_Ireland_(800%E2%80%931169)#First_Viking_age_.28795.E2.80.93902.29
+924 AD,924 AD,Battle of Sevan,Kingdom of\nArmenia,Sajids,,https://en.wikipedia.org/wiki/Battle_of_Sevan,
+926 AD,926 AD,Croatian–Bulgarian\nbattle,Kingdom of Croatia,Bulgarian Empire,,https://en.wikipedia.org/wiki/Croatian%E2%80%93Bulgarian_battle_of_926,https://en.wikipedia.org/wiki/Croatian%E2%80%93Bulgarian_battle_of_926
 929 AD,929 AD,Battle of Lenzen,East Francia,Veleti,,https://en.wikipedia.org/wiki/Battle_of_Lenzen,
 938 AD,938 AD,Battle of Bạch Đằng,Tĩnh Hải quân rebels,Southern Han,,https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938),
-939 AD,941 AD,Tengyō no Ran,"Imperial Court
-Taira no Sadamori
-Minamoto no
-Tsunemoto","Taira no Masakado
-Fujiwara no Sumitomo",,https://en.wikipedia.org/wiki/Tengy%C5%8D_no_Ran,
+939 AD,941 AD,Tengyō no Ran,Imperial Court\nTaira no Sadamori\nMinamoto no\nTsunemoto,Taira no Masakado\nFujiwara no Sumitomo,,https://en.wikipedia.org/wiki/Tengy%C5%8D_no_Ran,
 941 AD,941 AD,Rus'–Byzantine War,Byzantine Empire,Kievan Rus',,https://en.wikipedia.org/wiki/Rus'%E2%80%93Byzantine_War_(941),
-943 AD,943 AD,"Caspian expedition of
-the Rus'",Caucasian Albania,Rus' Khaganate,,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Raid_of_943,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Raid_of_943
-,,,,,,,
-955 AD,955 AD,"Battle of Lechfeld
-","Kingdom of Germany
-Bohemia",Magyars,"Hungarian
-invasions of Europe",https://en.wikipedia.org/wiki/Battle_of_Lechfeld,
-963 AD,967 AD,Polish–Veletian War,"Duchy of Poland
-Duchy of Bohemia
-(967)","Confederacy of the Veleti
-Wolinians (967)",,https://en.wikipedia.org/wiki/Polish%E2%80%93Veletian_War,
+943 AD,943 AD,Caspian expedition of\nthe Rus',Caucasian Albania,Rus' Khaganate,,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Raid_of_943,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Raid_of_943
+,,nan,nan,nan,,,
+955 AD,955 AD,Battle of Lechfeld\n,Kingdom of Germany\nBohemia,Magyars,Hungarian\ninvasions of Europe,https://en.wikipedia.org/wiki/Battle_of_Lechfeld,
+963 AD,967 AD,Polish–Veletian War,Duchy of Poland\nDuchy of Bohemia\n(967),Confederacy of the Veleti\nWolinians (967),,https://en.wikipedia.org/wiki/Polish%E2%80%93Veletian_War,
 965 AD,"968 or 969
 AD",Destruction of Khazaria,Rus' Khaganate,Khazars,,https://en.wikipedia.org/wiki/Caspian_expeditions_of_the_Rus'#Destruction_of_Khazaria,
-966 AD,966 AD,"Second Viking Raid in
-Portugal",Emirate of Córdoba,Vikings,,https://en.wikipedia.org/wiki/Viking_Age#Portugal,https://en.wikipedia.org/wiki/Viking_Age#Portugal
+966 AD,966 AD,Second Viking Raid in\nPortugal,Emirate of Córdoba,Vikings,,https://en.wikipedia.org/wiki/Viking_Age#Portugal,https://en.wikipedia.org/wiki/Viking_Age#Portugal
 "967 or 968
-AD",971 AD,"Sviatoslav's invasion of
-Bulgaria",Byzantine Empire,"Kievan Rus'
-Pechenegs
-Magyars
-Bulgaria",,https://en.wikipedia.org/wiki/Sviatoslav's_invasion_of_Bulgaria,https://en.wikipedia.org/wiki/Sviatoslav's_invasion_of_Bulgaria
-968 AD,1018 AD,"Byzantine conquest of
-Bulgaria","Byzantine Empire
-Kievan Rus' (968–
-969)
-Kingdom of Hungary
-Principality of Duklja
-Kingdom of Croatia","Bulgarian Empire
-Kievan Rus' (970–971)
-Pechenegs",,https://en.wikipedia.org/wiki/Byzantine_conquest_of_Bulgaria,https://en.wikipedia.org/wiki/Byzantine_conquest_of_Bulgaria
-977 AD,978 AD,"War of the Three
-Henries",Holy Roman Empire,Henry II,,https://en.wikipedia.org/wiki/War_of_the_Three_Henries_(977%E2%80%93978),https://en.wikipedia.org/wiki/War_of_the_Three_Henries_(977%E2%80%93978)
-980 AD,1012 AD,"Second Viking Invasion
-of the British Isles",Vikings,Anglo-Saxons,,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Second_invasion:_980.E2.80.931012,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Second_invasion:_980.E2.80.931012
+AD",971 AD,Sviatoslav's invasion of\nBulgaria,Byzantine Empire,Kievan Rus'\nPechenegs\nMagyars\nBulgaria,,https://en.wikipedia.org/wiki/Sviatoslav's_invasion_of_Bulgaria,https://en.wikipedia.org/wiki/Sviatoslav's_invasion_of_Bulgaria
+968 AD,1018 AD,Byzantine conquest of\nBulgaria,Byzantine Empire\nKievan Rus' (968–\n969)\nKingdom of Hungary\nPrincipality of Duklja\nKingdom of Croatia,Bulgarian Empire\nKievan Rus' (970–971)\nPechenegs,,https://en.wikipedia.org/wiki/Byzantine_conquest_of_Bulgaria,https://en.wikipedia.org/wiki/Byzantine_conquest_of_Bulgaria
+977 AD,978 AD,War of the Three\nHenries,Holy Roman Empire,Henry II,,https://en.wikipedia.org/wiki/War_of_the_Three_Henries_(977%E2%80%93978),https://en.wikipedia.org/wiki/War_of_the_Three_Henries_(977%E2%80%93978)
+980 AD,1012 AD,Second Viking Invasion\nof the British Isles,Vikings,Anglo-Saxons,,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Second_invasion:_980.E2.80.931012,https://en.wikipedia.org/wiki/Norse_activity_in_the_British_Isles#Second_invasion:_980.E2.80.931012
 981 AD,981 AD,Song–Vietnamese war,Đại Việt,Song dynasty,,https://en.wikipedia.org/wiki/Song%E2%80%93Vietnamese_war_(981),
-982 AD,982 AD,"Cham–Vietnamese
-War",Đại Việt,Champa,,https://en.wikipedia.org/wiki/Cham%E2%80%93Vietnamese_War_(982),https://en.wikipedia.org/wiki/Cham%E2%80%93Vietnamese_War_(982)
+982 AD,982 AD,Cham–Vietnamese\nWar,Đại Việt,Champa,,https://en.wikipedia.org/wiki/Cham%E2%80%93Vietnamese_War_(982),https://en.wikipedia.org/wiki/Cham%E2%80%93Vietnamese_War_(982)
 985 AD,986 AD,Battle of Fýrisvellir,Sweden,Denmark Jomsvikings,,https://en.wikipedia.org/wiki/Battle_of_F%C3%BDrisvellir,
-987 AD,989 AD,"Rebellion of Bardas
-Phokas the Younger","Byzantine Empire
-Kievan Rus'","Phokas clan
-Principality of Tao-Klarjeti
-Buyid dynasty
-Faction of Bardas Skleros",,https://en.wikipedia.org/wiki/Rebellion_of_Bardas_Phokas_the_Younger,https://en.wikipedia.org/wiki/Rebellion_of_Bardas_Phokas_the_Younger
-993 AD,993 AD,"First conflict in the
-Goryeo–Khitan War",Liao dynasty,Goryeo,,https://en.wikipedia.org/wiki/First_conflict_in_the_Goryeo%E2%80%93Khitan_War,https://en.wikipedia.org/wiki/First_conflict_in_the_Goryeo%E2%80%93Khitan_War
+987 AD,989 AD,Rebellion of Bardas\nPhokas the Younger,Byzantine Empire\nKievan Rus',Phokas clan\nPrincipality of Tao-Klarjeti\nBuyid dynasty\nFaction of Bardas Skleros,,https://en.wikipedia.org/wiki/Rebellion_of_Bardas_Phokas_the_Younger,https://en.wikipedia.org/wiki/Rebellion_of_Bardas_Phokas_the_Younger
+993 AD,993 AD,First conflict in the\nGoryeo–Khitan War,Liao dynasty,Goryeo,,https://en.wikipedia.org/wiki/First_conflict_in_the_Goryeo%E2%80%93Khitan_War,https://en.wikipedia.org/wiki/First_conflict_in_the_Goryeo%E2%80%93Khitan_War
 996 AD,996 AD,Peasants' revolt of 996,Duchy of Normandy,Peasants,,https://en.wikipedia.org/wiki/Peasants'_revolt_of_996_in_Normandy,
 996 AD,996 AD,Koppány's Revolt,Kingdom of Hungary,Somogy,,https://en.wikipedia.org/wiki/Kopp%C3%A1ny#Rebellion_and_death,
-999 AD,999 AD,Battle of Svolder,"Denmark
-Sweden
-Earls of Lade",Norway,,https://en.wikipedia.org/wiki/Battle_of_Svolder,
-999 AD,1000 AD,"Leinster revolt against
-Brian Ború","Kingdom of Meath
-Kingdom of Munster","Kingdom of Leinster
-Kingdom of Dublin",,https://en.wikipedia.org/wiki/Battle_of_Glenmama,https://en.wikipedia.org/wiki/Battle_of_Glenmama
+999 AD,999 AD,Battle of Svolder,Denmark\nSweden\nEarls of Lade,Norway,,https://en.wikipedia.org/wiki/Battle_of_Svolder,
+999 AD,1000 AD,Leinster revolt against\nBrian Ború,Kingdom of Meath\nKingdom of Munster,Kingdom of Leinster\nKingdom of Dublin,,https://en.wikipedia.org/wiki/Battle_of_Glenmama,https://en.wikipedia.org/wiki/Battle_of_Glenmama

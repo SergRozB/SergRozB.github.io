@@ -5,11 +5,11 @@ from time import sleep
 from pathlib import Path
 from tqdm import tqdm
 
-#PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
-           #"wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
+PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
+           "wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
 
 #PDFList = ["wars_before_1000.pdf"]
-PDFList = ["wars_1800-1899.pdf"]
+#PDFList = ["wars_1800-1899.pdf"]
 
 pdfs_with_extra_column = ["wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"]
 

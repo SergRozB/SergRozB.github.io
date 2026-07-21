@@ -9,7 +9,7 @@ top_x_dataframes_list = []
 for pdf_name in PDFList:
     csv_name = pdf_name + "_tables.csv"
     df = pd.read_csv("tables/"+csv_name)
-    df = df.rename(columns={"Started":"Start", "Ended":"End", "Finish":"End", "Name of conflict":"Name of Conflict"})
+    df = df.rename(columns={"Started":"Start", "Ended":"End", "Finish":"End", "Name of conflict":"Name of Conflict", "Belligerents" : "Victors", "Unnamed: 4": "Defeated"})
     page_views_list = df[page_views_title].to_list()
     purged_page_views_list = [view for view in page_views_list if view is not None and view > 0]
     number_of_top_articles = int(len(purged_page_views_list) * (top_x_percent / 100))
@@ -17,4 +17,6 @@ for pdf_name in PDFList:
     top_x_dataframes_list.append(ordered_df)
 
 combined_df = pd.concat(top_x_dataframes_list)
+#combined_df = combined_df.drop([combined_df.columns[0], combined_df.columns[1],
+                   #combined_df.columns[2], combined_df.columns[3], combined_df.columns[-1], combined_df.columns[-2]], axis=1)
 combined_df.to_csv("tables/combined_popular_conflicts.csv", index=False)

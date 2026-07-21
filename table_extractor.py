@@ -60,13 +60,14 @@ def get_wikipedia_pageviews(article, start, end, project="en.wikipedia.org"):
 PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
            "wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
 #PDFList = ["wars_2003-2019.pdf"]
-#PDFList = ["wars_1500-1799.pdf"]
+#PDFList = ["wars_1800-1899.pdf"] # og
+#PDFList = ["wars_1000-1499.pdf"]
 
 pdfs_with_extra_column = ["wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"]
 pdf_to_df = {}
 pdf_to_war_links = {}
 pdf_to_wider_conflict_links = {}
-use_intermediate_csv = False  # Set to True to skip page processing and use intermediate CSV files if they exist
+use_intermediate_csv = True  # Set to True to skip page processing and use intermediate CSV files if they exist
                             # Ensure relevant intermediate CSV and textfiles exist when set True, otherwise the script will raise an exception.
 skipped_page_processing = False  # Flag to indicate if page processing was skipped
 
@@ -189,7 +190,7 @@ if not use_intermediate_csv:
             header_index = -1
             conflict_index = 2
             for row_index in range(len(df)):
-                print("row index:", row_index, "| row contents:", df.iloc[row_index].tolist())
+                #print("row index:", row_index, "| row contents:", df.iloc[row_index].tolist())
                 if df.iloc[row_index, conflict_index] == "Name of conflict" or df.iloc[row_index, conflict_index] == "Name of Conflict":
                     header_index = row_index
                     break
@@ -232,6 +233,23 @@ if not use_intermediate_csv:
         print("war links length:", len(war_links), "table rows length:", len(df))
         df["War link"] = war_links
         df["Wider conflict link"] = wider_conflict_links
+        new_columns = df.columns.tolist()
+        new_columns[4] = "Defeated"
+        df.columns = new_columns
+        #print("COLUMNS 1: ", df.columns.tolist())
+
+        if pdf_name in ["wars_1000-1499.pdf"]:
+            #print("dis happened AJN NN\n")
+            df = df.drop(df.columns[[5, 6]], axis=1)
+        
+        #df.drop_duplicates()
+
+        #print("\nCOLUMNS 2: ", df.columns.tolist())
+        #print("\nRow 1:", df.iloc[5].tolist())
+
+        for i in range(2, 6):
+            df.loc[:, df.columns[i]] = df[df.columns[i]].apply(lambda x: str(x).replace('\n', '\\n'))
+
         intermediate_csv = df.to_csv(f"intermediate/{pdf_name}_intermediate.csv", index=False)
         intermediate_file = open(f"intermediate/{pdf_name}_intermediate_file.txt", "a")
         intermediate_file.write(str(war_links)+"\n")
@@ -241,12 +259,12 @@ if not use_intermediate_csv:
 else:
     skipped_page_processing = True
     for pdf_name in PDFList:
-        intermediate_csv_path = Path(f"{pdf_name}_intermediate.csv")
-        intermediate_file_path = Path(f"{pdf_name}_intermediate_file.txt")
+        intermediate_csv_path = Path(f"intermediate/{pdf_name}_intermediate.csv")
+        intermediate_file_path = Path(f"intermediate/{pdf_name}_intermediate_file.txt")
         if intermediate_csv_path.exists() and intermediate_file_path.exists():
             print(f"Intermediate CSV and file for '{pdf_name}' found. Loading data.")
             df = pd.read_csv(intermediate_csv_path)
-            with open('intermediate/'+intermediate_file_path, "r") as f:
+            with open(intermediate_file_path, "r") as f:
                 lines = f.readlines()
                 war_links = eval(lines[0].strip())
                 wider_conflict_links = eval(lines[1].strip())
