@@ -29,7 +29,14 @@ for pdf in PDFList:
     csv_path = f"tables/{pdf}_tables.csv"
     df = pd.read_csv(csv_path)
     df = df.rename(columns={"Name of conflict" : "Name of Conflict"})
-    temp_conflict_names = [str(name).replace('\\n', ' ') for name in df["Name of Conflict"].tolist()]
+    without_nan = []
+    
+    for name in df["Name of Conflict"].tolist():
+        if type(name) == str:
+            without_nan.append(name)
+
+    temp_conflict_names = [str(name).replace('\\n', ' ') for name in without_nan]
+
     for name in temp_conflict_names:
         index_of_part_of_the = name.find("Part of the ")
         length_of_part_of_the = len("Part of the ")
@@ -41,6 +48,10 @@ for pdf in PDFList:
         elif index_of_part_of != -1:
             index_of_start_of_wider_conflict = index_of_part_of + length_of_part_of
             name = name[:index_of_start_of_wider_conflict - length_of_part_of]
+        
+        index_of_first_bracket = name.find("[")
+        if index_of_first_bracket != -1:
+            name = name[:index_of_first_bracket]
         
         conflict_names.append(name)
 

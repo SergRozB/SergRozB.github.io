@@ -8,24 +8,30 @@
     <body>
         <h1>War Wordle</h1>
         <h1>Guess the conflict</h1>
-        <h1>Name of random conflict: {{name}}</h1>
+        <h1>Name of random conflict: {{name | safe}}</h1>
         <div class="container">
-            <p>Start: {{start | safe}}</p>
-            <p>End: {{end | safe}}</p>
-            <p>Victors: <br> {{victors | safe}}</p>
-            <p>Defeated: <br> {{defeated | safe}}</p>
+            <p class="conflictInfoBox" id="startBox">Start: {{start | safe}}</p>
+            <p class="conflictInfoBox" id="endBox">End: {{end | safe}}</p>
+            <p class="conflictInfoBox" id="victorsBox">Victors: <br> {{victors | safe}}</p>
+            <p class="conflictInfoBox" id="defeatedBox">Defeated: <br> {{defeated | safe}}</p>
         </div>
-        <input 
-        type="text" name="SearchableList" id="SearchableList"
-        list="list_of_conflicts"
-        > 
+        <div class="dropdown">
+            <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()" onclick="toggleDropdownVisibility()">
+            <div id="myDropdown" class="dropdown-content">
+                {% for name in conflict_names %}
+                <a onclick="selectConflict('{{ name | safe}}')">{{ name | safe}}</a>
+                {% endfor %}
+            </div>
+        </div>
 
-        <datalist id="list_of_conflicts">
-            {% for name in conflict_names %}
-            <option value="{{ name | safe}}">
-            {% endfor %}
-        </datalist>
-        <script src="insert_table_data.js"></script>
+        <div class="guessBox" id="guessBox1"> </div>
+        <div class="guessBox" id="guessBox2"> </div>
+        <div class="guessBox" id="guessBox3"> </div>
+        <div class="guessBox" id="guessBox4"> </div>
+        <div class="guessBox" id="guessBox5"> </div>
 
+        <div class="popUpNotification" id="bottomNotification">Notification here</div>
+
+        <script src="static/insert_table_data.js"></script>
     </body>
 </html>

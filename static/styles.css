@@ -1,9 +1,19 @@
+
+
 .container {
     display: grid;
     grid-template-columns: repeat(2, 300px);
-    grid-template-rows: repeat(3, 150px);
+    grid-template-rows: repeat(3, 100px);
     justify-content: center;
-    align-content: space-around;
+    align-content: center;
+    align-items: center;
+
+    background-color: rgb(183, 179, 179);
+    width: fit-content;
+    height: fit-content;
+    margin: 0 auto;
+    border-radius: 20px;
+    border: 5px solid rgb(120, 121, 133);
 }
 
 p, h1 {
@@ -11,9 +21,136 @@ p, h1 {
     font-family: sans-serif;
     font-size: 160%;
     text-align: center;
+    width: fit-content;
+    margin: 10px auto;
 }
 
-input {
-    justify-content: center;
-    align-content: center;
+.conflictInfoBox {
+    color: black;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    background-color: lightblue;
+    width: fit-content;
+    margin: 10px auto;
+    border-radius: 20px;
 }
+
+/* Guess box styling */
+.guessBox{
+    background-color: rgb(183, 179, 179);
+    width: 300px;
+    border: 5px solid rgb(120, 121, 133);
+    padding: 10px;
+    margin: 5px auto;
+    border-radius: 20px;
+    display: grid;
+    grid-template-rows: repeat(5, 5px);
+    justify-content: center;
+    align-content: space-around;
+    font-family: sans-serif;
+}
+
+.popUpNotification{
+    background-color: rgb(184, 185, 189);
+    position: relative;
+    display: block;
+    opacity: 0;
+    margin: 0 auto;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+@keyframes fadeInFadeOut{
+    0%{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+
+    10%{
+        opacity: 100;
+        transform: translateY(0px);
+    }
+
+    90%{
+        opacity: 100;
+        transform: translateY(0px);
+    }
+
+    100%{
+        opacity: 0;
+        transform: translateY(50px);
+    }
+}
+
+.fade-in-fade-out {
+  animation: fadeInFadeOut 4s ease forwards;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #3e8e41;
+}
+
+/* The search field */
+#myInput {
+    box-sizing: border-box;
+    background-image: url('searchicon.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 14px 20px 12px 45px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+/* The search field when it gets focus/clicked on */
+#myInput:focus {outline: 3px solid #ddd;}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: block;      
+    width: fit-content;   /* so it only takes up as much space as its content */
+    margin: 0 auto;
+    max-height: 100px;
+    margin-top: 100px;
+}
+
+/* Dropdown Content */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    left: 50%;
+    bottom: 100%;
+    transform: translateX(-50%);
+    background-color: #f6f6f6;
+    min-width: 230px;
+    border: 1px solid #ddd;
+    z-index: 1;
+    overflow-y: scroll;
+    min-height: 100px;
+    max-height: 150px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: sans-serif;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1;}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+
+
+
