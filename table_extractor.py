@@ -57,9 +57,9 @@ def get_wikipedia_pageviews(article, start, end, project="en.wikipedia.org"):
         #"wars_1990-2002.pdf"]
 #PDFList = ["wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", # Current intended ones
            #"wars_1990-2002.pdf"]
-PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
-           "wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
-#PDFList = ["wars_2003-2019.pdf"]
+#PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "wars_1800-1899.pdf", "wars_1900-1944.pdf", "wars_1945-1989.pdf", 
+          # "wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
+PDFList = ["wars_2003-2019.pdf"]
 #PDFList = ["wars_1800-1899.pdf"] # og
 #PDFList = ["wars_1000-1499.pdf"]
 

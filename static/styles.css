@@ -3,7 +3,7 @@
 .container {
     display: grid;
     grid-template-columns: repeat(2, 300px);
-    grid-template-rows: repeat(3, 100px);
+    grid-template-rows: repeat(3, minmax(100px, auto));
     justify-content: center;
     align-content: center;
     align-items: center;
@@ -34,6 +34,12 @@ p, h1 {
     width: fit-content;
     margin: 10px auto;
     border-radius: 20px;
+    overflow-wrap: break-word;
+    word-break: break-word; /* fallback for stubborn cases */
+    overflow-y: auto;
+    min-width: 0;
+    padding: 10px;
+    max-height: 300px;
 }
 
 /* Guess box styling */
