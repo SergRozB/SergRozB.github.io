@@ -8,18 +8,18 @@
     <body>
         <h1>War Wordle</h1>
         <h1>Guess the conflict</h1>
-        <h1>Name of random conflict: {{name | safe}}</h1>
+        <h1 id="conflictNameLine">Name of random conflict: ???</h1>
         <div class="container">
-            <p class="conflictInfoBox" id="startBox">Start: {{start | safe}}</p>
-            <p class="conflictInfoBox" id="endBox">End: {{end | safe}}</p>
-            <p class="conflictInfoBox" id="victorsBox">Victors: <br> {{victors | safe}}</p>
-            <p class="conflictInfoBox" id="defeatedBox">Defeated: <br> {{defeated | safe}}</p>
+            <p class="conflictInfoBox" id="startBox">Start: {{ start | safe }}</p>
+            <p class="conflictInfoBox" id="endBox">End: ???</p>
+            <p class="conflictInfoBox" id="victorsBox">Victors: <br> ???</p>
+            <p class="conflictInfoBox" id="defeatedBox">Defeated: <br> ???</p>
         </div>
         <div class="dropdown">
-            <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()" onclick="toggleDropdownVisibility()">
+            <input type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
             <div id="myDropdown" class="dropdown-content">
                 {% for name in conflict_names %}
-                <a onclick="selectConflict('{{ name | safe}}')">{{ name | safe}}</a>
+                <a class="conflict-option" data-name="{{ name | e }}">{{ name | safe }}</a> 
                 {% endfor %}
             </div>
         </div>

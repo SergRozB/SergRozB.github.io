@@ -71,8 +71,11 @@ for pdf in PDFList:
 @app.route('/')
 def index():
     session['conflict_row'] = int(random_row_num)
+    conflict_details = get_conflict_details_by_row(session.get('conflict_row'))
     return render_template(
-        'index.html'
+        'index.html',
+        conflict_names=conflict_names,
+        start=str(conflict_details[0]).replace('\\n', '<br>')
     )
 
 @app.route('/guess', methods=['POST'])
@@ -81,10 +84,10 @@ def guess():
     user_guess = data.get('name', '')
     user_attempts = data.get('num_attempts', 5)
     attempts_to_new_info = {
-        0 : ["start"],
-        1 : ["end"],
-        2 : ["victors"],
-        3 : ["defeated"],
+        0 : ["end"],
+        1 : ["victors"],
+        2 : ["defeated"],
+        3 : ["none"],
         4 : ["none"],
         5 : ["none"]
     }
@@ -100,13 +103,15 @@ def guess():
         "defeated" : str(conflict_details[4]).replace('\\n', '<br>'),
         "none" : -1
     }
+
     is_correct = user_guess.strip().lower() == vars_dict["name"].strip().lower()
     if is_correct:
         new_info_type = ["start", "end", "name", "victors", "defeated"]
+
+    if is_correct == False and user_attempts == 4:
+        new_info_type = ["start", "end", "name", "victors", "defeated"]
     new_info = [vars_dict[info_type] for info_type in new_info_type]
     return jsonify({'correct' : is_correct, 'new_info_type' : new_info_type, 'new_info' : new_info})
-
-
 
 if __name__ == '__main__':
     app.run(debug=True)
