@@ -78,6 +78,18 @@ def index():
         start=str(conflict_details[0]).replace('\\n', '<br>')
     )
 
+@app.route('/custom')
+def custom():
+    custom_random_row_num = random.randint(0, len(combined_df)-1)
+    conflict_details = get_conflict_details_by_row(custom_random_row_num)
+    return render_template(
+        'custom.html',
+        conflict_names=conflict_names,
+        start=str(conflict_details[0]).replace('\\n', '<br>')
+    )
+
+@app.route('/')
+
 @app.route('/guess', methods=['POST'])
 def guess():
     data = request.get_json()

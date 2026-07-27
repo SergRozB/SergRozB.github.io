@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Page Title</title>
+        <title>Daily</title>
         <link rel="stylesheet" href="/static/styles.css">
     </head>
 
@@ -29,6 +29,8 @@
         <div class="guessBox" id="guessBox3"> </div>
         <div class="guessBox" id="guessBox4"> </div>
         <div class="guessBox" id="guessBox5"> </div>
+
+        <a href="{{ url_for('custom') }}" id="goToCustomLink">Go to custom</a>
 
         <div class="popUpNotification" id="bottomNotification">Notification here</div>
 

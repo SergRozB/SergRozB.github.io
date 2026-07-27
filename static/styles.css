@@ -25,6 +25,16 @@ p, h1 {
     margin: 10px auto;
 }
 
+#goToCustomLink {
+    color: black;
+    font-family: sans-serif;
+    font-size: 160%;
+    text-align: center;
+    width: fit-content;
+    margin: 10px auto;
+    display: flex;
+}
+
 .conflictInfoBox {
     color: black;
     font-family: sans-serif;
@@ -40,6 +50,23 @@ p, h1 {
     min-width: 0;
     padding: 10px;
     max-height: 300px;
+}
+
+.options{
+    background-color: #262b26c8;
+    width: 50%;
+    height: 50%;
+    position: fixed;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: sans-serif;
+    color: whitesmoke;
+    text-box: initial;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 /* Guess box styling */
