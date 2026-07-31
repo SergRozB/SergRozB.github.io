@@ -127,3 +127,7 @@ async function submitGuess(playerGuessText) {
   }
 }
 
+async function applyOptions(){
+  
+}
+

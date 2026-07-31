@@ -43,6 +43,18 @@ function filterFunction() {
   }
 }
 
+function applySettings(){
+  const startPeriodElement = document.getElementById("startTimePeriodChoose");
+  const endPeriodElement = document.getElementById("endTimePeriodChoose");
+  const startTimeElement = document.getElementById("startOption");
+  const endTimeElement = document.getElementById("endOption");
+
+  const startPeriodText = startPeriodElement.options[startPeriodElement.selectedIndex].text;
+  const endPeriodText = endPeriodElement.options[endPeriodElement.selectedIndex].text;
+  const startTimeText = startTimeElement.value;
+  const endTimeText = endTimeElement.value;
+}
+
 function ShowNotification(notificationText){
   let notificationBox = document.getElementById("bottomNotification");
   notificationBox.classList.remove("fade-in-fade-out");

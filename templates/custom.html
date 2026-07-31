@@ -8,7 +8,21 @@
     <body>
         <h1>War Wordle</h1>
         <h1>Guess the conflict</h1>
-        <div class="options">Explanationsss and optionsss</div>
+        <div class="options">
+            <div id="timeSelect">
+                <select id="startTimePeriodChoose">
+                    <option value="AD">AD</option>
+                    <option value="BC">BC</option>
+                </select>
+                <select id="endTimePeriodChoose">
+                    <option value="A.D.">A.D.</option>
+                    <option value="B.C.">B.C.</option>
+                </select>
+                <input type="text" placeholder="Starts from..." id="startOption">
+                <input type="text" placeholder="Ends from..." id="endOption">
+            </div>
+            <button id="applyOptionsButton" type="button" onclick="applySettings()">Apply Settings</button>
+        </div>
         <h1 id="conflictNameLine">Name of random conflict: ???</h1>
         <div class="container">
             <p class="conflictInfoBox" id="startBox">Start: {{ start | safe }}</p>

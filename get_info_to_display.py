@@ -20,6 +20,7 @@ PDFList = ["wars_before_1000.pdf", "wars_1000-1499.pdf", "wars_1500-1799.pdf", "
            "wars_1990-2002.pdf", "wars_2003-2019.pdf", "wars_2020-present.pdf"] # all of em
 
 combined_df = pd.read_csv("tables/combined_popular_conflicts.csv")
+# Sort out dates, make it so only years stored, with all dates containing AD or BC
 #combined_df = pd.read_csv("tables/wars_2003-2019.pdf_tables.csv")
 random_row_num = random.randint(0, len(combined_df)-1)
 #random_row = combined_df.iloc[random_row_num].tolist()
@@ -88,7 +89,15 @@ def custom():
         start=str(conflict_details[0]).replace('\\n', '<br>')
     )
 
-@app.route('/')
+@app.route('/get', methods=['POST'])
+def get_table():
+    data = request.get_json()
+    start_date = data.get("Start", -1)
+    end_date = data.get("End", -1)
+    if start_date == -1 or end_date == -1:
+        return -1
+    filtered_df = combined_df.loc[(combined_df['Start'] >= start_date) & (combined_df['End'] < end_date)]
+    return None
 
 @app.route('/guess', methods=['POST'])
 def guess():

@@ -61,12 +61,22 @@ p, h1 {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     font-family: sans-serif;
+    margin: auto;
     color: whitesmoke;
-    text-box: initial;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+#timeSelect {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: repeat(2, 150px);
+    grid-template-rows: repeat(2, minmax(40px, auto));
+    font-family: sans-serif;
 }
 
 /* Guess box styling */
